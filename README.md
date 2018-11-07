@@ -2,11 +2,12 @@
 Hackathon for Peace, Justice, and Security repository
 
 ## Instructions for each challenge can be found in the corresponding folders
-1. ICC
-2. Red Cross (1)
-3. Red Cross (2)
-4. World Vision
-5. Asser
+1. [ICC](https://github.com/bbahov/hackathon-for-good/tree/master/ICC)
+2. [Red Cross (1)](https://github.com/bbahov/hackathon-for-good/tree/master/RedCross_1)
+3. [Red Cross (2)](https://github.com/bbahov/hackathon-for-good/tree/master/RedCross_2)
+4. [World Vision](https://github.com/bbahov/hackathon-for-good/tree/master/WorldVision)
+5. [Asser](https://github.com/bbahov/hackathon-for-good/tree/master/Asser)
+6. [NCIA](https://github.com/bbahov/hackathon-for-good/tree/master/NCIA)
 
 ## Common instructions
 If you are developing a deep neural network based solution, you can use the free GPUs provided by either Google Colab or Kaggle. Here are the instructions for both:
