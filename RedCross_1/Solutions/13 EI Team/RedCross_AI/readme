@@ -1,0 +1,5 @@
+We created a resmodel with Tensorflow containing 101 layers. We've ajusted it a bit to our requirements.
+We have manually shifted the data Qgis and segmented the houses out of it with the geolocation.
+For every key of the training set we took the amount of damage and linked it with an image and we
+creater tensorflow file records with this. We removed some noise in  the data like images which are mostly black and images which are too small.
+Lastly we've augmented the data with padding / rotation / flips / normalization.

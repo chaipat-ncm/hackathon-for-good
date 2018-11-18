@@ -1,0 +1,29 @@
+{
+	"crs": 32620,
+	"imgBefore": "C:\\Users\\sala\\Google Drive\\RC Challenge 1\\1\\Before\\IGN_Feb2017_20CM.tif",
+	"imgAfterDir": "C:\\GEOREFERENCE_Test12",
+	"shiftAfter": [0, 0],
+	"thresholdDestruct": 0.25,
+	"thresholdsSegmentsDIFF": {
+		"destroyed": 0.75,
+		"significant": 0.5,
+		"partial": 0.25,
+		"none": 0.0
+	},
+	"thresholdsSegmentsPCA": {
+		"destroyed": 0.8,
+		"significant": 0.6,
+		"partial": 0.5,
+		"none": 0.25
+	},
+	"maxPCA": 500,
+	"buildingsInfo": "C:\\Users\\sala\\Google Drive\\RC Challenge 1\\1\\Building Info\\TestSet_2.geojson",
+	"outputDir": "C:\\RedCross_CD\\test2",
+	"outputDB": {
+		"host" : "localhost",
+		"user" : "postgres",
+		"pass" : "",
+		"db" : "redcross",
+		"schema" : "results"
+	}	
+}

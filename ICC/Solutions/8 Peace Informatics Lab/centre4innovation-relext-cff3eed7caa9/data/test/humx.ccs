@@ -1,0 +1,19 @@
+---
+rule: {reply: {repeat, messages: last}}
+---
+
+hi | hello -> Hi There! & You can ask this bot about HumanityX
+why | mission | data -> Our mission is to enable leading organisations working in the peace, justice and humanitarian sector to initiate digital innovations in order to increase their impact on society.
+what -> We bring together pioneers from different disciplines, so that new solutions emerge from a mix of domain knowledge, data expertise, academic research and inspiration from related sectors
+goal -> Our goal is to become the world’s leading innovation network for global challenges.
+who & (work | for) | partners -> We work for international organizations and NGOs in the Humanitarian and Peace and justice sector
+who -> HumanityX is a multidisciplinary support team for pioneers in the peace and justice sector who want to spearhead digital innovations to tackle global challenges. Our strength lies in data-driven prototyping, co-creating digital solutions and building a network where innovators can explore, build and thrive.
+  & We are part of Leiden University, The Netherlands
+where & located -> We are based in The Hague, The Netherlands
+when -> We are around for some years now
+how -> All we do builds on concrete user stories. We work with professionals who want to develop data-driven innovations for their work on peace, justice and humanitarian response.
+website -> Have a look at https://www.humanityx.nl
+bye | ciao | end | exit | stop -> Bye bye!
+
+# Fallback case if no rule was matched
+() -> Beeb beep... I don't understand. & This bot is here to tell you about HumanityX. Ask me anything you'd like to know about us.

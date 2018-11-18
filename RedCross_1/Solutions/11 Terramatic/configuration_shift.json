@@ -1,0 +1,15 @@
+{
+	"crs": 32620,
+	"imgBefore": "C:\\Users\\sala\\Google Drive\\RC Challenge 1\\1\\Before\\IGN_Feb2017_20CM.tif",
+	"imgAfterDir": "C:\\RedCross_CD\\shiftTest",
+	"shiftAfter": [-1.67, -11.59],
+	"buildingsInfo": "C:\\Users\\sala\\Google Drive\\RC Challenge 1\\1\\Building Info\\TraininigDataset.geojson",
+	"outputDir": "C:\\RedCross_CD\\shiftTest_results",
+	"outputDB": {
+		"host" : "localhost",
+		"user" : "postgres",
+		"pass" : "",
+		"db" : "redcross",
+		"schema" : "results"
+	}	
+}

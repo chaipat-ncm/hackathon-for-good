@@ -1,0 +1,12 @@
+{
+  "/cgi/*":{
+    "target": "http://localhost:8085",
+    "secure": false,
+    "loglevel": "debug"
+  },
+  "/geoserver/*":{
+    "target": "http://localhost:8080",
+    "secure": false,
+    "loglevel": "debug"
+  }
+}

@@ -1,0 +1,45 @@
+
+<div class="container">
+    <div class="row">
+        <select class="form-control col" (change)="onChangeSelectCountry($event.target.value)">
+            <option value="0" disabled selected>Select Country</option>
+            <optgroup>                      
+              <ng-container *ngFor="let country of countrys" >
+                <!-- <option *ngIf="country.type === TypeCountry" value={{country.id}}> -->
+                  <option>
+                  {{country.name}}
+                </option>
+              </ng-container>
+            </optgroup>
+          </select>
+    </div>
+    <br/>
+    <div class="row">
+        <select class="form-control col" (change)="onChangeSelectCountry($event.target.value)">
+            <option value="0" disabled selected>Select Year</option>
+            <optgroup>
+              <ng-container *ngFor="let year of years" >
+                <option>
+                  {{year.year}}
+                </option>
+              </ng-container>
+            </optgroup>
+          </select>
+    </div>
+</div>
+<br/>
+<div class="container">
+    <div class="row">
+        <select class="form-control col" (change)="onChangeSelectCountry($event.target.value)">
+            <option value="0" disabled selected>Select Intention</option>
+            <optgroup>
+              <ng-container *ngFor="let purpose of purposes" >
+                 <!-- <option *ngIf="country.type === TypeCountry" value={{country.id}}>  -->
+                  <option>
+                  {{purpose.purpose}}
+                </option>
+              </ng-container>
+            </optgroup>
+          </select>
+
+

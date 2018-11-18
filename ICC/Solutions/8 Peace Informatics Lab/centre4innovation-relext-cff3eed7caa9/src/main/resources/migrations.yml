@@ -1,0 +1,151 @@
+# Definitions:
+# http://www.liquibase.org/documentation/changes
+# How to apply migrations:
+# http://www.dropwizard.io/1.3.1/docs/manual/migrations.html
+
+
+databaseChangeLog:
+#  - preConditions:
+#    - runningAs:
+#        username: liquibase
+  - objectQuotingStrategy: QUOTE_ONLY_RESERVED_WORDS
+  - changeSet:
+      id: 1
+      author: arvid
+      changes:
+
+        - createTable:
+            tableName: textdoc
+            columns:
+              - column:
+                  name: id
+                  type: VARCHAR(128)
+                  constraints:
+                    primaryKey: true
+              - column: {name: name, type: VARCHAR(128)}
+              - column: {name: type, type: VARCHAR(128)}
+              - column: {name: created, type: TIMESTAMPTZ}
+              - column: {name: updated, type: TIMESTAMPTZ}
+              - column: {name: body, type: TEXT}
+        - createIndex:
+              columns:
+              - column:
+                  name: name
+                  type: VARCHAR(128)
+              indexName: idx_textdoc_name
+              tableName: textdoc
+        - createSequence:
+            sequenceName: jsondoc_id_seq
+        - createTable:
+            tableName: jsondoc
+            columns:
+              - column:
+                  name: id
+                  type: VARCHAR(128)
+                  constraints:
+                    primaryKey: true
+              - column: {name: name, type: VARCHAR(128)}
+              - column: {name: type, type: VARCHAR(128)}
+              - column: {name: created, type: TIMESTAMPTZ}
+              - column: {name: updated, type: TIMESTAMPTZ}
+              - column: {name: body, type: JSONB}
+        - createTable:
+            tableName: conversation
+            columns:
+              - column:
+                  name: id
+                  type: VARCHAR(128)
+                  constraints:
+                    primaryKey: true
+              - column: {name: lang, type: VARCHAR(9)}
+              - column: {name: botId, type: VARCHAR(128)}
+              - column: {name: userId, type: VARCHAR(128)}
+              - column: {name: channel, type: VARCHAR(128)}
+        - createTable:
+            tableName: message
+            columns:
+              - column:
+                  name: id
+                  type: VARCHAR(128)
+                  constraints:
+                    primaryKey: true
+              - column: {name: incoming, type: BOOLEAN}
+              - column: {name: conversationId, type: VARCHAR(128)}
+              - column: {name: senderId, type: VARCHAR(128)}
+              - column: {name: recipientId, type: VARCHAR(128)}
+              - column: {name: text, type: VARCHAR(65536)}
+              - column: {name: timestamp, type: TIMESTAMPTZ}
+        - addForeignKeyConstraint:
+              baseColumnNames: conversationId
+              baseTableName: message
+              constraintName: fk_message_conversationId
+              deferrable: true
+              initiallyDeferred: true
+              onDelete: CASCADE
+              onUpdate: RESTRICT
+              referencedColumnNames: id
+              referencedTableName: conversation
+        - addNotNullConstraint:
+              columnName: timestamp
+              defaultValueComputed: now
+              tableName: message
+        - createIndex:
+              columns:
+              - column:
+                  name: timestamp
+              indexName: idx_message_timestamp
+              tableName: message
+        - createTable:
+            tableName: range
+            columns:
+              - column:
+                  name: id
+                  type: VARCHAR(128)
+                  constraints:
+                    primaryKey: true
+              - column: {name: label, type: VARCHAR(128)}
+              - column: {name: value, type: TEXT}
+              - column: {name: conversationId, type: VARCHAR(128)}
+              - column: {name: tokenStart, type: INT}
+              - column: {name: tokenEnd, type: INT}
+              - column: {name: charStart, type: INT}
+              - column: {name: charEnd, type: INT}
+              - column: {name: props, type: JSONB}
+        - addForeignKeyConstraint:
+              baseColumnNames: conversationId
+              baseTableName: range
+              constraintName: fk_range_conversationId
+              deferrable: true
+              initiallyDeferred: true
+              onDelete: CASCADE
+              onUpdate: RESTRICT
+              referencedColumnNames: id
+              referencedTableName: conversation
+        - createView:
+              replaceIfExists: true
+              selectQuery: SELECT conversationid, string_agg(label, ', ') AS labels FROM (SELECT DISTINCT conversationid, label FROM range ORDER BY label) AS tmp GROUP BY conversationid;
+              viewName: conversationlabels
+        - createView:
+              replaceIfExists: true
+              selectQuery: SELECT conversationid, min(timestamp), max(timestamp) FROM message GROUP BY conversationid;
+              viewName: conversationtimes
+        - createProcedure:
+              comments: Truncate a text and cut out the middle when necessary
+              procedureName: truncm
+              procedureBody: |-
+                CREATE OR REPLACE FUNCTION truncm(VARCHAR, INTEGER) RETURNS VARCHAR
+                AS 'SELECT CASE WHEN length($1) > $2
+                  THEN left($1, $2/2-4) || '' [...] '' || right($1, $2/2-4)
+                           ELSE $1 END;
+                '
+                LANGUAGE SQL
+                IMMUTABLE
+                RETURNS NULL ON NULL INPUT;
+  - changeSet:
+      id: addColumn-range-section
+      author: arvid
+      changes:
+      - addColumn:
+          columns:
+          - column: {name: section, type: INT}
+          tableName: range

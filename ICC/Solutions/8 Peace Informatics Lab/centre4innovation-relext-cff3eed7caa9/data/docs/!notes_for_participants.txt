@@ -1,0 +1,44 @@
+(observation / notes in no particular order)
+
+00. Please check all the *INPUT* and *OUTPUT* files to roughly have an idea what we are trying to achieve.
+
+01. Prioritize Witness Statements over other evidence types (NGO / Media reports).
+
+02. We suggest to make your output graph "Event Centric", so that it is line with our internal guidelines. What it means is that the event (such as killing of individual X on a given day) should be a "central node" of a (sub)graph, with other nodes (representing entities) providing information on the given event.
+
+03. Consider different "node types" for your graph e.g. event, date, person, location, organization etc. and consider different node attributes.
+
+04. Consider different "edge types" for your (directed) graph e.g.
+	event - took place on - date
+	event - took place at - location
+	person - leads - organization
+	event - perpetrator - person
+	person - born on - date
+	person - related to - person
+	etc.
+
+05. It is important for Court's work to provide accurate sources of the information. So every node / edge would need to have an attribute pointing to the file name of source information at the minimum. Ideally, it would also point to the page number where the given piece of information came from. We have not provided this data piece / feature in the sample data sets.
+	
+06. Consider other challenges like entities disambiguation.
+
+	e.g. there are two separate entities of type "location" on the graph: one is "Baghdad", another is called "Bagdad" - it would be great if system knew these are potential duplicates.
+
+07. Consider open source enrichement, for example:
+
+from source document: 
+	entitity type: location, 
+	entity: Bangui (a city)
+
+enrichment example: get geo location coordinates, elevation etc. 
+
+Important - graph elements (nodes, edges) coming from enrichment should be distinguished from those coming from the source document.
+
+08. The graph (in principle) is unweighted and directed.
+
+09. FNU = First Name Unknown, LNU = Last Name Unknown
+
+10. For media article, an internal html grabber was used, but feel free to use your software of choice to regrab the content based on the input link provided.
+
+11. The same applies to grabbing txt from pdf. We provided txt input but please free to use your own converter from pdf to txt.
+
+12. IBM ANB = IBM Analyst Notebook - domain specific, commercial software for graph analysis. Widely used in Law Enforcement domain.

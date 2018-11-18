@@ -1,0 +1,287 @@
+:root {
+    --chat-right-color: #fff;
+    --chat-right-bg-color: #716aca;
+    --chat-right-bg-color-input: #837ce1;
+    --chat-right-bg-color-darker: #605aab;
+
+    --chat-left-color: #575962;
+    --chat-left-bg-color:  #ebedf4;
+}
+
+.chitchatclient {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+}
+
+.chitchatclient.norightuser {
+
+}
+
+.chitchatclient .chatheader {
+    display: none; /* for future use*/
+}
+
+.chitchatclient .messages {
+    flex: 1;
+    position: relative;/* need this to position inner content */
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+.chitchatclient .messages::-webkit-scrollbar {
+    width: 6px;
+    margin-right: -6px;
+}
+
+.chitchatclient .messages::-webkit-scrollbar-thumb {
+    background-color: var(--chat-left-bg-color);
+    border-radius: 3px;
+}
+
+.chitchatclient .user {
+    height: 40px;
+    width: 40px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-bottom: -40px;
+}
+
+
+.chitchatclient.noleftuser .left .user{
+    display: none;
+}
+
+.chitchatclient.norightuser .right .user{
+    display: none;
+}
+
+.chitchatclient .right, .chitchatclient .left {
+    clear: both;
+}
+
+.chitchatclient .right .user {
+    float: right;
+}
+
+.chitchatclient .msg {
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    position: relative;
+    clear: both;
+}
+
+.chitchatclient .msg .timestamp {
+    color: rgba(0,0,0,0.37);
+    display: inline;
+    font-size: 10px;
+    float: right;
+    margin: 5px 0 0 10px;
+}
+
+.chitchatclient .msg .arrow {
+    width: 20px;
+    height: 10px;
+    position: absolute;
+    display: flex;
+    top: 0;
+    -webkit-transform: scale(1); transform: scale(1);
+}
+
+.chitchatclient .left .msg .arrow {
+    left: -10px;
+}
+
+.chitchatclient .right .msg .arrow {
+    right: -10px;
+}
+
+.chitchatclient .left .msg {
+    margin-left: 60px;
+    margin-right: 80px;
+    float: left;
+}
+
+.chitchatclient.noleftuser .left .msg {
+    margin-left: 20px;
+    margin-right: 40px;
+}
+
+.chitchatclient .right .msg {
+    margin-right: 60px;
+    margin-left: 80px;
+    float: right;
+}
+
+.chitchatclient.norightuser .right .msg {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.chitchatclient .info {
+    clear: both;
+    padding: 30px 20px;
+    text-align: center;
+    color: var(--chat-right-bg-color);
+}
+
+.chitchatclient .send {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    /*text-align: right;*/
+    justify-content: center;
+    align-items: stretch;
+}
+
+.chitchatclient .send input{
+    flex: 1;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: var(--chat-right-color);
+    background-color: var(--chat-right-bg-color-input);
+    border: none;
+    margin: 0 20px 0 80px;
+}
+
+.chitchatclient .send input::placeholder{
+    color: var(--chat-right-color);
+}
+
+.chitchatclient .send input::placeholder:focus{
+    color: var(--chat-right-color);
+}
+
+.chitchatclient .send input:focus  {
+    background-color: var(--chat-right-bg-color);
+    color: var(--chat-right-color);
+    outline: none;
+}
+
+.chitchatclient .sendBtn {
+    color: var(--chat-right-color);
+    background-color: var(--chat-right-bg-color);
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Setting colors */
+.chitchatclient .sendBtn:hover {
+    background-color: var(--chat-right-bg-color-darker);
+}
+
+.chitchatclient .left {
+    color: var(--chat-left-color);
+}
+
+.chitchatclient .right{
+    color: var(--chat-right-color);
+}
+
+.chitchatclient .left .msg {
+    background-color: var(--chat-left-bg-color);
+    animation: fadeInLeft 0.5s;
+}
+
+.chitchatclient .right .msg{
+    background-color: var(--chat-right-bg-color);
+    animation: fadeInRight 0.5s;
+}
+
+.chitchatclient .left .msg .arrow {
+    fill: var(--chat-left-bg-color);
+}
+
+.chitchatclient .right .msg .arrow {
+    fill: var(--chat-right-bg-color);
+}
+
+.chitchatclient .left .user {
+    background-color: var(--chat-left-bg-color);
+}
+
+.chitchatclient .right .user {
+    background-color: var(--chat-right-bg-color);
+}
+
+
+@-webkit-keyframes fadeInRight {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.fadeInRight:last-child {
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight;
+}
+
+@-webkit-keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+    }
+
+    to {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.fadeInLeft:last-child {
+    -webkit-animation-name: fadeInLeft;
+    animation-name: fadeInLeft;
+}

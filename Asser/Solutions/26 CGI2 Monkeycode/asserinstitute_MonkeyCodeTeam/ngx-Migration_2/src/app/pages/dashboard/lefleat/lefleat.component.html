@@ -1,0 +1,10 @@
+<div leaflet
+     [leafletOptions]="options"
+     [leafletLayersControl]="layersControl"
+     [leafletCenter]="center"
+     [leafletZoom]="zoom"
+     
+     [leafletMarkerCluster]="markerClusterData"
+     [leafletMarkerClusterOptions]="markerClusterOptions"
+     (leafletMarkerClusterReady)="markerClusterReady($event)">
+</div>

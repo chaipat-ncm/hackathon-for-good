@@ -1,0 +1,87 @@
+<div class="container">
+<mat-tab-group>
+    
+    <mat-tab label="VCI">  
+        <div class="row">
+            <div class="col-4">
+              <canvas #lineChart>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+              <canvas #barChart>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+                <canvas #radarChart>{{ chart }}</canvas>
+              </div>
+          </div>  
+    </mat-tab>
+    <mat-tab label="LGP">  
+        <div class="row">
+            <div class="col-4">
+              <canvas #lineChart2>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+              <canvas #barChart2>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+                <canvas #radarChart2>{{ chart }}</canvas>
+              </div>
+          </div> 
+
+    </mat-tab>
+    <mat-tab label="MIT">
+        <div class="row">
+            <div class="col-4">
+              <canvas #lineChart3>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+              <canvas #barChart3>{{ chart }}</canvas>
+            </div>
+            <div class="col-4">
+                <!-- <canvas #radarChart3>{{ chart }}</canvas> -->
+                <mat-expansion-panel>
+                    <mat-expansion-panel-header>
+                      <mat-panel-title>
+                        Social Media Analysis
+                      </mat-panel-title>
+                      <mat-panel-description>
+                        Twitter Feed
+                      </mat-panel-description>
+                    </mat-expansion-panel-header>
+                  
+                    <table class="table">
+                      <tr>
+                      <th>TimeStamp</th>
+                      <th>Location</th>
+                      <th>Tweet</th>
+                    </tr>
+                    <tr>
+                      <td>11/15/2018  5:00:00 AM</td>
+                      <td>Tanzania</td>
+                      <td>"The opening of the #privatedesk at the #Tanzania ministry of livestock and fisheries will transform the business la… https://t.co/vvt6ARoBqa", "Tanzania"</td>
+                    </tr>
+                    <tr>
+                        <td>11/16/2018  5:00:20 AM</td>
+                        <td>Tanzania</td>
+                        <td>"Very right,Hadija is connecting the 5th regime agenda practically, Agriculture with industrialization in Tanzania i… https://t.co/XfJEbgYnz5","Very right,Hadija is </td>
+                      </tr>
+                      <tr>
+                          <td>11/18/2018  7:39:47 AM</td>
+                          <td>Nigeria</td>
+                          <td>"My theory is that this is one big land grab. We'll see if I'm right next year. We have to keep this story alive bec… https://t.co/xuO6OWPqkx","My theory is that this is one big land </td>
+                        </tr>
+                    </table>
+                  
+                  </mat-expansion-panel>
+               
+              </div>
+          </div>  
+    </mat-tab>
+  </mat-tab-group>
+</div>
+
+    
+
+
+
+
+      
