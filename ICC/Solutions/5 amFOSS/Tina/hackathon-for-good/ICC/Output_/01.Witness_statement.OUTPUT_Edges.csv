@@ -1,0 +1,38 @@
+Source,Target,Type,Kind,Id,Label,timeset,Weight
+0,1,Directed,Date of birth,0,Date of birth,,1
+0,3,Directed,Lives in,2,Lives in,,1
+2,3,Directed,Where,3,Where,,1
+2,4,Directed,When,4,When,,1
+2,5,Directed,Speaker,5,Speaker,,1
+5,6,Directed,Rank,6,Rank,,1
+5,7,Directed,Member of,7,Member of,,1
+2,8,Directed,Preceeded,8,Preceeded,,1
+8,0,Directed,Victim,9,Victim,,1
+9,10,Directed,Located in,10,Located in,,1
+11,9,Directed,Commander of,11,Commander of,,1
+8,9,Directed,Taken to,12,Taken to,,1
+11,7,Directed,Member of,13,Member of,,1
+12,9,Directed,Where,14,Where,,1
+12,13,Directed,Who,15,Who,,1
+14,0,Directed,Perpetrator,17,Perpetrator,,1
+14,15,Directed,Target,18,Target,,1
+14,16,Directed,When,19,When,,1
+14,17,Directed,Duration,20,Duration,,1
+14,7,Directed,Carried out by,21,Carried out by,,1
+18,19,Directed,Carried out by,22,Carried out by,,1
+18,20,Directed,Carried out by,23,Carried out by,,1
+22,23,Directed,When,26,When,,1
+18,21,Directed,When,25,When,,1
+22,0,Directed,Perpetrator,27,Perpetrator,,1
+22,7,Directed,Carried out by,28,Carried out by,,1
+22,15,Directed,Target,29,Target,,1
+18,9,Directed,Where,30,Where,,1
+0,24,Directed,Works for,31,Works for,,1
+20,26,Directed,Phone_number,32,Phone_number,,1
+24,25,Directed,Located in,33,Located in,,1
+24,7,Directed,Member of,34,Member of,,1
+27,0,Directed,Who,35,Who,,1
+27,28,Directed,Carried out by,36,Carried out by,,1
+27,25,Directed,Where,37,Where,,1
+19,7,Directed,Member of,38,Member of,,1
+20,7,Directed,Member of,39,Member of,,1
