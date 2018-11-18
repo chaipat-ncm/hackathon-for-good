@@ -1,0 +1,13 @@
+
+# mb
+#
+# file: 015_mb.yaml
+
+do:
+- gsutil mb gs://peace-photos-new
+
+undo:
+- echo 'Please remove peace-photos-new manually'
+
+view:
+- gsutil ls gs://peace-photos-new

@@ -1,0 +1,13 @@
+
+# mb
+#
+# file: 010_mb.yaml
+
+do:
+- gsutil mb gs://peace-photos
+
+undo:
+- echo 'Please remove peace-photos bucket manually'
+
+view:
+- gsutil ls gs://peace-photos
