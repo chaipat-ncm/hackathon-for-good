@@ -1,0 +1,418 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.65247756,
+            "topicality": 0.65247756
+        },
+        {
+            "mid": "/m/07bxq",
+            "description": "tourism",
+            "score": 0.6351309,
+            "topicality": 0.6351309
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.60775167,
+            "topicality": 0.60775167
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.5892168,
+            "topicality": 0.5892168
+        },
+        {
+            "mid": "/m/017r8p",
+            "description": "pedestrian",
+            "score": 0.5643137,
+            "topicality": 0.5643137
+        },
+        {
+            "mid": "/m/01n32",
+            "description": "city",
+            "score": 0.551358,
+            "topicality": 0.551358
+        },
+        {
+            "mid": "/m/02q3d5",
+            "description": "memorial",
+            "score": 0.532701,
+            "topicality": 0.532701
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 87,
+                        "green": 128,
+                        "blue": 174
+                    },
+                    "score": 0.39201203,
+                    "pixelFraction": 0.23933333
+                },
+                {
+                    "color": {
+                        "red": 118,
+                        "green": 149,
+                        "blue": 180
+                    },
+                    "score": 0.23030521,
+                    "pixelFraction": 0.088933334
+                },
+                {
+                    "color": {
+                        "red": 189,
+                        "green": 191,
+                        "blue": 192
+                    },
+                    "score": 0.05068391,
+                    "pixelFraction": 0.08106667
+                },
+                {
+                    "color": {
+                        "red": 80,
+                        "green": 83,
+                        "blue": 81
+                    },
+                    "score": 0.027495146,
+                    "pixelFraction": 0.062133335
+                },
+                {
+                    "color": {
+                        "red": 27,
+                        "green": 55,
+                        "blue": 112
+                    },
+                    "score": 0.00580094,
+                    "pixelFraction": 0.0014666667
+                },
+                {
+                    "color": {
+                        "red": 103,
+                        "green": 134,
+                        "blue": 165
+                    },
+                    "score": 0.10251959,
+                    "pixelFraction": 0.081266664
+                },
+                {
+                    "color": {
+                        "red": 224,
+                        "green": 229,
+                        "blue": 239
+                    },
+                    "score": 0.031129807,
+                    "pixelFraction": 0.007866667
+                },
+                {
+                    "color": {
+                        "red": 155,
+                        "green": 160,
+                        "blue": 164
+                    },
+                    "score": 0.02775779,
+                    "pixelFraction": 0.17146666
+                },
+                {
+                    "color": {
+                        "red": 114,
+                        "green": 120,
+                        "blue": 127
+                    },
+                    "score": 0.02433506,
+                    "pixelFraction": 0.07546667
+                },
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 55,
+                        "blue": 53
+                    },
+                    "score": 0.021285279,
+                    "pixelFraction": 0.026066666
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1329
+                        },
+                        {
+                            "x": 1329,
+                            "y": 884
+                        },
+                        {
+                            "y": 884
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0fhsz",
+                "score": 1.0411748,
+                "description": "Naples"
+            },
+            {
+                "entityId": "/m/09015r",
+                "score": 0.8894,
+                "description": "Allied Joint Force Command Naples"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.4839
+            },
+            {
+                "entityId": "/t/2529y1ls3hfll",
+                "score": 0.4073
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.3149,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/01n32",
+                "score": 0.21821803,
+                "description": "City"
+            },
+            {
+                "entityId": "/m/0t_f7l2",
+                "score": 0.213,
+                "description": "Post\u2013Cold War era"
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.1935,
+                "description": "Member states of NATO"
+            },
+            {
+                "entityId": "/m/0bwg5s",
+                "score": 0.1801,
+                "description": "Command"
+            },
+            {
+                "entityId": "/m/037rzs",
+                "score": 0.1745,
+                "description": "Headquarters"
+            },
+            {
+                "entityId": "/m/0h1cy00",
+                "score": 0.1512,
+                "description": "Change of command"
+            },
+            {
+                "entityId": "/m/092j7k",
+                "score": 0.1407,
+                "description": "Summit"
+            },
+            {
+                "entityId": "/m/012whm52",
+                "score": 0.105633005,
+                "description": "Metropolitan City of Naples"
+            },
+            {
+                "entityId": "/m/02qsfxf",
+                "score": 0.02859,
+                "description": "Michelle Howard"
+            },
+            {
+                "entityId": "/m/03rjj",
+                "score": 0.00047136008,
+                "description": "Italy"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://warontherocks.com/wp-content/uploads/2016/07/NATO-Naples.jpg"
+            },
+            {
+                "url": "https://jfcnaples.nato.int/resources/internal/file_views/4018/1_160607-N-ZE250-259.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://jfcnaples.nato.int/resources/internal/file_views_listing/4018/1_160607-N-ZE250-259_270x250.png"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://shape.nato.int/2016/admiral-michelle-howard-takes-the-helm-at-jfc-naples",
+                "pageTitle": "JFC <b>NAPLES</b> | Admiral Howard takes the helm at JFC <b>Naples</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://jfcnaples.nato.int/resources/internal/file_views/4018/1_160607-N-ZE250-259.jpg"
+                    },
+                    {
+                        "url": "https://jfcnaples.nato.int/resources/internal/file_views_listing/4018/1_160607-N-ZE250-259_270x250.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://warontherocks.com/2016/07/out-of-area-ops-are-out-reassessing-the-nato-mission/",
+                "pageTitle": "Out of Area Ops Are Out: Reassessing the NATO Mission",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://warontherocks.com/wp-content/uploads/2016/07/NATO-Naples.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://marketplace.canva.com/MAC4tj5oXJk/1/thumbnail_large/canva-pompeii%2C-naples%2C-campania%2C-heritage%2C-excavations-MAC4tj5oXJk.jpg"
+            },
+            {
+                "url": "https://images2.loopnet.com/i2/jKqB_HDJJdQiPiY2ZhIJla2KimnjOR2fXyiDxs936W4/110/image.jpg"
+            },
+            {
+                "url": "https://ap.rdcpix.com/1650142030/c66a563e6cb0e61c45c0a35ca75b9117l-m0xd-w640_h480_q80.jpg"
+            },
+            {
+                "url": "https://images1.apartments.com/i2/fAlyTFEXGfPbM_BY61FzDAhef7O0Mp0z_5h8awadKRk/117/all-seasons-naples-naples-fl-primary-photo.jpg"
+            },
+            {
+                "url": "http://markcujakblog.com/wp-content/uploads/2018/05/Naples-1024x768.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-photo/panorama-piazza-plebiscito-naples-italy-260nw-575299480.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/hospital-of-mare-in-naples-italy-august-062018-picture-id1012657982"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/the-forum-of-the-ancient-city-of-pompeii-naples-campania-italy-roman-picture-id872428394?k=6&m=872428394&s=612x612&w=0&h=LaORjWvCE_tdlPl2VNdfnUIgqKiU6n-mKdCWE2YONEI="
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Naples"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8930593,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.403934,
+                        "y": 0.45598567
+                    },
+                    {
+                        "x": 0.5181837,
+                        "y": 0.45598567
+                    },
+                    {
+                        "x": 0.5181837,
+                        "y": 0.8746027
+                    },
+                    {
+                        "x": 0.403934,
+                        "y": 0.8746027
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.74822164,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5711405,
+                        "y": 0.49104327
+                    },
+                    {
+                        "x": 0.64315057,
+                        "y": 0.49104327
+                    },
+                    {
+                        "x": 0.64315057,
+                        "y": 0.8002756
+                    },
+                    {
+                        "x": 0.5711405,
+                        "y": 0.8002756
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.70939404,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.63083094,
+                        "y": 0.50845504
+                    },
+                    {
+                        "x": 0.6986056,
+                        "y": 0.50845504
+                    },
+                    {
+                        "x": 0.6986056,
+                        "y": 0.775805
+                    },
+                    {
+                        "x": 0.63083094,
+                        "y": 0.775805
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.562035,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5269796,
+                        "y": 0.4817058
+                    },
+                    {
+                        "x": 0.5886366,
+                        "y": 0.4817058
+                    },
+                    {
+                        "x": 0.5886366,
+                        "y": 0.7612911
+                    },
+                    {
+                        "x": 0.5269796,
+                        "y": 0.7612911
+                    }
+                ]
+            }
+        }
+    ]
+}

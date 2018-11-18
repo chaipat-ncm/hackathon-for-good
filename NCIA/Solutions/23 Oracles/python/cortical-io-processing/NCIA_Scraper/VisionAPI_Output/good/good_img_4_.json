@@ -1,0 +1,890 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 173,
+                        "y": 207
+                    },
+                    {
+                        "x": 238,
+                        "y": 207
+                    },
+                    {
+                        "x": 238,
+                        "y": 282
+                    },
+                    {
+                        "x": 173,
+                        "y": 282
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 186,
+                        "y": 222
+                    },
+                    {
+                        "x": 236,
+                        "y": 222
+                    },
+                    {
+                        "x": 236,
+                        "y": 272
+                    },
+                    {
+                        "x": 186,
+                        "y": 272
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 203.88994,
+                        "y": 238.38127,
+                        "z": -0.00026444168
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 221.98265,
+                        "y": 240.59108,
+                        "z": 6.8716507
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 197.09563,
+                        "y": 232.9843,
+                        "z": 0.009089239
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 210.09848,
+                        "y": 233.93843,
+                        "z": -1.138497
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 218.94449,
+                        "y": 234.90282,
+                        "z": 2.2271833
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 227.8002,
+                        "y": 236.96289,
+                        "z": 11.592941
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 214.18987,
+                        "y": 238.57597,
+                        "z": -0.346542
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 215.74008,
+                        "y": 248.95413,
+                        "z": -7.463796
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 213.44153,
+                        "y": 256.46155,
+                        "z": -4.2324724
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 212.42706,
+                        "y": 263.43286,
+                        "z": -3.9207132
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 204.0813,
+                        "y": 258.99777,
+                        "z": -2.4566607
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 218.52687,
+                        "y": 260.87723,
+                        "z": 2.9894705
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 212.67297,
+                        "y": 259.79935,
+                        "z": -3.3344083
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 217.7924,
+                        "y": 251.80333,
+                        "z": 1.2807616
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 208.0249,
+                        "y": 250.24251,
+                        "z": -2.492033
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 213.58165,
+                        "y": 252.10217,
+                        "z": -3.6550424
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 204.1621,
+                        "y": 236.68022,
+                        "z": -1.085188
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 207.1436,
+                        "y": 238.59009,
+                        "z": 1.3797585
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 203.56627,
+                        "y": 239.49127,
+                        "z": -0.41540766
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 199.277,
+                        "y": 237.96686,
+                        "z": 0.23243165
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 203.45818,
+                        "y": 238.06299,
+                        "z": -0.6088253
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 222.54909,
+                        "y": 239.06084,
+                        "z": 5.856099
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 224.95412,
+                        "y": 241.29231,
+                        "z": 9.925168
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 221.88927,
+                        "y": 241.82893,
+                        "z": 6.5141706
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 218.24246,
+                        "y": 240.22421,
+                        "z": 5.531178
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 222.3382,
+                        "y": 240.50935,
+                        "z": 6.487092
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 204.14595,
+                        "y": 230.78688,
+                        "z": -1.4312642
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 224.09454,
+                        "y": 233.36713,
+                        "z": 6.098501
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 182.31958,
+                        "y": 249.0619,
+                        "z": 16.649143
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 224.08417,
+                        "y": 254.47165,
+                        "z": 32.412163
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 214.79477,
+                        "y": 233.91736,
+                        "z": -0.09684107
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 210.83472,
+                        "y": 273.06232,
+                        "z": -2.6972952
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 186.36392,
+                        "y": 260.91473,
+                        "z": 8.033295
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 224.11694,
+                        "y": 265.81705,
+                        "z": 22.276232
+                    }
+                }
+            ],
+            "rollAngle": 4.076605,
+            "panAngle": 20.770481,
+            "tiltAngle": 8.715762,
+            "detectionConfidence": 0.5168085,
+            "landmarkingConfidence": 0.18064934,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "POSSIBLE"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9709386,
+            "topicality": 0.9709386
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.932026,
+            "topicality": 0.932026
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.9146003,
+            "topicality": 0.9146003
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.84047884,
+            "topicality": 0.84047884
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.78841496,
+            "topicality": 0.78841496
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.7471569,
+            "topicality": 0.7471569
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6132909,
+            "topicality": 0.6132909
+        },
+        {
+            "mid": "/m/03120",
+            "description": "flag",
+            "score": 0.5940418,
+            "topicality": 0.5940418
+        },
+        {
+            "mid": "/m/03w1r4",
+            "description": "military uniform",
+            "score": 0.5230601,
+            "topicality": 0.5230601
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.502755,
+            "topicality": 0.502755
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 185,
+                        "green": 11,
+                        "blue": 8
+                    },
+                    "score": 0.09567312,
+                    "pixelFraction": 0.0035185185
+                },
+                {
+                    "color": {
+                        "red": 4,
+                        "green": 20,
+                        "blue": 68
+                    },
+                    "score": 0.073973976,
+                    "pixelFraction": 0.0077160494
+                },
+                {
+                    "color": {
+                        "red": 66,
+                        "green": 50,
+                        "blue": 33
+                    },
+                    "score": 0.06914203,
+                    "pixelFraction": 0.040987656
+                },
+                {
+                    "color": {
+                        "red": 209,
+                        "green": 247,
+                        "blue": 246
+                    },
+                    "score": 0.03131462,
+                    "pixelFraction": 0.12623456
+                },
+                {
+                    "color": {
+                        "red": 141,
+                        "green": 57,
+                        "blue": 60
+                    },
+                    "score": 0.018845016,
+                    "pixelFraction": 0.0019135802
+                },
+                {
+                    "color": {
+                        "red": 185,
+                        "green": 188,
+                        "blue": 189
+                    },
+                    "score": 0.01574735,
+                    "pixelFraction": 0.012777777
+                },
+                {
+                    "color": {
+                        "red": 11,
+                        "green": 18,
+                        "blue": 41
+                    },
+                    "score": 0.010905975,
+                    "pixelFraction": 0.003148148
+                },
+                {
+                    "color": {
+                        "red": 163,
+                        "green": 11,
+                        "blue": 3
+                    },
+                    "score": 0.08386654,
+                    "pixelFraction": 0.004382716
+                },
+                {
+                    "color": {
+                        "red": 221,
+                        "green": 39,
+                        "blue": 28
+                    },
+                    "score": 0.07920551,
+                    "pixelFraction": 0.002654321
+                },
+                {
+                    "color": {
+                        "red": 158,
+                        "green": 26,
+                        "blue": 22
+                    },
+                    "score": 0.07261275,
+                    "pixelFraction": 0.005493827
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1169
+                        },
+                        {
+                            "x": 1169,
+                            "y": 842
+                        },
+                        {
+                            "y": 842
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.39999998
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01pj7",
+                "score": 1.0896001,
+                "description": "Croatia"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7773514,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/29cqm860kk63f",
+                "score": 0.7264
+            },
+            {
+                "entityId": "/g/12226twj",
+                "score": 0.72615004,
+                "description": "Damir Krsti\u010devi\u0107"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.7035,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0k0sv",
+                "score": 0.6937,
+                "description": "Croatian language"
+            },
+            {
+                "entityId": "/m/05qhw",
+                "score": 0.67620003,
+                "description": "Poland"
+            },
+            {
+                "entityId": "/m/01pbjy",
+                "score": 0.655763,
+                "description": "Military police"
+            },
+            {
+                "entityId": "/t/2bvzk6fhjt4gf",
+                "score": 0.5976
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.530866,
+                "description": "Army"
+            },
+            {
+                "entityId": "/m/04ygx5",
+                "score": 0.4799,
+                "description": "Croatian Army"
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.44785687,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/03g9v2",
+                "score": 0.441,
+                "description": "Military base"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.4392
+            },
+            {
+                "entityId": "/m/0117vsh0",
+                "score": 0.406,
+                "description": "Republic of Croatia Armed Forces"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.magnapolonia.org/wp-content/uploads/2017/12/bcaea28fe416d9f172f4a71210080458_XL-1170x642.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.total-croatia-news.com/politics/23835-four-drunk-croatian-soldiers-including-chaplain-kicked-from-nato-mission",
+                "pageTitle": "Four <b>Drunk Croatian</b> Soldiers, Including Chaplain, Kicked Out Of ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://europe.easybranches.com/croatia/141652",
+                "pageTitle": "Four <b>Drunk Croatian</b> Soldiers, Including Chaplain, Kicked Out Of ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://europe.easybranches.com/uploads/news/2017/12/141652.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/drunk-army-base-1b.html",
+                "pageTitle": "<b>Drunk</b> Army Base | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.total-croatia-news.com/politics/25957-croatia-to-further-increase-defence-budget",
+                "pageTitle": "<b>Croatia</b> to Further Increase Defence Budget - Total <b>Croatia</b> News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/drunk-army-soldier-be.html",
+                "pageTitle": "<b>Drunk</b> Army Soldier | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/drunk-army-bc.html",
+                "pageTitle": "<b>Drunk</b> Army | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.stonecreekcatering.com/news.asp?p_id=croatia-news",
+                "pageTitle": "<b>croatia</b> news Sale,up to 55% Discounts - Chaussure Nike Air Max",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.stonecreekcatering.com/news.asp?p_id=croatia-national-football-team-2016",
+                "pageTitle": "<b>croatia</b> national football team 2016 Sale,up to 55% Discounts",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.stonecreekcatering.com/news.asp?p_id=national-football-team-croatia",
+                "pageTitle": "national football team <b>croatia</b> Sale,up to 79% Discounts",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.alteragroup.com.au/news.asp?p_id=croatia-news",
+                "pageTitle": "<b>croatia</b> news Sale,up to 32% Discounts - Altera Group",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://healthynutritiontips.info/croatia-news-bfc4e7d/",
+                "pageTitle": "<b>Croatia</b> News - TUI Increases Capacity in <b>Croatia</b> for 2019",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.total-croatia-news.com/media/k2/items/cache/7fcebcb5e222c652a8ce3433cd664bb2_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.magnapolonia.org/kategoria/wiadomosci/page/612/",
+                "pageTitle": "Wiadomo\u015bci \u2013 Strona 612 \u2013 Magna Polonia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.magnapolonia.org/wp-content/uploads/2017/12/bcaea28fe416d9f172f4a71210080458_XL-1170x642.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.magnapolonia.org/kategoria/wiadomosci/polska/page/73/",
+                "pageTitle": "Polska \u2013 Strona 73 \u2013 Magna Polonia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.magnapolonia.org/wp-content/uploads/2017/12/bcaea28fe416d9f172f4a71210080458_XL-1170x642.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.magnapolonia.org/czterech-chorwackich-zolnierzy-zostalo-wydalonych-z-polski-za-naruszenia-dyscypliny-wojskowej/",
+                "pageTitle": "Czterech chorwackich \u017co\u0142nierzy zosta\u0142o wydalonych z Polski za ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.magnapolonia.org/wp-content/uploads/2017/12/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+                    },
+                    {
+                        "url": "https://www.magnapolonia.org/wp-content/uploads/2017/12/bcaea28fe416d9f172f4a71210080458_XL-1170x642.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.total-croatia-news.com/media/k2/items/cache/bcaea28fe416d9f172f4a71210080458_XL.jpg"
+            },
+            {
+                "url": "http://1.bp.blogspot.com/-ZuJp_oEGA0o/ThIT4fn8UlI/AAAAAAAABCc/omSEggzwcuY/s1600/Croatia+9.jpg"
+            },
+            {
+                "url": "http://s2.quickmeme.com/img/50/50583142a2ea90b0437a175ea236cb3a78b36956535c2aefd23bb9b660f63205.jpg"
+            },
+            {
+                "url": "http://www.gone4days.com/wp-content/uploads/2016/06/IMG_7612-2-300x225.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/736x/e9/f3/25/e9f325105e2df413743df6554f78a016--croatian-recipes-beer-bucket.jpg"
+            },
+            {
+                "url": "http://001yourtranslationservice.com/travel-Europe/trip/2006/pics/08.10_Zivogosce/nude1.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "drunk croatian",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.95641017,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.080107674,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.2533041,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.2533041,
+                        "y": 0.84252656
+                    },
+                    {
+                        "x": 0.080107674,
+                        "y": 0.84252656
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8755002,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22340178,
+                        "y": 0.28147352
+                    },
+                    {
+                        "x": 0.3250688,
+                        "y": 0.28147352
+                    },
+                    {
+                        "x": 0.3250688,
+                        "y": 0.7992324
+                    },
+                    {
+                        "x": 0.22340178,
+                        "y": 0.7992324
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.7255892,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.2674018,
+                        "y": 0.030179415
+                    },
+                    {
+                        "x": 0.4961277,
+                        "y": 0.030179415
+                    },
+                    {
+                        "x": 0.4961277,
+                        "y": 0.6698206
+                    },
+                    {
+                        "x": 0.2674018,
+                        "y": 0.6698206
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6484591,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.49027368,
+                        "y": 0.36507428
+                    },
+                    {
+                        "x": 0.5862836,
+                        "y": 0.36507428
+                    },
+                    {
+                        "x": 0.5862836,
+                        "y": 0.7110125
+                    },
+                    {
+                        "x": 0.49027368,
+                        "y": 0.7110125
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.5223461,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.49027368,
+                        "y": 0.36507428
+                    },
+                    {
+                        "x": 0.5862836,
+                        "y": 0.36507428
+                    },
+                    {
+                        "x": 0.5862836,
+                        "y": 0.7110125
+                    },
+                    {
+                        "x": 0.49027368,
+                        "y": 0.7110125
+                    }
+                ]
+            }
+        }
+    ]
+}

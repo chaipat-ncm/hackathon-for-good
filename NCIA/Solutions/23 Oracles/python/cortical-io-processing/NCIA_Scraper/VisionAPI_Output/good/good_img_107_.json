@@ -1,0 +1,4788 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1320,
+                        "y": 707
+                    },
+                    {
+                        "x": 1399,
+                        "y": 707
+                    },
+                    {
+                        "x": 1399,
+                        "y": 798
+                    },
+                    {
+                        "x": 1320,
+                        "y": 798
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1334,
+                        "y": 730
+                    },
+                    {
+                        "x": 1388,
+                        "y": 730
+                    },
+                    {
+                        "x": 1388,
+                        "y": 783
+                    },
+                    {
+                        "x": 1334,
+                        "y": 783
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1349.504,
+                        "y": 746.3156,
+                        "z": -0.0002624534
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1371.8662,
+                        "y": 745.39386,
+                        "z": 2.5934327
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1341.1084,
+                        "y": 741.1253,
+                        "z": 1.947568
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1355.9186,
+                        "y": 739.8337,
+                        "z": -3.208507
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1367.4724,
+                        "y": 739.5309,
+                        "z": -1.8954715
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1380.7924,
+                        "y": 740.1229,
+                        "z": 6.449956
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1361.9432,
+                        "y": 744.776,
+                        "z": -3.4981549
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1362.9603,
+                        "y": 757.48114,
+                        "z": -12.118625
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1362.9856,
+                        "y": 766.30725,
+                        "z": -7.6153855
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1363.084,
+                        "y": 775.31573,
+                        "z": -6.884236
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1353.1106,
+                        "y": 771.1522,
+                        "z": -2.7502742
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1371.6989,
+                        "y": 770.81104,
+                        "z": -0.6359367
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1362.6783,
+                        "y": 771.0439,
+                        "z": -6.301158
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1368.6396,
+                        "y": 760.21356,
+                        "z": -2.565664
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1356.6859,
+                        "y": 760.5018,
+                        "z": -4.1129255
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1362.9369,
+                        "y": 762.1602,
+                        "z": -7.1280484
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1349.6108,
+                        "y": 744.4358,
+                        "z": -1.3640585
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1354.2976,
+                        "y": 746.2832,
+                        "z": 0.62418234
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1349.7074,
+                        "y": 747.78705,
+                        "z": -0.37178612
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1344.5651,
+                        "y": 746.74316,
+                        "z": 1.6307411
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1349.1975,
+                        "y": 746.2162,
+                        "z": -0.5887019
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1373.3899,
+                        "y": 743.8192,
+                        "z": 1.3373379
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1377.7244,
+                        "y": 745.90216,
+                        "z": 5.3869267
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1372.7894,
+                        "y": 747.2772,
+                        "z": 2.2896717
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1368.5132,
+                        "y": 746.0032,
+                        "z": 2.2429903
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1373.6263,
+                        "y": 745.5932,
+                        "z": 2.1685295
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1348.4839,
+                        "y": 737.3994,
+                        "z": -1.8309572
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1374.3047,
+                        "y": 736.7249,
+                        "z": 1.1077354
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1333.0878,
+                        "y": 762.0491,
+                        "z": 25.093386
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1385.6013,
+                        "y": 760.6907,
+                        "z": 31.96504
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1361.7924,
+                        "y": 739.27625,
+                        "z": -3.4037774
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1363.1842,
+                        "y": 786.3607,
+                        "z": -4.8063545
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1336.0264,
+                        "y": 776.0017,
+                        "z": 14.6527605
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1384.7048,
+                        "y": 774.84283,
+                        "z": 20.13174
+                    }
+                }
+            ],
+            "rollAngle": -2.291202,
+            "panAngle": 6.5243754,
+            "tiltAngle": 6.983373,
+            "detectionConfidence": 0.6782526,
+            "landmarkingConfidence": 0.28524357,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1310,
+                        "y": 332
+                    },
+                    {
+                        "x": 1375,
+                        "y": 332
+                    },
+                    {
+                        "x": 1375,
+                        "y": 408
+                    },
+                    {
+                        "x": 1310,
+                        "y": 408
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1318,
+                        "y": 350
+                    },
+                    {
+                        "x": 1370,
+                        "y": 350
+                    },
+                    {
+                        "x": 1370,
+                        "y": 402
+                    },
+                    {
+                        "x": 1318,
+                        "y": 402
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1333.0629,
+                        "y": 365.07895,
+                        "z": 0.00022837038
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1353.8174,
+                        "y": 368.06506,
+                        "z": -1.5007995
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1327.5967,
+                        "y": 359.78177,
+                        "z": 2.2952218
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1338.5604,
+                        "y": 361.20917,
+                        "z": -4.1819186
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1347.881,
+                        "y": 362.44193,
+                        "z": -4.887987
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1360.1031,
+                        "y": 364.12225,
+                        "z": -0.03556336
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1342.4678,
+                        "y": 365.6605,
+                        "z": -4.863251
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1340.9897,
+                        "y": 376.93283,
+                        "z": -10.661909
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1340.3616,
+                        "y": 384.0054,
+                        "z": -6.146154
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1339.5831,
+                        "y": 390.7579,
+                        "z": -4.755532
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1332.7372,
+                        "y": 385.878,
+                        "z": -0.314876
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1348.4723,
+                        "y": 387.9308,
+                        "z": -1.3255693
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1340.0454,
+                        "y": 387.15137,
+                        "z": -4.6989264
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1347.0348,
+                        "y": 378.99942,
+                        "z": -3.4518383
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1334.7725,
+                        "y": 377.12915,
+                        "z": -2.4469714
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1340.8822,
+                        "y": 380.02182,
+                        "z": -6.1901717
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1333.4392,
+                        "y": 363.82224,
+                        "z": -1.3532157
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1337.0421,
+                        "y": 365.87726,
+                        "z": -0.23161784
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1332.8896,
+                        "y": 366.38974,
+                        "z": -0.19543828
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1329.6104,
+                        "y": 364.75943,
+                        "z": 2.0543647
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1333.0083,
+                        "y": 365.10748,
+                        "z": -0.5176695
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1352.8345,
+                        "y": 366.36868,
+                        "z": -2.7810776
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1356.7474,
+                        "y": 368.32193,
+                        "z": 0.05980391
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1353.3339,
+                        "y": 369.228,
+                        "z": -1.623995
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1348.9159,
+                        "y": 367.3551,
+                        "z": -1.0984533
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1352.8954,
+                        "y": 367.7239,
+                        "z": -2.0158794
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1333.2814,
+                        "y": 358.04037,
+                        "z": -2.2401617
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1354.2883,
+                        "y": 360.79474,
+                        "z": -3.7840593
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1321.4894,
+                        "y": 373.48904,
+                        "z": 24.97336
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1365.5183,
+                        "y": 379.2257,
+                        "z": 21.70903
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1343.3284,
+                        "y": 361.46793,
+                        "z": -5.280137
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1338.6171,
+                        "y": 399.46597,
+                        "z": -2.0818918
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1321.4393,
+                        "y": 386.04828,
+                        "z": 16.759039
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1361.1921,
+                        "y": 391.24152,
+                        "z": 13.830496
+                    }
+                }
+            ],
+            "rollAngle": 7.4897637,
+            "panAngle": -4.177145,
+            "tiltAngle": 0.42654437,
+            "detectionConfidence": 0.68473196,
+            "landmarkingConfidence": 0.28107044,
+            "joyLikelihood": "UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "POSSIBLE"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 789,
+                        "y": 202
+                    },
+                    {
+                        "x": 861,
+                        "y": 202
+                    },
+                    {
+                        "x": 861,
+                        "y": 286
+                    },
+                    {
+                        "x": 789,
+                        "y": 286
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 803,
+                        "y": 230
+                    },
+                    {
+                        "x": 853,
+                        "y": 230
+                    },
+                    {
+                        "x": 853,
+                        "y": 280
+                    },
+                    {
+                        "x": 803,
+                        "y": 280
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 819.97925,
+                        "y": 244.36646,
+                        "z": 7.021066e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 841.3555,
+                        "y": 246.26889,
+                        "z": 4.6133537
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 813.1879,
+                        "y": 238.82599,
+                        "z": -0.560062
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 826.79486,
+                        "y": 241.49481,
+                        "z": -3.8078647
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 837.28625,
+                        "y": 241.76106,
+                        "z": -1.697033
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 848.6947,
+                        "y": 241.32076,
+                        "z": 7.0143857
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 831.5887,
+                        "y": 245.97475,
+                        "z": -2.1481428
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 831.6441,
+                        "y": 259.35144,
+                        "z": -5.7436404
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 829.7401,
+                        "y": 266.0191,
+                        "z": 0.73225224
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 828.5003,
+                        "y": 273.05362,
+                        "z": 3.8226202
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 819.28986,
+                        "y": 267.1578,
+                        "z": 5.3201203
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 836.5487,
+                        "y": 268.41586,
+                        "z": 8.80675
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 828.95416,
+                        "y": 269.10046,
+                        "z": 3.030873
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 836.35394,
+                        "y": 259.6194,
+                        "z": 4.090639
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 823.97766,
+                        "y": 258.97925,
+                        "z": 1.3945698
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 830.38116,
+                        "y": 261.8511,
+                        "z": -0.24174725
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 820.5562,
+                        "y": 243.61784,
+                        "z": -1.6362854
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 824.18353,
+                        "y": 245.16328,
+                        "z": 1.0913973
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 819.7344,
+                        "y": 245.97647,
+                        "z": 0.17087519
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 815.50146,
+                        "y": 244.07251,
+                        "z": 1.1012837
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 819.8888,
+                        "y": 244.84644,
+                        "z": -0.52575284
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 841.82056,
+                        "y": 245.11957,
+                        "z": 2.8990116
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 845.2208,
+                        "y": 246.17125,
+                        "z": 7.4453287
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 841.238,
+                        "y": 247.71532,
+                        "z": 4.728413
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 837.0844,
+                        "y": 246.10419,
+                        "z": 3.8153954
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 841.7117,
+                        "y": 246.39902,
+                        "z": 4.1121373
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 820.57654,
+                        "y": 237.6719,
+                        "z": -4.1741643
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 843.6429,
+                        "y": 239.28146,
+                        "z": 0.74785304
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 800.32086,
+                        "y": 248.26003,
+                        "z": 25.116909
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 848.6136,
+                        "y": 251.65614,
+                        "z": 35.41339
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 832.3222,
+                        "y": 241.31898,
+                        "z": -3.639124
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 826.84375,
+                        "y": 281.86203,
+                        "z": 8.748923
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 802.7815,
+                        "y": 263.99545,
+                        "z": 19.959618
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 846.40344,
+                        "y": 267.04865,
+                        "z": 29.268131
+                    }
+                }
+            ],
+            "rollAngle": 6.5413284,
+            "panAngle": 12.275794,
+            "tiltAngle": -11.708925,
+            "detectionConfidence": 0.5658476,
+            "landmarkingConfidence": 0.20742744,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1025,
+                        "y": 307
+                    },
+                    {
+                        "x": 1101,
+                        "y": 307
+                    },
+                    {
+                        "x": 1101,
+                        "y": 395
+                    },
+                    {
+                        "x": 1025,
+                        "y": 395
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1041,
+                        "y": 334
+                    },
+                    {
+                        "x": 1091,
+                        "y": 334
+                    },
+                    {
+                        "x": 1091,
+                        "y": 384
+                    },
+                    {
+                        "x": 1041,
+                        "y": 384
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1056.0177,
+                        "y": 344.70087,
+                        "z": 0.00035961767
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1078.8005,
+                        "y": 347.23682,
+                        "z": 3.214325
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1048.8811,
+                        "y": 338.77637,
+                        "z": 1.5128278
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1063.2135,
+                        "y": 339.63895,
+                        "z": -3.0816
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1074.099,
+                        "y": 340.83884,
+                        "z": -1.531913
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1086.5062,
+                        "y": 342.84576,
+                        "z": 6.847832
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1068.2532,
+                        "y": 344.86533,
+                        "z": -3.0588975
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1068.014,
+                        "y": 357.72668,
+                        "z": -10.899
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1066.4469,
+                        "y": 366.12903,
+                        "z": -6.3231516
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1065.4663,
+                        "y": 374.05795,
+                        "z": -5.3721194
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1056.3839,
+                        "y": 368.9384,
+                        "z": -1.7890669
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1073.9476,
+                        "y": 371.0223,
+                        "z": 0.67515755
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1065.853,
+                        "y": 369.9093,
+                        "z": -4.9517713
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1072.967,
+                        "y": 360.3189,
+                        "z": -1.3819058
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1060.018,
+                        "y": 359.1379,
+                        "z": -3.146249
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1066.872,
+                        "y": 361.5599,
+                        "z": -5.9878583
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1056.5973,
+                        "y": 343.09476,
+                        "z": -1.3606312
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1060.7186,
+                        "y": 345.49164,
+                        "z": 0.72856724
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1056.111,
+                        "y": 346.29666,
+                        "z": -0.30828434
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1051.4282,
+                        "y": 344.52313,
+                        "z": 1.452873
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1055.9535,
+                        "y": 344.68494,
+                        "z": -0.5853161
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1079.1477,
+                        "y": 345.54065,
+                        "z": 1.8351355
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1082.9255,
+                        "y": 347.93835,
+                        "z": 5.9174976
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1078.7284,
+                        "y": 348.73758,
+                        "z": 2.8919213
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1074.3295,
+                        "y": 346.93216,
+                        "z": 2.6571672
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1079.0955,
+                        "y": 347.1983,
+                        "z": 2.66972
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1056.4447,
+                        "y": 336.29086,
+                        "z": -2.0333598
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1080.9016,
+                        "y": 338.94464,
+                        "z": 1.4342818
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1036.6606,
+                        "y": 356.51147,
+                        "z": 24.85462
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1087.8322,
+                        "y": 362.0258,
+                        "z": 32.102222
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1068.8287,
+                        "y": 339.8647,
+                        "z": -3.1248324
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1064.0022,
+                        "y": 384.56772,
+                        "z": -3.0894098
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1039.123,
+                        "y": 370.62384,
+                        "z": 14.687371
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1085.387,
+                        "y": 375.5999,
+                        "z": 21.251541
+                    }
+                }
+            ],
+            "rollAngle": 5.447448,
+            "panAngle": 8.057844,
+            "tiltAngle": 5.1588426,
+            "detectionConfidence": 0.5076452,
+            "landmarkingConfidence": 0.11476706,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1217,
+                        "y": 313
+                    },
+                    {
+                        "x": 1281,
+                        "y": 313
+                    },
+                    {
+                        "x": 1281,
+                        "y": 388
+                    },
+                    {
+                        "x": 1217,
+                        "y": 388
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1225,
+                        "y": 336
+                    },
+                    {
+                        "x": 1275,
+                        "y": 336
+                    },
+                    {
+                        "x": 1275,
+                        "y": 386
+                    },
+                    {
+                        "x": 1225,
+                        "y": 386
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1250.4337,
+                        "y": 354.32446,
+                        "z": -0.0003762539
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1267.2797,
+                        "y": 353.75168,
+                        "z": 8.878231
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1243.9215,
+                        "y": 349.84814,
+                        "z": -2.9671571
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1257.0192,
+                        "y": 351.26694,
+                        "z": -2.3438063
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1265.1815,
+                        "y": 350.8692,
+                        "z": 1.9745001
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1272.7906,
+                        "y": 348.66467,
+                        "z": 11.877451
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1260.7134,
+                        "y": 354.848,
+                        "z": 0.85958636
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1261.6796,
+                        "y": 367.22098,
+                        "z": -0.23223385
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1258.6909,
+                        "y": 372.1819,
+                        "z": 5.7280445
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1257.151,
+                        "y": 377.95294,
+                        "z": 9.048804
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1249.0607,
+                        "y": 373.4128,
+                        "z": 7.4348197
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1262.6835,
+                        "y": 372.7903,
+                        "z": 14.441803
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1257.6241,
+                        "y": 374.60464,
+                        "z": 7.929608
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1262.807,
+                        "y": 365.8125,
+                        "z": 8.804159
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1253.0767,
+                        "y": 365.91278,
+                        "z": 3.8504546
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1259.265,
+                        "y": 368.4872,
+                        "z": 4.390514
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1250.9885,
+                        "y": 353.5292,
+                        "z": -1.576253
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1253.6396,
+                        "y": 354.31012,
+                        "z": 1.8268831
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1250.1368,
+                        "y": 355.57492,
+                        "z": 0.20366931
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1246.0433,
+                        "y": 353.88513,
+                        "z": -0.3783103
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1250.1655,
+                        "y": 354.48267,
+                        "z": -0.619844
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1268.0171,
+                        "y": 352.9353,
+                        "z": 7.368206
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1269.8483,
+                        "y": 353.04715,
+                        "z": 12.120944
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1267.1539,
+                        "y": 354.9966,
+                        "z": 9.141574
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1263.9349,
+                        "y": 353.84442,
+                        "z": 7.191374
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1267.6525,
+                        "y": 353.88568,
+                        "z": 8.538426
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1251.4446,
+                        "y": 348.65097,
+                        "z": -4.561996
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1269.9272,
+                        "y": 348.0055,
+                        "z": 5.139344
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1227.5676,
+                        "y": 355.3361,
+                        "z": 16.875061
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1266.2157,
+                        "y": 353.9534,
+                        "z": 37.19274
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1261.3993,
+                        "y": 351.03937,
+                        "z": -0.87752825
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1254.7537,
+                        "y": 385.103,
+                        "z": 14.060621
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1231.223,
+                        "y": 369.5307,
+                        "z": 15.358197
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1266.1714,
+                        "y": 368.27905,
+                        "z": 33.698826
+                    }
+                }
+            ],
+            "rollAngle": 8.243839,
+            "panAngle": 29.382502,
+            "tiltAngle": -18.739988,
+            "detectionConfidence": 0.51238877,
+            "landmarkingConfidence": 0.12899809,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 816,
+                        "y": 441
+                    },
+                    {
+                        "x": 886,
+                        "y": 441
+                    },
+                    {
+                        "x": 886,
+                        "y": 522
+                    },
+                    {
+                        "x": 816,
+                        "y": 522
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 825,
+                        "y": 467
+                    },
+                    {
+                        "x": 875,
+                        "y": 467
+                    },
+                    {
+                        "x": 875,
+                        "y": 517
+                    },
+                    {
+                        "x": 825,
+                        "y": 517
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 853.3411,
+                        "y": 484.05896,
+                        "z": -0.00025775167
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 869.7925,
+                        "y": 478.1463,
+                        "z": 11.211289
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 845.09155,
+                        "y": 481.48132,
+                        "z": -3.811834
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 858.89923,
+                        "y": 478.42682,
+                        "z": -2.0031462
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 867.0899,
+                        "y": 475.4389,
+                        "z": 3.532107
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 873.4955,
+                        "y": 471.02866,
+                        "z": 15.18748
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 863.88696,
+                        "y": 481.23776,
+                        "z": 1.7829931
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 869.48706,
+                        "y": 493.70303,
+                        "z": 0.2222346
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 867.7392,
+                        "y": 500.2825,
+                        "z": 6.346894
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 867.9644,
+                        "y": 507.0658,
+                        "z": 9.664635
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 858.1866,
+                        "y": 504.85132,
+                        "z": 7.3085904
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 871.4669,
+                        "y": 500.01892,
+                        "z": 16.264101
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 867.32904,
+                        "y": 503.31705,
+                        "z": 8.586513
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 869.5053,
+                        "y": 492.34103,
+                        "z": 10.310577
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 860.2711,
+                        "y": 495.67056,
+                        "z": 4.06353
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 867.1004,
+                        "y": 496.12613,
+                        "z": 5.050572
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 853.51843,
+                        "y": 483.0779,
+                        "z": -1.7453891
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 856.24384,
+                        "y": 483.20905,
+                        "z": 2.2028263
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 853.1954,
+                        "y": 485.61948,
+                        "z": 0.061247896
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 848.37384,
+                        "y": 485.30923,
+                        "z": -0.88247526
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 852.9288,
+                        "y": 484.43472,
+                        "z": -0.7912644
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 870.39606,
+                        "y": 476.92972,
+                        "z": 9.65716
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 871.9951,
+                        "y": 476.69247,
+                        "z": 15.047743
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 870.1068,
+                        "y": 479.50546,
+                        "z": 11.459376
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 866.3831,
+                        "y": 479.49924,
+                        "z": 9.033041
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 870.27014,
+                        "y": 478.1334,
+                        "z": 10.888958
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 852.44946,
+                        "y": 477.62616,
+                        "z": -4.819438
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 870.76764,
+                        "y": 470.95255,
+                        "z": 7.5507026
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 828.3518,
+                        "y": 494.47867,
+                        "z": 16.413689
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 866.67865,
+                        "y": 480.4637,
+                        "z": 42.299065
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 863.41296,
+                        "y": 476.79724,
+                        "z": 0.051234383
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 867.6638,
+                        "y": 515.69025,
+                        "z": 14.736286
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 837.4213,
+                        "y": 507.88522,
+                        "z": 14.5616255
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 872.07025,
+                        "y": 495.2655,
+                        "z": 37.964066
+                    }
+                }
+            ],
+            "rollAngle": -9.389715,
+            "panAngle": 33.917526,
+            "tiltAngle": -16.224941,
+            "detectionConfidence": 0.504144,
+            "landmarkingConfidence": 0.15099715,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 678,
+                        "y": 413
+                    },
+                    {
+                        "x": 746,
+                        "y": 413
+                    },
+                    {
+                        "x": 746,
+                        "y": 492
+                    },
+                    {
+                        "x": 678,
+                        "y": 492
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 694,
+                        "y": 437
+                    },
+                    {
+                        "x": 744,
+                        "y": 437
+                    },
+                    {
+                        "x": 744,
+                        "y": 487
+                    },
+                    {
+                        "x": 694,
+                        "y": 487
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 708.2989,
+                        "y": 453.85217,
+                        "z": -0.00033590093
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 727.3761,
+                        "y": 449.78064,
+                        "z": 7.297361
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 700.9764,
+                        "y": 450.39108,
+                        "z": -1.4025464
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 714.4033,
+                        "y": 448.62732,
+                        "z": -2.5590246
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 723.4205,
+                        "y": 446.509,
+                        "z": 0.9065231
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 732.2921,
+                        "y": 443.53094,
+                        "z": 10.601239
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 719.8987,
+                        "y": 451.7642,
+                        "z": -0.3360059
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 723.5436,
+                        "y": 463.87305,
+                        "z": -3.7579284
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 722.77637,
+                        "y": 470.5177,
+                        "z": 1.9632045
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 723.2152,
+                        "y": 477.26852,
+                        "z": 4.6193986
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 713.76166,
+                        "y": 474.3858,
+                        "z": 4.73967
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 728.4664,
+                        "y": 471.2127,
+                        "z": 10.393378
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 722.6609,
+                        "y": 473.55835,
+                        "z": 3.972464
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 725.89923,
+                        "y": 463.3091,
+                        "z": 5.7236257
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 715.5764,
+                        "y": 465.4976,
+                        "z": 1.7801254
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 722.21875,
+                        "y": 466.41653,
+                        "z": 1.1401684
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 709.0093,
+                        "y": 452.61346,
+                        "z": -1.4063227
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 712.45135,
+                        "y": 453.13165,
+                        "z": 1.6545666
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 708.80676,
+                        "y": 455.18085,
+                        "z": 0.1916341
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 704.2566,
+                        "y": 454.48096,
+                        "z": 0.4190705
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 708.5856,
+                        "y": 453.93887,
+                        "z": -0.46361414
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 727.7313,
+                        "y": 448.56354,
+                        "z": 5.793207
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 730.4252,
+                        "y": 448.82227,
+                        "z": 10.480254
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 727.6558,
+                        "y": 451.12082,
+                        "z": 7.392563
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 723.6313,
+                        "y": 450.6147,
+                        "z": 5.961617
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 727.805,
+                        "y": 449.7901,
+                        "z": 6.9018035
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 707.774,
+                        "y": 447.11603,
+                        "z": -3.7207143
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 728.0803,
+                        "y": 442.72034,
+                        "z": 4.087657
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 688.7082,
+                        "y": 463.3319,
+                        "z": 20.523188
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 731.20355,
+                        "y": 454.15677,
+                        "z": 36.89144
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 719.1441,
+                        "y": 447.32858,
+                        "z": -1.5960149
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 723.4256,
+                        "y": 485.8365,
+                        "z": 8.920179
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 695.7628,
+                        "y": 476.60406,
+                        "z": 15.999687
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 734.17474,
+                        "y": 468.3109,
+                        "z": 30.780252
+                    }
+                }
+            ],
+            "rollAngle": -8.316705,
+            "panAngle": 20.958996,
+            "tiltAngle": -10.259418,
+            "detectionConfidence": 0.5034123,
+            "landmarkingConfidence": 0.10685179,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1815,
+                        "y": 639
+                    },
+                    {
+                        "x": 1885,
+                        "y": 639
+                    },
+                    {
+                        "x": 1885,
+                        "y": 720
+                    },
+                    {
+                        "x": 1815,
+                        "y": 720
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1812,
+                        "y": 652
+                    },
+                    {
+                        "x": 1871,
+                        "y": 652
+                    },
+                    {
+                        "x": 1871,
+                        "y": 711
+                    },
+                    {
+                        "x": 1812,
+                        "y": 711
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1828.3818,
+                        "y": 679.7511,
+                        "z": -0.00031143057
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1833.0956,
+                        "y": 675.0228,
+                        "z": -19.444712
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1828.2545,
+                        "y": 676.5011,
+                        "z": 8.117517
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1825.302,
+                        "y": 673.81665,
+                        "z": -4.9039936
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1827.593,
+                        "y": 671.45807,
+                        "z": -14.393958
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1836.2054,
+                        "y": 668.54004,
+                        "z": -24.532898
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1826.5452,
+                        "y": 676.9083,
+                        "z": -10.666919
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1821.7023,
+                        "y": 688.60767,
+                        "z": -14.697432
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1827.088,
+                        "y": 695.73883,
+                        "z": -15.114535
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1829.208,
+                        "y": 702.6221,
+                        "z": -16.27258
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1830.9194,
+                        "y": 700.3569,
+                        "z": -6.6823764
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1833.7794,
+                        "y": 697.2832,
+                        "z": -21.847212
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1828.8806,
+                        "y": 698.9215,
+                        "z": -15.447091
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1830.6501,
+                        "y": 688.537,
+                        "z": -18.32677
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1828.2844,
+                        "y": 691.1398,
+                        "z": -7.6876707
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1826.4248,
+                        "y": 691.4515,
+                        "z": -14.202897
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1826.9498,
+                        "y": 678.3877,
+                        "z": 0.0010798135
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1829.4666,
+                        "y": 678.9223,
+                        "z": -3.8720028
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1828.3821,
+                        "y": 681.0775,
+                        "z": -0.30449474
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1829.3275,
+                        "y": 680.66345,
+                        "z": 4.385194
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1827.8889,
+                        "y": 679.8055,
+                        "z": 0.23703943
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1831.709,
+                        "y": 673.64,
+                        "z": -19.545982
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1836.0206,
+                        "y": 674.05316,
+                        "z": -22.950405
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1833.2097,
+                        "y": 676.562,
+                        "z": -19.859623
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1832.2904,
+                        "y": 676.08826,
+                        "z": -15.592911
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1832.7379,
+                        "y": 674.9482,
+                        "z": -19.82484
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1825.2194,
+                        "y": 672.7705,
+                        "z": 1.8830295
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1830.3766,
+                        "y": 667.61115,
+                        "z": -19.333506
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1851.252,
+                        "y": 691.5586,
+                        "z": 16.83239
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1864.1981,
+                        "y": 680.0396,
+                        "z": -28.626371
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1825.6852,
+                        "y": 672.44073,
+                        "z": -9.790607
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1832.9165,
+                        "y": 711.5367,
+                        "z": -17.538744
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1844.8854,
+                        "y": 704.1385,
+                        "z": 9.795586
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1854.6956,
+                        "y": 694.4959,
+                        "z": -30.68251
+                    }
+                }
+            ],
+            "rollAngle": -5.287544,
+            "panAngle": -75.48655,
+            "tiltAngle": 12.394553,
+            "detectionConfidence": 0.6297912,
+            "landmarkingConfidence": 0.15053046,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "POSSIBLE",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/08rrcl",
+            "description": "water transportation",
+            "score": 0.92404276,
+            "topicality": 0.92404276
+        },
+        {
+            "mid": "/m/0838f",
+            "description": "water",
+            "score": 0.92019355,
+            "topicality": 0.92019355
+        },
+        {
+            "mid": "/m/02hrx1",
+            "description": "inflatable boat",
+            "score": 0.9007223,
+            "topicality": 0.9007223
+        },
+        {
+            "mid": "/m/02gw96",
+            "description": "rigid hulled inflatable boat",
+            "score": 0.8849112,
+            "topicality": 0.8849112
+        },
+        {
+            "mid": "/m/019jd",
+            "description": "boat",
+            "score": 0.8353696,
+            "topicality": 0.8353696
+        },
+        {
+            "mid": "/m/0ffjr",
+            "description": "personal protective equipment",
+            "score": 0.78501624,
+            "topicality": 0.78501624
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.710935,
+            "topicality": 0.710935
+        },
+        {
+            "mid": "/m/01zpz",
+            "description": "crew",
+            "score": 0.67189676,
+            "topicality": 0.67189676
+        },
+        {
+            "mid": "/m/0bp3j53",
+            "description": "boats and boating equipment and supplies",
+            "score": 0.6620267,
+            "topicality": 0.6620267
+        },
+        {
+            "mid": "/m/01rzcn",
+            "description": "watercraft",
+            "score": 0.6045978,
+            "topicality": 0.6045978
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.58924055,
+            "topicality": 0.58924055
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "description": "fun",
+            "score": 0.51483876,
+            "topicality": 0.51483876
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "en",
+            "description": "EUNAVFOR\nMed\nO EUNAVFOR MED\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1737,
+                        "y": 1233
+                    },
+                    {
+                        "x": 1990,
+                        "y": 1233
+                    },
+                    {
+                        "x": 1990,
+                        "y": 1314
+                    },
+                    {
+                        "x": 1737,
+                        "y": 1314
+                    }
+                ]
+            }
+        },
+        {
+            "description": "EUNAVFOR",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1840,
+                        "y": 1233
+                    },
+                    {
+                        "x": 1892,
+                        "y": 1233
+                    },
+                    {
+                        "x": 1892,
+                        "y": 1241
+                    },
+                    {
+                        "x": 1840,
+                        "y": 1241
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Med",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1872,
+                        "y": 1245
+                    },
+                    {
+                        "x": 1892,
+                        "y": 1244
+                    },
+                    {
+                        "x": 1892,
+                        "y": 1252
+                    },
+                    {
+                        "x": 1872,
+                        "y": 1253
+                    }
+                ]
+            }
+        },
+        {
+            "description": "O",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1737,
+                        "y": 1294
+                    },
+                    {
+                        "x": 1758,
+                        "y": 1294
+                    },
+                    {
+                        "x": 1758,
+                        "y": 1314
+                    },
+                    {
+                        "x": 1737,
+                        "y": 1314
+                    }
+                ]
+            }
+        },
+        {
+            "description": "EUNAVFOR",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1766,
+                        "y": 1294
+                    },
+                    {
+                        "x": 1920,
+                        "y": 1294
+                    },
+                    {
+                        "x": 1920,
+                        "y": 1314
+                    },
+                    {
+                        "x": 1766,
+                        "y": 1314
+                    }
+                ]
+            }
+        },
+        {
+            "description": "MED",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1931,
+                        "y": 1295
+                    },
+                    {
+                        "x": 1990,
+                        "y": 1295
+                    },
+                    {
+                        "x": 1990,
+                        "y": 1313
+                    },
+                    {
+                        "x": 1931,
+                        "y": 1313
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 47,
+                        "green": 49,
+                        "blue": 57
+                    },
+                    "score": 0.16921382,
+                    "pixelFraction": 0.11360269
+                },
+                {
+                    "color": {
+                        "red": 185,
+                        "green": 198,
+                        "blue": 224
+                    },
+                    "score": 0.021518592,
+                    "pixelFraction": 0.15239057
+                },
+                {
+                    "color": {
+                        "red": 97,
+                        "green": 116,
+                        "blue": 86
+                    },
+                    "score": 0.0068112398,
+                    "pixelFraction": 0.001077441
+                },
+                {
+                    "color": {
+                        "red": 38,
+                        "green": 57,
+                        "blue": 37
+                    },
+                    "score": 0.0021294693,
+                    "pixelFraction": 0.00040404042
+                },
+                {
+                    "color": {
+                        "red": 26,
+                        "green": 27,
+                        "blue": 34
+                    },
+                    "score": 0.13324195,
+                    "pixelFraction": 0.10639731
+                },
+                {
+                    "color": {
+                        "red": 42,
+                        "green": 48,
+                        "blue": 71
+                    },
+                    "score": 0.12853868,
+                    "pixelFraction": 0.07878788
+                },
+                {
+                    "color": {
+                        "red": 74,
+                        "green": 83,
+                        "blue": 108
+                    },
+                    "score": 0.10281918,
+                    "pixelFraction": 0.053333335
+                },
+                {
+                    "color": {
+                        "red": 23,
+                        "green": 28,
+                        "blue": 46
+                    },
+                    "score": 0.093442574,
+                    "pixelFraction": 0.0660606
+                },
+                {
+                    "color": {
+                        "red": 81,
+                        "green": 82,
+                        "blue": 90
+                    },
+                    "score": 0.08245387,
+                    "pixelFraction": 0.054141413
+                },
+                {
+                    "color": {
+                        "red": 25,
+                        "green": 47,
+                        "blue": 89
+                    },
+                    "score": 0.04533697,
+                    "pixelFraction": 0.018316498
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 2047
+                        },
+                        {
+                            "x": 2047,
+                            "y": 1356
+                        },
+                        {
+                            "y": 1356
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.38
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "en"
+                        }
+                    ]
+                },
+                "width": 2048,
+                "height": 1357,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 1840,
+                                    "y": 1233
+                                },
+                                {
+                                    "x": 1892,
+                                    "y": 1233
+                                },
+                                {
+                                    "x": 1892,
+                                    "y": 1253
+                                },
+                                {
+                                    "x": 1840,
+                                    "y": 1253
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 1840,
+                                            "y": 1233
+                                        },
+                                        {
+                                            "x": 1892,
+                                            "y": 1233
+                                        },
+                                        {
+                                            "x": 1892,
+                                            "y": 1253
+                                        },
+                                        {
+                                            "x": 1840,
+                                            "y": 1253
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "su"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 1840,
+                                                    "y": 1233
+                                                },
+                                                {
+                                                    "x": 1892,
+                                                    "y": 1233
+                                                },
+                                                {
+                                                    "x": 1892,
+                                                    "y": 1241
+                                                },
+                                                {
+                                                    "x": 1840,
+                                                    "y": 1241
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1840,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1844,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1844,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1840,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1845,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1852,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1852,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1845,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1853,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1859,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1859,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1853,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1860,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1866,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1866,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1860,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1867,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1872,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1872,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1867,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "V"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1874,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1879,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1879,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1874,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "F"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1880,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1886,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1886,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1880,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1887,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1892,
+                                                            "y": 1233
+                                                        },
+                                                        {
+                                                            "x": 1892,
+                                                            "y": 1241
+                                                        },
+                                                        {
+                                                            "x": 1887,
+                                                            "y": 1241
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 1872,
+                                                    "y": 1245
+                                                },
+                                                {
+                                                    "x": 1892,
+                                                    "y": 1244
+                                                },
+                                                {
+                                                    "x": 1892,
+                                                    "y": 1252
+                                                },
+                                                {
+                                                    "x": 1872,
+                                                    "y": 1253
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1872,
+                                                            "y": 1245
+                                                        },
+                                                        {
+                                                            "x": 1879,
+                                                            "y": 1245
+                                                        },
+                                                        {
+                                                            "x": 1879,
+                                                            "y": 1252
+                                                        },
+                                                        {
+                                                            "x": 1872,
+                                                            "y": 1252
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "M"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1881,
+                                                            "y": 1247
+                                                        },
+                                                        {
+                                                            "x": 1885,
+                                                            "y": 1247
+                                                        },
+                                                        {
+                                                            "x": 1885,
+                                                            "y": 1253
+                                                        },
+                                                        {
+                                                            "x": 1881,
+                                                            "y": 1253
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1887,
+                                                            "y": 1244
+                                                        },
+                                                        {
+                                                            "x": 1892,
+                                                            "y": 1244
+                                                        },
+                                                        {
+                                                            "x": 1892,
+                                                            "y": 1252
+                                                        },
+                                                        {
+                                                            "x": 1887,
+                                                            "y": 1252
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "d"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 1737,
+                                    "y": 1294
+                                },
+                                {
+                                    "x": 1990,
+                                    "y": 1294
+                                },
+                                {
+                                    "x": 1990,
+                                    "y": 1314
+                                },
+                                {
+                                    "x": 1737,
+                                    "y": 1314
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 1737,
+                                            "y": 1294
+                                        },
+                                        {
+                                            "x": 1990,
+                                            "y": 1294
+                                        },
+                                        {
+                                            "x": 1990,
+                                            "y": 1314
+                                        },
+                                        {
+                                            "x": 1737,
+                                            "y": 1314
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 1737,
+                                                    "y": 1294
+                                                },
+                                                {
+                                                    "x": 1758,
+                                                    "y": 1294
+                                                },
+                                                {
+                                                    "x": 1758,
+                                                    "y": 1314
+                                                },
+                                                {
+                                                    "x": 1737,
+                                                    "y": 1314
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1737,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1758,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1758,
+                                                            "y": 1314
+                                                        },
+                                                        {
+                                                            "x": 1737,
+                                                            "y": 1314
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "su"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 1766,
+                                                    "y": 1294
+                                                },
+                                                {
+                                                    "x": 1920,
+                                                    "y": 1294
+                                                },
+                                                {
+                                                    "x": 1920,
+                                                    "y": 1314
+                                                },
+                                                {
+                                                    "x": 1766,
+                                                    "y": 1314
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1766,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1784,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1784,
+                                                            "y": 1314
+                                                        },
+                                                        {
+                                                            "x": 1766,
+                                                            "y": 1314
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1785,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1802,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1802,
+                                                            "y": 1314
+                                                        },
+                                                        {
+                                                            "x": 1785,
+                                                            "y": 1314
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1806,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1823,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1823,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1806,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1825,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1843,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1843,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1825,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1844,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1861,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1861,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1844,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "V"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1864,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1881,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1881,
+                                                            "y": 1314
+                                                        },
+                                                        {
+                                                            "x": 1864,
+                                                            "y": 1314
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "F"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1882,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1900,
+                                                            "y": 1294
+                                                        },
+                                                        {
+                                                            "x": 1900,
+                                                            "y": 1314
+                                                        },
+                                                        {
+                                                            "x": 1882,
+                                                            "y": 1314
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1902,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1920,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1920,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1902,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 1931,
+                                                    "y": 1295
+                                                },
+                                                {
+                                                    "x": 1990,
+                                                    "y": 1295
+                                                },
+                                                {
+                                                    "x": 1990,
+                                                    "y": 1313
+                                                },
+                                                {
+                                                    "x": 1931,
+                                                    "y": 1313
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1931,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1951,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1951,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1931,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "M"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1954,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1970,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1970,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1954,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 1972,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1990,
+                                                            "y": 1295
+                                                        },
+                                                        {
+                                                            "x": 1990,
+                                                            "y": 1313
+                                                        },
+                                                        {
+                                                            "x": 1972,
+                                                            "y": 1313
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "D"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "EUNAVFOR\nMed\nO EUNAVFOR MED\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0_6t_z8",
+                "score": 0.88995,
+                "description": "European Union"
+            },
+            {
+                "entityId": "/m/01qsv6",
+                "score": 0.7255,
+                "description": "Human trafficking"
+            },
+            {
+                "entityId": "/m/0ckys",
+                "score": 0.7037,
+                "description": "Non-Governmental Organisation"
+            },
+            {
+                "entityId": "/m/072yh",
+                "score": 0.7018,
+                "description": "Smuggling"
+            },
+            {
+                "entityId": "/g/11b7rv87bf",
+                "score": 0.59505,
+                "description": "Operation Sophia"
+            },
+            {
+                "entityId": "/m/0hywf",
+                "score": 0.5837,
+                "description": "People smuggling"
+            },
+            {
+                "entityId": "/m/02j9z",
+                "score": 0.54705,
+                "description": "Europe"
+            },
+            {
+                "entityId": "/m/0qb7t",
+                "score": 0.4831,
+                "description": "Organization"
+            },
+            {
+                "entityId": "/g/11f0zs2k39",
+                "score": 0.4797
+            },
+            {
+                "entityId": "/m/0h5df0",
+                "score": 0.4661,
+                "description": "Illegal immigration"
+            },
+            {
+                "entityId": "/m/08pkd5",
+                "score": 0.4143,
+                "description": "European Border and Coast Guard Agency"
+            },
+            {
+                "entityId": "/m/0dgw9r",
+                "score": 0.3937,
+                "description": "Human"
+            },
+            {
+                "entityId": "/g/120x74sm",
+                "score": 0.3842,
+                "description": "Human migration"
+            },
+            {
+                "entityId": "/t/2529y1ls3hfll",
+                "score": 0.3786
+            },
+            {
+                "entityId": "/m/0cbx95",
+                "score": 0.3677,
+                "description": "Immigration"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8.jpg"
+            },
+            {
+                "url": "x-raw-image:///d8aa660904ad5e0e555826cf4b7f33b6d0c4738da6d11cab2816d7f0f692c580"
+            },
+            {
+                "url": "http://www.renegadetribune.com/wp-content/uploads/2016/12/Operation-Sophia-4-1024x678.jpg"
+            },
+            {
+                "url": "https://www.meretmarine.com/sites/default/files/styles/mem_846_article_content/public/new_objets_drupal/20160901225718_13517535_1026869507388963_3251979066416080802_o.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/www.barenakedislam.com/wp-content/uploads/2017/08/e9095a5e030a69d7f217f82b396a2be8.jpg?resize=800%2C530"
+            },
+            {
+                "url": "http://www.barenakedislam.com/wp-content/uploads/2017/09/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/www.barenakedislam.com/wp-content/uploads/2017/09/e9095a5e030a69d7f217f82b396a2be8.jpg?resize=800%2C530"
+            },
+            {
+                "url": "http://www.barenakedislam.com/wp-content/uploads/2017/08/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg"
+            },
+            {
+                "url": "http://www.difesaonline.it/sites/default/files/article/230718%20ragazzi99.jpg"
+            },
+            {
+                "url": "http://www.difesaonline.it/sites/default/files/styles/large/public/article/230718%20ragazzi99.jpg?itok=f1F9O8Vk"
+            },
+            {
+                "url": "http://www.difesaonline.it/sites/default/files/styles/large/public/article/100717%20libia%20eunav.jpg?itok=VZ8w1YW1"
+            },
+            {
+                "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/olodonation.com/wp-content/uploads/2018/03/images-7-1.jpeg"
+            },
+            {
+                "url": "https://cache0.piqd.de/system/portfolio_item_images/production/1v0/p/k/f8d02776-8826-41e1-93e1-a640569c2919..png"
+            },
+            {
+                "url": "https://dutchdl.files.wordpress.com/2017/01/screenshot_5110.png"
+            },
+            {
+                "url": "http://www.legis.mk/uploads/thumbs/2315.jpg"
+            },
+            {
+                "url": "http://www.surysur.net/site/uploads/2018/07/mediterraneo-trata.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.libyanexpress.com/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=http%3A%2F%2Fwww.libyanexpress.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fe9095a5e030a69d7f217f82b396a2be8-800x-620x375.jpg"
+            },
+            {
+                "url": "https://artigercek.s3.amazonaws.com/uploads/1/e/ddzzpcw4hESZ3CvQidoKJRmGFmDtQz82KA4fwFco.jpeg"
+            },
+            {
+                "url": "https://www.libyanexpress.com/wp-content/uploads/2016/07/e9095a5e030a69d7f217f82b396a2be8-800x-620x375.jpg"
+            },
+            {
+                "url": "http://missionfcv.org/wp-content/uploads/2016/02/e9095a5e030a69d7f217f82b396a2be8-356x200.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg?resize=350%2C200"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/FSKfROrrKjQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAhkIYAQ==&rs=AOn4CLA9T7ihq0wwvSJAcbtlSy57ZUj8gA"
+            },
+            {
+                "url": "http://www.difesaonline.it/sites/default/files/styles/post_horizontal/public/article/230718%20ragazzi99.jpg?itok=5fDVe5_T"
+            },
+            {
+                "url": "https://careersdocbox.com/docs-images/77/76053598/images/28-0.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.renegadetribune.com/ngos-mediterranean-involved-industrial-scale-human-trafficking/",
+                "pageTitle": "<b>NGOs</b> in Mediterranean Involved With Industrial-Scale <b>Human</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.renegadetribune.com/wp-content/uploads/2016/12/Operation-Sophia-4-1024x678.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://euobserver.com/migration/138656",
+                "pageTitle": "<b>NGOs</b> divided by Italy&#39;s new rescue code - EUobserver",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    },
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://euobserver.com/opinion/138458",
+                "pageTitle": "Italy&#39;s action against <b>NGOs</b> is wrong - EUobserver",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    },
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://euobserver.com/migration/134278",
+                "pageTitle": "Nato to join EU warships in Libya migrant operation - EUobserver",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    },
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://missionfcv.org/",
+                "pageTitle": "Mission \u2013 FCV",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://missionfcv.org/wp-content/uploads/2016/02/e9095a5e030a69d7f217f82b396a2be8-356x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://barenakedislam.com/2016/12/05/human-trafficking-ngos-in-cahoots-with-eu-leaders-are-smuggling-african-muslims-into-europe-on-a-massive-scale/",
+                "pageTitle": "<b>Human trafficking NGOs</b> in cahoots with EU leaders are smuggling ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://euobserver.com/migration/139962",
+                "pageTitle": "EU monitoring <b>of</b> Libyan coastguard done by Libyans - EUobserver",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    },
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://barenakedislam.com/2017/08/12/european-ngo-suspends-its-taxi-service-for-picking-up-muslim-illegal-aliens-from-human-traffickers-and-delivering-them-to-europe/",
+                "pageTitle": "EUROPEAN <b>NGO</b> suspends its &#39;taxi service&#39; <b>for</b> picking up Muslim ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2017/08/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zeitgeist77.wordpress.com/2016/10/18/paris-culture-shock-are-you-planning-a-trip-there-anytime-soon/",
+                "pageTitle": "PARIS CULTURE SHOCK! Are you planning a trip there anytime ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg?resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csee-etuce.org/en/news/archive/2619-european-commisison-proposes-european-network-of-immigration-liasion-officers",
+                "pageTitle": "European Commisison proposes European network <b>of</b> immigration ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.libyanexpress.com/nato-announces-sea-guardian-mission-to-protect-libyan-coast-along-with-eus-sophia/",
+                "pageTitle": "NATO announces Sea Guardian mission to protect Libyan coast ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.libyanexpress.com/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=http%3A%2F%2Fwww.libyanexpress.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fe9095a5e030a69d7f217f82b396a2be8-800x-620x375.jpg"
+                    },
+                    {
+                        "url": "https://www.libyanexpress.com/wp-content/uploads/2016/07/e9095a5e030a69d7f217f82b396a2be8-800x-620x375.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.legis.mk/articles",
+                "pageTitle": "Articles - Legis.mk",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.legis.mk/uploads/thumbs/2315.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zeitgeist77.wordpress.com/category/immigration/islamic-wave/islamisation/page/21/?iframe=true&preview=true%2Ffeed%2F",
+                "pageTitle": "islamisation | zeitgeist777 | Page 21 - WordPress.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zeitgeist77.wordpress.com/category/arab-spring-menar/islamisation/page/21/",
+                "pageTitle": "islamisation | zeitgeist777 | Page 21 - WordPress.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://legis.mk/news/2315/letting-people-drown-is-not-an-eu-value",
+                "pageTitle": "Letting <b>people</b> drown is not an EU value - Legis.mk",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://legis.mk/uploads/thumbs/2315.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zeitgeist77.wordpress.com/category/middle-east-2/islamisation/page/21/",
+                "pageTitle": "islamisation | zeitgeist777 | Page 21 - WordPress.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://careersdocbox.com/US_Military/76053598-Missions-and-operations.html",
+                "pageTitle": "MISSIONS AND OPERATIONS - PDF - Careersdocbox",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://careersdocbox.com/docs-images/77/76053598/images/28-0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://half-pencil.loan/peek/morally-dubious-libyan-coastguard",
+                "pageTitle": "Morally Dubious Libyan Coastguard - Half Pencil",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.renegadetribune.com/wp-content/uploads/2016/12/Operation-Sophia-4-1024x678.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pakistantoday.com.pk/2018/08/24/italy-threatens-to-pull-eu-funds-over-migrant-boat-crisis/",
+                "pageTitle": "Italy threatens to pull EU funds over migrant boat crisis | Pakistan ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache.pakistantoday.com.pk/it-17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pakistantoday.com.pk/national/page/4543/",
+                "pageTitle": "National | Pakistan Today | Page 4543",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache.pakistantoday.com.pk/it-17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pakistantoday.com.pk/tag/empowerment-of-girls/",
+                "pageTitle": "empowerment <b>of</b> girls | Pakistan Today",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache.pakistantoday.com.pk/it-17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pakistantoday.com.pk/tag/state-of-the-art-hospital/",
+                "pageTitle": "state-<b>of</b>-the-art hospital | Pakistan Today",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache.pakistantoday.com.pk/it-17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://barenakedislam.com/2017/09/03/netherlands-dutch-identitarian-resistance-movement-occupies-mosque-under-construction-to-protest-proliferation-of-more-islamic-jihad-indoctrination-centers/",
+                "pageTitle": "NETHERLANDS: Dutch Identitarian Resistance movement occupies ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2017/09/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/sea-guardian-b3.html",
+                "pageTitle": "Sea Guardian | www.picswe.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.libyanexpress.com/wp-content/uploads/2016/07/e9095a5e030a69d7f217f82b396a2be8-800x-620x375.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://olodonation.com/2018/03/hundreds-of-migrants-picked-up-between-libya-and-italy/",
+                "pageTitle": "Hundreds <b>of</b> migrants picked up between Libya and Italy | Nigeria&#39;s ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/olodonation.com/wp-content/uploads/2018/03/images-7-1.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/www-amazons-boat-migrants-newspictures-bombs-8a.html",
+                "pageTitle": "Www Amazons Boat Migrants Newspictures Bombs | www ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.you4.it/world/u-n-imposes-sanctions-on-6-for-trafficking-libyan-migrants/",
+                "pageTitle": "U.N. Imposes Sanctions on 6 <b>for Trafficking</b> Libyan Migrants \u2013 You4it ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.you4.it/wp-content/uploads/2018/06/u-n-imposes-sanctions-on-6-for-trafficking-libyan-migrants.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.difesaonline.it/evidenza/punti-di-vista/i-giovani-soldati-della-classe-1899-i-nostri-eroi-di-allora-mentre-oggi-c%C3%A8",
+                "pageTitle": "I giovani soldati della Classe 1899: i nostri eroi di allora. Mentre oggi ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/styles/large/public/article/230718%20ragazzi99.jpg?itok=f1F9O8Vk"
+                    },
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/article/230718%20ragazzi99.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.difesaonline.it/evidenza/lettere-al-direttore/immigrazione-italia-non-capisci-arrangiati",
+                "pageTitle": "Immigrazione: Italia non capisci? &quot;Arrangiati!&quot; - Difesa Online",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/styles/large/public/article/100717%20libia%20eunav.jpg?itok=VZ8w1YW1"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.difesaonline.it/frontpage?page=2&start=80",
+                "pageTitle": "3 - Difesa Online - Notizie dal mondo militare",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/styles/post_horizontal/public/article/230718%20ragazzi99.jpg?itok=5fDVe5_T"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.defensa.gob.es/Galerias/gabinete/red/2017/RED-337.pdf",
+                "pageTitle": "RED versi\u00f3n impresa - Ministerio de Defensa de Espa\u00f1a",
+                "fullMatchingImages": [
+                    {
+                        "url": "x-raw-image:///d8aa660904ad5e0e555826cf4b7f33b6d0c4738da6d11cab2816d7f0f692c580"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csee-etuce.org/fr/actualites/archive/2635-european-commisison-proposes-european-network-of-immigration-liasion-officers-3",
+                "pageTitle": "La Commission europ\u00e9enne propose la cr\u00e9ation d&#39;un r\u00e9seau ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.meretmarine.com/fr/content/migrants-en-mediterranee-loperation-europeenne-sophia-evolue",
+                "pageTitle": "Migrants en M\u00e9diterran\u00e9e : L&#39;op\u00e9ration europ\u00e9enne Sophia \u00e9volue ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.meretmarine.com/sites/default/files/styles/mem_846_article_content/public/new_objets_drupal/20160901225718_13517535_1026869507388963_3251979066416080802_o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.piqd.de/flucht-und-einwanderung/die-militarisierung-der-humanitaren-krise-nato-im-grenzschutz",
+                "pageTitle": "Die Militarisierung der humanit\u00e4ren Krise: Nato im Grenzschutz - Piqd",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache0.piqd.de/system/portfolio_item_images/production/1v0/p/k/f8d02776-8826-41e1-93e1-a640569c2919..png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csee-etuce.org/fr/actualites/archive?start=12",
+                "pageTitle": "Archive - Comit\u00e9 syndical europ\u00e9en de l&#39;\u00e9ducation",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.surysur.net/la-esclavitud-en-el-siglo-xxi-el-flagelo-de-la-trata-de-personas/",
+                "pageTitle": "La esclavitud en el siglo XXI: el flagelo de la Trata de personas ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.surysur.net/site/uploads/2018/07/mediterraneo-trata.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csee-etuce.org/ru/news/archive/2627-european-commisison-proposes-european-network-of-immigration-liasion-officers-2",
+                "pageTitle": "\u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0430\u044f \u043a\u043e\u043c\u0438\u0441\u0441\u0438\u044f \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u0442 \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0415\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0443\u044e \u0441\u0435\u0442\u044c ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.piqd.de/?page=1280",
+                "pageTitle": "piqd | handverlesenswert",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache0.piqd.de/system/portfolio_item_images/production/1v0/p/k/f8d02776-8826-41e1-93e1-a640569c2919..png"
+                    }
+                ]
+            },
+            {
+                "url": "http://cyprusnews.eu/euobserver-europi/7246747-pilot-project-blurs-military-and-police-lines-on-migration.html",
+                "pageTitle": "Pilot project blurs military and police lines <b>on</b> migration - Cyprus News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.surysur.net/autor/javier-pellegrina/",
+                "pageTitle": "Javier Pellegrina | Autores | SurySur",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.surysur.net/site/uploads/2018/07/mediterraneo-trata.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.artigercek.com/europol-65-bin-insan-kacakcisinin-pesinde",
+                "pageTitle": "Europol 65 bin insan ka\u00e7ak\u00e7\u0131s\u0131n\u0131n pe\u015finde - Art\u0131 Ger\u00e7ek",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://artigercek.s3.amazonaws.com/uploads/1/e/ddzzpcw4hESZ3CvQidoKJRmGFmDtQz82KA4fwFco.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.artigercek.com/teror-tehlikesi-en-ust-seviyede",
+                "pageTitle": "&#39;Ter\u00f6r tehlikesi son 20 y\u0131l\u0131n en \u00fcst seviyesinde&#39; - Art\u0131 Ger\u00e7ek",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://artigercek.s3.amazonaws.com/uploads/1/e/ddzzpcw4hESZ3CvQidoKJRmGFmDtQz82KA4fwFco.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.piqd.de/flucht-und-einwanderung/category/grenzen-europas",
+                "pageTitle": "Grenzen Europas | piqd",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cache0.piqd.de/system/portfolio_item_images/production/1v0/p/k/f8d02776-8826-41e1-93e1-a640569c2919..png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.artigercek.com/noel-baba-seni-cagiriyor",
+                "pageTitle": "Noel Baba seni \u00e7a\u011f\u0131r\u0131yor&#39; - Art\u0131 Ger\u00e7ek",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://artigercek.s3.amazonaws.com/uploads/1/e/ddzzpcw4hESZ3CvQidoKJRmGFmDtQz82KA4fwFco.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.artigercek.com/sevgili-suclu-lutfen-geri-don",
+                "pageTitle": "&#39;Sevgili su\u00e7lu... L\u00fctfen geri d\u00f6n!&#39; - Art\u0131 Ger\u00e7ek",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://artigercek.s3.amazonaws.com/uploads/1/e/ddzzpcw4hESZ3CvQidoKJRmGFmDtQz82KA4fwFco.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://politiquepaca.canalblog.com/archives/2017/08/02/35534651.html",
+                "pageTitle": "BASTA IMMIGRAZIONNE IN ITALIA BASTA ! - POLITIQUE EN PACA ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.meretmarine.com/sites/default/files/styles/mem_846_article_content/public/new_objets_drupal/20160901225718_13517535_1026869507388963_3251979066416080802_o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://es.difesaonline.it/evidenza/punti-di-vista/i-giovani-soldati-della-classe-1899-i-nostri-eroi-di-allora-mentre-oggi-c%C3%A8",
+                "pageTitle": "Los j\u00f3venes soldados de la clase 1899: nuestros h\u00e9roes de la ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/styles/large/public/article/230718%20ragazzi99.jpg?itok=f1F9O8Vk"
+                    },
+                    {
+                        "url": "http://www.difesaonline.it/sites/default/files/article/230718%20ragazzi99.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://cyprusnews.eu/euobserver-europi/7695869-investigation-how-italy-s-government-might-hijack-eu-migration-policy.html",
+                "pageTitle": "[Investigation] How Italy&#39;s government might hijack EU migration policy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/e9095a5e030a69d7f217f82b396a2be8-480x.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://dutch.faithfreedom.org/forum/viewtopic.php?f=43&t=25127&start=575",
+                "pageTitle": "Toenemend verzet tegen de massa-immigratie - Pagina 24 - FFI ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ejbron.files.wordpress.com/2017/01/screenshot_5110.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=iSJs7hkcHTc",
+                "pageTitle": "RUSSIA: RITORNA IN MARE L&#39;INCROCIATORE LANCIAMISSILI ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/FSKfROrrKjQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAhkIYAQ==&rs=AOn4CLA9T7ihq0wwvSJAcbtlSy57ZUj8gA"
+                    }
+                ]
+            },
+            {
+                "url": "https://dutchdl.com/2017/01/",
+                "pageTitle": "januari | 2017 | dutchdl",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://dutchdl.files.wordpress.com/2017/01/screenshot_5110.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://logbookloanstoday.info/formation-des-officiers-de-liaison.aspx",
+                "pageTitle": "Formation Des Officiers De Liaison - Logbookloanstoday",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mlmsoftwareindia.info/la-commission-europ%C3%A9enne-immigration.html",
+                "pageTitle": "La Commission Europ\u00e9enne Immigration \u2014 Mlmsoftwareindia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.csee-etuce.org/images/Pictures/nigs.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://i1.wp.com/www.barenakedislam.com/wp-content/uploads/2016/12/e9095a5e030a69d7f217f82b396a2be8-800x530.jpg?resize=350%2C200"
+            },
+            {
+                "url": "https://cdn4.img.sputniknews.com/images/105500/37/1055003710.jpg"
+            },
+            {
+                "url": "https://dailystormer.name/wp-content/uploads/2018/09/2819.jpg"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Ue6xfA2D7C2Ihm8FR-KzpEDuYdDokB64aZ4Gp80ZiyVhRF9KIAksXEbbD4pX4xgF_It4yWIfc943ncxOKVQjDUBf1kmnHGQ=s750"
+            },
+            {
+                "url": "http://rarduja.org.ng/portal/wp-content/uploads/2017/07/Migrants-777x437.jpg"
+            },
+            {
+                "url": "https://realnewsmagazine.net/wp-content/uploads/2018/01/Illegal-Migrant-in-Israel-696x445-324x160.jpg"
+            },
+            {
+                "url": "https://www.iom.int/sites/default/files/press_release/pictures/medsurvey20160812-epa.jpg"
+            },
+            {
+                "url": "http://new.fanabc.com/english/media/k2/items/cache/b7488390dedefbaf9badeda0e0ea042d_XL.jpg?t=-62169984000"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "ngos human trafficking",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8909144,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.016118847,
+                        "y": 0.5159844
+                    },
+                    {
+                        "x": 0.17095235,
+                        "y": 0.5159844
+                    },
+                    {
+                        "x": 0.17095235,
+                        "y": 0.81862855
+                    },
+                    {
+                        "x": 0.016118847,
+                        "y": 0.81862855
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.84493023,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.67043453,
+                        "y": 0.42327148
+                    },
+                    {
+                        "x": 0.7887358,
+                        "y": 0.42327148
+                    },
+                    {
+                        "x": 0.7887358,
+                        "y": 0.64387417
+                    },
+                    {
+                        "x": 0.67043453,
+                        "y": 0.64387417
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.55307907,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7654954,
+                        "y": 0.5102632
+                    },
+                    {
+                        "x": 0.9004366,
+                        "y": 0.5102632
+                    },
+                    {
+                        "x": 0.9004366,
+                        "y": 0.68379265
+                    },
+                    {
+                        "x": 0.7654954,
+                        "y": 0.68379265
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5347566,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.2562179,
+                        "y": 0.46947056
+                    },
+                    {
+                        "x": 0.39787495,
+                        "y": 0.46947056
+                    },
+                    {
+                        "x": 0.39787495,
+                        "y": 0.74105585
+                    },
+                    {
+                        "x": 0.2562179,
+                        "y": 0.74105585
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5300885,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.91179687,
+                        "y": 0.31486985
+                    },
+                    {
+                        "x": 0.9941598,
+                        "y": 0.31486985
+                    },
+                    {
+                        "x": 0.9941598,
+                        "y": 0.56574935
+                    },
+                    {
+                        "x": 0.91179687,
+                        "y": 0.56574935
+                    }
+                ]
+            }
+        }
+    ]
+}

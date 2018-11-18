@@ -1,0 +1,437 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.98633677,
+            "topicality": 0.98633677
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.96048886,
+            "topicality": 0.96048886
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.95076436,
+            "topicality": 0.95076436
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.88649696,
+            "topicality": 0.88649696
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.8654704,
+            "topicality": 0.8654704
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.849097,
+            "topicality": 0.849097
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6594225,
+            "topicality": 0.6594225
+        },
+        {
+            "mid": "/m/09l63h",
+            "description": "military camouflage",
+            "score": 0.5819249,
+            "topicality": 0.5819249
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.53388864,
+            "topicality": 0.53388864
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 109,
+                        "green": 120,
+                        "blue": 127
+                    },
+                    "score": 0.10338691,
+                    "pixelFraction": 0.0634343
+                },
+                {
+                    "color": {
+                        "red": 16,
+                        "green": 19,
+                        "blue": 24
+                    },
+                    "score": 0.08276594,
+                    "pixelFraction": 0.061172307
+                },
+                {
+                    "color": {
+                        "red": 145,
+                        "green": 157,
+                        "blue": 164
+                    },
+                    "score": 0.094926946,
+                    "pixelFraction": 0.09175846
+                },
+                {
+                    "color": {
+                        "red": 77,
+                        "green": 85,
+                        "blue": 91
+                    },
+                    "score": 0.092729345,
+                    "pixelFraction": 0.058221873
+                },
+                {
+                    "color": {
+                        "red": 48,
+                        "green": 53,
+                        "blue": 57
+                    },
+                    "score": 0.07922715,
+                    "pixelFraction": 0.05487805
+                },
+                {
+                    "color": {
+                        "red": 138,
+                        "green": 155,
+                        "blue": 172
+                    },
+                    "score": 0.07407572,
+                    "pixelFraction": 0.023505114
+                },
+                {
+                    "color": {
+                        "red": 104,
+                        "green": 120,
+                        "blue": 137
+                    },
+                    "score": 0.07364607,
+                    "pixelFraction": 0.019669551
+                },
+                {
+                    "color": {
+                        "red": 182,
+                        "green": 195,
+                        "blue": 203
+                    },
+                    "score": 0.058183525,
+                    "pixelFraction": 0.07149882
+                },
+                {
+                    "color": {
+                        "red": 72,
+                        "green": 88,
+                        "blue": 105
+                    },
+                    "score": 0.04779241,
+                    "pixelFraction": 0.0119000785
+                },
+                {
+                    "color": {
+                        "red": 40,
+                        "green": 53,
+                        "blue": 68
+                    },
+                    "score": 0.044894196,
+                    "pixelFraction": 0.011211644
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 264
+                        },
+                        {
+                            "x": 264,
+                            "y": 399
+                        },
+                        {
+                            "y": 399
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.67172825,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.64451593,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.5576,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/055sg",
+                "score": 0.43676138,
+                "description": "Militia"
+            },
+            {
+                "entityId": "/m/09l63h",
+                "score": 0.42350653,
+                "description": "Military camouflage"
+            },
+            {
+                "entityId": "/m/02_5_z",
+                "score": 0.39745566,
+                "description": "Marksman"
+            },
+            {
+                "entityId": "/m/01pbjy",
+                "score": 0.3731658,
+                "description": "Military police"
+            },
+            {
+                "entityId": "/m/05ws7",
+                "score": 0.3624,
+                "description": "Police"
+            },
+            {
+                "entityId": "/m/012rvq",
+                "score": 0.35017297,
+                "description": "Reconnaissance"
+            },
+            {
+                "entityId": "/g/121v8k4t",
+                "score": 0.3501,
+                "description": "Fusilier"
+            },
+            {
+                "entityId": "/m/0jq47",
+                "score": 0.34832188,
+                "description": "Mercenary"
+            },
+            {
+                "entityId": "/m/0phgr",
+                "score": 0.3216013,
+                "description": "Military engineer"
+            },
+            {
+                "entityId": "/m/09j9h",
+                "score": 0.2802,
+                "description": "Engineer"
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://farm8.static.flickr.com/7647/28121510305_339ba2021b_b.jpg"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=906169286251330"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/soldier-of-the-17th-parachute-engineer-regiment-of-montauban-takes-picture-id959760742?s=594x594"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/soldier-of-the-17th-parachute-engineer-regiment-of-montauban-takes-picture-id959760742"
+            },
+            {
+                "url": "https://farm9.static.flickr.com/8836/18079123535_be0898a7dd_b.jpg"
+            },
+            {
+                "url": "https://l450v.alamy.com/450v/pae8pr/estonian-army-pioneers-of-1st-battalion-2nd-brigade-and-us-iron-troop-engineers-of-3rd-squadron-2nd-cavalry-regiment-stationed-out-of-vilseck-germany-work-together-to-put-logs-into-place-during-a-bridge-building-exercise-at-tapa-training-area-estonia-mar-23-2016-photo-by-us-army-staff-sgt-steven-m-colvinreleased-pae8pr.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/d6/81/5a/d6815ae668d6e78ec8c05d39fa1938f5--the-very-the-ojays.jpg"
+            },
+            {
+                "url": "https://cdn.dvidshub.net/media/thumbs/photos/1111/489574/1000w_q75.jpg"
+            },
+            {
+                "url": "https://isis.liveuamap.com/pics/2017/04/30/21448109_0.jpg"
+            },
+            {
+                "url": "http://www.mwctoys.com/images/review_hmf_20.jpg"
+            },
+            {
+                "url": "https://www.army.mil/e2/-images/2009/06/16/41323/size0-army.mil-41323-2009-06-16-180617.jpg"
+            },
+            {
+                "url": "https://cdn.dvidshub.net/media/thumbs/photos/1210/768508/1000w_q95.jpg"
+            },
+            {
+                "url": "https://www.the-military-mark.com/photos/9%2018%2012%20lw.fsj.%20shoot%20019.JPG"
+            },
+            {
+                "url": "https://static.wixstatic.com/media/e67410_d31ba7b688344188a7a5f56d6314d218.jpg/v1/fill/w_452,h_500,al_c,q_80,usm_0.66_1.00_0.01/e67410_d31ba7b688344188a7a5f56d6314d218.webp"
+            },
+            {
+                "url": "https://www.army.mil/e2/-images/2009/06/12/40854/size0-army.mil-40854-2009-09-01-100958.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/C2yNh13WgAEJYit.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/othjournal.com/wp-content/uploads/2017/02/army-cyber.jpg?fit=640%2C425&ssl=1"
+            },
+            {
+                "url": "https://www.fieldsofglorymodels.co.uk/wp-content/uploads/2017/07/53725521.jpg"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1817862238265540"
+            },
+            {
+                "url": "https://ae01.alicdn.com/kf/HTB1yHBpmv9TBuNjy1zbq6xpepXaj/Men-Hiking-Leather-Shoes-Tactical-Military-Camo-Soldier-Desert-Mountain-Boot-Mens-Outdoor-Camping-Walking-Rock.jpg"
+            },
+            {
+                "url": "https://www.army.mil/e2/c/images/2013/09/10/311668/original.jpg"
+            },
+            {
+                "url": "https://farm8.static.flickr.com/7148/6852429353_7dddf59de1_b.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/_gHRP_u5uYw/hqdefault.jpg"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/z/girl-soldier-ghillie-camouflage-young-defender-blue-eyes-face-closed-mask-military-ammunition-gun-standing-76569956.jpg"
+            },
+            {
+                "url": "https://www.nairaland.com/attachments/3232892_124105169714408729365353728926537638633680n_jpgf4bb2892db5a0446bfd0c947d7ca2279"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "army"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8887553,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.13999999,
+                        "y": 0.26
+                    },
+                    {
+                        "x": 0.74,
+                        "y": 0.26
+                    },
+                    {
+                        "x": 0.74,
+                        "y": 0.86
+                    },
+                    {
+                        "x": 0.13999999,
+                        "y": 0.86
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8142921,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.43570593,
+                        "y": 0.10958826
+                    },
+                    {
+                        "x": 0.89370596,
+                        "y": 0.10958826
+                    },
+                    {
+                        "x": 0.89370596,
+                        "y": 0.585
+                    },
+                    {
+                        "x": 0.43570593,
+                        "y": 0.585
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0zvk5",
+            "name": "Helmet",
+            "score": 0.75431865,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.225451,
+                        "y": 0.33252734
+                    },
+                    {
+                        "x": 0.4422889,
+                        "y": 0.33252734
+                    },
+                    {
+                        "x": 0.4422889,
+                        "y": 0.4691816
+                    },
+                    {
+                        "x": 0.225451,
+                        "y": 0.4691816
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/06c54",
+            "name": "Rifle",
+            "score": 0.74618644,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.00682353,
+                        "y": 0.5002353
+                    },
+                    {
+                        "x": 0.33929414,
+                        "y": 0.5002353
+                    },
+                    {
+                        "x": 0.33929414,
+                        "y": 0.75270593
+                    },
+                    {
+                        "x": 0.00682353,
+                        "y": 0.75270593
+                    }
+                ]
+            }
+        }
+    ]
+}

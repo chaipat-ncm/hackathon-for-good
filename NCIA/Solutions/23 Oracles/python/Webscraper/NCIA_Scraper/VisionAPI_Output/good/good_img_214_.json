@@ -1,0 +1,976 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.803783,
+            "topicality": 0.803783
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.7257149,
+            "topicality": 0.7257149
+        },
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.71506256,
+            "topicality": 0.71506256
+        },
+        {
+            "mid": "/m/01c778",
+            "description": "slum",
+            "score": 0.67855906,
+            "topicality": 0.67855906
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.65309775,
+            "topicality": 0.65309775
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.6267281,
+            "topicality": 0.6267281
+        },
+        {
+            "mid": "/m/01c8br",
+            "description": "street",
+            "score": 0.5230633,
+            "topicality": 0.5230633
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 51,
+                        "blue": 51
+                    },
+                    "score": 0.18275869,
+                    "pixelFraction": 0.17585573
+                },
+                {
+                    "color": {
+                        "red": 120,
+                        "green": 119,
+                        "blue": 121
+                    },
+                    "score": 0.16581616,
+                    "pixelFraction": 0.22804564
+                },
+                {
+                    "color": {
+                        "red": 85,
+                        "green": 84,
+                        "blue": 85
+                    },
+                    "score": 0.1568299,
+                    "pixelFraction": 0.19330144
+                },
+                {
+                    "color": {
+                        "red": 152,
+                        "green": 154,
+                        "blue": 156
+                    },
+                    "score": 0.14258672,
+                    "pixelFraction": 0.09871181
+                },
+                {
+                    "color": {
+                        "red": 28,
+                        "green": 24,
+                        "blue": 21
+                    },
+                    "score": 0.11301084,
+                    "pixelFraction": 0.11277144
+                },
+                {
+                    "color": {
+                        "red": 64,
+                        "green": 86,
+                        "blue": 117
+                    },
+                    "score": 0.08938615,
+                    "pixelFraction": 0.016635995
+                },
+                {
+                    "color": {
+                        "red": 184,
+                        "green": 187,
+                        "blue": 188
+                    },
+                    "score": 0.059086483,
+                    "pixelFraction": 0.030106734
+                },
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 83,
+                        "blue": 124
+                    },
+                    "score": 0.013408712,
+                    "pixelFraction": 0.002944424
+                },
+                {
+                    "color": {
+                        "red": 47,
+                        "green": 64,
+                        "blue": 86
+                    },
+                    "score": 0.012037511,
+                    "pixelFraction": 0.005520795
+                },
+                {
+                    "color": {
+                        "red": 242,
+                        "green": 243,
+                        "blue": 245
+                    },
+                    "score": 0.011902251,
+                    "pixelFraction": 0.07684947
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 799
+                        },
+                        {
+                            "x": 799,
+                            "y": 532
+                        },
+                        {
+                            "y": 532
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/044rd",
+                "score": 1.081377,
+                "description": "Jalalabad"
+            },
+            {
+                "entityId": "/m/0494n",
+                "score": 0.555027,
+                "description": "Kabul"
+            },
+            {
+                "entityId": "/m/014zdl",
+                "score": 0.5007,
+                "description": "Explosion"
+            },
+            {
+                "entityId": "/m/02q8xl0",
+                "score": 0.44114998,
+                "description": "Tultepec"
+            },
+            {
+                "entityId": "/m/0294j",
+                "score": 0.4304,
+                "description": "Death"
+            },
+            {
+                "entityId": "/m/014bmh",
+                "score": 0.3736,
+                "description": "Car bomb"
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.3689,
+                "description": "News"
+            },
+            {
+                "entityId": "/m/07jq_",
+                "score": 0.3519,
+                "description": "Terrorism"
+            },
+            {
+                "entityId": "/g/11g0k2tjyn",
+                "score": 0.3487,
+                "description": "The New Testament: A Translation"
+            },
+            {
+                "entityId": "/m/078f4",
+                "score": 0.3149,
+                "description": "Suicide attack"
+            },
+            {
+                "entityId": "/m/0ccld",
+                "score": 0.3036,
+                "description": "Refugee"
+            },
+            {
+                "entityId": "/t/28t8h15mct4gz",
+                "score": 0.2987
+            },
+            {
+                "entityId": "/m/06z5s",
+                "score": 0.2835,
+                "description": "Suicide"
+            },
+            {
+                "entityId": "/m/064vbr",
+                "score": 0.2712,
+                "description": "Integrism"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 0.00195408,
+                "description": "Afghanistan"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.elnacional.cat/uploads/s1/51/66/80/1/afganistan-kabul-atemptat-efe.jpeg"
+            },
+            {
+                "url": "https://www.elespectador.com/sites/default/files/636686519317689561.jpg"
+            },
+            {
+                "url": "https://www.elespectador.com/sites/default/files/afganistan_ataque_efe.jpg"
+            },
+            {
+                "url": "https://endimages.s3.amazonaws.com/news/1a2a0fda94d511e889f50eb04a1bba78.jpg"
+            },
+            {
+                "url": "http://mm.servidornoticias.com/photos/w_720/92e/14472014w.jpg"
+            },
+            {
+                "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UdmP0N4wYgX80b119BhyTiQ-P-3d-P-3d"
+            },
+            {
+                "url": "http://mm.servidornoticias.com/photos/w_300/92e/14472014w.jpg"
+            },
+            {
+                "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXCIkwRangDvJhtmGZ20FI8w-P-2bhs3FqiuPn99va6w-P-2bfMjs"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_423682103.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1902800913.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_554688468.jpg"
+            },
+            {
+                "url": "https://ichef.bbci.co.uk/news/1024/branded_persian/12E2D/production/_102775377_epajalalabad.jpg"
+            },
+            {
+                "url": "https://endimages.s3.amazonaws.com/cache/11/c9/11c9e99027a08e7993ed1b80dd74d497.jpg"
+            },
+            {
+                "url": "https://www.elnacional.cat/uploads/s1/51/66/80/7/afganistan-kabul-atemptat-efe_1_630x630.jpeg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1970638775.jpg"
+            },
+            {
+                "url": "http://www.lavozdemichoacan.com.mx/wp-content/uploads/2018/07/qUfaTnAO.jpg"
+            },
+            {
+                "url": "https://ichef.bbci.co.uk/news/720/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+            },
+            {
+                "url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2084490520.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2024461655.jpg"
+            },
+            {
+                "url": "https://www.elnacional.cat/uploads/s1/51/66/81/9/afganistan-kabul-atemptat-efe_5_630x315.jpeg"
+            },
+            {
+                "url": "https://vivanoticias.net/wp-content/uploads/2018/08/afganistanefe-364x273.jpg"
+            },
+            {
+                "url": "https://www.elnacional.cat/uploads/s1/51/66/81/0/afganistan-kabul-atemptat-efe_2_302x302.jpeg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1485763207.jpg"
+            },
+            {
+                "url": "https://ichef.bbci.co.uk/news/208/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+            },
+            {
+                "url": "https://media1.faz.net/ppmedia/aktuell/977232590/1.5717153/article_teaser/54560352.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.efe.com/efe/english/portada/militants-attack-refugee-department-in-afghanistan-at-least-18-killed/50000260-3706859",
+                "pageTitle": "Militants attack refugee department in <b>Afghanistan</b>, at least 18 killed ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UdmP0N4wYgX80b119BhyTiQ-P-3d-P-3d"
+                    },
+                    {
+                        "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXCIkwRangDvJhtmGZ20FI8w-P-2bhs3FqiuPn99va6w-P-2bfMjs"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.efe.com/efe/english/world/militants-attack-refugee-department-in-afghanistan-at-least-18-killed/50000262-3706859",
+                "pageTitle": "Militants attack refugee department in <b>Afghanistan</b>, at least 18 killed ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UdmP0N4wYgX80b119BhyTiQ-P-3d-P-3d"
+                    },
+                    {
+                        "url": "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?lVW2oAh2vjPHqsUO9mp-P-2bSwUXI7yrxXj-P-2bQ4TncnkXVSTX-P-2bAoG0sxzXCIkwRangDvJhtmGZ20FI8w-P-2bhs3FqiuPn99va6w-P-2bfMjs"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.news4europe.eu/6350_world/5557858_militants-attack-refugee-department-in-afghanistan-at-least-18-killed.html",
+                "pageTitle": "Militants attack refugee department in <b>Afghanistan</b> ... - news4europe",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_720/92e/14472014w.jpg"
+                    },
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_300/92e/14472014w.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.news4europe.eu/6350_world/5557858_militants-attack-refugee-department-in-eastern-afghanistan.html",
+                "pageTitle": "Militants attack refugee department in eastern <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_720/92e/14472014w.jpg"
+                    },
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_300/92e/14472014w.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.connewshows.com/6350_world/5557858_militants-attack-refugee-department-in-afghanistan-at-least-18-killed.html",
+                "pageTitle": "Militants attack refugee department in <b>Afghanistan</b>, at least 18 killed ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_300/92e/14472014w.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsfolder.info/index.php/news/?p=3&show=results&cid=139&descr=on&p1=11",
+                "pageTitle": "Newsfolder",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.googleapis.com/sin-cdn/2018/07/fe227f68-11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mediatown360.com/post/ho-shot-alleged-attacker",
+                "pageTitle": "Ho Shot Alleged Attacker | MediaTown 360",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://mm.servidornoticias.com/photos/w_720/92e/14472014w.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.faz.net/aktuell/politik/thema/dschalalabad",
+                "pageTitle": "Dschalalabad aktuell: News und Informationen der FAZ zum Thema",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media1.faz.net/ppmedia/aktuell/977232590/1.5717153/article_teaser/54560352.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbc.com/persian/afghanistan-45006963",
+                "pageTitle": "\u062d\u0645\u0644\u0647 \u0628\u0647 \u0633\u0627\u062e\u062a\u0645\u0627\u0646 \u062f\u0648\u0644\u062a\u06cc \u062f\u0631 \u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f \u0628\u0627 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u062f\u0633\u062a\u200c\u06a9\u0645 \u06f1\u06f5 \u0646\u0641\u0631 \u067e\u0627\u06cc\u0627\u0646 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/720/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/208/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/1024/branded_persian/12E2D/production/_102775377_epajalalabad.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbcpersian.com/persian/afghanistan-45006963",
+                "pageTitle": "\u062d\u0645\u0644\u0647 \u0628\u0647 \u0633\u0627\u062e\u062a\u0645\u0627\u0646 \u062f\u0648\u0644\u062a\u06cc \u062f\u0631 \u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f \u0628\u0627 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u062f\u0633\u062a\u200c\u06a9\u0645 \u06f1\u06f5 \u0646\u0641\u0631 \u067e\u0627\u06cc\u0627\u0646 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/720/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/1024/branded_persian/12E2D/production/_102775377_epajalalabad.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbcukrainian.com/persian/afghanistan-45006963",
+                "pageTitle": "\u062d\u0645\u0644\u0647 \u0628\u0647 \u0633\u0627\u062e\u062a\u0645\u0627\u0646 \u062f\u0648\u0644\u062a\u06cc \u062f\u0631 \u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f \u0628\u0627 \u06a9\u0634\u062a\u0647 \u0634\u062f\u0646 \u062f\u0633\u062a\u200c\u06a9\u0645 \u06f1\u06f5 \u0646\u0641\u0631 \u067e\u0627\u06cc\u0627\u0646 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/720/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/1024/branded_persian/12E2D/production/_102775377_epajalalabad.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://radiftarin.com/link_page.php?id=11898",
+                "pageTitle": "\u0631\u062f\u06cc\u0641\u200c\u062a\u0631\u06cc\u0646 | \u0627\u0646\u0641\u062c\u0627\u0631 \u0648 \u062a\u06cc\u0631\u0627\u0646\u062f\u0627\u0632\u06cc \u062f\u0631 \u0646\u0632\u062f\u06cc\u06a9\u06cc \u0645\u0631\u0627\u06a9\u0632 \u062f\u0648\u0644\u062a\u06cc \u0634\u0647\u0631 \u062c\u0644\u0627\u0644\u200c\u0622\u0628\u0627\u062f",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/720/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    },
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/208/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vivanoticias.net/ataque-suicida-mas-decena-muertos-40-heridos-afganistan/",
+                "pageTitle": "Ataque suicida deja 25 muertos y decenas de heridos en una ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vivanoticias.net/wp-content/uploads/2018/08/afganistanefe-364x273.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.faz.net/aktuell/politik/griechische-finanzkrise-papandreou-macht-druck-in-bruessel-1964019.html",
+                "pageTitle": "Griechische Finanzkrise: Papandreou macht Druck in Br\u00fcssel - FAZ",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media1.faz.net/ppmedia/aktuell/977232590/1.5717153/article_teaser/54560352.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.faz.net/aktuell/politik/kritik-von-der-opposition-der-geist-der-absoluten-staatsfixierung-15490380.html",
+                "pageTitle": "Kritik von der Opposition: \u201eDer Geist der absoluten Staatsfixierung\u201c",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media1.faz.net/ppmedia/aktuell/977232590/1.5717153/article_teaser/54560352.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.faz.net/aktuell/politik/gabriel-geht-maas-soll-kommen-15484322.html",
+                "pageTitle": "Gabriel geht, Maas soll kommen - FAZ",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media1.faz.net/ppmedia/aktuell/977232590/1.5717153/article_teaser/54560352.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbc.com/persian/live/45018373/page/2",
+                "pageTitle": "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u062e\u0628\u0631\u061b \u0633\u0647\u200c\u0634\u0646\u0628\u0647 \u06f9 \u0645\u0631\u062f\u0627\u062f - BBC News \u0641\u0627\u0631\u0633\u06cc - BBC.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.files.bbci.co.uk/vivo/live/images/2018/7/31/500ffc1f-1330-46c3-9a56-4f11eec35e94.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elespectador.com/noticias/el-mundo/al-menos-30-muertos-y-50-heridos-en-atentado-mezquita-chiita-en-afganistan-articulo-804027",
+                "pageTitle": "Al menos 30 muertos y 50 heridos en atentado a mezquita chi\u00ed en ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.elespectador.com/sites/default/files/afganistan_ataque_efe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elnacional.cat/es/internacional/atentado-mogadiscio_322878_102.html",
+                "pageTitle": "Al menos 13 muertos al estallar tres coches bomba ante dos hoteles ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/81/0/afganistan-kabul-atemptat-efe_2_302x302.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elespectador.com/noticias/el-mundo/atentado-contra-el-ministerio-de-refugiados-en-afganistan-articulo-803369",
+                "pageTitle": "Atentado contra el Ministerio de Refugiados en Afganist\u00e1n ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.elespectador.com/sites/default/files/636686519317689561.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elnacional.cat/es/internacional/menores-muertos-bombardeo-yemen_295428_102.html",
+                "pageTitle": "Decenas de menores muertos en un bombardeo en el Yemen",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/81/0/afganistan-kabul-atemptat-efe_2_302x302.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elnacional.cat/es/tag/atemptats-terroristes-es",
+                "pageTitle": "atemptats terroristes - ElNacional.cat",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/81/0/afganistan-kabul-atemptat-efe_2_302x302.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbc.com/persian/live/45018373",
+                "pageTitle": "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u062e\u0628\u0631\u061b \u0633\u0647\u200c\u0634\u0646\u0628\u0647 \u06f9 \u0645\u0631\u062f\u0627\u062f - BBC News \u0641\u0627\u0631\u0633\u06cc - BBC.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.files.bbci.co.uk/vivo/live/images/2018/7/31/500ffc1f-1330-46c3-9a56-4f11eec35e94.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elnacional.cat/ca/iglobal/morts-atemptat-mesquita-afganistan_293892_102.html",
+                "pageTitle": "25 morts en un atemptat en una mesquita a l&#39;Afganistan",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/80/7/afganistan-kabul-atemptat-efe_1_630x630.jpeg"
+                    },
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/81/9/afganistan-kabul-atemptat-efe_5_630x315.jpeg"
+                    },
+                    {
+                        "url": "https://www.elnacional.cat/uploads/s1/51/66/80/1/afganistan-kabul-atemptat-efe.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lavozdemichoacan.com.mx/pais/suman-17-los-muertos-por-explosion-en-tultepec/",
+                "pageTitle": "Aumenta a 24 el n\u00famero de muertos por explosiones en Tultepec ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lavozdemichoacan.com.mx/wp-content/uploads/2018/07/qUfaTnAO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.informador.mx/internacional/Ataques-en-Afganistan-dejan-23-muertos-y-mas-de-50-heridos-20180731-0070.html",
+                "pageTitle": "Ataques en Afganist\u00e1n dejan 23 muertos y m\u00e1s de 50 heridos | El ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1970638775.jpg"
+                    },
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_423682103.jpg"
+                    },
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2024461655.jpg"
+                    },
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2084490520.jpg"
+                    },
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1902800913.jpg"
+                    },
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_554688468.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.informador.mx/taliban-t905",
+                "pageTitle": "Noticias sobre Talib\u00e1n | El Informador :: Noticias de Jalisco, M\u00e9xico ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1485763207.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lavozdemichoacan.com.mx/mundo/ataques-en-afganistan-dejan-23-muertos/",
+                "pageTitle": "Ataques en Afganist\u00e1n dejan 23 muertos | La Voz de Michoac\u00e1n",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lavozdemichoacan.com.mx/wp-content/uploads/2018/07/qUfaTnAO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.elnuevodiario.com.ni/internacionales/470997-afganistan-muertos-ataque-refugiados/",
+                "pageTitle": "Al menos 18 muertos en ataque a sede de Ministerio de Refugiados ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://endimages.s3.amazonaws.com/news/1a2a0fda94d511e889f50eb04a1bba78.jpg"
+                    },
+                    {
+                        "url": "https://endimages.s3.amazonaws.com/cache/11/c9/11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://liberal.com.mx/ataque-en-afganistan-deja-18-muertos/",
+                "pageTitle": "ATAQUE EN AFGANIST\u00c1N DEJA 18 MUERTOS - Liberal del Sur",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-us-west-1.amazonaws.com/liberal.s3/wp-content/uploads/2018/07/02182301/11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lavozdemichoacan.com.mx/dinero/encienden-alerta-por-ciberataque-financiero/",
+                "pageTitle": "Siguen los ciberataques financieros en M\u00e9xico | La Voz de Michoac\u00e1n",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lavozdemichoacan.com.mx/wp-content/uploads/2018/07/qUfaTnAO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lavozdemichoacan.com.mx/mundo/ataque-suicida-en-una-mezquita-afgana-deja-34-muertos/",
+                "pageTitle": "Ataque suicida en una mezquita afgana deja 34 muertos | La Voz de ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lavozdemichoacan.com.mx/wp-content/uploads/2018/07/qUfaTnAO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://noticiassin.com/al-menos-18-muertos-ataque-sede-ministerio-refugiados-afgano/",
+                "pageTitle": "Al menos 18 muertos en ataque a sede de Ministerio de Refugiados ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.googleapis.com/sin-cdn/2018/07/fe227f68-11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://noticiassin.com/al-menos-18-muertos-ataque-sede-ministerio-refugiados-afgano/11c9e99027a08e7993ed1b80dd74d497/",
+                "pageTitle": "11c9e99027a08e7993ed1b80dd74d497 - Noticias SIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.googleapis.com/sin-cdn/2018/07/fe227f68-11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://noticiassin.com/news/?post_id=740955",
+                "pageTitle": "Al menos 18 muertos en ataque a sede de Ministerio ... - Noticias SIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.googleapis.com/sin-cdn/2018/07/fe227f68-11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://noticiassin.com/tag/embarazo/page/4/",
+                "pageTitle": "Noticias SIN | Servicios Informativos Nacionales",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.googleapis.com/sin-cdn/2018/07/fe227f68-11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.zonacentronoticias.com/2018/07/ataques-en-afganistan-dejan-23-muertos-y-mas-de-50-heridos/",
+                "pageTitle": "Ataques en Afganist\u00e1n dejan 23 muertos y m\u00e1s de 50 heridos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zonacentronoticias.com/wp-content/uploads/2018/07/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1970638775.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vivanoticias.net/donald-trump-rompe-una-importante-tradicion-presidencial-y-se-niega-a/",
+                "pageTitle": "Donald Trump rompe una importante tradici\u00f3n presidencial y se ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vivanoticias.net/wp-content/uploads/2018/08/afganistanefe-364x273.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vivanoticias.net/dos-soldados-mueren-tragico-accidente-helicoptero-kentucky/",
+                "pageTitle": "Dos soldados mueren en tr\u00e1gico accidente de helic\u00f3ptero en ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vivanoticias.net/wp-content/uploads/2018/08/afganistanefe-364x273.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vivanoticias.net/atacan-soldados-estadounidenses-muerto-heridos/",
+                "pageTitle": "Atacan a soldados estadounidenses, se reporta un muerto y heridos",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vivanoticias.net/wp-content/uploads/2018/08/afganistanefe-364x273.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bbcpersian.com/persian/live/45018373/page/2",
+                "pageTitle": "\u0627\u06cc\u0633\u062a\u06af\u0627\u0647 \u062e\u0628\u0631\u061b \u0633\u0647\u200c\u0634\u0646\u0628\u0647 \u06f9 \u0645\u0631\u062f\u0627\u062f - BBC News \u0641\u0627\u0631\u0633\u06cc - \u0628\u06cc \u0628\u06cc \u0633\u06cc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.files.bbci.co.uk/vivo/live/images/2018/7/31/500ffc1f-1330-46c3-9a56-4f11eec35e94.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://doorbin.af/?p=5203",
+                "pageTitle": "\u062a\u0642\u0648\u06cc\u0645 \u062a\u0627\u0631\u06cc\u062e ( 9 \u0627\u0633\u062f ) \u2013 \u0645\u062c\u0644\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/12E2D/production/_102775377_epajalalabad.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsinformacion.com.ar/internacionales.php?pagina=79",
+                "pageTitle": "News Informaci\u00f3n",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.newsinformacion.com.ar/images/noticias/afganistan_personas_murieron.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.noreste.net/noticia/al-menos-30-muertos-y-50-heridos-en-atentado-a-mezquita-chiita-en-afganistan/",
+                "pageTitle": "Al menos 30 muertos y 50 heridos en atentado a mezquita chiita en ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.noreste.net/wp-content/uploads/2018/08/afganistan_ataque_efe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://espectadorveracruzano.mx/lo-que-debes-saber-sobre-las-elecciones-en-estados-unidos/",
+                "pageTitle": "Lo que debes saber sobre las elecciones en Estados Unidos ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://espectadorveracruzano.mx/wp-content/uploads/2018/08/Al-menos-30-muertos-y-50-heridos-en-atentado-a-mezquita-chiita-en-Afganista%CC%81n-.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://espectadorveracruzano.mx/londres-debera-pagar-2-mil-700-mde-a-la-ue-por-fraude-sobre-importaciones-chinas/",
+                "pageTitle": "Londres deber\u00e1 pagar 2 mil 700 mde a la UE por fraude sobre ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://espectadorveracruzano.mx/wp-content/uploads/2018/08/Al-menos-30-muertos-y-50-heridos-en-atentado-a-mezquita-chiita-en-Afganista%CC%81n-.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsinformacion.com.ar/noticias.php?id=8993",
+                "pageTitle": "+Ampliar - News Informaci\u00f3n",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.newsinformacion.com.ar/images/noticias/afganistan_personas_murieron.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://diarioelcomunal.com/ataques-en-afganistan-dejan-23-muertos-y-mas-de-50-heridos-31-187149/",
+                "pageTitle": "Ataques en Afganist\u00e1n dejan 23 muertos y m\u00e1s de 50 heridos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://diarioelcomunal.com/wp-content/uploads/2018/07/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2024461655.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://diarioelcomunal.com/ataques-en-afganistan-dejan-23-muertos-y-mas-de-50-heridos-31-187149/",
+                "pageTitle": "Ataques en Afganist\u00e1n dejan 23 muertos y m\u00e1s de 50 heridos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://diarioelcomunal.com/wp-content/uploads/2018/07/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_2024461655.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dogmagazine.info/portavoz-de-los-talibanes.html",
+                "pageTitle": "Portavoz De Los Talibanes - Dogmagazine",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://endimages.s3.amazonaws.com/cache/11/c9/11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cheap-prices.info/post/23-fueron-heridas-m%C3%A9xico",
+                "pageTitle": "23 Fueron Heridas M\u00e9xico \u2014 Cheap Prices",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1970638775.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://beyaert.info/pics/entre-varios-afganos-llegados",
+                "pageTitle": "Entre Varios Afganos Llegados \u2014 Beyaert",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://endimages.s3.amazonaws.com/cache/11/c9/11c9e99027a08e7993ed1b80dd74d497.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dogmagazine.info/m%C3%A1s-de-50-heridos.html",
+                "pageTitle": "M\u00e1s De 50 Heridos - Dogmagazine",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.informador.mx/__export/1533057590547/sites/elinformador/img/2018/07/31/ataque_en_afganistan_efe_g__habibi_crop1533056691900.jpg_1970638775.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdn.cnn.com/cnnnext/dam/assets/150226090513-06-afghanistan-0226-super-169.jpg"
+            },
+            {
+                "url": "https://images.csmonitor.com/csm/2013/03/0308-Afghanistan-attack-highlights.jpg?alias=standard_900x600"
+            },
+            {
+                "url": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/08/03/Pictures/afghanistan-unrest-religion_ed029d12-9734-11e8-81b1-0a49ed9acdc8.jpg"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/5363b8226bb3f77f584453f6-750-500.jpg"
+            },
+            {
+                "url": "https://twt-thumbs.washtimes.com/media/image/2016/11/21/Afghanistan.JPEG-f1643_c0-0-5760-3358_s885x516.jpg?05946f80f9f551ddf4465f44cd8d9a3175cbfe43"
+            },
+            {
+                "url": "https://www.icrc.org/eng/assets/images/photos/2014/afghanistan-surkhrud-water-2014-04-25.jpg"
+            },
+            {
+                "url": "http://www.trbimg.com/img-57235ae8/turbine/ct-doctors-without-borders-hospital-attack-20160429"
+            },
+            {
+                "url": "https://si.wsj.net/public/resources/images/BN-PD128_USAFGH_P_20160727132905.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Afghanistan"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.81362116,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.63010275,
+                        "y": 0.1702691
+                    },
+                    {
+                        "x": 0.8451915,
+                        "y": 0.1702691
+                    },
+                    {
+                        "x": 0.8451915,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.63010275,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7328455,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.42340183,
+                        "y": 0.35017943
+                    },
+                    {
+                        "x": 0.55000997,
+                        "y": 0.35017943
+                    },
+                    {
+                        "x": 0.55000997,
+                        "y": 0.82417357
+                    },
+                    {
+                        "x": 0.42340183,
+                        "y": 0.82417357
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.58811134,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.42340183,
+                        "y": 0.35017943
+                    },
+                    {
+                        "x": 0.55000997,
+                        "y": 0.35017943
+                    },
+                    {
+                        "x": 0.55000997,
+                        "y": 0.82417357
+                    },
+                    {
+                        "x": 0.42340183,
+                        "y": 0.82417357
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1862 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 278,
+                        "y": 79
+                    },
+                    {
+                        "x": 589,
+                        "y": 79
+                    },
+                    {
+                        "x": 589,
+                        "y": 441
+                    },
+                    {
+                        "x": 278,
+                        "y": 441
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 370,
+                        "y": 209
+                    },
+                    {
+                        "x": 566,
+                        "y": 209
+                    },
+                    {
+                        "x": 566,
+                        "y": 405
+                    },
+                    {
+                        "x": 370,
+                        "y": 405
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 423.77753,
+                        "y": 267.70132,
+                        "z": 0.0009862004
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 509.8296,
+                        "y": 266.96902,
+                        "z": 33.693867
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 393.31473,
+                        "y": 243.88263,
+                        "z": -9.264626
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 454.855,
+                        "y": 250.32817,
+                        "z": -13.397087
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 497.5154,
+                        "y": 250.02783,
+                        "z": 3.257373
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 539.9689,
+                        "y": 242.71292,
+                        "z": 47.838894
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 474.84045,
+                        "y": 269.88657,
+                        "z": -1.2079312
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 479.65845,
+                        "y": 329.45047,
+                        "z": -12.566131
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 468.90518,
+                        "y": 358.35364,
+                        "z": 16.100885
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 463.36813,
+                        "y": 385.5765,
+                        "z": 30.037188
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 431.2169,
+                        "y": 363.81238,
+                        "z": 28.017298
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 488.40823,
+                        "y": 364.11856,
+                        "z": 54.073383
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 464.71985,
+                        "y": 368.8875,
+                        "z": 25.92714
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 490.4424,
+                        "y": 326.31882,
+                        "z": 30.97854
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 445.41205,
+                        "y": 326.37854,
+                        "z": 12.223379
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 470.25677,
+                        "y": 338.7157,
+                        "z": 10.744983
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 426.50647,
+                        "y": 262.9074,
+                        "z": -7.2912736
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 441.2089,
+                        "y": 267.96692,
+                        "z": 7.3929343
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 423.49173,
+                        "y": 273.8264,
+                        "z": 0.9131629
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 403.26526,
+                        "y": 265.59973,
+                        "z": 1.0519941
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 423.16754,
+                        "y": 268.05026,
+                        "z": -2.4938073
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 514.39856,
+                        "y": 262.18878,
+                        "z": 26.964153
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 525.9533,
+                        "y": 264.60956,
+                        "z": 48.842903
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 511.20538,
+                        "y": 273.10876,
+                        "z": 35.119503
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 493.53622,
+                        "y": 267.26193,
+                        "z": 27.814327
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 513.33966,
+                        "y": 267.37384,
+                        "z": 32.586517
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 426.93256,
+                        "y": 237.68846,
+                        "z": -19.806803
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 522.27185,
+                        "y": 236.91853,
+                        "z": 17.351223
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 322.9774,
+                        "y": 281.82654,
+                        "z": 94.16305
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 522.44946,
+                        "y": 280.23523,
+                        "z": 171.87167
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 477.531,
+                        "y": 249.98898,
+                        "z": -8.450176
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 455.20642,
+                        "y": 423.15558,
+                        "z": 52.90217
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 340.75174,
+                        "y": 350.4482,
+                        "z": 78.50617
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 521.0394,
+                        "y": 349.00775,
+                        "z": 148.81027
+                    }
+                }
+            ],
+            "rollAngle": 5.281467,
+            "panAngle": 22.026918,
+            "tiltAngle": -14.436068,
+            "detectionConfidence": 0.71824336,
+            "landmarkingConfidence": 0.20375375,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0ds4x",
+            "description": "hairstyle",
+            "score": 0.86858046,
+            "topicality": 0.86858046
+        },
+        {
+            "mid": "/m/025kyy",
+            "description": "forehead",
+            "score": 0.8514255,
+            "topicality": 0.8514255
+        },
+        {
+            "mid": "/m/04n7gmg",
+            "description": "senior citizen",
+            "score": 0.81653047,
+            "topicality": 0.81653047
+        },
+        {
+            "mid": "/m/01ckgp",
+            "description": "interaction",
+            "score": 0.7094252,
+            "topicality": 0.7094252
+        },
+        {
+            "mid": "/m/039xj_",
+            "description": "ear",
+            "score": 0.6227701,
+            "topicality": 0.6227701
+        },
+        {
+            "mid": "/m/035y33",
+            "description": "official",
+            "score": 0.61978066,
+            "topicality": 0.61978066
+        },
+        {
+            "mid": "/m/019nj4",
+            "description": "smile",
+            "score": 0.54661274,
+            "topicality": 0.54661274
+        },
+        {
+            "mid": "/m/0ds99lh",
+            "description": "fun",
+            "score": 0.5062786,
+            "topicality": 0.5062786
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 235,
+                        "green": 230,
+                        "blue": 224
+                    },
+                    "score": 0.19824158,
+                    "pixelFraction": 0.20585714
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 114,
+                        "blue": 125
+                    },
+                    "score": 0.13597766,
+                    "pixelFraction": 0.10021429
+                },
+                {
+                    "color": {
+                        "red": 58,
+                        "green": 51,
+                        "blue": 63
+                    },
+                    "score": 0.09849869,
+                    "pixelFraction": 0.06428572
+                },
+                {
+                    "color": {
+                        "red": 95,
+                        "green": 81,
+                        "blue": 103
+                    },
+                    "score": 0.04188075,
+                    "pixelFraction": 0.021357143
+                },
+                {
+                    "color": {
+                        "red": 102,
+                        "green": 69,
+                        "blue": 50
+                    },
+                    "score": 0.016974954,
+                    "pixelFraction": 0.031642858
+                },
+                {
+                    "color": {
+                        "red": 137,
+                        "green": 44,
+                        "blue": 19
+                    },
+                    "score": 0.0010989687,
+                    "pixelFraction": 0.0024285715
+                },
+                {
+                    "color": {
+                        "red": 93,
+                        "green": 84,
+                        "blue": 94
+                    },
+                    "score": 0.07089527,
+                    "pixelFraction": 0.05507143
+                },
+                {
+                    "color": {
+                        "red": 249,
+                        "green": 233,
+                        "blue": 208
+                    },
+                    "score": 0.056268264,
+                    "pixelFraction": 0.049071427
+                },
+                {
+                    "color": {
+                        "red": 22,
+                        "green": 20,
+                        "blue": 20
+                    },
+                    "score": 0.047818832,
+                    "pixelFraction": 0.054785714
+                },
+                {
+                    "color": {
+                        "red": 155,
+                        "green": 146,
+                        "blue": 153
+                    },
+                    "score": 0.040369768,
+                    "pixelFraction": 0.031285714
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 719
+                        },
+                        {
+                            "x": 719,
+                            "y": 513
+                        },
+                        {
+                            "y": 513
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 1.53
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/08193",
+                "score": 10.959001,
+                "description": "Vladimir Putin"
+            },
+            {
+                "entityId": "/g/11f6mcnp8v",
+                "score": 1.0623,
+                "description": "2018 Russia\u2013United States summit"
+            },
+            {
+                "entityId": "/m/06bnz",
+                "score": 1.05495,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.7033
+            },
+            {
+                "entityId": "/m/060d2",
+                "score": 0.5993,
+                "description": "President of the United States"
+            },
+            {
+                "entityId": "/m/02j9z",
+                "score": 0.54434997,
+                "description": "Europe"
+            },
+            {
+                "entityId": "/g/11f665q0jw",
+                "score": 0.5346,
+                "description": "The World According to Trump"
+            },
+            {
+                "entityId": "/m/060c4",
+                "score": 0.5151,
+                "description": "President"
+            },
+            {
+                "entityId": "/m/01jrl6",
+                "score": 0.458,
+                "description": "President of Russia"
+            },
+            {
+                "entityId": "/m/05qt0",
+                "score": 0.45,
+                "description": "Politics"
+            },
+            {
+                "entityId": "/g/1210rwkh",
+                "score": 0.4259,
+                "description": "Fake news"
+            },
+            {
+                "entityId": "/m/0fj9f",
+                "score": 0.3778,
+                "description": "Politician"
+            },
+            {
+                "entityId": "/t/2cn98vczw6260",
+                "score": 0.3724
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.3651
+            },
+            {
+                "entityId": "/m/0cqt90",
+                "score": 0.10854,
+                "description": "Donald Trump"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://morgenbladet.no/sites/default/files/enquete_trumpputin_getty872801946.jpg"
+            },
+            {
+                "url": "https://mediadc.brightspotcdn.com/dims4/default/984d0e4/2147483647/strip/true/crop/1320x879+0+0/resize/1320x879!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+            },
+            {
+                "url": "https://mediadc.brightspotcdn.com/b4/8a/fe87232c6465c5eff9ea62d6accb/daa3bd84b7c923ff825b8c092ec183b9.jpg"
+            },
+            {
+                "url": "http://objektiiv.ee/wp-content/uploads/2018/03/TS068984.jpg"
+            },
+            {
+                "url": "https://phototass2.cdnvideo.ru/width/1020_b9261fa1/tass/m2/uploads/i/20171118/4601884.jpg"
+            },
+            {
+                "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+            },
+            {
+                "url": "https://img01.rl0.ru/82ad4fa0b84fb281e956885f21cc5430/c600x315/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+            },
+            {
+                "url": "http://finglobal.ru/uploads/2017-11/1511033642_NYT-zampred-CB-Torshin-pytalsya-org_1.jpg"
+            },
+            {
+                "url": "https://img.rl0.ru/abb29704d54c5fee13c69e04e4f7b9c8/c260x180/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://i.f1g.fr/media/figaro/orig/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+            },
+            {
+                "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.jpeg?v=1531728121"
+            },
+            {
+                "url": "https://halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg"
+            },
+            {
+                "url": "http://tatcenter.ru/content/uploads/2018/03/Tramp.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?fit=1880%2C1160&ssl=1"
+            },
+            {
+                "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.1910x1000.jpeg"
+            },
+            {
+                "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/07/16/realtime/5004689.jpg&x=0&y=0&sw=0&sh=0&exp=3600"
+            },
+            {
+                "url": "https://static.mk.ru/upload/entities/2018/04/16/articles/facebookPicture/c4/1f/6d/eb/5f46aa3f58bc375d1400422e693da5e5.jpg"
+            },
+            {
+                "url": "https://4cdn.hu/kraken/image/upload/s--DD2DQ7DI--/w_1160/75BN1AdjT8OWc5Q2s.jpeg"
+            },
+            {
+                "url": "https://riafan.ru/uploads/2018/07/03/orig-1530574333535246658bd6168814fb8e914daf306d.jpeg"
+            },
+            {
+                "url": "https://mediadc.brightspotcdn.com/dims4/default/00b7f3a/2147483647/strip/true/crop/1320x693+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+            },
+            {
+                "url": "https://static.ukrinform.com/photos/2017_11/1510573056-1620.jpg"
+            },
+            {
+                "url": "http://www.newsit.gr/wp-content/uploads/2017/11/Trump-Putin-6.jpg"
+            },
+            {
+                "url": "http://06.imgmini.eastday.com/mobile/20171112/20171112135723_9ff121592c60fceb823ea75f3444977c_2.jpeg"
+            },
+            {
+                "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/-1x-1.jpg"
+            },
+            {
+                "url": "https://www.panorama.it/wp-content/uploads/2017/11/TRUMP-ASIA-DUE027-1000x600.jpg"
+            },
+            {
+                "url": "https://newdaynews.ru/pict/arts1/64/05/640511_b.jpg"
+            },
+            {
+                "url": "https://r.sinaimg.cn/large/article/4c29460aee913f9d05c0c9adad966ca7"
+            },
+            {
+                "url": "http://cdn3.img.sputniknews.cn/images/102403/77/1024037745.jpg"
+            },
+            {
+                "url": "http://d.ifengimg.com/mw978_mh598/p0.ifengimg.com/a/2017_46/ec28c9ae48c9dc8_size469_w1000_h684.jpg"
+            },
+            {
+                "url": "https://obj.altapress.ru/picture/386701/936x.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?zoom=2.625&fit=1200%2C740&ssl=1&resize=350%2C200"
+            },
+            {
+                "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_907_play_0_pos_0_gs_0_height_515.jpg"
+            },
+            {
+                "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20171111&t=2&i=1209421408&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEDAA0BT"
+            },
+            {
+                "url": "https://img.ilcdn.fi/1BmhasVtsfdaxPSEV-dQZnyCBV4=/full-fit-in/820x/img-s3.ilcdn.fi/f079f49939b5333902496d691ba1ad66a69b633f719e1449b72ea255f2a637e1.jpg"
+            },
+            {
+                "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/800x-1.jpg"
+            },
+            {
+                "url": "https://i.f1g.fr/media/figaro/805x453_crop/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/deutsch/images/2018.06/article/5b3639bf4c96bb09318b4569.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/setadc.org/wp-content/uploads/2018/07/20cf465c-c6ff-4d62-9b6d-0a71a97f044c-1024x632.jpg?resize=700%2C466&ssl=1"
+            },
+            {
+                "url": "http://www.russland.news/wp-content/uploads/2018/10/Putin-Trump-APEC-171111-Bild-3-kremlin.ru-Ausschnitt.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/media/pics/2018.07/article/5b4b15ac95a597cc3f8b459e.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/media/pics/2017.12/article/5a215b7c95a597ee2b8b457c.jpg"
+            },
+            {
+                "url": "http://from-yemen.com/temp/resized/medium_2018-11-16-9d3a2c22d5.jpg"
+            },
+            {
+                "url": "http://www.sinmarnews.com/userfiles/mm(366).jpg"
+            },
+            {
+                "url": "https://cdn.isna.ir/d/2017/11/12/3/57591305.jpg"
+            },
+            {
+                "url": "https://fa.shafaqna.com/media/2018/07/001-315.jpg?x44010"
+            },
+            {
+                "url": "https://cdn1.img.rs.sputniknews.com/images/111341/08/1113410836.jpg"
+            },
+            {
+                "url": "http://cdn3.img.sputniknews.cn/images/102403/77/1024037746.jpg"
+            },
+            {
+                "url": "https://i.f1g.fr/media/figaro/680x/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+            },
+            {
+                "url": "https://im.haberturk.com/2018/02/27/ver1519713583/1854756_620x410.jpg"
+            },
+            {
+                "url": "https://inews.gtimg.com/newsapp_bt/0/2281759848/641"
+            },
+            {
+                "url": "https://img.ilcdn.fi/avOcs6NR-VzxuRSFYAwyAJJOZqs=/full-fit-in/612x/img-s3.ilcdn.fi/f079f49939b5333902496d691ba1ad66a69b633f719e1449b72ea255f2a637e1.jpg"
+            },
+            {
+                "url": "https://img.ilcdn.fi/sTDhAbdgq97B_Ad7fpTnXbQCeZg=/full-fit-in/612x/img-s3.ilcdn.fi/d7d4316ac1525201c0169b07c9466bbcecff792930293e9eac2d3aaa16f0f99b.jpg"
+            },
+            {
+                "url": "https://static.mk.ru/upload/entities/2018/04/16/articles/detailPicture/d1/05/66/96/7c19ea58d92a6eba25368651c11ed0e3.jpg"
+            },
+            {
+                "url": "http://ztpnews.ru/wp-content/uploads/2018/06/31c4c93c788f761b49cc1d7461eea816.jpeg"
+            },
+            {
+                "url": "http://www.ahram.org.eg/Media/News/2018/7/18/2018-636675447665583844-558.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+            },
+            {
+                "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_400_play_0_pos_0_gs_0_height_225.jpg"
+            },
+            {
+                "url": "https://newdaynews.ru/pict/arts1/64/05/640511.jpg"
+            },
+            {
+                "url": "http://www.sinmarnews.com/userfiles/sss(230).jpg"
+            },
+            {
+                "url": "https://mi7.ru/wp-content/uploads/2018/07/putin-i-tramp-pogovorili-naedine-300x160.jpg"
+            },
+            {
+                "url": "https://kz.expert/cache/files/2519_w840_h425_off_0_0.jpg_w300_h150_resize.jpg"
+            },
+            {
+                "url": "https://fa.shafaqna.com/media/2018/07/001-315-238x178.jpg?x44010"
+            },
+            {
+                "url": "https://kz.expert/cache/files/news/2519_w260_h150_off_0_0.jpg"
+            },
+            {
+                "url": "https://kz.expert/cache/files/market/2519_w260_h150_off_0_0.jpg_w260_h150_resize.jpg"
+            },
+            {
+                "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/vladimir_putin_donald_trump.jpg?itok=HuZnpn25"
+            },
+            {
+                "url": "http://www.zaronews.world/wp-content/uploads/2017/11/318274114-218x150.jpg"
+            },
+            {
+                "url": "https://www.ispionline.it/sites/default/files/styles/square_thumbnail/public/copertine/vladimir_putin_donald_trump.jpg?itok=kzM5VSG1"
+            },
+            {
+                "url": "https://i2.wp.com/www.brookings.edu/wp-content/uploads/2018/07/Trump_Putin_APEC.jpg?w=234&crop=0%2C13px%2C100%2C134px&ssl=1"
+            },
+            {
+                "url": "https://www.incimages.com/uploaded_files/image/1940x900/getty_872920946_361587.jpg"
+            },
+            {
+                "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_872920946_361587.jpg"
+            },
+            {
+                "url": "https://kz.expert/cache/files/2519_w840_h425_off_0_0.jpg_w840_h415_crop.jpg"
+            },
+            {
+                "url": "https://s.62.ua/section/newsIcon/upload/images/news/icon/000/037/382/153068593414f1fad02-640x394_5b3c89ab858ab.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.brookings.edu/blog/order-from-chaos/2018/07/12/what-putin-wants-in-helsinki/",
+                "pageTitle": "What <b>Putin</b> wants in Helsinki - Brookings Institution",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.brookings.edu/wp-content/uploads/2018/07/Trump_Putin_APEC.jpg?w=234&crop=0%2C13px%2C100%2C134px&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cnbc.com/2018/07/16/trump-putin-summit-media-reaction.html",
+                "pageTitle": "Beware <b>Putin&#39;s</b> &#39;bag of tricks&#39;: What Europe&#39;s press thinks about the ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.jpeg?v=1531728121"
+                    },
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.1910x1000.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.huffingtonpost.com/entry/trump-nato-putin_us_5b3fbd52e4b09e4a8b2cd808",
+                "pageTitle": "In The World According To Trump, NATO Allies Are Bad And <b>Putin</b> Is ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bloomberg.com/view/articles/2018-07-14/trump-putin-summit-beware-of-a-deal-for-russia-to-sell-more-oil",
+                "pageTitle": "Trump-<b>Putin</b> Summit: Beware of a Deal for Russia to Sell More Oil ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/800x-1.jpg"
+                    },
+                    {
+                        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/-1x-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.brookings.edu/topic/russia-eurasia/",
+                "pageTitle": "Russia &amp; Eurasia - Brookings Institution",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.brookings.edu/wp-content/uploads/2018/07/Trump_Putin_APEC.jpg?w=234&crop=0%2C13px%2C100%2C134px&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cnbc.com/world-news/?page=10",
+                "pageTitle": "World News - CNBC.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.jpeg?v=1531728121"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cnbc.com/id/100003114/page/338",
+                "pageTitle": "Stock Markets, Business News, Financials, Earnings - CNBC",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.jpeg?v=1531728121"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.weeklystandard.com/jenna-lifhits/trump-and-russia-the-good-and-the-bad",
+                "pageTitle": "Trump and Russia: The Good and the Bad - The Weekly Standard",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mediadc.brightspotcdn.com/dims4/default/00b7f3a/2147483647/strip/true/crop/1320x693+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+                    },
+                    {
+                        "url": "https://mediadc.brightspotcdn.com/b4/8a/fe87232c6465c5eff9ea62d6accb/daa3bd84b7c923ff825b8c092ec183b9.jpg"
+                    },
+                    {
+                        "url": "https://mediadc.brightspotcdn.com/dims4/default/984d0e4/2147483647/strip/true/crop/1320x879+0+0/resize/1320x879!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/it/pubblicazione/putin-trump-summit-helsinki-high-hopes-modest-expectations-20960",
+                "pageTitle": "The <b>Putin</b>-Trump Summit in Helsinki: High Hopes, Modest ... - Ispi",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/vladimir_putin_donald_trump.jpg?itok=HuZnpn25"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/en/pubblicazione/putin-trump-summit-helsinki-high-hopes-modest-expectations-20960",
+                "pageTitle": "The <b>Putin</b>-Trump Summit in Helsinki: High Hopes, Modest ... - Ispi",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/vladimir_putin_donald_trump.jpg?itok=HuZnpn25"
+                    }
+                ]
+            },
+            {
+                "url": "http://world.24-my.info/ex-fbi-director-trump-is-afraid-to-criticize-putin-even-secretly-2/",
+                "pageTitle": "Ex-FBI Director: trump is afraid to criticize <b>Putin</b>, even secretly | 24 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://world.24-my.info/wp-content/uploads/2018/04/038ae719db7396700a42cfb0e47e2598.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kz.expert/en/news/world_practice/653_pitfalls_of_friendship",
+                "pageTitle": "Pitfalls of Friendship - kz.expert",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kz.expert/cache/files/market/2519_w260_h150_off_0_0.jpg_w260_h150_resize.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.shockingview.com/in-the-world-according-to-trump-nato-allies-are-bad-and-putin-is-good/",
+                "pageTitle": "In The World According To Trump, NATO Allies Are Bad And <b>Putin</b> Is ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.shockingview.com/wp-content/uploads/2018/07/470eed06d2fe8f2443b77e03f01676dd.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/it/bio/maxim-suchkov-0",
+                "pageTitle": "Maxim A. Suchkov | ISPI",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/square_thumbnail/public/copertine/vladimir_putin_donald_trump.jpg?itok=kzM5VSG1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/en/bio/maxim-suchkov-0",
+                "pageTitle": "Maxim A. Suchkov | ISPI",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/square_thumbnail/public/copertine/vladimir_putin_donald_trump.jpg?itok=kzM5VSG1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.4search.com/haaretz.com/in-helsinki-trump-and-putin-just-ripped-europe-apart-the-consequences-will-be-catastrophic/",
+                "pageTitle": "In Helsinki, Trump and <b>Putin</b> just ripped Europe apart. The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.1910x1000.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.inc.com/amanda-pressner-kreuser/whos-really-responsible-for-spread-of-fake-news-answer-might-shock-you.html",
+                "pageTitle": "Fake News Spreads Faster and 100 Times Further Than the Truth ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_872920946_361587.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kz.expert/en/news/world_practice/812_the_cold_war_2.0",
+                "pageTitle": "The Cold War 2.0 - kz.expert",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kz.expert/cache/files/2519_w840_h425_off_0_0.jpg_w300_h150_resize.jpg"
+                    },
+                    {
+                        "url": "https://kz.expert/cache/files/2519_w840_h425_off_0_0.jpg_w840_h415_crop.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kz.expert/en/archive/2018/9/17/",
+                "pageTitle": "Daily Archives: 17.9.2018 - kz.expert",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kz.expert/cache/files/news/2519_w260_h150_off_0_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kz.expert/en",
+                "pageTitle": "Main page - kz.expert",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kz.expert/cache/files/news/2519_w260_h150_off_0_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oror.info/i/influential-world-leaders-trump-backs-russia",
+                "pageTitle": "Influential World Leaders Trump Backs Russia | OROR",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mediadc.brightspotcdn.com/dims4/default/984d0e4/2147483647/strip/true/crop/1320x879+0+0/resize/1320x879!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://picurams.pw/Trump-initiated-Putin-after-economic-praise-t.html",
+                "pageTitle": "Trump initiated <b>Putin</b> after economic praise t",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+                    }
+                ]
+            },
+            {
+                "url": "https://halfguarded.com/trump-picks-khabib-conor-mcgregor-due-putins-assurance-nominates-brett-kavanaugh-judge-fight/",
+                "pageTitle": "Trump Picks Khabib Over Conor McGregor Due To <b>Putin&#39;s</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?fit=1880%2C1160&ssl=1"
+                    },
+                    {
+                        "url": "https://halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://half-pencil.loan/peek/punishment-russia-trump-collusion-hoax",
+                "pageTitle": "Punishment Russia Trump Collusion Hoax - Half Pencil",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mediadc.brightspotcdn.com/dims4/default/984d0e4/2147483647/strip/true/crop/1320x879+0+0/resize/1320x879!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F8a%2Ffe87232c6465c5eff9ea62d6accb%2Fdaa3bd84b7c923ff825b8c092ec183b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://readly.info/finance/beware-putins-bag-of-tricks-what-europes-press-thinks-about-the-helsinki-summit/",
+                "pageTitle": "Beware <b>Putin&#39;s</b> &#39;bag of tricks&#39;: What Europe&#39;s press thinks about the ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://readly.info/wp-content/uploads/2018/07/105331383-1531728096702gettyimages-872920946.1910x1000.jpeg.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://saleonlinevn.com/what-europes-press-thinks-about-the-helsinki-summit/",
+                "pageTitle": "What Europe&#39;s press thinks about the Helsinki summit",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://saleonlinevn.com/wp-content/uploads/2018/07/what-europes-press-thinks-about-the-helsinki-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kopitiambot.com/2018/06/29/page/10/",
+                "pageTitle": "June 29, 2018 \u2013 Page 10 \u2013 Kopitiam Bot",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kopitiambot.com/wp-content/uploads/2018/06/httpswww.incimages.comuploaded_filesimage970x450getty_872920946_361587.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kopitiambot.com/2018/06/page/38/",
+                "pageTitle": "June 2018 \u2013 Page 38 \u2013 Kopitiam Bot",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kopitiambot.com/wp-content/uploads/2018/06/httpswww.incimages.comuploaded_filesimage970x450getty_872920946_361587.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://talking-soccer.com/TS4/showthread.php?p=2302778",
+                "pageTitle": "Trump Spewed a Mind-Blowing 100 False Claims In One Week ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+                    }
+                ]
+            },
+            {
+                "url": "https://stockinfo.us/tag/bag/",
+                "pageTitle": "bag \u2013 US Stock Info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/07/16/105331383-1531728096702gettyimages-872920946.1910x1000.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://halfguarded.com/trump-says-kavanaugh-will-clear-7th-investigation-incompetent-stellar-f-b-suck-job-blames-hillary-celebrity-deaths/",
+                "pageTitle": "Trump Says Kavanaugh Will Clear 7th Investigation By Incompetent ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?zoom=2.625&fit=1200%2C740&ssl=1&resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "https://halfguarded.com/while-practicing-speech-in-mirror-trump-insults-trump-demands-trump-sit-down-bans-trump-from-press-conference/",
+                "pageTitle": "While Practicing Speech In Mirror, Trump Insults Trump, Demands ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?zoom=2.625&fit=1200%2C740&ssl=1&resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "https://halfguarded.com/must-maybe-read-ufcs-press-release-hyping-conor-vs-khabib/",
+                "pageTitle": "[MUST (maybe) READ] UFC&#39;s Press Release Hyping Conor vs ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/halfguarded.com/wp-content/uploads/Vladimir_Putin__Donald_Trump_at_APEC_Summit_in_Da_Nang_Vietnam_11_November_2017_02.jpg?zoom=2.625&fit=1200%2C740&ssl=1&resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "http://dragfepic.pw/Did-the-Cold-War-help-to-create-a-modern-global-society-Did-World.html",
+                "pageTitle": "Did the Cold War help to create a modern global society Did World",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://kz.expert/cache/files/2519_w840_h425_off_0_0.jpg_w840_h415_crop.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://morristowncab.info/post/maxim-treasury-assistant-secretary",
+                "pageTitle": "Maxim Treasury Assistant Secretary - Morristowncab",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/vladimir_putin_donald_trump.jpg?itok=HuZnpn25"
+                    }
+                ]
+            },
+            {
+                "url": "http://backgroundimgfer.pw/EricSchwabelEricPaulLeue03-4-t.html",
+                "pageTitle": "EricSchwabelEricPaulLeue03 4 t - backgroundimgfer.pw",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/800x-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ruediger-will.com/i/bloomb-bloombergs-tv-crew",
+                "pageTitle": "Bloomb Bloombergs Tv Crew | Ruediger Will",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i6CKqSoPPVG8/v1/800x-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rs-lat.sputniknews.com/rusija/201806281116276565-Putin-Tramp-sad-Rusija/",
+                "pageTitle": "Kona\u010dno: Sastanak Putina i Trampa u Helsinkiju 16. jula - Sputnjik ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.rs.sputniknews.com/images/111341/08/1113410836.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.iltalehti.fi/kotimaa/201806272201038106_u0.shtml",
+                "pageTitle": "Tuleeko Helsingist\u00e4 psykologisen pelin keskipiste? Amerikkalaiset ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ilcdn.fi/1BmhasVtsfdaxPSEV-dQZnyCBV4=/full-fit-in/820x/img-s3.ilcdn.fi/f079f49939b5333902496d691ba1ad66a69b633f719e1449b72ea255f2a637e1.jpg"
+                    },
+                    {
+                        "url": "https://img.ilcdn.fi/avOcs6NR-VzxuRSFYAwyAJJOZqs=/full-fit-in/612x/img-s3.ilcdn.fi/f079f49939b5333902496d691ba1ad66a69b633f719e1449b72ea255f2a637e1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rs-lat.sputniknews.com/komentari/201806281116277435-tramp-putin-dogovor-kazna-evropa-/",
+                "pageTitle": "Tramp \u0107e se namerno dogovoriti sa Putinom kako bi kaznio Evropu ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.rs.sputniknews.com/images/111341/08/1113410836.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rs-lat.sputniknews.com/rusija/201802131114535331-tramp-putin-izrael-palestina/",
+                "pageTitle": "O \u010demu su pri\u010dali Tramp i <b>Putin</b> - Sputnjik Srbija",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.rs.sputniknews.com/images/111341/08/1113410836.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lefigaro.fr/international/2017/11/11/01003-20171111ARTFIG00120-samedi-donald-trump-et-vladimir-poutine-ont-eu-un-bon-feeling.php",
+                "pageTitle": "Samedi, Donald Trump et <b>Vladimir</b> Poutine ont eu \u00abun bon feeling\u00bb",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.f1g.fr/media/figaro/805x453_crop/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+                    },
+                    {
+                        "url": "https://i.f1g.fr/media/figaro/orig/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+                    },
+                    {
+                        "url": "https://i.f1g.fr/media/figaro/680x/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.iltalehti.fi/politiikka/201807142201074385/",
+                "pageTitle": "CNN:n toimittaja raportoi Helsingist\u00e4: Trump voi tehd\u00e4 Putinille ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ilcdn.fi/1BmhasVtsfdaxPSEV-dQZnyCBV4=/full-fit-in/820x/img-s3.ilcdn.fi/f079f49939b5333902496d691ba1ad66a69b633f719e1449b72ea255f2a637e1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/haberleri/siber-istihbarat",
+                "pageTitle": "Siber istihbarat - Habert\u00fcrk",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2018/02/27/ver1519713583/1854756_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://objektiiv.ee/kongressi-luurekomisjon-koostood-venemaaga-polnud/",
+                "pageTitle": "Kongressi luurekomisjon: koost\u00f6\u00f6d Venemaaga polnud - Objektiiv",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://objektiiv.ee/wp-content/uploads/2018/03/TS068984.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.panorama.it/news/esteri/il-viaggio-di-donald-e-melania-trump-asia-foto/",
+                "pageTitle": "Il viaggio di Donald e Melania Trump in Asia - FOTO - Panorama",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.panorama.it/wp-content/uploads/2017/11/TRUMP-ASIA-DUE027-1000x600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://deutsch.rt.com/international/72200-putin-trifft-trump-sorgen-und-empoerung-vereinen-wertegemeinschaft/",
+                "pageTitle": "<b>Putin</b> trifft Trump: Sorge und Emp\u00f6rung vereinen die westliche ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/article/5b3639bf4c96bb09318b4569.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://deutsch.rt.com/europa/72982-macron-trifft-sich-mit-putin-zu-wm-finale/",
+                "pageTitle": "Macron trifft <b>Putin</b> bei seinem Besuch in Moskau zum WM-Finale ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.h24info.ma/monde/samedi-donald-trump-vladimir-poutine-ont-feeling/",
+                "pageTitle": "Samedi, Donald Trump et <b>Vladimir</b> Poutine ont eu \u00abun bon feeling ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.f1g.fr/media/figaro/680x/2017/11/11/XVM1dbd2004-c700-11e7-a015-3a3ae48a90c7-805x453.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rs.sputniknews.com/komentari/201806281116277435-tramp-putin-dogovor-kazna-evropa-/",
+                "pageTitle": "\u0422\u0440\u0430\u043c\u043f \u045b\u0435 \u0441\u0435 \u043d\u0430\u043c\u0435\u0440\u043d\u043e \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u0438 \u0441\u0430 \u041f\u0443\u0442\u0438\u043d\u043e\u043c \u043a\u0430\u043a\u043e \u0431\u0438 \u043a\u0430\u0437\u043d\u0438\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.rs.sputniknews.com/images/111341/08/1113410836.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.iltalehti.fi/ulkomaat/201807012201046882_ul.shtml",
+                "pageTitle": "Washington Post: Trump haluaa suomettaa Euroopan ja USA:n ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ilcdn.fi/sTDhAbdgq97B_Ad7fpTnXbQCeZg=/full-fit-in/612x/img-s3.ilcdn.fi/d7d4316ac1525201c0169b07c9466bbcecff792930293e9eac2d3aaa16f0f99b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tvp.info/38082342/trump-z-powodu-glupoty-usa-relacje-z-rosja-nigdy-nie-byly-gorsze",
+                "pageTitle": "Trump: Z powodu g\u0142upoty USA relacje z Rosj\u0105 nigdy nie by\u0142y gorsze ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_907_play_0_pos_0_gs_0_height_515.jpg"
+                    },
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_400_play_0_pos_0_gs_0_height_225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://putin.trendolizer.com/2018/06/putin-trifft-trump-sorgen-und-emporung-vereinen-die-westliche-wertegemeinschaft.html",
+                "pageTitle": "Putin trifft Trump: Sorgen und Emp\u00f6rung vereinen ... - <b>Vladimir Putin</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/article/5b3639bf4c96bb09318b4569.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://russland.today/europa/72982-macron-trifft-sich-mit-putin-zu-wm-finale/",
+                "pageTitle": "Macron trifft <b>Putin</b> bei seinem Besuch in Moskau zum WM-Finale ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://russland.today/international/72200-putin-trifft-trump-sorgen-und-empoerung-vereinen-wertegemeinschaft/",
+                "pageTitle": "<b>Putin</b> trifft Trump: Sorge und Emp\u00f6rung vereinen die westliche ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/article/5b3639bf4c96bb09318b4569.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://deutsch.rt.com/meinung/72734-verschwoerungstheorie-des-tages-trump-schon-seit-1987-russischer-agent/",
+                "pageTitle": "Verschw\u00f6rungstheorie des Tages aus den USA: Trump schon seit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tvp.info/38082342/swiat/trump-z-powodu-glupoty-usa-relacje-z-rosja-nigdy-nie-byly-gorsze/?_escaped_fragment_=",
+                "pageTitle": "Trump: Z powodu g\u0142upoty USA relacje z Rosj\u0105 nigdy nie by\u0142y gorsze ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_907_play_0_pos_0_gs_0_height_515.jpg"
+                    },
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_400_play_0_pos_0_gs_0_height_225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://deutsch.rt.com/international/72891-schoigu-interview-usa-ukraine-/",
+                "pageTitle": "Russlands Verteidigungsminister im Interview: &quot;Eiszeit mit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.russland.news/trump-ueber-seine-erwartungen-vom-treffen-mit-putin/",
+                "pageTitle": "Trump \u00fcber seine Erwartungen vom Treffen mit <b>Putin</b> - russland.NEWS",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.russland.news/wp-content/uploads/2018/07/Putin-Trump-APEC-171111-Bild-3-kremlin.ru-Ausschnitt.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tatcenter.ru/news/putin-i-tramp-vstretyatsya-v-helsinki-16-iyulya/",
+                "pageTitle": "\u041f\u0443\u0442\u0438\u043d \u0438 \u0422\u0440\u0430\u043c\u043f \u0432\u0441\u0442\u0440\u0435\u0442\u044f\u0442\u0441\u044f \u0432 \u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438 16 \u0438\u044e\u043b\u044f \u2013 \u0422\u0430\u0442\u0446\u0435\u043d\u0442\u0440.\u0440\u0443",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tatcenter.ru/content/uploads/2018/03/Tramp.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.russland.news/treffen-von-trump-und-putin-anfang-2019-moeglich/",
+                "pageTitle": "Treffen von Trump und <b>Putin</b> Anfang 2019 m\u00f6glich \u2013 russland.NEWS",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.russland.news/wp-content/uploads/2018/10/Putin-Trump-APEC-171111-Bild-3-kremlin.ru-Ausschnitt.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://riafan.ru/1077960-siriya-putin-i-tramp-pochemu-voina-v-sar-i-iran-mogut-stat-klyuchevymi-temami-vstrechi-v-khelsinki",
+                "pageTitle": "\u0421\u0438\u0440\u0438\u044f, \u041f\u0443\u0442\u0438\u043d \u0438 \u0422\u0440\u0430\u043c\u043f: \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u043e\u0439\u043d\u0430 \u0432 \u0421\u0410\u0420 \u0438 \u0418\u0440\u0430\u043d \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://riafan.ru/uploads/2018/07/16/orig-1531732585535246658bd6168814fb8e914daf306d.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tatcenter.ru/news/putin-zayavil-o-gotovnosti-normalizatsii-otnoshenij-s-ssha/",
+                "pageTitle": "\u041f\u0443\u0442\u0438\u043d \u0437\u0430\u044f\u0432\u0438\u043b \u043e \u0433\u043e\u0442\u043e\u0432\u043d\u043e\u0441\u0442\u0438 \u043d\u043e\u0440\u043c\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0439 \u0441 \u0421\u0428\u0410 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tatcenter.ru/content/uploads/2018/03/Tramp.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://riafan.ru/1070992-peskov-otvetil-na-vopros-o-strane-gde-mogut-vstretitsya-putin-i-tramp",
+                "pageTitle": "\u041f\u0435\u0441\u043a\u043e\u0432 \u043e\u0442\u0432\u0435\u0442\u0438\u043b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441 \u043e \u0441\u0442\u0440\u0430\u043d\u0435, \u0433\u0434\u0435 \u043c\u043e\u0433\u0443\u0442 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044c\u0441\u044f \u041f\u0443\u0442\u0438\u043d ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://riafan.ru/uploads/2018/06/26/orig-1530007186535246658bd6168814fb8e914daf306d.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://morgenbladet.no/aktuelt/2018/nytt-aar-nye-bekymringer",
+                "pageTitle": "Nytt \u00e5r, nye bekymringer | morgenbladet.no",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://morgenbladet.no/sites/default/files/enquete_trumpputin_getty872801946.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tvp.info/informacje/swiat/trump-z-powodu-glupoty-usa-relacje-z-rosja-nigdy-nie-byly-gorsze/38082342",
+                "pageTitle": "Trump: Z powodu g\u0142upoty USA relacje z Rosj\u0105 nigdy nie by\u0142y gorsze ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_907_play_0_pos_0_gs_0_height_515.jpg"
+                    },
+                    {
+                        "url": "https://s.tvp.pl/images2/6/2/e/uid_62e2510d98ec1f5b9bccaefafcf5cabe1531728433608_width_400_play_0_pos_0_gs_0_height_225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://altapress.ru/politika/story/putin-i-tramp-dogovorilis-do-kontsa-razgromit-igil-v-sirii-211718",
+                "pageTitle": "\u041f\u0443\u0442\u0438\u043d \u0438 \u0422\u0440\u0430\u043c\u043f \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u043b\u0438\u0441\u044c \u0434\u043e \u043a\u043e\u043d\u0446\u0430 \u0440\u0430\u0437\u0433\u0440\u043e\u043c\u0438\u0442\u044c \u0418\u0413\u0418\u041b \u0432 \u0421\u0438\u0440\u0438\u0438",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://obj.altapress.ru/picture/386701/936x.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://morgenbladet.no/aktuelt/2018/01/2018-nytt-ar-nye-bekymringer",
+                "pageTitle": "Nytt \u00e5r, nye bekymringer | morgenbladet.no",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://morgenbladet.no/sites/default/files/enquete_trumpputin_getty872801946.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tass.ru/mezhdunarodnaya-panorama/4741013",
+                "pageTitle": "NYT: \u0437\u0430\u043c\u043f\u0440\u0435\u0434 \u0426\u0411 \u0422\u043e\u0440\u0448\u0438\u043d \u043f\u044b\u0442\u0430\u043b\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0422\u0440\u0430\u043c\u043f\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://phototass2.cdnvideo.ru/width/1020_b9261fa1/tass/m2/uploads/i/20171118/4601884.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://444.hu/tag/robert-mueller",
+                "pageTitle": "robert mueller - 444",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://4cdn.hu/kraken/image/upload/s--DD2DQ7DI--/w_1160/75BN1AdjT8OWc5Q2s.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://444.hu/2017?page=14",
+                "pageTitle": "\u00c9ves arch\u00edvum: 2017. - 444",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://4cdn.hu/kraken/image/upload/s--DD2DQ7DI--/w_1160/75BN1AdjT8OWc5Q2s.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://444.hu/2017/12/17/trump-csapata-torvenysertessel-vadolja-az-orosz-befolyast-vizsgalo-ugyeszt",
+                "pageTitle": "Trump csapata t\u00f6rv\u00e9nys\u00e9rt\u00e9ssel v\u00e1dolja az orosz befoly\u00e1st vizsg\u00e1l\u00f3 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://4cdn.hu/kraken/image/upload/s--DD2DQ7DI--/w_1160/75BN1AdjT8OWc5Q2s.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://russland.today/meinung/72734-verschwoerungstheorie-des-tages-trump-schon-seit-1987-russischer-agent/",
+                "pageTitle": "Verschw\u00f6rungstheorie des Tages aus den USA: Trump schon seit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mk.ru/politics/2018/06/28/london-ispugali-predstoyashhie-peregovory-putina-i-trampa-vdrug-dogovoryatsya.html",
+                "pageTitle": "\u041b\u043e\u043d\u0434\u043e\u043d \u0438\u0441\u043f\u0443\u0433\u0430\u043b\u0438 \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u044f\u0449\u0438\u0435 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b \u041f\u0443\u0442\u0438\u043d\u0430 \u0438 \u0422\u0440\u0430\u043c\u043f\u0430 - \u041c\u041a",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.mk.ru/upload/entities/2018/06/28/articles/detailPicture/31/8b/bc/8f/7b8b46f4151cb492d9f234aaea259b2c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://444.hu/tag/robert-mueller?page=2",
+                "pageTitle": "robert mueller - 444",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://4cdn.hu/kraken/image/upload/s--DD2DQ7DI--/w_1160/75BN1AdjT8OWc5Q2s.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tatcenter.ru/stories/vybory-2018/",
+                "pageTitle": "\u0412\u044b\u0431\u043e\u0440\u044b-2018 \u2013 \u0422\u0430\u0442\u0446\u0435\u043d\u0442\u0440.\u0440\u0443 - TatCenter.ru",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tatcenter.ru/content/uploads/2018/03/Tramp.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.rambler.ru/2017/11/18/",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0437\u0430 18 \u043d\u043e\u044f\u0431\u0440\u044f 2017 \u2014 \u0420\u0430\u043c\u0431\u043b\u0435\u0440/\u043d\u043e\u0432\u043e\u0441\u0442\u0438",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.rl0.ru/abb29704d54c5fee13c69e04e4f7b9c8/c260x180/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+                    },
+                    {
+                        "url": "https://img01.rl0.ru/82ad4fa0b84fb281e956885f21cc5430/c600x315/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mk.ru/politics/2018/04/16/eksdirektor-fbr-tramp-boitsya-kritikovat-putina-dazhe-tayno.html",
+                "pageTitle": "\u042d\u043a\u0441-\u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0424\u0411\u0420: \u0422\u0440\u0430\u043c\u043f \u0431\u043e\u0438\u0442\u0441\u044f \u043a\u0440\u0438\u0442\u0438\u043a\u043e\u0432\u0430\u0442\u044c \u041f\u0443\u0442\u0438\u043d\u0430 \u0434\u0430\u0436\u0435 ... - \u041c\u041a",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.mk.ru/upload/entities/2018/04/16/articles/detailPicture/d1/05/66/96/7c19ea58d92a6eba25368651c11ed0e3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.rambler.ru/person/torshin-aleksandr/",
+                "pageTitle": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0422\u043e\u0440\u0448\u0438\u043d \u0441\u0435\u0433\u043e\u0434\u043d\u044f: \u0441\u0432\u0435\u0436\u0438\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u043e \u043f\u0435\u0440\u0441\u043e\u043d\u0435 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.rl0.ru/abb29704d54c5fee13c69e04e4f7b9c8/c260x180/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+                    },
+                    {
+                        "url": "https://img01.rl0.ru/82ad4fa0b84fb281e956885f21cc5430/c600x315/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tatcenter.ru/news/tramp-pozdravil-putina-s-pobedoj-na-vyborah/",
+                "pageTitle": "\u0422\u0440\u0430\u043c\u043f \u043f\u043e\u0437\u0434\u0440\u0430\u0432\u0438\u043b \u041f\u0443\u0442\u0438\u043d\u0430 \u0441 \u043f\u043e\u0431\u0435\u0434\u043e\u0439 \u043d\u0430 \u0432\u044b\u0431\u043e\u0440\u0430\u0445 \u2013 \u0422\u0430\u0442\u0446\u0435\u043d\u0442\u0440.\u0440\u0443",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tatcenter.ru/content/uploads/2018/03/Tramp.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ahram.org.eg/News/202712/26/661411/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%86%D9%81%D9%89-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A3%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%AD.aspx",
+                "pageTitle": "\u062a\u0631\u0627\u0645\u0628 \u064a\u0646\u0641\u0649 \u0627\u0633\u062a\u0647\u062f\u0627\u0641 \u0645\u0648\u0633\u0643\u0648 \u0623\u0645\u0631\u064a\u0643\u0627 \u0648\u064a\u0624\u0643\u062f: \u0623\u0646\u0627 \u0627\u0644\u0623\u0643\u062b\u0631 \u062d\u0632\u0645\u0627 \u062d\u064a\u0627\u0644 \u0631\u0648\u0633\u064a\u0627 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.ahram.org.eg/Media/News/2018/7/18/2018-636675447665583844-558.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mediarepost.ru/channel/war/194958-siriya-putin-i-tramp-pochemu-voyna-v-sar-i-iran-mogut-stat-klyuchevymi-temami-vstrechi-v-helsinki.html",
+                "pageTitle": "\u0421\u0438\u0440\u0438\u044f, \u041f\u0443\u0442\u0438\u043d \u0438 \u0422\u0440\u0430\u043c\u043f: \u043f\u043e\u0447\u0435\u043c\u0443 \u0432\u043e\u0439\u043d\u0430 \u0432 \u0421\u0410\u0420 \u0438 \u0418\u0440\u0430\u043d \u043c\u043e\u0433\u0443\u0442 \u0441\u0442\u0430\u0442\u044c ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://riafan.ru/uploads/2018/07/16/orig-1531732585535246658bd6168814fb8e914daf306d.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://russland.today/international/72891-schoigu-interview-usa-ukraine-/",
+                "pageTitle": "Russlands Verteidigungsminister im Interview: &quot;Eiszeit mit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/thumbnail/5b3639bf4c96bb09318b456a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.russland.news/trump-russland-usa-zusammenarbeiten/",
+                "pageTitle": "Trump: Russland und USA sollen wieder zusammenarbeiten ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.russland.news/wp-content/uploads/2017/11/Putin-Trump-APEC-171111-Bild-3-kremlin.ru-Ausschnitt.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tarifsmedias.com/allies-praise-trumps.aspx",
+                "pageTitle": "Allies Praise Trumps \u2014 Tarifsmedias",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+                    }
+                ]
+            },
+            {
+                "url": "http://elektrosystem.info/wenn-man-putin-trifft.aspx",
+                "pageTitle": "Wenn Man <b>Putin</b> Trifft | Elektrosystem",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/deutsch/images/2018.06/article/5b3639bf4c96bb09318b4569.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://big5.sputniknews.cn/politics/201711131024036794/",
+                "pageTitle": "\u514b\u5bae\uff1a\u66ab\u672a\u8a0e\u8ad6\u4fc4\u7f8e\u5169\u570b\u5143\u9996\u518d\u6b21\u6703\u9762\u7684\u53ef\u80fd\u6027- Sputnik \u4e2d\u570b",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn3.img.sputniknews.cn/images/102403/77/1024037746.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newdaynews.ru/moskow/648421.html",
+                "pageTitle": "\u00ab\u0425\u043e\u043b\u043e\u0434\u043d\u0430\u044f \u0432\u043e\u0439\u043d\u0430 2.0\u00bb: \u041a\u0440\u0435\u043c\u043b\u044c \u043e\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u043f\u0435\u0440\u0435\u0434 \u0434\u0438\u043b\u0435\u043c\u043c\u043e\u0439 / 30 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511_b.jpg"
+                    },
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/abd-rusya-olimpiyatlardan-men-edilince-siber-saldiri-duzenledi-1854756",
+                "pageTitle": "ABD: Rusya Olimpiyatlardan men edilince siber sald\u0131r\u0131 d\u00fczenledi ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2018/02/27/ver1519713583/1854756_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://big5.sputniknews.cn/politics/201711131024032450/",
+                "pageTitle": "\u5a92\u9ad4\uff1a\u7f8e\u4e2d\u592e\u60c5\u5831\u5c40\u524d\u5c40\u9577\u8a8d\u70ba\u7279\u6717\u666e\u53ef\u80fd\u6015\u666e\u4eac- Sputnik \u4e2d\u570b",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn3.img.sputniknews.cn/images/102403/77/1024037745.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ahram.org.eg/Index.aspx?issueID=202712",
+                "pageTitle": "\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629 - \u0627\u0644\u0623\u0647\u0631\u0627\u0645 \u0627\u0644\u064a\u0648\u0645\u064a",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.ahram.org.eg/Media/News/2018/7/18/2018-636675447665583844-558.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ukrinform.ua/rubric-world/2498440-vidstup-ssa-v-sirii-porazka-vijskova-hitrist.html",
+                "pageTitle": "\u0412\u0456\u0434\u0441\u0442\u0443\u043f \u0421\u0428\u0410 \u0432 \u0421\u0438\u0440\u0456\u0457: \u041f\u043e\u0440\u0430\u0437\u043a\u0430? \u0412\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0430 \u0445\u0438\u0442\u0440\u0456\u0441\u0442\u044c? - 13.07.2018 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.ukrinform.com/photos/2017_11/1510573056-1620.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://riafan.ru/1073367-tramp-khochet-pogovorit-s-putinym-odin-na-odin-v-khelsinki-smi",
+                "pageTitle": "\u0422\u0440\u0430\u043c\u043f \u0445\u043e\u0447\u0435\u0442 \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u0441 \u041f\u0443\u0442\u0438\u043d\u044b\u043c \u043e\u0434\u0438\u043d \u043d\u0430 \u043e\u0434\u0438\u043d \u0432 \u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://riafan.ru/uploads/2018/07/03/orig-1530574333535246658bd6168814fb8e914daf306d.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/haberleri/pyeongchang-kis-olimpiyatlari",
+                "pageTitle": "Pyeongchang k\u0131\u015f olimpiyatlar\u0131 Haberleri, G\u00fcncel Pyeongchang k\u0131\u015f ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2018/02/27/ver1519713583/1854756_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newdaynews.ru/inworld/614627.html",
+                "pageTitle": "\u041c\u043e\u0441\u043a\u0432\u0430 \u0432\u043e\u0437\u0440\u0430\u0437\u0438\u043b\u0430 \u0413\u043e\u0441\u0434\u0435\u043f\u0443 \u043d\u0430 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0432\u0435\u0441\u0442\u0438 \u043c\u0438\u0440\u043e\u0442\u0432\u043e\u0440\u0446\u0435\u0432 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newdaynews.ru/inworld/642264.html",
+                "pageTitle": "\u0412 \u0421\u041c\u0418 \u043f\u0440\u043e\u0441\u043e\u0447\u0438\u043b\u0441\u044f \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442 \u0441 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438 \u041f\u0443\u0442\u0438\u043d\u0430 \u0422\u0440\u0430\u043c\u043f\u0443 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://udn.com/news/story/6813/3255321",
+                "pageTitle": "\u5716\u8f2f\uff0f\u6709\u300c\u5316\u5b78\u53cd\u61c9\u300d\uff01\u5ddd\u666e\u666e\u4ead\u524d2\u6b21\u6703\u9762\u8868\u60c5\u8b8a\u5316| \u96d9\u666e\u6703\u82ac\u862d\u767b\u5834 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/07/16/realtime/5004689.jpg&x=0&y=0&sw=0&sh=0&exp=3600"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.rambler.ru/politics/36713267-nyt-torshin-pytalsya-organizovat-vstrechu-trampa-i-putina/",
+                "pageTitle": "NYT: \u0437\u0430\u043c\u043f\u0440\u0435\u0434 \u0426\u0411 \u0422\u043e\u0440\u0448\u0438\u043d \u043f\u044b\u0442\u0430\u043b\u0441\u044f \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0422\u0440\u0430\u043c\u043f\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img01.rl0.ru/82ad4fa0b84fb281e956885f21cc5430/c600x315/news.rambler.ru/img/2017/11/18211046.666332.3033.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newdaynews.ru/inworld/640511.html",
+                "pageTitle": "\u0422\u0440\u0430\u043c\u043f: \u041e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0441 \u041c\u043e\u0441\u043a\u0432\u043e\u0439 \u0438\u0441\u043f\u043e\u0440\u0442\u0438\u043b\u0438\u0441\u044c \u0438\u0437-\u0437\u0430 \u043c\u043d\u043e\u0433\u043e\u043b\u0435\u0442\u043d\u0435\u0439 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511_b.jpg"
+                    },
+                    {
+                        "url": "https://newdaynews.ru/pict/arts1/64/05/640511.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ukrinform.ru/rubric-world/2498482-otstuplenie-ssa-v-sirii-porazenie-voennaa-hitrost.html",
+                "pageTitle": "\u041e\u0442\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435 \u0421\u0428\u0410 \u0432 \u0421\u0438\u0440\u0438\u0438: \u041f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u0435? \u0412\u043e\u0435\u043d\u043d\u0430\u044f \u0445\u0438\u0442\u0440\u043e\u0441\u0442\u044c ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.ukrinform.com/photos/2017_11/1510573056-1620.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://img.huffingtonpost.com/asset/5b3fc01b2000006505b96597.jpeg?ops=scalefit_720_noupscale"
+            },
+            {
+                "url": "https://e3.365dm.com/18/06/750x563/skynews-vladimir-putin-donald-trump_4347876.jpg?20180628121334"
+            },
+            {
+                "url": "https://g8fip1kplyr33r3krz5b97d1-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/GettyImages-872736296-714x476.jpg"
+            },
+            {
+                "url": "https://jam-news.net/wp-content/uploads/2018/07/RTR490K-785x487.jpg"
+            },
+            {
+                "url": "https://www.dw.com/image/46009440_303.jpg"
+            },
+            {
+                "url": "https://img.yle.fi/uutiset/ulkomaat/article10277530.ece/ALTERNATES/w960/27_6_27_6%20Vladimir%20Putin%20Donald%20Trump%20%2017.53890389.jpg"
+            },
+            {
+                "url": "https://cdn3.whatculture.com/images/2015/03/2.2475801.jpg"
+            },
+            {
+                "url": "https://jam-news.net/wp-content/uploads/2018/07/RTR490K-1024x894.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Vladimir Putin"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.81362116,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.9977008,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.9977008,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6211213,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.01023531,
+                        "y": 0.08505884
+                    },
+                    {
+                        "x": 0.89000005,
+                        "y": 0.08505884
+                    },
+                    {
+                        "x": 0.89000005,
+                        "y": 0.9925882
+                    },
+                    {
+                        "x": 0.01023531,
+                        "y": 0.9925882
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.51170516,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22786795,
+                        "y": 0.072677076
+                    },
+                    {
+                        "x": 0.7406026,
+                        "y": 0.072677076
+                    },
+                    {
+                        "x": 0.7406026,
+                        "y": 0.9734405
+                    },
+                    {
+                        "x": 0.22786795,
+                        "y": 0.9734405
+                    }
+                ]
+            }
+        }
+    ]
+}

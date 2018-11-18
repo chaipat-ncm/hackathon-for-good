@@ -1,0 +1,1564 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    [],
+                    {
+                        "x": 145
+                    },
+                    {
+                        "x": 145,
+                        "y": 162
+                    },
+                    {
+                        "y": 162
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 6,
+                        "y": 38
+                    },
+                    {
+                        "x": 132,
+                        "y": 38
+                    },
+                    {
+                        "x": 132,
+                        "y": 162
+                    },
+                    {
+                        "x": 6,
+                        "y": 162
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 42.919624,
+                        "y": 81.65461,
+                        "z": -0.0016814005
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 91.47892,
+                        "y": 79.11304,
+                        "z": -0.8027341
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 27.072813,
+                        "y": 71.16967,
+                        "z": 2.8301013
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 54.681934,
+                        "y": 71.732635,
+                        "z": -10.999768
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 77.36814,
+                        "y": 70.50012,
+                        "z": -11.38366
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 105.22201,
+                        "y": 67.07059,
+                        "z": 1.5048907
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 66.35714,
+                        "y": 79.971756,
+                        "z": -10.448427
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 67.80934,
+                        "y": 110.20588,
+                        "z": -19.636707
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 68.998856,
+                        "y": 124.66315,
+                        "z": -6.1296377
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 70.0763,
+                        "y": 139.02423,
+                        "z": -0.38224736
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 50.885303,
+                        "y": 130.6657,
+                        "z": 7.778527
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 88.141045,
+                        "y": 128.31583,
+                        "z": 7.1689625
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 69.57092,
+                        "y": 131.03558,
+                        "z": -1.5240493
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 82.15062,
+                        "y": 109.19217,
+                        "z": -1.2769192
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 54.892456,
+                        "y": 111.1581,
+                        "z": -0.88177025
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 67.68848,
+                        "y": 116.13443,
+                        "z": -7.753559
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 43.140266,
+                        "y": 79.324135,
+                        "z": -3.6188972
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 52.210236,
+                        "y": 82.4435,
+                        "z": 0.17301905
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 43.010723,
+                        "y": 84.94599,
+                        "z": 0.12687068
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 34.020206,
+                        "y": 82.06503,
+                        "z": 4.481933
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 42.601475,
+                        "y": 82.23703,
+                        "z": -1.1311457
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 89.922386,
+                        "y": 76.81773,
+                        "z": -4.411019
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 99.64534,
+                        "y": 78.38407,
+                        "z": 3.3866467
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 91.23483,
+                        "y": 82.67547,
+                        "z": -0.6290511
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 81.00496,
+                        "y": 80.6037,
+                        "z": -0.3497575
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 90.591515,
+                        "y": 79.68335,
+                        "z": -2.0028617
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 40.378914,
+                        "y": 66.36791,
+                        "z": -8.066668
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 91.08003,
+                        "y": 63.648514,
+                        "z": -8.915158
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 15.307186,
+                        "y": 97.01362,
+                        "z": 61.294834
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 121.53525,
+                        "y": 91.34271,
+                        "z": 59.405704
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 65.95521,
+                        "y": 70.830475,
+                        "z": -13.026605
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 71.11792,
+                        "y": 159.70038,
+                        "z": 9.636647
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 22.006517,
+                        "y": 129.36963,
+                        "z": 47.066074
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 117.95489,
+                        "y": 124.25902,
+                        "z": 45.438076
+                    }
+                }
+            ],
+            "rollAngle": -3.232999,
+            "panAngle": -0.98417896,
+            "tiltAngle": -9.049216,
+            "detectionConfidence": 0.99824643,
+            "landmarkingConfidence": 0.39872918,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 56,
+                        "green": 48,
+                        "blue": 52
+                    },
+                    "score": 0.099721864,
+                    "pixelFraction": 0.08781362
+                },
+                {
+                    "color": {
+                        "red": 194,
+                        "green": 188,
+                        "blue": 183
+                    },
+                    "score": 0.047944225,
+                    "pixelFraction": 0.05789909
+                },
+                {
+                    "color": {
+                        "red": 76,
+                        "green": 43,
+                        "blue": 28
+                    },
+                    "score": 0.045144293,
+                    "pixelFraction": 0.02881169
+                },
+                {
+                    "color": {
+                        "red": 227,
+                        "green": 183,
+                        "blue": 167
+                    },
+                    "score": 0.013476563,
+                    "pixelFraction": 0.04259719
+                },
+                {
+                    "color": {
+                        "red": 147,
+                        "green": 24,
+                        "blue": 35
+                    },
+                    "score": 0.0021046347,
+                    "pixelFraction": 0.00068927486
+                },
+                {
+                    "color": {
+                        "red": 27,
+                        "green": 22,
+                        "blue": 25
+                    },
+                    "score": 0.089701906,
+                    "pixelFraction": 0.100909844
+                },
+                {
+                    "color": {
+                        "red": 91,
+                        "green": 82,
+                        "blue": 82
+                    },
+                    "score": 0.07222986,
+                    "pixelFraction": 0.07058175
+                },
+                {
+                    "color": {
+                        "red": 68,
+                        "green": 47,
+                        "blue": 53
+                    },
+                    "score": 0.04502196,
+                    "pixelFraction": 0.0290874
+                },
+                {
+                    "color": {
+                        "red": 127,
+                        "green": 116,
+                        "blue": 111
+                    },
+                    "score": 0.044126328,
+                    "pixelFraction": 0.04177006
+                },
+                {
+                    "color": {
+                        "red": 102,
+                        "green": 81,
+                        "blue": 59
+                    },
+                    "score": 0.042983025,
+                    "pixelFraction": 0.028398125
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 309
+                        },
+                        {
+                            "x": 309,
+                            "y": 162
+                        },
+                        {
+                            "y": 162
+                        }
+                    ]
+                },
+                "confidence": 0.29999998,
+                "importanceFraction": 1.13
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0_5vr",
+                "score": 1.4796,
+                "description": "Madeleine Albright"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.93825006,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/g/11bw4vxyy7",
+                "score": 0.7137,
+                "description": "There is a special place in hell for women who do not help other women."
+            },
+            {
+                "entityId": "/m/07y07",
+                "score": 0.6639,
+                "description": "United States Secretary of State"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.6481
+            },
+            {
+                "entityId": "/m/0fj9f",
+                "score": 0.4869,
+                "description": "Politician"
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.4465
+            },
+            {
+                "entityId": "/m/05qt0",
+                "score": 0.3924,
+                "description": "Politics"
+            },
+            {
+                "entityId": "/m/01d_8r",
+                "score": 0.3661,
+                "description": "Council on Foreign Relations"
+            },
+            {
+                "entityId": "/m/07vsl",
+                "score": 0.3652,
+                "description": "United States Department of State"
+            },
+            {
+                "entityId": "/t/24mypdx4svpvn",
+                "score": 0.363
+            },
+            {
+                "entityId": "/m/0d06m5",
+                "score": 0.105045,
+                "description": "Hillary Clinton"
+            },
+            {
+                "entityId": "/m/0cqt90",
+                "score": 0.10215,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/m/0157m",
+                "score": 0.093540005,
+                "description": "Bill Clinton"
+            },
+            {
+                "entityId": "/m/02mjmr",
+                "score": 0.07203,
+                "description": "Barack Obama"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://nnsnvk.files.wordpress.com/2016/04/382_1283766324971061_7321631826819924353_n.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg?resize=800%2C420&ssl=1"
+            },
+            {
+                "url": "http://vostok.rs/sajt/doc/Image/novosti_sr/stare-vesti---kratka-pamet/99815_vest_olbrajtnato.jpg"
+            },
+            {
+                "url": "https://off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg"
+            },
+            {
+                "url": "http://www.magnificat.sk/wp-content/uploads/2016/04/albright-nato.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg?fit=800%2C420&ssl=1&w=640"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-lTufqecxiAo/WBilDE9TrJI/AAAAAAAAJ-g/AWnniJK0ce8Gd6VBwax4GYG91uMkeZF7gCLcB/s640/albright-nato.jpg"
+            },
+            {
+                "url": "https://apfeurope.com/wp-content/uploads/2016/03/anniversary-bill-clintons-illegal-banner.jpg"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1706549032742819"
+            },
+            {
+                "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?crop"
+            },
+            {
+                "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?w=1140"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://cdn.simplesite.com/i/ce/27/282600882533509070/i282600889622225287._szw1280h1280_.jpg"
+            },
+            {
+                "url": "https://image.stern.de/8177676/16x9-1200-675/14bf954014acd907dc6f8998d97384aa/DX/madeleine-albright.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Ce6DBl9XIAAK0Gu.jpg"
+            },
+            {
+                "url": "https://s019.radikal.ru/i604/1703/c9/71febb8c0e3d.jpg"
+            },
+            {
+                "url": "https://image.stern.de/8177676/16x9-940-529/14bf954014acd907dc6f8998d97384aa/Mr/madeleine-albright.jpg"
+            },
+            {
+                "url": "http://www.nspm.rs/images/stories/1-nenad/Olbrajtova.jpg"
+            },
+            {
+                "url": "https://bbs.thegoyimknow.to/uploads/default/original/4X/5/8/6/586cf6443b9387a223b85c21e68693006524f7dc.jpg"
+            },
+            {
+                "url": "http://casopis.vzdor.org/wp-content/uploads/2016/04/12439354_10205919081607521_865977712254357343_n-712x445.jpg"
+            },
+            {
+                "url": "http://impulsportal.hol.es/wp-content/uploads/2017/01/merkel.jpg"
+            },
+            {
+                "url": "https://www.b92.net/news/pics/2016/05/15/16699396005738376b1cfe9093168373_v4_big.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+            },
+            {
+                "url": "https://i.imgur.com/hS2576Q.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Cas06aCW0AERUgj.jpg"
+            },
+            {
+                "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+            },
+            {
+                "url": "https://image.stern.de/8177676/16x9-620-349/14bf954014acd907dc6f8998d97384aa/Ha/madeleine-albright.jpg"
+            },
+            {
+                "url": "https://baytalnahda.files.wordpress.com/2017/02/albright.jpg?w=371&h=270"
+            },
+            {
+                "url": "http://kallko.ir/wp-content/uploads/2017/05/462493476-300x218.jpg"
+            },
+            {
+                "url": "http://kliker.info/v2/wp-content/uploads/2017/01/Madeleine-Albright-300x200.jpg"
+            },
+            {
+                "url": "https://i.wpimg.pl/O/308x180/i.wp.pl/a/f/jpeg/36548/afp_madeleine_albright_625.jpeg"
+            },
+            {
+                "url": "https://image.stern.de/8177676/16x9-300-169/14bf954014acd907dc6f8998d97384aa/kx/madeleine-albright.jpg"
+            },
+            {
+                "url": "https://tse1.mm.bing.net/th?id=OIP.-TBn-gO_4UpORz7PS9ZypQHaKH&w=190&h=260&c=8&o=5&pid=1.7"
+            },
+            {
+                "url": "https://www.vaseljenska.com/wp-content/uploads/2016/03/albright-640x466-300x160.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/7e/48/79/7e4879ac54c4dd9443a57cc46efe4bba--madeleine-albright-immense.jpg"
+            },
+            {
+                "url": "http://lajmi.net//wp-content/uploads/2017/01/albright-206x141.jpg"
+            },
+            {
+                "url": "https://image.stern.de/8177676/16x9-220-125/14bf954014acd907dc6f8998d97384aa/OS/madeleine-albright.jpg"
+            },
+            {
+                "url": "https://cbsboston.files.wordpress.com/2015/05/albright.jpg?w=200"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.infowars.com/there-is-a-special-place-in-hell-for-clinton-operative-albright/",
+                "pageTitle": "There is a \u201cSpecial Place in Hell\u201d for Clinton Operative <b>Albright</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.infowars.com/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://off-guardian.org/2016/03/28/theres-a-special-place-in-hell-for-madeleine-albright/",
+                "pageTitle": "There&#39;s a &#39;Special Place in Hell&#39; for <b>Madeleine Albright</b> | OffGuardian",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    },
+                    {
+                        "url": "https://i0.wp.com/off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg?resize=800%2C420&ssl=1"
+                    },
+                    {
+                        "url": "https://i0.wp.com/off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg?fit=800%2C420&ssl=1&w=640"
+                    }
+                ]
+            },
+            {
+                "url": "https://thehill.com/blogs/blog-briefing-room/news/381970-madeleine-albright-hammers-trump-for-abdication-of-us",
+                "pageTitle": "<b>Madeleine Albright</b> hammers Trump for &#39;abdication&#39; of US leadership ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://apfeurope.com/2016/03/1818/",
+                "pageTitle": "APF | \u201cSpecial place in hell\u201d for Clinton and <b>Albright</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://apfeurope.com/wp-content/uploads/2016/03/anniversary-bill-clintons-illegal-banner.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thehill.com/blogs/ballot-box/340382-albright-as-an-immigrant-i-am-offended-by-trumps-travel-ban",
+                "pageTitle": "<b>Albright</b>: As an immigrant I am offended by Trump&#39;s travel ban | TheHill",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/naninarizona/madeleine-albright/",
+                "pageTitle": "35 best <b>Madeleine Albright</b> images on Pinterest | <b>Madeleine albright</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/7e/48/79/7e4879ac54c4dd9443a57cc46efe4bba--madeleine-albright-immense.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thehill.com/blogs/in-the-know/in-the-know/273214-madeleine-albright-honored-with-trailblazer-award",
+                "pageTitle": "<b>Madeleine Albright</b> honored with &#39;Trailblazer Award&#39; | TheHill",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://thehill.com/policy/national-security/277904-clinton-allies-ridicule-trumps-america-first-doctrine",
+                "pageTitle": "Clinton allies ridicule Trump&#39;s &#39;America first&#39; doctrine | TheHill",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://dailystormer.name/queen-kike-madeline-albright-starts-kvetching-about-rise-of-fascism-worldwide/",
+                "pageTitle": "Queen Kike <b>Madeline Albright</b> Starts Kvetching About Rise of ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bbs.thegoyimknow.to/uploads/default/original/4X/5/8/6/586cf6443b9387a223b85c21e68693006524f7dc.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/good-bombing-nato-op-against-yugoslavia-was-a-war-crime-christopher-black/5656727",
+                "pageTitle": "&quot;Good&quot; Bombing: NATO Op Against Yugoslavia Was a <b>War</b> Crime ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/photos/madeleine-albright?page=3",
+                "pageTitle": "<b>Madeleine Albright</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.co.uk/photos/madeleine-albright?page=3",
+                "pageTitle": "<b>Madeleine Albright</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ae/photos/madeleine-albright?page=3",
+                "pageTitle": "<b>Madeleine Albright</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://right.is/politics/2016/03/there-is-a-special-place-in-hell-for-clinton-operative-madeleine-albright-56123.html",
+                "pageTitle": "\u201cSpecial Place in Hell\u201d for Clinton Operative <b>Madeleine Albright</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hw.infowars.com/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://stateofthenation2012.com/?p=37461",
+                "pageTitle": "There&#39;s a &#39;Special Place in Hell&#39; for <b>Madeleine Albright</b> | SOTN ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800&h=420"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/photos/madeleine-albright-politician",
+                "pageTitle": "<b>Madeleine Albright</b> Politician Stock Photos and Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.usa.forzanuova.info/2016/03/31/special-place-in-hell-for-clinton-and-albright/",
+                "pageTitle": "&#39;Special place in hell&#39; for Clinton and <b>Albright</b> \u2013 Forza Nuova U.S.A.",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://forzanuovausdotorg.files.wordpress.com/2016/03/anniversary-bill-clintons-illegal-banner.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.invexnews.com/item-388263-good-bombing-nato-op-against-yugoslavia",
+                "pageTitle": "\u201cGood\u201d Bombing: NATO Op Against Yugoslavia Was a <b>War</b> Crime",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    }
+                ]
+            },
+            {
+                "url": "https://off-guardian.org/tag/kurt-nimmo/",
+                "pageTitle": "Kurt Nimmo | OffGuardian",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/event/council-on-foreign-relations-symposium-164301295",
+                "pageTitle": "Council On Foreign Relations Symposium Stock Photos and ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://boston.cbslocal.com/tag/commencement/feed/",
+                "pageTitle": "Commencement \u2013 CBS Boston",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cbsboston.files.wordpress.com/2015/05/albright.jpg?w=200"
+                    }
+                ]
+            },
+            {
+                "url": "http://tokyoroseinlalaland.blogspot.com/search/label/Hillary%20Clinton",
+                "pageTitle": "Tokyo Rose in La La Land : Hillary Clinton",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://1.bp.blogspot.com/-lTufqecxiAo/WBilDE9TrJI/AAAAAAAAJ-g/AWnniJK0ce8Gd6VBwax4GYG91uMkeZF7gCLcB/s640/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://altcoin-exchange.trade/info/devpt-madeleine-albright-campaigns",
+                "pageTitle": "Devpt <b>Madeleine Albright</b> Campaigns - Altcoin Exchange",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tout-sur-limonov.fr/412188729",
+                "pageTitle": "Limonov polemicist - www.tout-sur-limonov.fr",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.simplesite.com/i/ce/27/282600882533509070/i282600889622225287._szw1280h1280_.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/presstv/status/696708746546962432",
+                "pageTitle": "Press TV on Twitter: &quot;There is a &#39;Special place in hell&#39; for women ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Cas06aCW0AERUgj.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://yousense.info/6d6164656c65696e65/madeleine-albright-hell-remark-at-clinton-rally-was.html",
+                "pageTitle": "Summary -&gt; <b>Madeleine Albright</b> Hell Remark At Clinton Rally Was",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg?fit=800%2C420&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.co.uk/photos/council-on-foreign-relations?page=3",
+                "pageTitle": "Council On Foreign Relations Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ca/photos/council-on-foreign-relations?page=3",
+                "pageTitle": "Council On Foreign Relations Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://boston.cbslocal.com/tag/tufts-university/feed/",
+                "pageTitle": "Tufts University \u2013 CBS Boston",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cbsboston.files.wordpress.com/2015/05/albright.jpg?w=200"
+                    }
+                ]
+            },
+            {
+                "url": "https://off-guardian.org/tag/russia-insider/",
+                "pageTitle": "russia insider | OffGuardian",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://morristowncab.info/post/state-madeleine-albright-honors",
+                "pageTitle": "State <b>Madeleine Albright</b> Honors - Morristowncab",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "http://cfrc.info/state-albright-says-shes.html",
+                "pageTitle": "State <b>Albright</b> Says Shes - CFRC",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://kidskunst.info/linked/madeleine-albright-hell-remark-at-clinton-rally-was-6d6164656c65696e65.htm",
+                "pageTitle": "All about <b>Madeleine Albright</b> Hell Remark At Clinton Rally Was ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mtmtv.info/madeleine-albright-jewish-2d68dde/",
+                "pageTitle": "<b>Madeleine Albright</b> Jewish - <b>Madeleine Albright</b>: On Learning Her ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hw.infowars.com/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://off-guardian.org/image-sitemap-2.xml",
+                "pageTitle": "https://off-guardian.org/2016/03/10/three-conclusions-and-a-surmise ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://off-guardian.org/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://salonurody.info/?y=Madeleine+Albright+There+is+a+Special+Place+in+Hell+for",
+                "pageTitle": "<b>Madeleine Albright</b> There is a Special Place in Hell for 2175762 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hw.infowars.com/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oror.info/i/albright-slam-trump-travel-ban",
+                "pageTitle": "<b>Albright</b> Slam Trump Travel Ban | OROR",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://thehill.com/sites/default/files/styles/thumb_small_article/public/albrightmadeline02112015getty.jpg?itok=H9zlPfqH"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/page/8?p=0Onhttp%3A%2F%2Fwww.globalresearch.ca%2Fpage%2F456%3Fp%3D0On",
+                "pageTitle": "Global Research - Centre for Research on Globalization",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.globalresearch.ca/page/12?p=0FebFebLa",
+                "pageTitle": "Global Research - Centre for Research on Globalization",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tfmetalsreport.com/comment/543633",
+                "pageTitle": "Comex Bullion Bank fraud deception manipulation | TF Metals Report",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hw.infowars.com/wp-content/uploads/2016/03/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/esmeraldach_?lang=en",
+                "pageTitle": "Esmeralda Cortez (@EsmeraldaCH_) | Twitter",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Ce6DBl9XIAAK0Gu.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.vigrid.net/bilder/usa/",
+                "pageTitle": "Index of /bilder/usa - Vigrid",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vigrid.net/bilder/usa/madalbright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/kidestdawit?lang=en",
+                "pageTitle": "Kidest Dawit (@KidestDawit) | Twitter",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Cas06aCW0AERUgj.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.vigrid.net/bilder/usa/?C=M;O=D",
+                "pageTitle": "Index of /bilder/usa - Vigrid",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vigrid.net/bilder/usa/madalbright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://morgesonnewspapers.com/category/federal-republic-of-yugoslavia/",
+                "pageTitle": "Federal Republic Of Yugoslavia \u2013 #AllTheNews",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thenewsnow99.files.wordpress.com/2016/03/albright-nato.jpg?w=840"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/madeleine-albright--donald-trump-ist-der-undemokratischste-praesident-der-moderne-8177648.html",
+                "pageTitle": "<b>Madeleine Albright</b>: Donald Trump ist der undemokratischste ... - Stern",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-940-529/14bf954014acd907dc6f8998d97384aa/Mr/madeleine-albright.jpg"
+                    },
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-220-125/14bf954014acd907dc6f8998d97384aa/OS/madeleine-albright.jpg"
+                    },
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-1200-675/14bf954014acd907dc6f8998d97384aa/DX/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/themen/madeleine-albright-4155920.html",
+                "pageTitle": "<b>Madeleine Albright</b> | STERN.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-620-349/14bf954014acd907dc6f8998d97384aa/Ha/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://aeronet.cz/news/video-jakov-kedmi-v-emotivnim-vystupu-vysvetlil-rozpad-jugoslavie-a-ulohu-madeleine-albright-v-genocide-ve-rwande-muslimsti-teroriste-se-na-balkanu-s-pomoci-zapadu-organizuji-jiz-od-70-let/",
+                "pageTitle": "VIDEO: Jakov Kedmi v emotivn\u00edm v\u00fdstupu vysv\u011btlil rozpad ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://aeronet.cz/news/wp-content/uploads/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://petrabostlova.wordpress.com/2018/06/21/chobotnice-rozkryta-monika-stikova-tatana-kucharova-gregor-brzobohata-madeleine-albright-george-soros-pozn-tatianna-kucharova-gregor-brzobohata-je-titul-nikoli-jmeno-po-gregorove-jeji-tchyn/",
+                "pageTitle": "ta\u0165\u00e1na kucha\u0159ov\u00e1-gregor brzobohat\u00e1 \u2013 <b>madeleine albright</b>-george ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?w=1140"
+                    },
+                    {
+                        "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.fr/photos/madeleine-albright?page=3",
+                "pageTitle": "<b>Madeleine Albright</b> Images et photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.at/fotos/madeleine-albright?page=3",
+                "pageTitle": "<b>Madeleine Albright</b> Bilder und Fotos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://press24.net/news/9303452/die-russen-glauben-an-die-macht-der-banker",
+                "pageTitle": "Die Russen glauben an die Macht der Banker - Press24.net",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-1200-675/14bf954014acd907dc6f8998d97384aa/DX/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/themen/vaclav-havel-4142092.html",
+                "pageTitle": "Vaclav Havel | STERN.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-620-349/14bf954014acd907dc6f8998d97384aa/Ha/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/themen/kim-jong-il-4132302.html",
+                "pageTitle": "Kim Jong Il | STERN.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-620-349/14bf954014acd907dc6f8998d97384aa/Ha/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.fr/%C3%A9v%C3%A9nement/experts-discuss-challenge-of-us-china-relations-534964161",
+                "pageTitle": "Experts Discuss Challenge Of Us China Relations Photos et images ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.vostok.rs/index.php?option=btg_novosti&catnovosti=0&idnovost=97417&Olbrajtova-spremna-da-predje-na-islam",
+                "pageTitle": "\u041e\u043b\u0431\u0440\u0430\u0458\u0442\u043e\u0432\u0430 \u0441\u043f\u0440\u0435\u043c\u043d\u0430 \u0434\u0430 \u043f\u0440\u0435\u0452\u0435 \u043d\u0430 \u0438\u0441\u043b\u0430\u043c - Vostok.rs",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vostok.rs/sajt/doc/Image/novosti_sr/politika/95149_vest_olbrajtnato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://petrabostlova.wordpress.com/page/26/?archives-list=1",
+                "pageTitle": "PETRA BOSTLOV\u00c1: PRAVDU NELZE UML\u010cET \u2013 26. str\u00e1nka \u2013 Co ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?w=560&h=9999"
+                    }
+                ]
+            },
+            {
+                "url": "http://press24.net/news/9292071/manipulation-trump-mit-schweren-vorw-rfen-gegen-die-eu-und-china",
+                "pageTitle": "Manipulation: Trump mit schweren Vorw\u00fcrfen gegen die EU und ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-1200-675/14bf954014acd907dc6f8998d97384aa/DX/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://petrabostlova.wordpress.com/page/25/?app-download=windowsphone",
+                "pageTitle": "PETRA BOSTLOV\u00c1: PRAVDU NELZE UML\u010cET \u2013 25. str\u00e1nka \u2013 Co ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?w=560&h=9999"
+                    }
+                ]
+            },
+            {
+                "url": "https://petrabostlova.wordpress.com/page/26/?app-download=ios",
+                "pageTitle": "PETRA BOSTLOV\u00c1: PRAVDU NELZE UML\u010cET \u2013 26. str\u00e1nka \u2013 Co ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://petrabostlova.files.wordpress.com/2018/06/m1.jpg?w=560&h=9999"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.se/fotografier/council-on-foreign-relations?page=3",
+                "pageTitle": "Council On Foreign Relations Bilder and foton | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/former-us-secretary-of-state-madeleine-albright-participates-in-a-at-picture-id462493476?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://2014.magnificat.sk/aktualne-prinasame-srdce-na-slnku-vyrocie-mucenickej-smrti-dr-jozefa-tisa-samovtazedna-eu-viktor-orban-celime-invazii/",
+                "pageTitle": "Aktualizovan\u00e9 \u2013 Prin\u00e1\u0161ame: SME \u00fato\u010d\u00ed na alternat\u00edvne weby, Ako ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://2014.magnificat.sk/wp-content/uploads/2016/04/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.magnificat.sk/aktualne-prinasame-srdce-na-slnku-vyrocie-mucenickej-smrti-dr-jozefa-tisa-samovtazedna-eu-viktor-orban-celime-invazii/",
+                "pageTitle": "Aktualizovan\u00e9 \u2013 Prin\u00e1\u0161ame: SME \u00fato\u010d\u00ed na alternat\u00edvne weby, Ako ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.magnificat.sk/wp-content/uploads/2016/04/albright-nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mrk.cz/diskuse.php?id=733241&page=2768",
+                "pageTitle": "Trochu politiky, bude m\u00edt i vliv na n\u00e1\u0161 kon\u00ed\u010dek ? - Mrk",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.mrk.cz/Data/Pics/2018/113/1663445_751f4.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.facebook.com/Ob%C4%8Diansky-Parlament-279761368754933/",
+                "pageTitle": "Ob\u010diansky Parlament - Home | Facebook",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1706549032742819"
+                    }
+                ]
+            },
+            {
+                "url": "http://vostok.rs/index.php?option=btg_novosti&catnovosti=0&idnovost=99815&Fasisticki-avioni-NATO-pakta-bombardovali-sesnaest-gradova",
+                "pageTitle": "\u0417\u043b\u043e\u0447\u0438\u043d\u0430\u0447\u043a\u0438 \u0430\u0432\u0438\u043e\u043d\u0438 \u041d\u0410\u0422\u041e \u043f\u0430\u043a\u0442\u0430 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u043e\u0432\u0430\u043b\u0438 \u0448\u0435\u0441\u043d\u0430\u0435\u0441\u0442 \u0433\u0440\u0430\u0434\u043e\u0432\u0430",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://vostok.rs/sajt/doc/Image/novosti_sr/stare-vesti---kratka-pamet/99815_vest_olbrajtnato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://vostok.rs/index.php?option=btg_novosti&catnovosti=2&idnovost=95149&Ratni-zlocinac-Medlin-Olbrajt%3A-Rusija-diskredituje-demokratske-institucije-sirom-sveta&fb_comment_id=1112461192125110_1112871402084089",
+                "pageTitle": "\u0420\u0430\u0442\u043d\u0438 \u0437\u043b\u043e\u0447\u0438\u043d\u0430\u0446 \u041c\u0435\u0434\u043b\u0438\u043d \u041e\u043b\u0431\u0440\u0430\u0458\u0442: \u0420\u0443\u0441\u0438\u0458\u0430 \u0434\u0438\u0441\u043a\u0440\u0435\u0434\u0438\u0442\u0443\u0458\u0435 ... - Vostok.rs",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://vostok.rs/sajt/doc/Image/novosti_sr/politika/95149_vest_olbrajtnato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://vostok.rs/index.php?option=n&idnovost=99815",
+                "pageTitle": "\u0417\u043b\u043e\u0447\u0438\u043d\u0430\u0447\u043a\u0438 \u0430\u0432\u0438\u043e\u043d\u0438 \u041d\u0410\u0422\u041e \u043f\u0430\u043a\u0442\u0430 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u043e\u0432\u0430\u043b\u0438 \u0448\u0435\u0441\u043d\u0430\u0435\u0441\u0442 \u0433\u0440\u0430\u0434\u043e\u0432\u0430",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://vostok.rs/sajt/doc/Image/novosti_sr/stare-vesti---kratka-pamet/99815_vest_olbrajtnato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.b92.net/info/vesti/index.php?yyyy=2016&mm=05&dd=15&nav_category=78&nav_id=1131608",
+                "pageTitle": "Studenti i profesori: Madlen Olbrajt je ratni zlo\u010dinac - B92.net",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.b92.net/news/pics/2016/05/15/16699396005738376b1cfe9093168373_v4_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vaseljenska.com/vesti/dok-je-prodavao-milosevica-za-30-miliona-dolara-djindjic-bio-bled-kao-krpa-a-evo-ko-je-to-potpisao/",
+                "pageTitle": "\u0414\u043e\u043a \u0458\u0435 \u043f\u0440\u043e\u0434\u0430\u0432\u0430\u043e \u041c\u0438\u043b\u043e\u0448\u0435\u0432\u0438\u045b\u0430 \u0437\u0430 30 \u043c\u0438\u043b\u0438\u043e\u043d\u0430 \u0434\u043e\u043b\u0430\u0440\u0430 \u0402\u0438\u043d\u0452\u0438\u045b \u0431\u0438\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vaseljenska.com/wp-content/uploads/2016/03/albright-640x466-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://politikus.ru/events/92261-ne-silno-plach-o-devide-rokfellere-russkiy-chelovek.html",
+                "pageTitle": "\u041d\u0435 \u0441\u0438\u043b\u044c\u043d\u043e \u043f\u043b\u0430\u0447\u044c \u043e \u0414\u044d\u0432\u0438\u0434\u0435 \u0420\u043e\u043a\u0444\u0435\u043b\u043b\u0435\u0440\u0435, \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s019.radikal.ru/i604/1703/c9/71febb8c0e3d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vaseljenska.com/misljenja/padre/",
+                "pageTitle": "\u041f\u0430\u0434\u0440\u0435",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vaseljenska.com/wp-content/uploads/2016/03/albright-640x466-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://casopis.vzdor.org/?cat=5",
+                "pageTitle": "Z \u010dinnosti | \u010casopis VZDOR",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://casopis.vzdor.org/wp-content/uploads/2016/04/12439354_10205919081607521_865977712254357343_n-712x445.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://casopis.vzdor.org/?p=1311",
+                "pageTitle": "Allbrightov\u00e1 dostala drsn\u00fd odkaz. Na jej mas\u00edvnu policajn\u00fa ochranu ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://casopis.vzdor.org/wp-content/uploads/2016/04/12439354_10205919081607521_865977712254357343_n-712x445.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vaseljenska.com/vesti-dana/bruka-medlin-olbrajt-odlikovana-za-odbranu-slobode/",
+                "pageTitle": "\u0411\u0440\u0443\u043a\u0430: \u041c\u0435\u0434\u043b\u0438\u043d \u041e\u043b\u0431\u0440\u0430\u0458\u0442 \u043e\u0434\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u0430 \u0437\u0430 \u201e\u043e\u0434\u0431\u0440\u0430\u043d\u0443 \u0441\u043b\u043e\u0431\u043e\u0434\u0435\u201c",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vaseljenska.com/wp-content/uploads/2016/03/albright-640x466-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://casopis.vzdor.org/?author=153&paged=27",
+                "pageTitle": "- Part 27 - \u010casopis VZDOR - VZDOR - strana pr\u00e1ce",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://casopis.vzdor.org/wp-content/uploads/2016/04/12439354_10205919081607521_865977712254357343_n-712x445.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://haler.blogger.ba/arhiva/2017/01http://haler.blogger.ba/arhiva/2017/01",
+                "pageTitle": "Jedinstvena Bosna i Hercegovina 2017/01",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://kliker.info/v2/wp-content/uploads/2017/01/Madeleine-Albright-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://casopis.vzdor.org/?author=153&paged=26",
+                "pageTitle": "- Part 26 - \u010casopis VZDOR - VZDOR - strana pr\u00e1ce",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://casopis.vzdor.org/wp-content/uploads/2016/04/12439354_10205919081607521_865977712254357343_n-712x445.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vaseljenska.com/tag/slobodan-milosevic/",
+                "pageTitle": "\u0421\u043b\u043e\u0431\u043e\u0434\u0430\u043d \u041c\u0438\u043b\u043e\u0448\u0435\u0432\u0438\u045b Archives - \u0412\u0430\u0441\u0435\u0459e\u043d\u0441\u043a\u0430 \u0422\u0412",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vaseljenska.com/wp-content/uploads/2016/03/albright-640x466-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://impulsportal.hol.es/",
+                "pageTitle": "IMPULS PORTAL \u2013 Aktualne vijesti, istra\u017eivanja, znanost",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://impulsportal.hol.es/wp-content/uploads/2017/01/merkel.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vestisrbija.rs/2016/12/02/povratak-medlin-olbrajt-ubiti-ubiti-ubiti-i-samo-bombardovati/",
+                "pageTitle": "\u041f\u041e\u0412\u0420\u0410\u0422\u0410\u041a \u041c\u0415\u0414\u041b\u0418\u041d \u041e\u041b\u0411\u0420\u0410\u0408\u0422: \u0423\u0431\u0438\u0442\u0438, \u0443\u0431\u0438\u0442\u0438, \u0443\u0431\u0438\u0442\u0438; \u0438 \u0441\u0430\u043c\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vestisrbija.rs/wp-content/uploads/16699396005738376b1cfe9093168373_v4_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://impulsportal.hol.es/novosti/javila-se-napala-srbe-a-ono-sto-je-rekla-o-nasem-narodu-osudio-je-ceo-svet-video/",
+                "pageTitle": "JAVILA SE: Napala SRBE, a ono \u0161to je rekla o na\u0161em narodu ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://impulsportal.hol.es/wp-content/uploads/2017/01/merkel.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vesti.rs/Svet/Poslednje-upozorenje-Beogradu-Srbi-dobili-nekoliko-dana-8.html",
+                "pageTitle": "Poslednje upozorenje Beogradu - Srbi dobili nekoliko dana - Vesti.rs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static.vesti.rs/slike-4/Poslednje-upozorenje-Beogradu-Srbi-dobili-nekoliko-dana.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.novosti.rs.sr/lat/index.php?option=novosti&catnovosti=14&count=4580&",
+                "pageTitle": "Novosti",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vostok.rs/sajt/doc/Image/novosti_sr/politika/95149_vest_olbrajtnato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://forum.srpskinacionalisti.com/viewtopic.php?f=1&t=6037&start=855",
+                "pageTitle": "srpskinacionalisti.com \u2022 \u0422\u0435\u043c\u0430 - 24. \u041c\u0410\u0420\u0422 1999. \u0414\u0410 \u0421\u0415 \u0417\u041b\u041e\u0427\u0418\u041d \u041d\u0415 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.b92.net/news/pics/2016/05/15/16699396005738376b1cfe9093168373_v4_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://bursaoynaridernegi.com/i/mu%C3%9F-ich-mich-anscheinend-nicht-sch%C3%A4men",
+                "pageTitle": "Mu\u00df Ich Mich Anscheinend Nicht Sch\u00e4men - Bursaoynaridernegi",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-940-529/14bf954014acd907dc6f8998d97384aa/Mr/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sk-sk.facebook.com/pages/category/Community/Ob%C4%8Diansky-Parlament-279761368754933/",
+                "pageTitle": "Ob\u010diansky Parlament - Domov | Facebook",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1706549032742819"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.facebook.com/Ob%C4%8Diansky-Parlament-279761368754933/?locale2=sk_SK",
+                "pageTitle": "Ob\u010diansky Parlament - Domov | Facebook",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1706549032742819"
+                    }
+                ]
+            },
+            {
+                "url": "http://athletbook.com/im-fragenlotto-muss-sie-es-zugeben",
+                "pageTitle": "Im Fragenlotto Muss Sie Es Zugeben \u2013 Athletbook",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-940-529/14bf954014acd907dc6f8998d97384aa/Mr/madeleine-albright.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kallko.ir/?tag=%D9%85%D8%A7%D8%AF%D9%84%DB%8C%D9%86-%D8%A2%D9%84%D8%A8%D8%B1%D8%A7%DB%8C%D8%AA",
+                "pageTitle": "\u0645\u0627\u062f\u0644\u06cc\u0646 \u0622\u0644\u0628\u0631\u0627\u06cc\u062a - \u06a9\u0627\u0644\u06a9\u0648",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://kallko.ir/wp-content/uploads/2017/05/462493476-300x218.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tintnwrap.com/pics/michael-sommer-soll-sich-sch%C3%A4men",
+                "pageTitle": "Michael Sommer Soll Sich Sch\u00e4men \u2013 Tintnwrap",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8177676/16x9-940-529/14bf954014acd907dc6f8998d97384aa/Mr/madeleine-albright.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://offgraun.files.wordpress.com/2016/03/albright-nato.jpg?w=800&resize=310%2C163"
+            },
+            {
+                "url": "https://cdn.commonwealthclub.org/s3fs-public/styles/hero/public/2017-02/20170308_Albright%20hero.png?itok=hqUYq-YJ"
+            },
+            {
+                "url": "https://i.pinimg.com/originals/c5/50/ca/c550caf4defe17b6218383a53488ebc9.jpg"
+            },
+            {
+                "url": "https://cdn.cnn.com/cnnnext/dam/assets/120530011505-freedom-medal-07-horizontal-large-gallery.jpg"
+            },
+            {
+                "url": "https://pmcdeadline2.files.wordpress.com/2014/10/conan-obrian-madeleine-albright.jpg?w=446&h=299&crop=1"
+            },
+            {
+                "url": "https://media0.faz.net/ppmedia/video/3227303106/1.877028/format_top1_breit/madeleine-albright-und-joschka.jpg"
+            },
+            {
+                "url": "https://i.amz.mshcdn.com/XYWZFGxyCIDcMmoBWAafyfYZvLg=/950x534/filters:quality(90)/2014%2F10%2F24%2F2a%2Falbrightobr.d561c.jpg"
+            },
+            {
+                "url": "http://awdnews.com/images/145502166056b7833dc36188b4518b45e8.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "madeleine albright war",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.870302,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.00512287,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.00512287,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.80352455,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.00512287,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.00512287,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        }
+    ]
+}

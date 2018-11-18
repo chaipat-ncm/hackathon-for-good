@@ -1,0 +1,20 @@
+<ul class="nav nav-pills nav-fill mb-4">
+    <li class="nav-item">
+        <a class="nav-link {% if app.request.get('_route') == 'index' %}active{% endif %}" href="{{ path('index') }}">Start!</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link {% if app.request.get('_route') == 'overview' %}active{% endif %}" href="{{ path('overview', {'filename': filename}) }}">Overview</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link {% if app.request.get('_route') == 'analysis' %}active{% endif %}" href="{{ path('analysis', {'filename': filename}) }}">Analysis</a>
+    </li>
+    {#<li class="nav-item">#}
+        {#<a class="nav-link" href="#">Popularity</a>#}
+    {#</li>#}
+    {#<li class="nav-item">#}
+        {#<a class="nav-link" href="#">Keywords</a>#}
+    {#</li>#}
+    {#<li class="nav-item">#}
+        {#<a class="nav-link" href="#">JSON</a>#}
+    {#</li>#}
+</ul>

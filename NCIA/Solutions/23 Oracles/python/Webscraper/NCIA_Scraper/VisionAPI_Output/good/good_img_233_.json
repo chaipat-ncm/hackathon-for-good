@@ -1,0 +1,1518 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/011l78",
+            "description": "team",
+            "score": 0.91244304,
+            "topicality": 0.91244304
+        },
+        {
+            "mid": "/m/033lpr",
+            "description": "audience",
+            "score": 0.7482615,
+            "topicality": 0.7482615
+        },
+        {
+            "mid": "/m/018tl7",
+            "description": "competition",
+            "score": 0.6474616,
+            "topicality": 0.6474616
+        },
+        {
+            "mid": "/m/035y33",
+            "description": "official",
+            "score": 0.6407806,
+            "topicality": 0.6407806
+        },
+        {
+            "mid": "/m/03qtwd",
+            "description": "crowd",
+            "score": 0.6207931,
+            "topicality": 0.6207931
+        },
+        {
+            "mid": "/m/09jfs",
+            "description": "uniform",
+            "score": 0.60067004,
+            "topicality": 0.60067004
+        },
+        {
+            "mid": "/m/0bmgjqz",
+            "description": "sport venue",
+            "score": 0.5485583,
+            "topicality": 0.5485583
+        },
+        {
+            "mid": "/m/0l14jd",
+            "description": "choir",
+            "score": 0.54122555,
+            "topicality": 0.54122555
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "pl",
+            "description": "Warszawa\nVar\nNATO\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 338,
+                        "y": 16
+                    },
+                    {
+                        "x": 598,
+                        "y": 16
+                    },
+                    {
+                        "x": 598,
+                        "y": 45
+                    },
+                    {
+                        "x": 338,
+                        "y": 45
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Warszawa",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 338,
+                        "y": 33
+                    },
+                    {
+                        "x": 417,
+                        "y": 26
+                    },
+                    {
+                        "x": 418,
+                        "y": 38
+                    },
+                    {
+                        "x": 339,
+                        "y": 45
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Var",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 566,
+                        "y": 16
+                    },
+                    {
+                        "x": 598,
+                        "y": 16
+                    },
+                    {
+                        "x": 598,
+                        "y": 31
+                    },
+                    {
+                        "x": 566,
+                        "y": 31
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 464,
+                        "y": 25
+                    },
+                    {
+                        "x": 479,
+                        "y": 23
+                    },
+                    {
+                        "x": 480,
+                        "y": 29
+                    },
+                    {
+                        "x": 465,
+                        "y": 31
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 31,
+                        "green": 25,
+                        "blue": 163
+                    },
+                    "score": 0.2957858,
+                    "pixelFraction": 0.036225267
+                },
+                {
+                    "color": {
+                        "red": 11,
+                        "green": 14,
+                        "blue": 70
+                    },
+                    "score": 0.01891936,
+                    "pixelFraction": 0.21867073
+                },
+                {
+                    "color": {
+                        "red": 95,
+                        "green": 106,
+                        "blue": 166
+                    },
+                    "score": 0.01574628,
+                    "pixelFraction": 0.015728056
+                },
+                {
+                    "color": {
+                        "red": 41,
+                        "green": 43,
+                        "blue": 64
+                    },
+                    "score": 0.015660925,
+                    "pixelFraction": 0.0615931
+                },
+                {
+                    "color": {
+                        "red": 110,
+                        "green": 116,
+                        "blue": 147
+                    },
+                    "score": 0.00824346,
+                    "pixelFraction": 0.020091325
+                },
+                {
+                    "color": {
+                        "red": 36,
+                        "green": 37,
+                        "blue": 153
+                    },
+                    "score": 0.15170117,
+                    "pixelFraction": 0.027904617
+                },
+                {
+                    "color": {
+                        "red": 31,
+                        "green": 30,
+                        "blue": 132
+                    },
+                    "score": 0.10529004,
+                    "pixelFraction": 0.06859462
+                },
+                {
+                    "color": {
+                        "red": 34,
+                        "green": 27,
+                        "blue": 187
+                    },
+                    "score": 0.08457348,
+                    "pixelFraction": 0.011263318
+                },
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 52,
+                        "blue": 191
+                    },
+                    "score": 0.08082698,
+                    "pixelFraction": 0.008523592
+                },
+                {
+                    "color": {
+                        "red": 51,
+                        "green": 45,
+                        "blue": 204
+                    },
+                    "score": 0.06988995,
+                    "pixelFraction": 0.0072044646
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 604
+                        },
+                        {
+                            "x": 604,
+                            "y": 327
+                        },
+                        {
+                            "y": 327
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "pl"
+                        }
+                    ]
+                },
+                "width": 605,
+                "height": 328,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "pl"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 338,
+                                    "y": 26
+                                },
+                                {
+                                    "x": 418,
+                                    "y": 26
+                                },
+                                {
+                                    "x": 418,
+                                    "y": 45
+                                },
+                                {
+                                    "x": 338,
+                                    "y": 45
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "pl"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 338,
+                                            "y": 26
+                                        },
+                                        {
+                                            "x": 418,
+                                            "y": 26
+                                        },
+                                        {
+                                            "x": 418,
+                                            "y": 45
+                                        },
+                                        {
+                                            "x": 338,
+                                            "y": 45
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "pl"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 338,
+                                                    "y": 33
+                                                },
+                                                {
+                                                    "x": 417,
+                                                    "y": 26
+                                                },
+                                                {
+                                                    "x": 418,
+                                                    "y": 38
+                                                },
+                                                {
+                                                    "x": 339,
+                                                    "y": 45
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 338,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 352,
+                                                            "y": 32
+                                                        },
+                                                        {
+                                                            "x": 353,
+                                                            "y": 43
+                                                        },
+                                                        {
+                                                            "x": 339,
+                                                            "y": 44
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "W"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 353,
+                                                            "y": 34
+                                                        },
+                                                        {
+                                                            "x": 359,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 360,
+                                                            "y": 41
+                                                        },
+                                                        {
+                                                            "x": 354,
+                                                            "y": 42
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 362,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 368,
+                                                            "y": 32
+                                                        },
+                                                        {
+                                                            "x": 369,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 363,
+                                                            "y": 41
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 369,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 375,
+                                                            "y": 32
+                                                        },
+                                                        {
+                                                            "x": 376,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 370,
+                                                            "y": 41
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "s"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 377,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 384,
+                                                            "y": 32
+                                                        },
+                                                        {
+                                                            "x": 385,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 378,
+                                                            "y": 41
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "z"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 385,
+                                                            "y": 31
+                                                        },
+                                                        {
+                                                            "x": 393,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 394,
+                                                            "y": 39
+                                                        },
+                                                        {
+                                                            "x": 386,
+                                                            "y": 40
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 395,
+                                                            "y": 31
+                                                        },
+                                                        {
+                                                            "x": 408,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 38
+                                                        },
+                                                        {
+                                                            "x": 396,
+                                                            "y": 39
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "w"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 408,
+                                                            "y": 28
+                                                        },
+                                                        {
+                                                            "x": 417,
+                                                            "y": 27
+                                                        },
+                                                        {
+                                                            "x": 418,
+                                                            "y": 37
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 38
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "no"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 566,
+                                    "y": 16
+                                },
+                                {
+                                    "x": 598,
+                                    "y": 16
+                                },
+                                {
+                                    "x": 598,
+                                    "y": 31
+                                },
+                                {
+                                    "x": 566,
+                                    "y": 31
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "no"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 566,
+                                            "y": 16
+                                        },
+                                        {
+                                            "x": 598,
+                                            "y": 16
+                                        },
+                                        {
+                                            "x": 598,
+                                            "y": 31
+                                        },
+                                        {
+                                            "x": 566,
+                                            "y": 31
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "no"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 566,
+                                                    "y": 16
+                                                },
+                                                {
+                                                    "x": 598,
+                                                    "y": 16
+                                                },
+                                                {
+                                                    "x": 598,
+                                                    "y": 31
+                                                },
+                                                {
+                                                    "x": 566,
+                                                    "y": 31
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 566,
+                                                            "y": 16
+                                                        },
+                                                        {
+                                                            "x": 578,
+                                                            "y": 16
+                                                        },
+                                                        {
+                                                            "x": 578,
+                                                            "y": 31
+                                                        },
+                                                        {
+                                                            "x": 566,
+                                                            "y": 31
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "V"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 579,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 588,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 588,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 579,
+                                                            "y": 30
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 589,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 598,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 598,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 589,
+                                                            "y": 30
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 464,
+                                    "y": 23
+                                },
+                                {
+                                    "x": 480,
+                                    "y": 23
+                                },
+                                {
+                                    "x": 480,
+                                    "y": 31
+                                },
+                                {
+                                    "x": 464,
+                                    "y": 31
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 464,
+                                            "y": 23
+                                        },
+                                        {
+                                            "x": 480,
+                                            "y": 23
+                                        },
+                                        {
+                                            "x": 480,
+                                            "y": 31
+                                        },
+                                        {
+                                            "x": 464,
+                                            "y": 31
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 464,
+                                                    "y": 25
+                                                },
+                                                {
+                                                    "x": 479,
+                                                    "y": 23
+                                                },
+                                                {
+                                                    "x": 480,
+                                                    "y": 29
+                                                },
+                                                {
+                                                    "x": 465,
+                                                    "y": 31
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 464,
+                                                            "y": 25
+                                                        },
+                                                        {
+                                                            "x": 466,
+                                                            "y": 25
+                                                        },
+                                                        {
+                                                            "x": 467,
+                                                            "y": 31
+                                                        },
+                                                        {
+                                                            "x": 465,
+                                                            "y": 31
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 467,
+                                                            "y": 25
+                                                        },
+                                                        {
+                                                            "x": 470,
+                                                            "y": 25
+                                                        },
+                                                        {
+                                                            "x": 471,
+                                                            "y": 31
+                                                        },
+                                                        {
+                                                            "x": 468,
+                                                            "y": 31
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 471,
+                                                            "y": 24
+                                                        },
+                                                        {
+                                                            "x": 474,
+                                                            "y": 24
+                                                        },
+                                                        {
+                                                            "x": 475,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 472,
+                                                            "y": 30
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 475,
+                                                            "y": 24
+                                                        },
+                                                        {
+                                                            "x": 479,
+                                                            "y": 24
+                                                        },
+                                                        {
+                                                            "x": 480,
+                                                            "y": 30
+                                                        },
+                                                        {
+                                                            "x": 476,
+                                                            "y": 30
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "Warszawa\nVar\nNATO\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.9726,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/g/11bvt4sxv0",
+                "score": 0.8363851,
+                "description": "2016 Warsaw summit"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7325
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7325,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/05qhw",
+                "score": 0.73230004,
+                "description": "Poland"
+            },
+            {
+                "entityId": "/m/092j7k",
+                "score": 0.6866,
+                "description": "Summit"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.6682
+            },
+            {
+                "entityId": "/m/04jd6y6",
+                "score": 0.6037,
+                "description": "Russia\u2013NATO relations"
+            },
+            {
+                "entityId": "/m/05qt0",
+                "score": 0.5199,
+                "description": "Politics"
+            },
+            {
+                "entityId": "/g/11b76hr_fx",
+                "score": 0.5108,
+                "description": "Very High Readiness Joint Task Force"
+            },
+            {
+                "entityId": "/t/2bvzk6fhjt4gf",
+                "score": 0.504
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.4992,
+                "description": "Member states of NATO"
+            },
+            {
+                "entityId": "/m/0129g54z",
+                "score": 0.459,
+                "description": "Sputnik"
+            },
+            {
+                "entityId": "/t/2h0bbgvf5563f",
+                "score": 0.4503
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 0.21732001,
+                "description": "NATO summit"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdnpl2.img.sputniknews.com/images/340/32/3403299.jpg"
+            },
+            {
+                "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+            },
+            {
+                "url": "https://cdn1.ntv.com.tr/gorsel/dunya/varsovada-nato-zirvesi,ftx9IbMH2EuMQAm6M3aFjg.jpg?width=610&height=315&mode=crop&scale=both&v=20160708163318311&meta=rectangle"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://i2.wp.mil.pl/u/galleries/pictures/2018/3/nato-3.jpg"
+            },
+            {
+                "url": "https://cdnit1.img.sputniknews.com/images/307/69/3076954.jpg"
+            },
+            {
+                "url": "https://i.dailymail.co.uk/i/pix/2016/07/08/14/36130F6A00000578-3680732-image-a-44_1467985952045.jpg"
+            },
+            {
+                "url": "https://gdb.rferl.org/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://carnegieeurope.eu/2016/12/08/from-suez-to-syria-why-nato-must-strengthen-its-political-role-pub-66370",
+                "pageTitle": "From Suez to Syria: Why <b>NATO</b> Must Strengthen Its Political Role ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailymail.co.uk/news/article-3681080/Won-t-problem-soon-Outgoing-leaders-David-Cameron-Barack-Obama-share-joke-getting-business-Nato-summit-Warsaw.html",
+                "pageTitle": "David Cameron and Barack Obama joke before getting <b>Nato</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.dailymail.co.uk/i/pix/2016/07/08/16/36130F6A00000578-0-image-a-57_1467990651739.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailymail.co.uk/news/article-3680732/Female-soldiers-allowed-serve-frontline-combat-roles-David-Cameron-set-announce-Britain-prepares-finally-lift-ban.html",
+                "pageTitle": "Female soldiers WILL be allowed to serve in frontline ... - Daily Mail",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.dailymail.co.uk/i/pix/2016/07/08/14/36130F6A00000578-3680732-image-a-44_1467985952045.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sites.eveyo.com/news/world-news/188755-female-soldiers-allowed-to-serve-in-frontline-combat-roles-says-david-cameron.html",
+                "pageTitle": "Female Soldiers Allowed To Serve In Frontline Combat Roles Says ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dailymail.co.uk/i/pix/2016/07/08/14/36130F6A00000578-3680732-image-a-44_1467985952045.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://software-help.info/assisting-nato-backed-terror-teams/",
+                "pageTitle": "Assisting <b>Nato</b> Backed Terror Teams - Software Help",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kuxniya.info/annual-blocking-nato-supplies.aspx",
+                "pageTitle": "Annual Blocking <b>Nato</b> Supplies | Kuxniya",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mtsensk.info/nato,-after-warsaw-summit.html",
+                "pageTitle": "<b>Nato</b>, After Warsaw Summit - Prokatim",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dailymail.co.uk/i/pix/2016/07/08/16/36130F6A00000578-0-image-a-57_1467990651739.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.keywordlister.com/bmF0byBhcnRpY2xlIDEy/",
+                "pageTitle": "<b>Nato</b> Article 12 - Google Trends - Hot Keyword Searches",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.picsnaper.com/p/The-Berserker-defence-and-politics",
+                "pageTitle": "Snap The Berserker defence and politics photos on Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.sputniknews.com/mondo/201611213661673-nato-inaugurata-force-integration-unitn-ungheria/",
+                "pageTitle": "<b>Nato</b>, inaugurata la Force Integration Unit ungherese - Sputnik Italia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnit1.img.sputniknews.com/images/307/69/3076942.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.sputniknews.com/tags/event_Situazione_NATO-Russia/",
+                "pageTitle": "Situazione <b>NATO</b>-Russia - Sputnik Italia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnit1.img.sputniknews.com/images/307/69/3076954.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://i2.wp.mil.pl/pl/articleswazne-4/2018-03-12i-19-rocznica-wejscia-polski-do-nato/",
+                "pageTitle": "Inspektorat Informatyki - 19. ROCZNICA WEJ\u015aCIA POLSKI DO <b>NATO</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.mil.pl/u/galleries/pictures/2018/3/nato-3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://i2.wp.mil.pl/pl/galleries/fotogaleria-fotop/polska-w-nato-5/",
+                "pageTitle": "Inspektorat Informatyki - Polska w <b>NATO</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.mil.pl/u/galleries/pictures/2018/3/nato-3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pl.sputniknews.com/tags/organization_szczyt_NATO/",
+                "pageTitle": "szczyt <b>NATO</b> - Sputnik Polska",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnpl2.img.sputniknews.com/images/340/33/3403311.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pl.sputniknews.com/opinie/201608153700103-nato-rosja-wybory-kraje-baltyckie/",
+                "pageTitle": "Brak przeciwnika podwa\u017ca\u0142by sens istnienia <b>NATO</b> - Sputnik Polska",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnpl2.img.sputniknews.com/images/340/32/3403299.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/dunya/varsovada-nato-zirvesi,6-38CYRuEEiMqiQLpAHT2A",
+                "pageTitle": "Var\u015fova&#39;da <b>NATO</b> zirvesi | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/varsovada-nato-zirvesi,ftx9IbMH2EuMQAm6M3aFjg.jpg?width=610&height=315&mode=crop&scale=both&v=20160708163318311&meta=rectangle"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknewslv.com/opinion/20160716/2382879.html",
+                "pageTitle": "Pasaule p\u0113c <b>NATO</b>: Austrumeiropa mekl\u0113 naida objektu",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknewslv.com/images/235/14/2351418.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknewslv.com/world/20160715/2356503.html",
+                "pageTitle": "Samita rezult\u0101ti: iesp\u0113jams, <b>NATO</b> darb\u012bbai dr\u012bzum\u0101 tiks pielikts punkts",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknewslv.com/images/235/14/2351418.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknewslv.com/opinion/20160715/2365091.html",
+                "pageTitle": "Krievija vairs nekad nekaros sav\u0101 teritorij\u0101 - Sputniknewslv.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknewslv.com/images/235/14/2351418.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.currenttime.tv/a/28152661.html",
+                "pageTitle": "&quot;\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439 \u043c\u0435\u0447&quot;: \u041b\u0438\u0442\u0432\u0430 \u043f\u043e\u043a\u0430\u0437\u0430\u043b\u0430 \u0441\u043e\u044e\u0437\u043d\u0438\u043a\u0430\u043c \u043f\u043e \u041d\u0410\u0422\u041e, \u043a\u0430\u043a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.currenttime.tv/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.radiotavisupleba.ge/a/nato-sakartvelos-komisiis-skhdoma/27972547.html",
+                "pageTitle": "\u10dc\u10d0\u10e2\u10dd \u10d3\u10d0 \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd: \u10d7\u10d0\u10d5\u10d3\u10d0\u10ea\u10d5\u10d8\u10e1\u10e3\u10dc\u10d0\u10e0\u10d8\u10d0\u10dc\u10dd\u10d1\u10d8\u10e1 \u10d2\u10d0\u10d6\u10e0\u10d3\u10d8\u10e1 \u10d8\u10db\u10d4\u10d3\u10d8",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.currenttime.tv/a/28903667.html",
+                "pageTitle": "&quot;\u041d\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0435 \u0441\u0432\u0438\u043d\u044c\u0438 \u0437\u0430\u0433\u0430\u0434\u0438\u043b\u0438 \u0441\u0442\u0440\u0430\u043d\u044b \u0411\u0430\u043b\u0442\u0438\u0438&quot;: \u0438\u0441\u0442\u043e\u0440\u0438\u044f \u043e\u0434\u043d\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.currenttime.tv/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.radiotavisupleba.ge/a/interviu-jeims-apaturaistan/27847606.html",
+                "pageTitle": "\u10ef\u10d4\u10d8\u10db\u10e1 \u10d0\u10de\u10d0\u10e2\u10e3\u10e0\u10d0\u10d8: \u10d3\u10d0\u10ee\u10db\u10d0\u10e0\u10d4\u10d1\u10d0 \u10d7\u10d0\u10d5\u10d3\u10d0\u10ea\u10d5\u10d8\u10e1\u10e3\u10dc\u10d0\u10e0\u10d8\u10d0\u10dc\u10dd\u10d1\u10d8\u10e1 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rus.azattyk.org/a/27992889.html",
+                "pageTitle": "\u0411\u0438\u0448\u043a\u0435\u043a. \u0421\u0430\u043c\u043c\u0438\u0442 \u0421\u041d\u0413 \u0432 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u0438 \u041f\u0443\u0442\u0438\u043d\u0430 - \u0420\u0430\u0434\u0438\u043e \u0410\u0437\u0430\u0442\u0442\u044b\u043a",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/269BD79E-34B0-4684-85B5-E812625B622E_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.n1cekino.info/feat-natos.php",
+                "pageTitle": "Feat Natos \u2014 N1Cekino",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://carnegieendowment.org/images/article_images/2016-12-08Final-Image_NATO-Leaders.jpg"
+            },
+            {
+                "url": "https://i.dailymail.co.uk/i/pix/2016/07/08/16/36130F6A00000578-0-image-a-57_1467990651739.jpg"
+            },
+            {
+                "url": "http://static.theglobeandmail.ca/6b5/news/article30820124.ece/ALTERNATES/w1100/nato1a.jpg"
+            },
+            {
+                "url": "https://cdn4.img.sputniknews.com/images/104269/25/1042692505.jpg"
+            },
+            {
+                "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/2012_05_120521b-mfa-meeting/20120521_120521b-009_rdax_775x517.jpg"
+            },
+            {
+                "url": "https://d1i4t8bqe7zgj6.cloudfront.net/07-12-2018/t_1531394874746_name_1920_trump_nato_summit3_scaled.jpg"
+            },
+            {
+                "url": "https://images.financialexpress.com/2018/07/NATO-reuters.jpg"
+            },
+            {
+                "url": "https://img.youtube.com/vi/Og1VBrkT9RU/0.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato leaders with names",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.92359823,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.77884334,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.8527357,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.8527357,
+                        "y": 0.58229417
+                    },
+                    {
+                        "x": 0.77884334,
+                        "y": 0.58229417
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8349865,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5786699,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.64362115,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.64362115,
+                        "y": 0.57241184
+                    },
+                    {
+                        "x": 0.5786699,
+                        "y": 0.57241184
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8142921,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8502984,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.9237202,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.9237202,
+                        "y": 0.5775883
+                    },
+                    {
+                        "x": 0.8502984,
+                        "y": 0.5775883
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8062435,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6360074,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.69954675,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.69954675,
+                        "y": 0.58276474
+                    },
+                    {
+                        "x": 0.6360074,
+                        "y": 0.58276474
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.76646256,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.67310965,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.7413548,
+                        "y": 0.20482653
+                    },
+                    {
+                        "x": 0.7413548,
+                        "y": 0.58229417
+                    },
+                    {
+                        "x": 0.67310965,
+                        "y": 0.58229417
+                    }
+                ]
+            }
+        }
+    ]
+}

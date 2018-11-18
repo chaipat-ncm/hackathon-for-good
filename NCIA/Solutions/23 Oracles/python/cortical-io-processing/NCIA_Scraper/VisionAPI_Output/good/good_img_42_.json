@@ -1,0 +1,4733 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 370,
+                        "y": 264
+                    },
+                    {
+                        "x": 455,
+                        "y": 264
+                    },
+                    {
+                        "x": 455,
+                        "y": 363
+                    },
+                    {
+                        "x": 370,
+                        "y": 363
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 382,
+                        "y": 294
+                    },
+                    {
+                        "x": 444,
+                        "y": 294
+                    },
+                    {
+                        "x": 444,
+                        "y": 356
+                    },
+                    {
+                        "x": 382,
+                        "y": 356
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 399.90134,
+                        "y": 313.48264,
+                        "z": -0.00025852543
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 425.426,
+                        "y": 312.3242,
+                        "z": 0.08570138
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 390.897,
+                        "y": 307.26376,
+                        "z": 1.3153874
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 406.23743,
+                        "y": 307.8243,
+                        "z": -5.97207
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 418.76312,
+                        "y": 307.4027,
+                        "z": -5.9083843
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 433.98004,
+                        "y": 305.81195,
+                        "z": 1.510158
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 412.60184,
+                        "y": 313.3817,
+                        "z": -5.3761525
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 413.01865,
+                        "y": 328.42154,
+                        "z": -10.516854
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 413.4474,
+                        "y": 337.7419,
+                        "z": -2.98572
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 413.5452,
+                        "y": 345.39853,
+                        "z": 0.19139044
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 403.2677,
+                        "y": 340.68005,
+                        "z": 4.3877554
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 425.0413,
+                        "y": 338.68283,
+                        "z": 4.7822723
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 413.4756,
+                        "y": 340.2825,
+                        "z": -0.55087066
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 420.42392,
+                        "y": 328.71985,
+                        "z": -0.3606522
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 405.91455,
+                        "y": 329.65778,
+                        "z": -0.36549345
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 413.06403,
+                        "y": 332.5668,
+                        "z": -3.9558504
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 399.7153,
+                        "y": 311.86148,
+                        "z": -2.0241895
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 405.2528,
+                        "y": 313.63098,
+                        "z": 0.13966404
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 400.11194,
+                        "y": 314.86188,
+                        "z": 0.0073516914
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 394.61215,
+                        "y": 313.21326,
+                        "z": 2.3087282
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 399.36478,
+                        "y": 313.4438,
+                        "z": -0.66416305
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 425.50937,
+                        "y": 310.982,
+                        "z": -1.9022852
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 430.66107,
+                        "y": 311.98218,
+                        "z": 2.4680817
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 425.56677,
+                        "y": 313.8086,
+                        "z": 0.12382685
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 420.36218,
+                        "y": 312.85062,
+                        "z": 0.20344062
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 425.84497,
+                        "y": 312.53946,
+                        "z": -0.5672828
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 398.38644,
+                        "y": 304.6955,
+                        "z": -4.5389647
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 426.3832,
+                        "y": 303.7418,
+                        "z": -4.395567
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 383.43268,
+                        "y": 321.28632,
+                        "z": 33.445423
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 442.0335,
+                        "y": 319.30908,
+                        "z": 33.6338
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 412.49557,
+                        "y": 307.44168,
+                        "z": -6.9594846
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 414.09723,
+                        "y": 356.4896,
+                        "z": 5.696915
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 386.93628,
+                        "y": 339.20627,
+                        "z": 25.695635
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 439.9046,
+                        "y": 337.44354,
+                        "z": 25.941189
+                    }
+                }
+            ],
+            "rollAngle": -1.9066385,
+            "panAngle": 0.26909533,
+            "tiltAngle": -9.202929,
+            "detectionConfidence": 0.9999156,
+            "landmarkingConfidence": 0.5250495,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 345,
+                        "y": 16
+                    },
+                    {
+                        "x": 419,
+                        "y": 16
+                    },
+                    {
+                        "x": 419,
+                        "y": 102
+                    },
+                    {
+                        "x": 345,
+                        "y": 102
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 353,
+                        "y": 41
+                    },
+                    {
+                        "x": 412,
+                        "y": 41
+                    },
+                    {
+                        "x": 412,
+                        "y": 100
+                    },
+                    {
+                        "x": 353,
+                        "y": 100
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 369.96667,
+                        "y": 60.392136,
+                        "z": -0.0002645023
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 391.9529,
+                        "y": 60.19325,
+                        "z": -1.1217656
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 362.24698,
+                        "y": 55.228462,
+                        "z": 1.1328473
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 375.2952,
+                        "y": 56.615692,
+                        "z": -5.8583164
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 386.18057,
+                        "y": 56.598606,
+                        "z": -6.400151
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 400.07202,
+                        "y": 55.819054,
+                        "z": -0.52468866
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 380.7758,
+                        "y": 60.46336,
+                        "z": -5.3988986
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 380.40164,
+                        "y": 75.417404,
+                        "z": -8.322388
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 381.2528,
+                        "y": 82.08385,
+                        "z": -1.129983
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 381.39883,
+                        "y": 88.6829,
+                        "z": 2.3263083
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 372.19806,
+                        "y": 83.36784,
+                        "z": 6.0401444
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 391.1438,
+                        "y": 83.324234,
+                        "z": 5.2787647
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 381.26678,
+                        "y": 84.66873,
+                        "z": 1.3450887
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 387.92612,
+                        "y": 75.50148,
+                        "z": 0.4170227
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 374.19467,
+                        "y": 75.590576,
+                        "z": 1.0758047
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 380.71436,
+                        "y": 78.71442,
+                        "z": -2.26359
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 369.70828,
+                        "y": 59.54957,
+                        "z": -1.8126256
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 374.49908,
+                        "y": 60.831097,
+                        "z": -0.0620912
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 369.78458,
+                        "y": 61.717323,
+                        "z": 0.18149763
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 365.41782,
+                        "y": 60.22123,
+                        "z": 2.2771025
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 369.4129,
+                        "y": 60.80888,
+                        "z": -0.5010875
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 392.14328,
+                        "y": 59.513824,
+                        "z": -2.917065
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 396.83014,
+                        "y": 60.215767,
+                        "z": 0.73977023
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 391.9837,
+                        "y": 61.50898,
+                        "z": -0.9576697
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 387.30353,
+                        "y": 60.829956,
+                        "z": -0.7201992
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 392.43826,
+                        "y": 60.783577,
+                        "z": -1.6697496
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 368.6174,
+                        "y": 53.59259,
+                        "z": -4.5480485
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 392.96976,
+                        "y": 53.57241,
+                        "z": -5.7428226
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 356.95807,
+                        "y": 64.30894,
+                        "z": 30.393507
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 407.95068,
+                        "y": 64.23262,
+                        "z": 27.82766
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 380.69684,
+                        "y": 56.555817,
+                        "z": -7.0255265
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 381.49637,
+                        "y": 98.038956,
+                        "z": 8.017581
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 359.20715,
+                        "y": 80.59033,
+                        "z": 25.08106
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 405.30145,
+                        "y": 80.53197,
+                        "z": 22.81292
+                    }
+                }
+            ],
+            "rollAngle": -0.8291595,
+            "panAngle": -2.9140768,
+            "tiltAngle": -14.73097,
+            "detectionConfidence": 0.9999076,
+            "landmarkingConfidence": 0.54600835,
+            "joyLikelihood": "VERY_LIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 69,
+                        "y": 203
+                    },
+                    {
+                        "x": 143,
+                        "y": 203
+                    },
+                    {
+                        "x": 143,
+                        "y": 290
+                    },
+                    {
+                        "x": 69,
+                        "y": 290
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 78,
+                        "y": 223
+                    },
+                    {
+                        "x": 134,
+                        "y": 223
+                    },
+                    {
+                        "x": 134,
+                        "y": 279
+                    },
+                    {
+                        "x": 78,
+                        "y": 279
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 94.03807,
+                        "y": 241.23239,
+                        "z": 0.00016632184
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 118.14458,
+                        "y": 241.7116,
+                        "z": -0.57645607
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 87.34285,
+                        "y": 236.42055,
+                        "z": 2.5621133
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 100.715454,
+                        "y": 236.40683,
+                        "z": -4.2264485
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 111.327034,
+                        "y": 236.30386,
+                        "z": -4.4903827
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 124.94724,
+                        "y": 236.71646,
+                        "z": 1.6728923
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 105.90466,
+                        "y": 240.5915,
+                        "z": -4.9988956
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 105.70152,
+                        "y": 252.99849,
+                        "z": -12.393934
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 105.77401,
+                        "y": 262.6819,
+                        "z": -7.6809855
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 105.87247,
+                        "y": 269.47726,
+                        "z": -6.5438595
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 97.15533,
+                        "y": 265.77005,
+                        "z": -1.7074573
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 115.15576,
+                        "y": 265.5041,
+                        "z": -1.9145044
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 105.88557,
+                        "y": 265.5043,
+                        "z": -6.237496
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 111.86819,
+                        "y": 254.99089,
+                        "z": -4.022078
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 99.14442,
+                        "y": 255.13293,
+                        "z": -3.6016123
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 105.36027,
+                        "y": 257.04172,
+                        "z": -7.4761214
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 94.75452,
+                        "y": 239.97954,
+                        "z": -1.46563
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 98.64392,
+                        "y": 241.89436,
+                        "z": -0.041268792
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 94.13269,
+                        "y": 242.96443,
+                        "z": -0.30118236
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 90.32195,
+                        "y": 241.7909,
+                        "z": 2.1321273
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 94.40219,
+                        "y": 241.58035,
+                        "z": -0.5903198
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 117.2999,
+                        "y": 240.1556,
+                        "z": -1.9965771
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 121.95132,
+                        "y": 242.13629,
+                        "z": 1.4088913
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 117.78585,
+                        "y": 243.05515,
+                        "z": -0.8436105
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 113.49661,
+                        "y": 241.89864,
+                        "z": -0.36251208
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 117.52293,
+                        "y": 241.75735,
+                        "z": -1.1743674
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 93.85829,
+                        "y": 233.39975,
+                        "z": -2.1472912
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 118.26887,
+                        "y": 233.58502,
+                        "z": -2.7179594
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 81.01463,
+                        "y": 254.37047,
+                        "z": 27.352413
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 132.17738,
+                        "y": 254.80185,
+                        "z": 26.15321
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 105.97174,
+                        "y": 235.74226,
+                        "z": -5.188947
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 105.64449,
+                        "y": 279.8947,
+                        "z": -4.013688
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 83.151855,
+                        "y": 268.15192,
+                        "z": 17.208364
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 129.34006,
+                        "y": 268.52554,
+                        "z": 16.114283
+                    }
+                }
+            ],
+            "rollAngle": 0.52459544,
+            "panAngle": -1.3516499,
+            "tiltAngle": 3.7256498,
+            "detectionConfidence": 0.97582364,
+            "landmarkingConfidence": 0.6350394,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1378,
+                        "y": 3
+                    },
+                    {
+                        "x": 1445,
+                        "y": 3
+                    },
+                    {
+                        "x": 1445,
+                        "y": 81
+                    },
+                    {
+                        "x": 1378,
+                        "y": 81
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1383,
+                        "y": 21
+                    },
+                    {
+                        "x": 1440,
+                        "y": 21
+                    },
+                    {
+                        "x": 1440,
+                        "y": 78
+                    },
+                    {
+                        "x": 1383,
+                        "y": 78
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1402.8087,
+                        "y": 38.993557,
+                        "z": -0.00018206613
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1424.2904,
+                        "y": 41.156883,
+                        "z": -0.21539943
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1396.6971,
+                        "y": 33.6379,
+                        "z": 1.7467217
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1408.6149,
+                        "y": 34.936028,
+                        "z": -4.262246
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1418.3232,
+                        "y": 36.013695,
+                        "z": -4.3633323
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1430.5884,
+                        "y": 37.572586,
+                        "z": 1.4829954
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1413.1069,
+                        "y": 39.24756,
+                        "z": -4.448601
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1411.7872,
+                        "y": 51.740444,
+                        "z": -9.796983
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1410.9576,
+                        "y": 58.219116,
+                        "z": -4.7436314
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1410.2766,
+                        "y": 65.423996,
+                        "z": -2.90418
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1400.185,
+                        "y": 60.160378,
+                        "z": 1.6266379
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1419.5984,
+                        "y": 61.7086,
+                        "z": 1.0335227
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1410.7051,
+                        "y": 61.442215,
+                        "z": -3.0657094
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1418.2421,
+                        "y": 53.078217,
+                        "z": -1.7622052
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1405.2917,
+                        "y": 52.189297,
+                        "z": -1.6652652
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1411.4487,
+                        "y": 54.876465,
+                        "z": -4.975373
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1403.1317,
+                        "y": 37.66217,
+                        "z": -1.4664241
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1407.1031,
+                        "y": 39.42214,
+                        "z": 0.011728262
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1402.8306,
+                        "y": 40.32236,
+                        "z": -0.14228377
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1399.02,
+                        "y": 38.52943,
+                        "z": 1.8841895
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1402.6711,
+                        "y": 38.943832,
+                        "z": -0.5854844
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1423.1962,
+                        "y": 39.81859,
+                        "z": -1.682368
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1427.133,
+                        "y": 41.553936,
+                        "z": 1.5828029
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1423.2966,
+                        "y": 42.457264,
+                        "z": -0.35078928
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1419.0397,
+                        "y": 40.451736,
+                        "z": -0.13146093
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1423.2631,
+                        "y": 41.152405,
+                        "z": -0.821404
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1402.8597,
+                        "y": 31.803946,
+                        "z": -2.7763176
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1424.6185,
+                        "y": 34.15065,
+                        "z": -3.0178287
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1389.5514,
+                        "y": 46.26986,
+                        "z": 25.520065
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1435.15,
+                        "y": 51.190178,
+                        "z": 25.037954
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1413.4789,
+                        "y": 35.2257,
+                        "z": -5.1132407
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1409.3365,
+                        "y": 74.287735,
+                        "z": 0.29157364
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1390.2664,
+                        "y": 59.712814,
+                        "z": 17.906559
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1431.4445,
+                        "y": 64.12944,
+                        "z": 17.461235
+                    }
+                }
+            ],
+            "rollAngle": 6.0970063,
+            "panAngle": -0.61543494,
+            "tiltAngle": -2.6735048,
+            "detectionConfidence": 0.9900533,
+            "landmarkingConfidence": 0.45743567,
+            "joyLikelihood": "VERY_LIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 897,
+                        "y": 275
+                    },
+                    {
+                        "x": 978,
+                        "y": 275
+                    },
+                    {
+                        "x": 978,
+                        "y": 369
+                    },
+                    {
+                        "x": 897,
+                        "y": 369
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 910,
+                        "y": 298
+                    },
+                    {
+                        "x": 973,
+                        "y": 298
+                    },
+                    {
+                        "x": 973,
+                        "y": 360
+                    },
+                    {
+                        "x": 910,
+                        "y": 360
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 929.2791,
+                        "y": 318.02594,
+                        "z": 0.0005376304
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 953.41925,
+                        "y": 316.48004,
+                        "z": 4.329473
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 920.4277,
+                        "y": 312.7573,
+                        "z": 0.9006186
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 936.0064,
+                        "y": 311.5395,
+                        "z": -3.504743
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 947.75604,
+                        "y": 310.8228,
+                        "z": -1.3971859
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 960.8753,
+                        "y": 310.2717,
+                        "z": 8.14913
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 942.53064,
+                        "y": 316.01117,
+                        "z": -2.9161563
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 944.35986,
+                        "y": 330.3275,
+                        "z": -10.295144
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 944.1181,
+                        "y": 340.26297,
+                        "z": -4.7511992
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 944.1269,
+                        "y": 346.4223,
+                        "z": -3.263435
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 933.21136,
+                        "y": 343.82678,
+                        "z": 0.0520028
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 953.22485,
+                        "y": 342.1825,
+                        "z": 3.592423
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 943.92554,
+                        "y": 343.05292,
+                        "z": -3.0493412
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 949.5947,
+                        "y": 332.1937,
+                        "z": 0.20901027
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 936.58453,
+                        "y": 333.17896,
+                        "z": -2.1970847
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 943.6061,
+                        "y": 334.87927,
+                        "z": -4.763903
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 929.4888,
+                        "y": 316.24185,
+                        "z": -1.5918223
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 934.21515,
+                        "y": 317.8806,
+                        "z": 0.9716419
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 929.4887,
+                        "y": 319.62283,
+                        "z": -0.22498256
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 924.1139,
+                        "y": 318.43878,
+                        "z": 1.373049
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 929.03595,
+                        "y": 317.9821,
+                        "z": -0.6535914
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 953.7052,
+                        "y": 314.72314,
+                        "z": 2.748788
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 957.9447,
+                        "y": 316.31647,
+                        "z": 7.431813
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 953.4475,
+                        "y": 317.90643,
+                        "z": 4.093001
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 948.6998,
+                        "y": 316.9607,
+                        "z": 3.5713778
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 953.89825,
+                        "y": 316.42044,
+                        "z": 3.7747743
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 928.2131,
+                        "y": 309.09805,
+                        "z": -2.8691125
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 954.4908,
+                        "y": 307.45425,
+                        "z": 1.8418751
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 909.6107,
+                        "y": 331.95416,
+                        "z": 26.860062
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 964.4117,
+                        "y": 328.52914,
+                        "z": 36.79914
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 942.02997,
+                        "y": 310.83307,
+                        "z": -3.3661084
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 944.3854,
+                        "y": 359.03784,
+                        "z": 0.060163807
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 914.8841,
+                        "y": 347.25687,
+                        "z": 17.232101
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 964.5744,
+                        "y": 344.15527,
+                        "z": 26.129765
+                    }
+                }
+            ],
+            "rollAngle": -3.793402,
+            "panAngle": 10.14161,
+            "tiltAngle": 1.1330022,
+            "detectionConfidence": 0.9788778,
+            "landmarkingConfidence": 0.47490954,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "POSSIBLE",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 848,
+                        "y": 66
+                    },
+                    {
+                        "x": 931,
+                        "y": 66
+                    },
+                    {
+                        "x": 931,
+                        "y": 161
+                    },
+                    {
+                        "x": 848,
+                        "y": 161
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 864,
+                        "y": 100
+                    },
+                    {
+                        "x": 921,
+                        "y": 100
+                    },
+                    {
+                        "x": 921,
+                        "y": 156
+                    },
+                    {
+                        "x": 864,
+                        "y": 156
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 883.0439,
+                        "y": 116.9658,
+                        "z": -0.00023701547
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 906.5099,
+                        "y": 118.3551,
+                        "z": 3.8706849
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 874.3701,
+                        "y": 109.37727,
+                        "z": -1.2794235
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 889.8019,
+                        "y": 112.78333,
+                        "z": -5.5825577
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 901.6605,
+                        "y": 113.726974,
+                        "z": -3.5883608
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 915.19257,
+                        "y": 112.69778,
+                        "z": 5.573199
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 894.9022,
+                        "y": 117.87529,
+                        "z": -3.3849566
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 893.7896,
+                        "y": 134.05884,
+                        "z": -5.7249546
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 892.3226,
+                        "y": 140.64622,
+                        "z": 2.4540613
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 890.95105,
+                        "y": 148.92154,
+                        "z": 7.0346727
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 881.38025,
+                        "y": 140.52293,
+                        "z": 8.224927
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 900.61395,
+                        "y": 142.7363,
+                        "z": 11.504283
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 891.5582,
+                        "y": 143.9309,
+                        "z": 5.4745717
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 899.7014,
+                        "y": 133.08102,
+                        "z": 4.938357
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 885.97076,
+                        "y": 131.7707,
+                        "z": 2.6035266
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 892.75085,
+                        "y": 136.74985,
+                        "z": 0.93815136
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 882.54236,
+                        "y": 115.2439,
+                        "z": -2.343912
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 887.06494,
+                        "y": 116.99005,
+                        "z": 0.74882793
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 882.0703,
+                        "y": 117.97086,
+                        "z": 0.073130116
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 876.9444,
+                        "y": 115.25379,
+                        "z": 1.1006627
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 881.7857,
+                        "y": 116.44714,
+                        "z": -0.88680345
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 906.99255,
+                        "y": 117.23922,
+                        "z": 1.7689564
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 911.1087,
+                        "y": 118.04374,
+                        "z": 6.8411884
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 906.34894,
+                        "y": 119.95637,
+                        "z": 4.179059
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 901.47253,
+                        "y": 118.03944,
+                        "z": 3.170518
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 906.88745,
+                        "y": 118.51984,
+                        "z": 3.3044844
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 882.57745,
+                        "y": 108.69641,
+                        "z": -5.9271884
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 909.1125,
+                        "y": 110.87094,
+                        "z": -1.4643652
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 860.92004,
+                        "y": 116.59808,
+                        "z": 29.705069
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 916.4791,
+                        "y": 121.12302,
+                        "z": 38.98363
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 895.8644,
+                        "y": 113.232895,
+                        "z": -5.5569935
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 889.0497,
+                        "y": 157.65375,
+                        "z": 13.594039
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 862.89594,
+                        "y": 135.15398,
+                        "z": 25.541695
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 913.0874,
+                        "y": 139.27054,
+                        "z": 33.97218
+                    }
+                }
+            ],
+            "rollAngle": 7.7640586,
+            "panAngle": 9.98448,
+            "tiltAngle": -17.89071,
+            "detectionConfidence": 0.99124926,
+            "landmarkingConfidence": 0.3343352,
+            "joyLikelihood": "VERY_LIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1144,
+                        "y": 186
+                    },
+                    {
+                        "x": 1216,
+                        "y": 186
+                    },
+                    {
+                        "x": 1216,
+                        "y": 270
+                    },
+                    {
+                        "x": 1144,
+                        "y": 270
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1154,
+                        "y": 205
+                    },
+                    {
+                        "x": 1215,
+                        "y": 205
+                    },
+                    {
+                        "x": 1215,
+                        "y": 265
+                    },
+                    {
+                        "x": 1154,
+                        "y": 265
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1174.4424,
+                        "y": 225.95709,
+                        "z": -4.809124e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1196.7299,
+                        "y": 224.31567,
+                        "z": 6.8381014
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1167.3783,
+                        "y": 221.17569,
+                        "z": -0.21726106
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1181.5005,
+                        "y": 220.24446,
+                        "z": -2.3664935
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1191.5084,
+                        "y": 219.62573,
+                        "z": 0.77227443
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1201.9789,
+                        "y": 218.77386,
+                        "z": 10.627358
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1186.8501,
+                        "y": 224.07121,
+                        "z": -1.0174538
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1189.8926,
+                        "y": 236.65741,
+                        "z": -6.7756743
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1188.5327,
+                        "y": 245.46898,
+                        "z": -1.6759076
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1188.3063,
+                        "y": 251.47086,
+                        "z": -0.08005588
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1176.5396,
+                        "y": 248.3738,
+                        "z": 1.7497319
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1197.1798,
+                        "y": 246.87352,
+                        "z": 7.144169
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1188.2528,
+                        "y": 247.98843,
+                        "z": -0.091285095
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1193.3007,
+                        "y": 238.34871,
+                        "z": 3.2067175
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1181.1962,
+                        "y": 238.47034,
+                        "z": -0.4789246
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1188.691,
+                        "y": 240.58008,
+                        "z": -1.9130884
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1175.5723,
+                        "y": 224.30144,
+                        "z": -1.2944756
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1179.4038,
+                        "y": 225.59267,
+                        "z": 1.540095
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1174.8434,
+                        "y": 227.23152,
+                        "z": -0.010617242
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1170.3982,
+                        "y": 226.1466,
+                        "z": 0.78669566
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1175.0648,
+                        "y": 225.78207,
+                        "z": -0.4997157
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1196.2664,
+                        "y": 222.81557,
+                        "z": 5.1703997
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1199.4572,
+                        "y": 224.06758,
+                        "z": 9.833095
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1196.2339,
+                        "y": 225.64018,
+                        "z": 6.4888096
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1191.7479,
+                        "y": 224.76056,
+                        "z": 5.4101205
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1196.317,
+                        "y": 224.26118,
+                        "z": 6.106376
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1174.642,
+                        "y": 218.04855,
+                        "z": -2.7889562
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1197.0746,
+                        "y": 216.44656,
+                        "z": 4.2245445
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1154.7507,
+                        "y": 237.1889,
+                        "z": 21.941498
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1201.73,
+                        "y": 233.8399,
+                        "z": 36.664463
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1186.7548,
+                        "y": 219.58345,
+                        "z": -1.6190729
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1188.3218,
+                        "y": 261.87872,
+                        "z": 3.1033237
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1160.5336,
+                        "y": 250.9184,
+                        "z": 14.5725
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1202.9722,
+                        "y": 247.88281,
+                        "z": 27.8321
+                    }
+                }
+            ],
+            "rollAngle": -3.6845284,
+            "panAngle": 17.315277,
+            "tiltAngle": -1.3921479,
+            "detectionConfidence": 0.9991524,
+            "landmarkingConfidence": 0.5308492,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 634,
+                        "y": 208
+                    },
+                    {
+                        "x": 696,
+                        "y": 208
+                    },
+                    {
+                        "x": 696,
+                        "y": 281
+                    },
+                    {
+                        "x": 634,
+                        "y": 281
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 647,
+                        "y": 230
+                    },
+                    {
+                        "x": 701,
+                        "y": 230
+                    },
+                    {
+                        "x": 701,
+                        "y": 284
+                    },
+                    {
+                        "x": 647,
+                        "y": 284
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 664.8726,
+                        "y": 247.70016,
+                        "z": -0.0001777559
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 682.3431,
+                        "y": 249.31042,
+                        "z": 7.9382634
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 659.8912,
+                        "y": 242.28784,
+                        "z": -2.4645398
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 672.05457,
+                        "y": 245.33102,
+                        "z": -2.4710534
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 680.3142,
+                        "y": 246.08186,
+                        "z": 1.3366786
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 688.5062,
+                        "y": 245.06946,
+                        "z": 10.670599
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 675.5797,
+                        "y": 249.4617,
+                        "z": 0.41278473
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 674.85657,
+                        "y": 261.721,
+                        "z": -0.93535405
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 671.5729,
+                        "y": 266.22952,
+                        "z": 4.989626
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 669.5842,
+                        "y": 271.771,
+                        "z": 8.224227
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 662.39417,
+                        "y": 266.09268,
+                        "z": 7.111168
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 675.8825,
+                        "y": 267.49573,
+                        "z": 13.297845
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 670.38873,
+                        "y": 268.51077,
+                        "z": 7.158517
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 676.5542,
+                        "y": 260.5579,
+                        "z": 7.8828545
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 667.5555,
+                        "y": 259.51465,
+                        "z": 3.5482793
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 672.5713,
+                        "y": 262.69485,
+                        "z": 3.713511
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 665.9496,
+                        "y": 246.90819,
+                        "z": -1.4257648
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 668.61084,
+                        "y": 248.0883,
+                        "z": 1.7663146
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 664.45197,
+                        "y": 248.77364,
+                        "z": 0.3051967
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 661.13544,
+                        "y": 246.69249,
+                        "z": 0.011810609
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 665.09076,
+                        "y": 247.76411,
+                        "z": -0.45068738
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 683.1002,
+                        "y": 248.57623,
+                        "z": 6.4417925
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 685.1125,
+                        "y": 249.01926,
+                        "z": 11.005596
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 682.0946,
+                        "y": 250.52516,
+                        "z": 8.195306
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 678.86084,
+                        "y": 249.06306,
+                        "z": 6.472138
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 682.6948,
+                        "y": 249.48875,
+                        "z": 7.604133
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 666.8636,
+                        "y": 242.11722,
+                        "z": -4.284714
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 685.4579,
+                        "y": 243.92741,
+                        "z": 4.2472816
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 643.84546,
+                        "y": 246.30754,
+                        "z": 17.936596
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 682.77075,
+                        "y": 250.07582,
+                        "z": 35.79462
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 676.4772,
+                        "y": 245.72977,
+                        "z": -1.2578032
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 666.6673,
+                        "y": 278.5967,
+                        "z": 13.162221
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 645.6645,
+                        "y": 260.61084,
+                        "z": 15.976883
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 680.83514,
+                        "y": 264.02203,
+                        "z": 32.118053
+                    }
+                }
+            ],
+            "rollAngle": 14.125358,
+            "panAngle": 25.920862,
+            "tiltAngle": -18.088312,
+            "detectionConfidence": 0.86348045,
+            "landmarkingConfidence": 0.1366101,
+            "joyLikelihood": "POSSIBLE",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1440,
+                        "y": 312
+                    },
+                    {
+                        "x": 1519,
+                        "y": 312
+                    },
+                    {
+                        "x": 1519,
+                        "y": 404
+                    },
+                    {
+                        "x": 1440,
+                        "y": 404
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1444,
+                        "y": 345
+                    },
+                    {
+                        "x": 1499,
+                        "y": 345
+                    },
+                    {
+                        "x": 1499,
+                        "y": 400
+                    },
+                    {
+                        "x": 1444,
+                        "y": 400
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1455.1611,
+                        "y": 354.73083,
+                        "z": -0.00032564806
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1463.3086,
+                        "y": 362.14102,
+                        "z": -21.187376
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1454.1652,
+                        "y": 346.44336,
+                        "z": 5.8060308
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1452.59,
+                        "y": 351.94067,
+                        "z": -8.933855
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1456.6357,
+                        "y": 355.61438,
+                        "z": -19.258568
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1467.9802,
+                        "y": 358.96606,
+                        "z": -29.72767
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1454.6014,
+                        "y": 358.0038,
+                        "z": -12.551703
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1449.1055,
+                        "y": 372.5707,
+                        "z": -9.737166
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1454.5503,
+                        "y": 380.3582,
+                        "z": -4.877832
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1456.4514,
+                        "y": 387.1219,
+                        "z": -1.6289018
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1457.3595,
+                        "y": 379.1829,
+                        "z": 6.5547705
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1463.7056,
+                        "y": 384.882,
+                        "z": -10.140798
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1456.1963,
+                        "y": 383.33536,
+                        "z": -3.075625
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1459.3832,
+                        "y": 374.46637,
+                        "z": -12.096479
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1455.1194,
+                        "y": 370.75665,
+                        "z": -0.5051582
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1454.2749,
+                        "y": 375.63193,
+                        "z": -6.6765747
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1453.5513,
+                        "y": 353.37558,
+                        "z": -1.0721734
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1456.9017,
+                        "y": 356.33514,
+                        "z": -4.1718106
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1455.0446,
+                        "y": 356.22443,
+                        "z": 0.49167845
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1455.5728,
+                        "y": 352.87708,
+                        "z": 4.9213953
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1454.48,
+                        "y": 354.62582,
+                        "z": 0.15897666
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1461.8165,
+                        "y": 360.874,
+                        "z": -22.362432
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1467.1205,
+                        "y": 363.35037,
+                        "z": -24.807402
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1463.2891,
+                        "y": 363.66748,
+                        "z": -20.775276
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1461.473,
+                        "y": 361.07178,
+                        "z": -16.814486
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1462.9314,
+                        "y": 362.3299,
+                        "z": -21.694626
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1451.7207,
+                        "y": 346.6814,
+                        "z": -2.9916637
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1460.6876,
+                        "y": 354.81387,
+                        "z": -26.08452
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1478.3224,
+                        "y": 356.0001,
+                        "z": 26.715317
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1497.1035,
+                        "y": 373.02563,
+                        "z": -21.628218
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1453.7506,
+                        "y": 353.62808,
+                        "z": -14.47369
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1460.2633,
+                        "y": 396.60614,
+                        "z": 3.2116957
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1470.8489,
+                        "y": 372.87286,
+                        "z": 26.797401
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1487.8195,
+                        "y": 388.27176,
+                        "z": -16.90731
+                    }
+                }
+            ],
+            "rollAngle": -3.1426299,
+            "panAngle": -70.953064,
+            "tiltAngle": -20.43532,
+            "detectionConfidence": 0.91201985,
+            "landmarkingConfidence": 0.52170503,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/01xyhv",
+            "description": "suit",
+            "score": 0.93808836,
+            "topicality": 0.93808836
+        },
+        {
+            "mid": "/m/01b4q9",
+            "description": "social group",
+            "score": 0.8926829,
+            "topicality": 0.8926829
+        },
+        {
+            "mid": "/m/02w3_2",
+            "description": "formal wear",
+            "score": 0.85472995,
+            "topicality": 0.85472995
+        },
+        {
+            "mid": "/m/035y33",
+            "description": "official",
+            "score": 0.7691993,
+            "topicality": 0.7691993
+        },
+        {
+            "mid": "/m/011l78",
+            "description": "team",
+            "score": 0.65881914,
+            "topicality": 0.65881914
+        },
+        {
+            "mid": "/m/0280yrc",
+            "description": "tuxedo",
+            "score": 0.60742885,
+            "topicality": 0.60742885
+        },
+        {
+            "mid": "/m/012t_z",
+            "description": "businessperson",
+            "score": 0.5804962,
+            "topicality": 0.5804962
+        },
+        {
+            "mid": "/m/019p5q",
+            "description": "gentleman",
+            "score": 0.52898055,
+            "topicality": 0.52898055
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 17,
+                        "green": 79,
+                        "blue": 156
+                    },
+                    "score": 0.13558966,
+                    "pixelFraction": 0.061269842
+                },
+                {
+                    "color": {
+                        "red": 3,
+                        "green": 24,
+                        "blue": 72
+                    },
+                    "score": 0.12969595,
+                    "pixelFraction": 0.09349206
+                },
+                {
+                    "color": {
+                        "red": 14,
+                        "green": 14,
+                        "blue": 21
+                    },
+                    "score": 0.10030104,
+                    "pixelFraction": 0.24555555
+                },
+                {
+                    "color": {
+                        "red": 29,
+                        "green": 84,
+                        "blue": 144
+                    },
+                    "score": 0.07189787,
+                    "pixelFraction": 0.03952381
+                },
+                {
+                    "color": {
+                        "red": 5,
+                        "green": 34,
+                        "blue": 127
+                    },
+                    "score": 0.059791263,
+                    "pixelFraction": 0.025476191
+                },
+                {
+                    "color": {
+                        "red": 129,
+                        "green": 118,
+                        "blue": 99
+                    },
+                    "score": 0.018145585,
+                    "pixelFraction": 0.033253968
+                },
+                {
+                    "color": {
+                        "red": 111,
+                        "green": 24,
+                        "blue": 16
+                    },
+                    "score": 0.0025877925,
+                    "pixelFraction": 0.001984127
+                },
+                {
+                    "color": {
+                        "red": 223,
+                        "green": 208,
+                        "blue": 122
+                    },
+                    "score": 0.0011721206,
+                    "pixelFraction": 0.0007142857
+                },
+                {
+                    "color": {
+                        "red": 11,
+                        "green": 16,
+                        "blue": 37
+                    },
+                    "score": 0.09784866,
+                    "pixelFraction": 0.11444444
+                },
+                {
+                    "color": {
+                        "red": 8,
+                        "green": 39,
+                        "blue": 96
+                    },
+                    "score": 0.07771655,
+                    "pixelFraction": 0.050952382
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1599
+                        },
+                        {
+                            "x": 1599,
+                            "y": 899
+                        },
+                        {
+                            "y": 899
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.48
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0cqt90",
+                "score": 11.128501,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/m/01b8g6",
+                "score": 8.943,
+                "description": "Jens Stoltenberg"
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 1.05,
+                "description": "NATO summit"
+            },
+            {
+                "entityId": "/m/0345h",
+                "score": 0.8133,
+                "description": "Germany"
+            },
+            {
+                "entityId": "/m/0jl0g",
+                "score": 0.76305,
+                "description": "Angela Merkel"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.75285006,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7167,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7167
+            },
+            {
+                "entityId": "/m/060d2",
+                "score": 0.7084,
+                "description": "President of the United States"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.5947
+            },
+            {
+                "entityId": "/m/05qbbhd",
+                "score": 0.5709,
+                "description": "Secretary General of NATO"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.524
+            },
+            {
+                "entityId": "/m/060c4",
+                "score": 0.5073,
+                "description": "President"
+            },
+            {
+                "entityId": "/t/22hhhj7k9yc4w",
+                "score": 0.4645
+            },
+            {
+                "entityId": "/m/060bp",
+                "score": 0.431,
+                "description": "Prime minister"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_1600.jpg"
+            },
+            {
+                "url": "https://reseauinternational.net/wp-content/uploads/2018/07/NATO-summit1-1728x800_c.jpeg"
+            },
+            {
+                "url": "https://ocdn.eu/ebooksimages-transforms/1/ZznktoARGh0dHA6Ly9vY2RuLmV1L25ld3N3ZWVrLXdlYi9kYjAxYWNlOC1iYmU1LTQzZGEtODJkYy05NGY5ZmYxYjgyNzAuanBnkZMFzQSwzQKF"
+            },
+            {
+                "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/SYhrAl0iquk/hqdefault.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/SYhrAl0iquk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCyRR9799MCVtwgvHd_u3uj6EDZZg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://alqudsphotos.files.wordpress.com/2018/07/005753-01-08.jpg"
+            },
+            {
+                "url": "https://spcdn.co/wp-content/uploads/2018/07/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%95.jpg"
+            },
+            {
+                "url": "https://www.ednh.news/wp-content/uploads/2018/07/Brendan-Smialowski-Group-CROP-.jpg"
+            },
+            {
+                "url": "https://spcdn.co/wp-content/uploads/2018/07/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%95-facebook.jpg"
+            },
+            {
+                "url": "https://www.washingtonpost.com/resizer/z_cNB8Q09vmoS2hrTgN_1hR0oOw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T4QLW2NLOQ2WFPIG2KVEDZW3AY.jpg"
+            },
+            {
+                "url": "https://www.washingtonpost.com/resizer/Rfa71SR53KL8KoAjJ5MZu1x8IIU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATOVU6EU54I6RAHBADUA4H67IM.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_423682103.jpg"
+            },
+            {
+                "url": "https://img.aws.la-croix.com/2018/07/12/1200954648/Donald-Trump-poseses-homologues-somment-lOtan-Bruxelles-11-juillet_0_1399_933.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_1902800913.jpg"
+            },
+            {
+                "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6492505747-ci102l-w1024/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+            },
+            {
+                "url": "https://www.nacion.com/resizer/kfSLvJAiFiBAVB6RLjaYtBKMNIA=/1200x0/center/middle/filters:quality(100)/www.nacion.com/resizer/9YwiKylR2FMI5kOM40kU_fhaX2Y=/1200x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/EA5XGHFQHJARRI66XZDL5HIQDY.jpg"
+            },
+            {
+                "url": "https://www.nacion.com/resizer/9YwiKylR2FMI5kOM40kU_fhaX2Y=/1200x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/EA5XGHFQHJARRI66XZDL5HIQDY.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DiKr-opWsAANV1G.jpg"
+            },
+            {
+                "url": "http://ais.badische-zeitung.de/piece/09/36/d2/e2/154587874-h-720.jpg"
+            },
+            {
+                "url": "https://www.verkkouutiset.fi/wp-content/uploads/2018/07/45407455.jpg"
+            },
+            {
+                "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_554688468.jpg"
+            },
+            {
+                "url": "https://gdb.alhurra.eu/FF988BAA-8F6D-4B7B-95EF-AD9469960D62_w1200_r1_s.jpg"
+            },
+            {
+                "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6491355747-ci16x9-w1200/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+            },
+            {
+                "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+            },
+            {
+                "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=4x3&w=1024&$p$f$w=03f32f0"
+            },
+            {
+                "url": "https://ocdn.eu/ebooksimages-transforms/1/677ktoARGh0dHA6Ly9vY2RuLmV1L25ld3N3ZWVrLXdlYi9kYjAxYWNlOC1iYmU1LTQzZGEtODJkYy05NGY5ZmYxYjgyNzAuanBnkpMFzQSwzQJYlQfaAEFodHRwczovL29jZG4uZXUvbmV3c3dlZWstd2ViL2Q1NWUyMWJlOTg4NDZkNzg1NDY5MDgzYmQ3NGNlOGRlLnBuZwnCAA"
+            },
+            {
+                "url": "https://reseauinternational.net/wp-content/uploads/2018/07/NATO-summit1.jpeg"
+            },
+            {
+                "url": "https://www.verkkouutiset.fi/wp-content/uploads/2018/07/45407455-1118x629.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+            },
+            {
+                "url": "https://www.rp.pl/apps/pbcsi.dll/storyimage/RP/20180907/SWIAT/180909510/AR/0/AR-180909510.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/lesakerfrancophone.fr/wp-content/uploads/2018/07/NATO-summit.jpeg"
+            },
+            {
+                "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=dsr9NsBI9jF4Fji9Rhh88M$daE2N3K4ZzOUsqbU5sYtlytpii98QzQmKQUQX6o0m6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://gdb.alhurra.eu/FF988BAA-8F6D-4B7B-95EF-AD9469960D62_w1080_h608.jpg"
+            },
+            {
+                "url": "http://ais.badische-zeitung.de/piece/09/36/d2/e2/154587874.jpg"
+            },
+            {
+                "url": "https://dbstatic.no/70011884.jpg?imageId=70011884&width=1024&height=615"
+            },
+            {
+                "url": "https://scd.france24.com/en/files/imagecache/home_1024/article/image/12072018_nato_group.jpg"
+            },
+            {
+                "url": "https://gdb.alhurra.eu/FF988BAA-8F6D-4B7B-95EF-AD9469960D62_w1023_r1_s.jpg"
+            },
+            {
+                "url": "https://www.zerohedge.com/sites/default/files/inline-images/NATO-summit.jpeg"
+            },
+            {
+                "url": "http://www.deutschetageszeitung.de/images/article-auto/6a44326e3e688108ff37fd6eec79da046b92e19d_high.jpg"
+            },
+            {
+                "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_1970638775.jpg"
+            },
+            {
+                "url": "http://www.alghad.tv/wp-content/uploads/2018/07/trump11-1.jpg"
+            },
+            {
+                "url": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2018/07/13/Mondo/ImmaginiWeb/Ritagli/AFP_17I1EP-kmwG--835x437@IlSole24Ore-Web.jpg?uuid=940996aa-85b6-11e8-a1dc-efcc5a99de94"
+            },
+            {
+                "url": "http://www.paris-normandie.fr/binrepository/800x534/0c0/800d450/none/10904/OTOV/image_content_23932467_20180712204452.jpg"
+            },
+            {
+                "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=EbQAvHL2NqMDndEWw0nsyzy76rg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSeLKjoEtOdSkGlhJkcrG-GGGiSp7pUtLoNIUIzeWWfZOCbF4sbwQMwDttxctjaj42gNH1Ia3_ci8Tg6kKTi6bEZrdX1Y0OCgn2sDbIZHpHHsz6WfJH_v5OPpRX-5H4tFv6E5Z9vjGROhu3tg83lwk-Xmmqun1HwlZyKGJLEHnI1s3LHfqPfppjb7T_iKjvXvwshyKkqW_L_qFJpsj_26u4vaLUz-ohEowmmcRyDFLr-MlDCDbht41-me6Ge0NZzO5nrXtZCmPqOkq6ggbr5PJS0HxeXg"
+            },
+            {
+                "url": "https://img.aws.la-croix.com/2018/07/12/1200954648/Donald-Trump-poseses-homologues-somment-lOtan-Bruxelles-11-juillet_0_729_486.jpg"
+            },
+            {
+                "url": "https://avaz.ba/media/2018/07/12/648418/thumbs/873x400.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+            },
+            {
+                "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+            },
+            {
+                "url": "https://www.haaretz.com/polopoly_fs/1.6273550.1531731839!/image/1118789627.jpg_gen/derivatives/regular_640x370/1118789627.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Donald-Trump-1459625.jpg?r=1534260221285"
+            },
+            {
+                "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iab1nu_3PMhA/v5/640x-1.jpg"
+            },
+            {
+                "url": "http://allcharts.co.za/wp-content/uploads/2018/07/anti-ortega-protesters-in-nicaragua-launch-general-strike-10.jpg"
+            },
+            {
+                "url": "https://en.reseauinternational.net/wp-content/uploads/sites/2/2018/07/NATO-summit-550x400_c.jpeg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_2084490520.jpg"
+            },
+            {
+                "url": "https://www.rp.pl/storyimage/RP/20180907/SWIAT/180909510/AR/0/AR-180909510.jpg?minW=200&minH=200&exactW=600&exactH=351&exactFit=crop"
+            },
+            {
+                "url": "https://www.segodnya.ua/img/article/11540/95_ls.1531392976.jpg"
+            },
+            {
+                "url": "https://www.segodnya.ua/img/article/11540/95_main_new.1531392976.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/secondary/Nato-Donald-Trump-Angela-Merkel-1418284.jpg?r=1532539059059"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_2024461655.jpg"
+            },
+            {
+                "url": "https://t1.llb.be/_qJahTNVJemSHwfJKCFQdFVRMn0=/0x36:4500x2286/620x310/5b46faa1553269254807b25d.jpg"
+            },
+            {
+                "url": "https://www.rp.pl/storyimage/RP/20180907/SWIAT/180909510/AR/0/AR-180909510.jpg?minW=200&minH=200&exactW=600&exactH=315&exactFit=crop"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/LiQ-JxrISwc/hqdefault.jpg"
+            },
+            {
+                "url": "https://www.washingtonpost.com/resizer/ZQrkCsQNPUr2BXChzR3swqygnq8=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T4QLW2NLOQ2WFPIG2KVEDZW3AY.jpg"
+            },
+            {
+                "url": "https://www.washingtonpost.com/resizer/x2LeAbU-AuLGaH94YelJawu1XPg=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5YWJUU54I6RAHBADUA4H67IM.jpg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=r8_vcGI_VVRNd4BRj4ugsM$daE2N3K4ZzOUsqbU5sYsSycHq7hlly_mLfyD6q66u6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://spcdn.co/wp-content/uploads/2018/07/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%95-450x253.jpg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=iqcUwXaJJDb8gYFJL7AbRM$daE2N3K4ZzOUsqbU5sYvTBbTziW_IiSi6BMjDtZtM6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://avaz.ba/media/2018/07/12/648418/thumbs/240x225.jpg"
+            },
+            {
+                "url": "https://image.stern.de/8167538/16x9-300-169/9c1b30baf166166011109b0b4e0045e6/iu/12--natogipfel-vom-streit-um-finanzen-gepraegt---aeed69a06a19df8d.jpg"
+            },
+            {
+                "url": "https://www.informador.mx/__export/1531465904329/sites/elinformador/img/2018/07/13/topshots_x28039456x_crop1531465847930.jpg_1485763207.jpg"
+            },
+            {
+                "url": "https://scd.france24.com/fr/files_fr/imagecache/france24_ct_api_medium_169/article/image/12072018_nato_group.jpg"
+            },
+            {
+                "url": "https://img.aws.la-croix.com/2018/07/12/1200954648/Donald-Trump-poseses-homologues-somment-lOtan-Bruxelles-11-juillet_0_255_182.jpg"
+            },
+            {
+                "url": "http://conceptnewscentral.com/wordpress/wp-content/uploads/2018/07/20-2-696x392-218x150.jpg"
+            },
+            {
+                "url": "https://image.stern.de/8167538/16x9-220-124/9c1b30baf166166011109b0b4e0045e6/cu/12--natogipfel-vom-streit-um-finanzen-gepraegt---aeed69a06a19df8d.jpg"
+            },
+            {
+                "url": "https://img.aws.la-croix.com/2018/07/12/1200954648/Donald-Trump-poseses-homologues-somment-lOtan-Bruxelles-11-juillet_0_190_135.jpg"
+            },
+            {
+                "url": "https://www.elsoldemexico.com.mx/mundo/qp2wa2-trump-otan-2.jpg/ALTERNATES/LANDSCAPE_160/trump-otan-2.jpg"
+            },
+            {
+                "url": "https://www.segodnya.ua/img/article/11540/95_tn.1531392976.jpg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=NI_8nj3Uk0vDXIJsA$n4IM$daE2N3K4ZzOUsqbU5sYtvIexNezTK6GlaEoOvA$oe6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "http://img2.diena.lt/sites/default/files/styles/labai-maza/public/afp_17i1ep.jpg?itok=3j9yRXp3"
+            },
+            {
+                "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6491625747-ci23x11-w1280/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+            },
+            {
+                "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://abcnews.go.com/Politics/trumps-nato-claims-fact-check-friday/story?id=56564894",
+                "pageTitle": "<b>Trump&#39;s NATO</b> claims and more: WEEKLY FACT CHECK - ABC News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    },
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    },
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_1600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bloomberg.com/view/articles/2018-07-11/nato-s-real-crisis-is-turkey-not-trump",
+                "pageTitle": "<b>NATO&#39;s</b> Real Crisis Is Turkey, Not <b>Trump</b> - Bloomberg",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iab1nu_3PMhA/v5/640x-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.france24.com/en/20180712-nato-summit-trump-defence-spending-crisis-special-session",
+                "pageTitle": "After special session, <b>NATO</b> allies reaffirm spending commitments ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/home_1024/article/image/12072018_nato_group.jpg"
+                    },
+                    {
+                        "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+                    },
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thenational.ae/world/trump-hails-much-stronger-nato-after-allies-commit-to-spending-hike-1.749587",
+                "pageTitle": "<b>Trump</b> hails &#39;much stronger&#39; <b>Nato</b> after allies commit to spending ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+                    },
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.washingtonpost.com/opinions/nato-isnt-for-defending-montenegro/2018/07/31/420d3936-94d6-11e8-a679-b09212fb69c2_story.html",
+                "pageTitle": "<b>NATO&#39;s</b> purpose is to ensure we don&#39;t have to defend Montenegro ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/Rfa71SR53KL8KoAjJ5MZu1x8IIU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ATOVU6EU54I6RAHBADUA4H67IM.jpg"
+                    },
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/x2LeAbU-AuLGaH94YelJawu1XPg=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5YWJUU54I6RAHBADUA4H67IM.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.france24.com/en/20180711-usa-germany-nato-trump-merkel-summit-president-slams-pipeline-russia",
+                "pageTitle": "<b>Trump</b>, Merkel meet at <b>NATO</b> summit after US president slams ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/telegraph-nato-leaders-try-to-focus-on-afghanistan-and-ukraine-following-trump-row.html",
+                "pageTitle": "Telegraph: <b>NATO</b> leaders try to focus on Afghanistan and Ukraine ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haaretz.com/world-news/.premium-trump-and-putin-are-pulling-europe-apart-that-means-catastrophe-1.6273473",
+                "pageTitle": "In Helsinki, <b>Trump</b> and Putin just ripped Europe apart. The ... - Haaretz",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.haaretz.com/polopoly_fs/1.6273550.1531731839!/image/1118789627.jpg_gen/derivatives/regular_640x370/1118789627.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/politics/988072/nato-summit-2018-Donald-Trump-latest-news-Nato-countries-defence-Merkel-Germany",
+                "pageTitle": "NATO latest: Merkel ally SUPPORTS <b>Trump&#39;s NATO</b> comments ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/secondary/Nato-Donald-Trump-Angela-Merkel-1418284.jpg?r=1532539059059"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.france24.com/en/20180712-nato-summit-afghanistan-troops-trump",
+                "pageTitle": "<b>NATO</b> summit tries to move past transatlantic tensions - France 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2018/08/14/hundreds-of-scholars-have-signed-a-statement-defending-the-international-institutions-that-trump-has-attacked/",
+                "pageTitle": "Hundreds of scholars have signed a statement defending the ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/349-7IqBTRrmANzVeG5acBgzY2A=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCTNBL5LDU6PJFLAEQFLB3LELM.jpg"
+                    },
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/z_cNB8Q09vmoS2hrTgN_1hR0oOw=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T4QLW2NLOQ2WFPIG2KVEDZW3AY.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ednh.news/nato-summit-in-crisis-over-trump-spending-demands/",
+                "pageTitle": "<b>NATO</b> summit in crisis over <b>Trump</b> spending demands \u2013 European ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ednh.news/wp-content/uploads/2018/07/Brendan-Smialowski-Group-CROP-.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/nato-summit-keeps-open-door-policy-alive-for-ukraine.html",
+                "pageTitle": "<b>NATO</b> keeps open-door policy for Ukraine, condemns Russia&#39;s ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.france24.com/en/tag/nato/",
+                "pageTitle": "<b>NATO</b> - France 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/photos/nato?sort=mostpopular&mediatype=photography&phrase=nato",
+                "pageTitle": "<b>Nato</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://johnib.wordpress.com/2018/07/12/trump-criticism-on-defence-spending-prompt-special-session-at-nato-summit/",
+                "pageTitle": "<b>Trump</b> criticism on defence spending prompt special session at ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+                    },
+                    {
+                        "url": "http://img.youtube.com/vi/iwqCf4Jdv1Y/0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thenational.ae/world/merkel-rejects-trump-s-vision-for-trade-and-security-1.752402",
+                "pageTitle": "Merkel rejects <b>Trump&#39;s</b> vision for trade and security - The National",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=4x3&w=1024&$p$f$w=03f32f0"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/ukrinform-nato-leaders-deeply-concerned-by-use-of-torture-of-ukrainian-citizens-in-russia.html",
+                "pageTitle": "UkrInform: <b>NATO</b> leaders deeply concerned by use of torture of ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ca/photos/nato",
+                "pageTitle": "<b>Nato</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://hawthorncaller.com/trump-launches-blistering-attack-on-germany-at-nato-summit/",
+                "pageTitle": "<b>Trump</b> launches blistering attack on Germany at <b>Nato</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://hawthorncaller.com/wp-content/uploads/2018/07/7905.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://livenewscity.com/2018/07/trumps-nato-claims-and-more-weekly-fact-check/",
+                "pageTitle": "<b>Trump&#39;s NATO</b> claims and more: WEEKLY FACT CHECK ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/event/german-chancellor-angela-merkel-meets-jens-stoltenberg-775178100",
+                "pageTitle": "German Chancellor Angela Merkel Meets Jens Stoltenberg Stock ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://tecstar.info/info/nato-summit-trump-dismisses-dozens",
+                "pageTitle": "<b>Nato</b> Summit <b>Trump</b> Dismisses Dozens | Tecstar",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newsdeskreport.com/2018/07/trumps-nato-claims-and-more-weekly-fact-check/",
+                "pageTitle": "<b>Trump&#39;s NATO</b> claims and more: WEEKLY FACT CHECK | News ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/photos/secretary-general?page=2",
+                "pageTitle": "Secretary General Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.global.vidostream.com/videos/world/after-special-session-nato-allies-reaffirm-spending-commitments-176.html",
+                "pageTitle": "After special session, <b>NATO</b> allies reaffirm spending commitments",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.global.vidostream.com/uploads/videos/img/2018_07/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tecstar.info/info/todays-nato-summit-sounded",
+                "pageTitle": "Todays <b>Nato</b> Summit Sounded | Tecstar",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+                    }
+                ]
+            },
+            {
+                "url": "https://orientalreview.org/2018/07/20/the-eu-has-been-americas-foe-since-the-end-of-the-old-cold-war/",
+                "pageTitle": "The EU Has Been America&#39;s \u201cFoe\u201d Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://johnib.wordpress.com/2018/07/12/nato-summit-focus-shifts-to-afghanistan/",
+                "pageTitle": "<b>NATO</b> summit focus shifts to Afghanistan | Peace and Freedom",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/iwqCf4Jdv1Y/sddefault.jpg#404_is_fine"
+                    }
+                ]
+            },
+            {
+                "url": "https://glblgeopolitics.wordpress.com/tag/nato/",
+                "pageTitle": "<b>NATO</b> | Global Geopolitics",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://asnlive.in/nato-summit-after-donald-trumps-demands-nato-leaders-try-to-focus-on-afghanistan-and-ukraine/",
+                "pageTitle": "<b>NATO</b> Summit: After Donald <b>Trump&#39;s</b> Demands, <b>NATO</b> Leaders Try ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://asnlive.in/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zerohedge.com/news/2018-07-20/eu-has-been-americas-foe-end-old-cold-war",
+                "pageTitle": "The EU Has Been America&#39;s &quot;Foe&quot; Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.zerohedge.com/sites/default/files/inline-images/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://luxtimes.lu/world/34443-trump-calls-eu-a-us-foe",
+                "pageTitle": "Luxembourg Times - World - <b>Trump</b> calls EU a US &#39;foe&#39;",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://luwo-ldocs-prod.imgix.net/2018/7/16/6758b5c1-d509-41be-ad89-76c15f0464c5.jpeg?w=1024&auto=format"
+                    }
+                ]
+            },
+            {
+                "url": "http://tribune.net.ph/index.php/2018/07/13/nato-members-to-hike-defense-spending/",
+                "pageTitle": "<b>NATO</b> members to hike defense spending | Daily Tribune",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tribune.net.ph/wp-content/uploads/2018/07/20-2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/detail/news-photo/german-minister-of-foreign-affairs-heiko-maas-visits-the-news-photo/956921490",
+                "pageTitle": "German Foreign Minister Heiko Maas In Moscow Pictures | Getty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "http://ag.worldpronews.com/71990/1188/0/4c4e94579b1d469f306e8eb80df2b227595a6b1e",
+                "pageTitle": "Viewing Europe feeds ~ World Professional News",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://scd.france24.com/en/files/imagecache/home_1024/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://faltugiri.com/trumps-nato-claims-and-more-weekly-fact-check/",
+                "pageTitle": "<b>Trump&#39;s NATO</b> claims and more: WEEKLY FACT CHECK \u2013 Fashion ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ae/detail/news-photo/dpatop-german-foreign-affairs-minister-heiko-maas-descends-news-photo/980763286",
+                "pageTitle": "German Foreign Affairs Minister Heiko Maas visits Poland Pictures ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.anayemeni.net/show2722894.html",
+                "pageTitle": "<b>Trump</b> attacks on defence spending prompt special session at <b>NATO</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/home_1024/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://anayemeni.net/show2722894.html",
+                "pageTitle": "<b>Trump</b> attacks on defence spending prompt special session at <b>NATO</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/home_1024/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zerohedge.com/news/2018-07-20/eu-has-been-americas-foe-end-old-cold-war?sort_by=thread&sort_order=ASC&items_per_page=50&page=0%2C0%2C0%2C0%2C0%2C0%2C0%2C0%2C1",
+                "pageTitle": "The EU Has Been America&#39;s &quot;Foe&quot; Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.zerohedge.com/sites/default/files/inline-images/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://glblgeopolitics.wordpress.com/2018/07/23/the-eu-has-been-americas-foe-since-the-end-of-the-old-cold-war/",
+                "pageTitle": "The EU Has Been America&#39;s \u201cFoe\u201d Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.at/detail/nachrichtenfoto/angelina-jolie-pictured-with-jens-stoltenberg-during-nachrichtenfoto/912598674",
+                "pageTitle": "Angelina Jolie meets Jens Stoltenberg at <b>NATO</b> headquarters in ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.politicalert.com/what-to-expect-as-the-house-heads-toward-an-immigration-showdown/",
+                "pageTitle": "What to Expect as the House Heads Toward an Immigration ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ch/detail/nachrichtenfoto/german-chancellor-angela-merkel-poses-for-a-photo-with-nachrichtenfoto/966634386",
+                "pageTitle": "German Chancellor Angela Merkel (C) poses for a photo with the ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.reseauinternational.net/the-eu-has-been-americas-foe-since-the-end-of-the-old-cold-war/",
+                "pageTitle": "The EU Has Been America&#39;s \u201cFoe\u201d Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://en.reseauinternational.net/wp-content/uploads/sites/2/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://gotteamdesigns.com/post/should-stop-berating-nato-allies",
+                "pageTitle": "Should Stop Berating <b>Nato</b> Allies - GotTeamDesigns",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_1600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://heavy-square.download/todays-nato-summit-sounded.htm",
+                "pageTitle": "Todays <b>Nato</b> Summit Sounded - Heavy Square",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ch/detail/nachrichtenfoto/july-2018-germany-bayreuth-german-chancellor-angela-nachrichtenfoto/1005196750",
+                "pageTitle": "Bayreuth Festival 2018 Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.ch/detail/nachrichtenfoto/lebanese-prime-minister-saad-hariri-receives-german-nachrichtenfoto/980481528",
+                "pageTitle": "Lebanese Prime Minister Saad Hariri (L) receives German ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.therussophile.org/the-eu-has-been-americas-foe-since-the-end-of-the-old-cold-war-2.html/",
+                "pageTitle": "The EU Has Been America&#39;s &quot;Foe&quot; Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.therussophile.org/wp-content/uploads/2018/07/NATO-summit-2.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thenational.ae/world/climate-change-threatens-continuation-of-nomad-life-in-turkey-1.211628?videoId=5587698090001",
+                "pageTitle": "Climate change threatens continuation of nomad life in Turkey - The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=4x3&w=1024&$p$f$w=03f32f0"
+                    }
+                ]
+            },
+            {
+                "url": "http://half-pencil.loan/peek/nato-leaders-summit-scheduled",
+                "pageTitle": "<b>Nato</b> Leaders Summit Scheduled - Half Pencil",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+                    }
+                ]
+            },
+            {
+                "url": "http://tecstar.info/info/she-reiterated-germanys-commitment",
+                "pageTitle": "She Reiterated Germanys Commitment | Tecstar",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oror.info/i/nato-summit-trumps-claim",
+                "pageTitle": "<b>Nato</b> Summit <b>Trumps</b> Claim | OROR",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thenational.ae/business/emirates-and-etihad-to-have-two-in-the-cockpit-at-all-times-1.4648?videoId=5594734385001",
+                "pageTitle": "Emirates and Etihad to have two in the cockpit at all times - The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=4x3&w=1024&$p$f$w=03f32f0"
+                    }
+                ]
+            },
+            {
+                "url": "http://clubrecepata.info/i/bloomberg-nato-defence-spending-hike",
+                "pageTitle": "Bloomberg <b>Nato</b> Defence Spending Hike \u2013 Club Receipts",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.politicalert.com/white-house-returns-flag-to-full-staff-less-than-48-hours-after-john-mccains-death/",
+                "pageTitle": "White House returns flag to full-staff less than 48 hours after John ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.reseauinternational.net/italy-non-performing-loans-hit-a-new-record-high/",
+                "pageTitle": "Italy \u2013 Non-Performing Loans Hit a New Record High | R\u00e9seau ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://en.reseauinternational.net/wp-content/uploads/sites/2/2018/07/NATO-summit-550x400_c.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cryptonews.bizlim.com/news/the-eu-has-been-america-s-foe-since-the-end-of-the-old-cold-war?uid=67512",
+                "pageTitle": "The EU Has Been America&#39;s &quot;Foe&quot; Since The End Of The Old Cold ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.zerohedge.com/sites/default/files/inline-images/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://conceptnewscentral.com/index.php/2017/11/09/xi-tells-trump-chinese-descendants-dragon/",
+                "pageTitle": "Xi tells <b>Trump</b>: Chinese are descendants of dragon | Concept News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://conceptnewscentral.com/wordpress/wp-content/uploads/2018/07/20-2-696x392-218x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/1003025/Vladimir-Putin-Angela-Merkel-meeting-Germany-Schloss-Meseberg-Ukraine-Crimea-Nord-Stream-2",
+                "pageTitle": "Vladimir Putin-Angela Merkel meeting: World leaders to hold crunch ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Donald-Trump-1459625.jpg?r=1534260221285"
+                    }
+                ]
+            },
+            {
+                "url": "http://conceptnewscentral.com/index.php/2018/05/03/grace-under-fire-melania-trump-keeps-poise-amid-issues-surrounding-trumps-presidency/",
+                "pageTitle": "GRACE UNDER FIRE | Melania keeps poise amid issues ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://conceptnewscentral.com/wordpress/wp-content/uploads/2018/07/20-2-696x392-218x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://conceptnewscentral.com/index.php/2016/11/15/los-angeles-police-chief-unwilling-enforce-trump-deportation-plans/",
+                "pageTitle": "Los Angeles police chief unwilling to enforce <b>Trump</b> deportation plans",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://conceptnewscentral.com/wordpress/wp-content/uploads/2018/07/20-2-696x392-218x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://conceptnewscentral.com/index.php/2016/08/08/hillary-unhinged-trump-nut/",
+                "pageTitle": "Hillary &#39;unhinged,&#39; <b>Trump</b> a &#39;nut&#39; | Concept News Central",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://conceptnewscentral.com/wordpress/wp-content/uploads/2018/07/20-2-696x392-218x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://18plusadultwebcamjobs.com/todays-nato-summit-sounded.html",
+                "pageTitle": "Todays <b>Nato</b> Summit Sounded \u2013 18+ adult webcam jobs",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://viralmount.com/2018/07/21/the-eu-has-been-americas-foe-considering-the-fact-that-the-finish-of-the-previous-chilly-war/",
+                "pageTitle": "The EU Has Been America&#39;s \u201cFoe\u201d Considering the fact that The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://viralmount.com/wp-content/uploads/2018/07/the-eu-has-been-americas-foe-since-the-end-of-the-old-cold-war.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hesed.info/blog/nato-2018.abp",
+                "pageTitle": "<b>Nato</b> 2018 - Hesed.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://puntoritiro.info/post/defense-costs-nato-summit-live-updates",
+                "pageTitle": "Defense Costs <b>Nato</b> Summit Live Updates \u2013 Puntoritiro",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://asnlive.in/category/news/page/188/",
+                "pageTitle": "News \u2013 Page 188 - ASN LIVE",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://asnlive.in/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://naturtreenspicerx.pw/I-want-you-for-Nato-PROPAGANDA-t.html",
+                "pageTitle": "I want you for <b>Nato</b> PROPAGANDA t",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://asnlive.in/category/international/page/30/",
+                "pageTitle": "International \u2013 Page 30 - ASN LIVE",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://asnlive.in/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://orastie.info/publications/keywords/nato-2018.html",
+                "pageTitle": "<b>Nato</b> 2018 - orastie.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hesed.info/blog/nato-2018-summit.abp",
+                "pageTitle": "<b>Nato</b> 2018 Summit - Hesed.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://asnlive.in/category/news/page/178/",
+                "pageTitle": "News \u2013 Page 178 - ASN LIVE",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://asnlive.in/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://london.web2ua.com/giant-trump-baby-hovers-over-london-as-carnival-of-resistance-kicks-off-france-24-2685/",
+                "pageTitle": "Giant <b>Trump</b> baby hovers over London as &#39;Carnival of Resistance ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.web2ua.com/london/2018/07/13/giant-trump-baby-hovers-over-london-as-c-11.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tricitiesinsight.net/pics/13-jul-2-buy-trump",
+                "pageTitle": "13 Jul 2 Buy <b>Trump</b> \u2014 Tricitiesinsight",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hpssociety.info/news/nato-2018.html",
+                "pageTitle": "<b>Nato</b> 2018 | giftsforsubs - Hpssociety.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://orientalreview.org/wp-content/uploads/2018/07/NATO-summit.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vaaju.com/morroco/united-kingdom-carnival-of-contestation-to-welcome-donald-trump/",
+                "pageTitle": "United Kingdom: &quot;Carnival of Contestation&quot; to welcome Donald <b>Trump</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scd.france24.com/fr/files_fr/imagecache/france24_large_652_338/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://address-db.info/leaders-trump-hails-ties",
+                "pageTitle": "Leaders <b>Trump</b> Hails Ties - Address DB",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.thenational.ae/image/policy:1.749586:1531390737/wo13-nato.jpg?f=16x9&w=1200&$p$f$w=1b7b438"
+                    }
+                ]
+            },
+            {
+                "url": "https://allcharts.co.za/giant-trump-baby-blimp-hovers-over-london-in-carnival-of-resistance/",
+                "pageTitle": "Giant <b>Trump</b> baby blimp hovers over London in ... - Allcharts.co.za",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://allcharts.co.za/wp-content/uploads/2018/07/giant-trump-baby-blimp-hovers-over-london-in-carnival-of-resistance-9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://allcharts.co.za/giant-trump-baby-flies-over-london-in-carnival-of-resistance/",
+                "pageTitle": "Giant <b>Trump</b> baby flies over London in &#39;Carnival of ... - Allcharts.co.za",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://allcharts.co.za/wp-content/uploads/2018/07/giant-trump-baby-flies-over-london-in-carnival-of-resistance-9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://stratadime.com/i/daily-mail-online-ap-fact-check",
+                "pageTitle": "Daily Mail Online Ap Fact Check | Stratadime",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://stratadime.com/i/fox-news-marc-thiessens-defense",
+                "pageTitle": "Fox News Marc Thiessens Defense | Stratadime",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/x2LeAbU-AuLGaH94YelJawu1XPg=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BE5YWJUU54I6RAHBADUA4H67IM.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://allcharts.co.za/anti-ortega-protesters-in-nicaragua-launch-general-strike/",
+                "pageTitle": "Anti-Ortega protesters in Nicaragua launch general ... - Allcharts.co.za",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://allcharts.co.za/wp-content/uploads/2018/07/anti-ortega-protesters-in-nicaragua-launch-general-strike-10.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://allcharts.co.za/after-special-session-nato-allies-reaffirm-spending-commitments/",
+                "pageTitle": "After special session, <b>NATO</b> allies reaffirm spending ... - Allcharts.co.za",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://allcharts.co.za/wp-content/uploads/2018/07/after-special-session-nato-allies-reaffirm-spending-commitments-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://f24.my/1PQR.t",
+                "pageTitle": "Flash - Helicopter hurled grenades at Venezuela Supreme Court ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://scd.france24.com/en/files/imagecache/france24_large_652_338/article/image/12072018_nato_group.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mynextcar.info/pics/backing-fact-checking-donald-trumps",
+                "pageTitle": "Backing Fact Checking Donald <b>Trumps</b> - Mynextcar",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://puntoritiro.info/post/daily-mail-online-ap-fact-check",
+                "pageTitle": "Daily Mail Online Ap Fact Check \u2013 Puntoritiro",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_12x5_992.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/discuss-trumps-strategy-hundreds",
+                "pageTitle": "Discuss <b>Trumps</b> Strategy Hundreds - DBSecurity",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/349-7IqBTRrmANzVeG5acBgzY2A=/480x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCTNBL5LDU6PJFLAEQFLB3LELM.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://morristowncab.info/post/belar-russia-denounces-ukraines",
+                "pageTitle": "Belar Russia Denounces Ukraines - Morristowncab",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/07/Trump-and-leaders-pose.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ilsole24ore.com/art/mondo/2018-07-12/trump-alza-tensione-e-accusa-alleati-ma-smentita-minaccia-uscire-nato-112731.shtml?uuid=AEj6JpKF",
+                "pageTitle": "<b>Nato</b>, <b>Trump</b> minaccia gli alleati poi esulta: Germania aumenter\u00e0 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.res.24o.it/images2010/Editrice/ILSOLE24ORE/ILSOLE24ORE/2018/07/13/Mondo/ImmaginiWeb/Ritagli/AFP_17I1EP-kmwG--835x437@IlSole24Ore-Web.jpg?uuid=940996aa-85b6-11e8-a1dc-efcc5a99de94"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dagbladet.no/nyheter/stoltenberg-mener-trumps-utbrudd-gjor-nato-sterkere/70011859",
+                "pageTitle": "<b>Nato</b>-toppm\u00f8tet - Stoltenberg mener <b>Trumps</b> utbrudd gj\u00f8r <b>Nato</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://dbstatic.no/70011884.jpg?imageId=70011884&width=1024&height=615"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/nato-gipfel--donald-trump-macht-sich-die-welt--wie-sie-ihm-gefaellt-8167550.html",
+                "pageTitle": "<b>Nato</b>-Gipfel: Donald <b>Trump</b> macht sich die Welt, wie sie ihm gef\u00e4llt ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8167538/16x9-220-124/9c1b30baf166166011109b0b4e0045e6/cu/12--natogipfel-vom-streit-um-finanzen-gepraegt---aeed69a06a19df8d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.welt.de/newsticker/news1/article179241762/Aussenhandel-Trump-zwingt-Nato-Gipfel-im-Streit-um-Militaerbudgets-zu-Sondersitzung.html",
+                "pageTitle": "Au\u00dfenhandel: <b>Trump</b> zwingt <b>Nato</b>-Gipfel im Streit um Milit\u00e4rbudgets ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6491355747-ci16x9-w1200/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+                    },
+                    {
+                        "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6492505747-ci102l-w1024/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+                    },
+                    {
+                        "url": "https://www.welt.de/img/newsticker/news1/mobile179241760/6491625747-ci23x11-w1280/Nato-Gipfel-vom-Streit-um-Finanzen-gepraegt.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.deutschetageszeitung.de/politik/37179-trump-zwingt-nato-gipfel-im-streit-um-militaerbudgets-zu-sondersitzung.html",
+                "pageTitle": "<b>Trump</b> zwingt <b>Nato</b>-Gipfel im Streit um Milit\u00e4rbudgets zu Sondersitzung",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.deutschetageszeitung.de/images/article-auto/6a44326e3e688108ff37fd6eec79da046b92e19d_high.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.co.uk/photos/nato",
+                "pageTitle": "<b>Nato</b> Pictures and Photos | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/politik/ausland/themen/nato-gipfel-6404364.html",
+                "pageTitle": "<b>Nato</b>-Gipfel | STERN.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8167538/16x9-300-169/9c1b30baf166166011109b0b4e0045e6/iu/12--natogipfel-vom-streit-um-finanzen-gepraegt---aeed69a06a19df8d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stern.de/panorama/themen/verteidigungsausgabe-6938746.html",
+                "pageTitle": "Verteidigungsausgabe | STERN.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.stern.de/8167538/16x9-300-169/9c1b30baf166166011109b0b4e0045e6/iu/12--natogipfel-vom-streit-um-finanzen-gepraegt---aeed69a06a19df8d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.pt/fotos/nato",
+                "pageTitle": "<b>Nato</b> Imagens e fotografias | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/president-donald-trump-poses-with-germanys-chancellor-angela-merkel-picture-id996419162?s=612x612"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://s.abcnews.com/images/Politics/trump-nato-world-leaders-gty-jc-180713_hpMain_16x9_1600.jpg"
+            },
+            {
+                "url": "https://images.axios.com/49NlYYJlo9SSjigPwv_KYI-HEig=/0x0:4921x2768/1920x1080/2018/07/12/1531392037168.jpg"
+            },
+            {
+                "url": "https://images.follownews.com/7860/7860087/trump-undermines-nato-by-suggesting-aggressive-montenegro-may-attack-russia-to-start-world-war-iii_1.jpg"
+            },
+            {
+                "url": "http://www.ejinsight.com/wp-content/uploads/2018/07/1888490_11314ee72d2278c01cccf4062b368d91-692x360.jpg"
+            },
+            {
+                "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/07/11/640/360/694940094001_5808145443001_5808152526001-vs.jpg"
+            },
+            {
+                "url": "https://s.yimg.com/ny/api/res/1.2/_vewdcAR6WYrPSQZ9PsT3Q--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/popsugar_us_649/c22ee0e3945156ca871fee696da3bc99"
+            },
+            {
+                "url": "https://cdn.cnn.com/cnnnext/dam/assets/170525125642-01-nato-summit-0525-super-169.jpg"
+            },
+            {
+                "url": "https://firenewsfeed.com/image/728x410/aHR0cHM6Ly9jZG5waC51cGkuY29tL3BoL3N0L3RoLzM0NjE1MzEzMDU2OTgvMjAxOC91cGlfY29tL2UzODQ2YTdlNWUyZmU2ZTUwYzlkMTYwMTRhYTE3ZDQ2L3YxLjUvVHJ1bXAtY2FsbHMtZm9yLWFsbGllcy10by1zcGVuZC1tb3JlLW9uLWRlZmVuc2UtYXQtTkFUTy1zdW1taXQuanBn"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "trump nato",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.95641017,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.860343,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.99495107,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.99495107,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.860343,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8909144,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.50081354,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.68106884,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.68106884,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.50081354,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.8862586,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.34857827,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.49824527,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.49824527,
+                        "y": 0.8698207
+                    },
+                    {
+                        "x": 0.34857827,
+                        "y": 0.8698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.87812585,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6711665,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.81518644,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.81518644,
+                        "y": 0.8698207
+                    },
+                    {
+                        "x": 0.6711665,
+                        "y": 0.8698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.8316631,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.17587237,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.31895116,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.31895116,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.17587237,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.81693935,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6711665,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.81518644,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.81518644,
+                        "y": 0.8698207
+                    },
+                    {
+                        "x": 0.6711665,
+                        "y": 0.8698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7688793,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.50081354,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.68106884,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.68106884,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.50081354,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.74835783,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.860343,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.99495107,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.99495107,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.860343,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.67444724,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.008813549,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.1415394,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.1415394,
+                        "y": 0.8698207
+                    },
+                    {
+                        "x": 0.008813549,
+                        "y": 0.8698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6597572,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.18210271,
+                        "y": 0.25968093
+                    },
+                    {
+                        "x": 0.36989728,
+                        "y": 0.25968093
+                    },
+                    {
+                        "x": 0.36989728,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.18210271,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.542713,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8051616
+                    },
+                    {
+                        "x": 0.9698974
+                    },
+                    {
+                        "x": 0.9698974,
+                        "y": 0.7309074
+                    },
+                    {
+                        "x": 0.8051616,
+                        "y": 0.7309074
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.5230287,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.008813549,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.1415394,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.1415394,
+                        "y": 0.8698207
+                    },
+                    {
+                        "x": 0.008813549,
+                        "y": 0.8698207
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,855 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 378,
+                        "y": 44
+                    },
+                    {
+                        "x": 556,
+                        "y": 44
+                    },
+                    {
+                        "x": 556,
+                        "y": 251
+                    },
+                    {
+                        "x": 378,
+                        "y": 251
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 419,
+                        "y": 95
+                    },
+                    {
+                        "x": 546,
+                        "y": 95
+                    },
+                    {
+                        "x": 546,
+                        "y": 222
+                    },
+                    {
+                        "x": 419,
+                        "y": 222
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 466.21118,
+                        "y": 135.42236,
+                        "z": -0.00043162098
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 510.62762,
+                        "y": 134.20697,
+                        "z": 25.342897
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 446.4579,
+                        "y": 123.78969,
+                        "z": -4.8839517
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 483.323,
+                        "y": 123.36506,
+                        "z": -2.7548141
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 505.74463,
+                        "y": 122.049545,
+                        "z": 10.19023
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 526.38763,
+                        "y": 121.97203,
+                        "z": 39.61788
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 495.70465,
+                        "y": 134.18831,
+                        "z": 2.8445842
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 503.85605,
+                        "y": 165.69019,
+                        "z": -11.674095
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 496.4905,
+                        "y": 186.57716,
+                        "z": -0.35637972
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 495.6296,
+                        "y": 204.49182,
+                        "z": 2.8799284
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 472.2441,
+                        "y": 194.18367,
+                        "z": 1.8249841
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 508.15363,
+                        "y": 194.16266,
+                        "z": 22.248232
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 494.42194,
+                        "y": 194.03261,
+                        "z": 3.109328
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 506.547,
+                        "y": 169.39784,
+                        "z": 14.076567
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 480.62775,
+                        "y": 168.75865,
+                        "z": -0.43077865
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 497.76477,
+                        "y": 174.59825,
+                        "z": -0.5883621
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 466.89575,
+                        "y": 132.38885,
+                        "z": -3.5655932
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 476.4308,
+                        "y": 136.93909,
+                        "z": 5.3727136
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 466.0218,
+                        "y": 139.67087,
+                        "z": -0.8013392
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 453.30707,
+                        "y": 136.79294,
+                        "z": -1.3368416
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 465.08148,
+                        "y": 136.31592,
+                        "z": -2.0525668
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 514.7914,
+                        "y": 131.29474,
+                        "z": 23.176329
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 520.1459,
+                        "y": 135.26271,
+                        "z": 35.9145
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 511.68185,
+                        "y": 138.35834,
+                        "z": 25.621092
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 502.4153,
+                        "y": 136.20833,
+                        "z": 20.88644
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 514.3003,
+                        "y": 135.19896,
+                        "z": 25.40068
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 465.82498,
+                        "y": 116.50641,
+                        "z": -6.970846
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 517.8362,
+                        "y": 115.29118,
+                        "z": 22.02305
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 408.81845,
+                        "y": 166.3833,
+                        "z": 39.514427
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 511.408,
+                        "y": 163.6261,
+                        "z": 100.82958
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 495.12677,
+                        "y": 121.65643,
+                        "z": 1.8943359
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 493.68796,
+                        "y": 229.45625,
+                        "z": 9.322456
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 424.51544,
+                        "y": 200.89362,
+                        "z": 23.504255
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 518.4583,
+                        "y": 198.385,
+                        "z": 76.294136
+                    }
+                }
+            ],
+            "rollAngle": -1.6538942,
+            "panAngle": 29.120037,
+            "tiltAngle": 0.6374383,
+            "detectionConfidence": 0.99997365,
+            "landmarkingConfidence": 0.6938446,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 25,
+                        "green": 20,
+                        "blue": 21
+                    },
+                    "score": 0.19942175,
+                    "pixelFraction": 0.23111111
+                },
+                {
+                    "color": {
+                        "red": 41,
+                        "green": 45,
+                        "blue": 67
+                    },
+                    "score": 0.19185814,
+                    "pixelFraction": 0.08787037
+                },
+                {
+                    "color": {
+                        "red": 235,
+                        "green": 234,
+                        "blue": 236
+                    },
+                    "score": 0.11383542,
+                    "pixelFraction": 0.17333333
+                },
+                {
+                    "color": {
+                        "red": 177,
+                        "green": 155,
+                        "blue": 135
+                    },
+                    "score": 0.030688489,
+                    "pixelFraction": 0.024814814
+                },
+                {
+                    "color": {
+                        "red": 75,
+                        "green": 44,
+                        "blue": 29
+                    },
+                    "score": 0.022069866,
+                    "pixelFraction": 0.012222222
+                },
+                {
+                    "color": {
+                        "red": 74,
+                        "green": 80,
+                        "blue": 112
+                    },
+                    "score": 0.116691165,
+                    "pixelFraction": 0.05425926
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 48,
+                        "blue": 51
+                    },
+                    "score": 0.057043,
+                    "pixelFraction": 0.051203705
+                },
+                {
+                    "color": {
+                        "red": 26,
+                        "green": 31,
+                        "blue": 50
+                    },
+                    "score": 0.045009796,
+                    "pixelFraction": 0.021388888
+                },
+                {
+                    "color": {
+                        "red": 203,
+                        "green": 195,
+                        "blue": 191
+                    },
+                    "score": 0.034352865,
+                    "pixelFraction": 0.037962962
+                },
+                {
+                    "color": {
+                        "red": 88,
+                        "green": 79,
+                        "blue": 81
+                    },
+                    "score": 0.029398799,
+                    "pixelFraction": 0.029351851
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 589
+                        },
+                        {
+                            "x": 589,
+                            "y": 349
+                        },
+                        {
+                            "y": 349
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 1.02
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/027x630",
+                "score": 0.719,
+                "description": "Islamic State of Iraq and the Levant"
+            },
+            {
+                "entityId": "/m/0gmfmt4",
+                "score": 0.705,
+                "description": "Jihadism"
+            },
+            {
+                "entityId": "/m/0flw86",
+                "score": 0.6263,
+                "description": "Islam"
+            },
+            {
+                "entityId": "/m/03qcclk",
+                "score": 0.4966,
+                "description": "Islamic extremism"
+            },
+            {
+                "entityId": "/m/0ytgt",
+                "score": 0.4892,
+                "description": "Child"
+            },
+            {
+                "entityId": "/m/06vbd",
+                "score": 0.4494,
+                "description": "Syria"
+            },
+            {
+                "entityId": "/t/24mypdx4svpvn",
+                "score": 0.4471
+            },
+            {
+                "entityId": "/m/07v2k4",
+                "score": 0.4411,
+                "description": "Islamic state"
+            },
+            {
+                "entityId": "/m/07jq_",
+                "score": 0.4254,
+                "description": "Terrorism"
+            },
+            {
+                "entityId": "/m/02qs3j",
+                "score": 0.4026,
+                "description": "Islamic terrorism"
+            },
+            {
+                "entityId": "/g/11bxdt174q",
+                "score": 0.3611,
+                "description": "Islamic Military Counter Terrorism Coalition"
+            },
+            {
+                "entityId": "/t/24ymcsd_h05cj",
+                "score": 0.3581
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.3387
+            },
+            {
+                "entityId": "/m/03bt1vf",
+                "score": 0.2976,
+                "description": "Woman"
+            },
+            {
+                "entityId": "/m/03cy10y",
+                "score": 0.048135,
+                "description": "Loretta Napoleoni"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/750x445/812279.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://images.newscientist.com/wp-content/uploads/2014/09/mg22329861.700-1_800.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/ISIS-708351.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/285x214/812279_1.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/183x122/690364_1.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.newscientist.com/article/mg22329861-700-why-westerners-are-driven-to-join-the-jihadist-fight/",
+                "pageTitle": "Why Westerners are driven to join the jihadist fight | New Scientist",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.newscientist.com/wp-content/uploads/2014/09/mg22329861.700-1_800.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/708351/paedophile-ISIS-jihadis-threaten-children-with-rape-force-fight-Syria",
+                "pageTitle": "Paedophile ISIS jihadis threaten children with RAPE to force them to ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/ISIS-708351.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/780019/terrorist-killed-bangladesh-islamic-state-isis-shootout-dhaka-attack",
+                "pageTitle": "Four suspected <b>Islamic</b> State terrorist killed in Bangladesh | World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/183x122/690364_1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/812279/nato-islamic-state-alliance-united-states-donald-trump-germany",
+                "pageTitle": "NATO joins forces in fight against ISIS - but it&#39;s branded as ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/750x445/812279.jpg"
+                    },
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    },
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/285x214/812279_1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/695100/journalist-police-jail-Bangladesh-Shafik-Rehman-taxpayer-UK",
+                "pageTitle": "Elderly British journalist CAGED by controversial Bangladeshi police ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/183x122/690364_1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/islamic-drunk-leader-fighting-newspictures-5a.html",
+                "pageTitle": "<b>Islamic</b> Drunk Leader Fighting Newspictures | www.picturesboss.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/drunk-punch-leader-fighting-newspictures-4c.html",
+                "pageTitle": "Drunk Punch Leader Fighting Newspictures | www.picturesboss.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/drunk-leader-fighting-newspictures-41.html",
+                "pageTitle": "Drunk Leader Fighting Newspictures | www.picturesboss.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/photographer-drunk-leader-fighting-newspictures-e5.html",
+                "pageTitle": "Photographer Drunk Leader Fighting Newspictures | www ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dsrmedias.com/world-news/paedophile-isis-jihadis-threaten-children-rape-force-them-fight",
+                "pageTitle": "Paedophile ISIS jihadis threaten children with RAPE to force them to ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://dsrmedias.com/sites/default/files/field/image/Actor-Raghava-Lawrence3_2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sdjnnews.co/i/express-islamic-military-counter-terrorism-coalition",
+                "pageTitle": "Express <b>Islamic</b> Military Counter Terrorism Coalition \u2014 Sdjnnews",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/NATO-ISIS-812279.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tarifsmedias.com/hardline-sunni-jihadist-group.aspx",
+                "pageTitle": "Hardline Sunni Jihadist Group \u2014 Tarifsmedias",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.newscientist.com/wp-content/uploads/2014/09/mg22329861.700-1_800.jpg"
+                    }
+                ]
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "islamist phoenix als ebook von loretta napoleoni",
+                "languageCode": "de"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.98364884,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.9972301,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.9972301,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.97603387,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.00090098754,
+                        "y": 0.3613314
+                    },
+                    {
+                        "x": 0.24804017,
+                        "y": 0.3613314
+                    },
+                    {
+                        "x": 0.24804017,
+                        "y": 0.99725693
+                    },
+                    {
+                        "x": 0.00090098754,
+                        "y": 0.99725693
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.93655133,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.9972301,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.9972301,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0jyfg",
+            "name": "Glasses",
+            "score": 0.806019,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.692547,
+                        "y": 0.34005675
+                    },
+                    {
+                        "x": 0.90844387,
+                        "y": 0.34005675
+                    },
+                    {
+                        "x": 0.90844387,
+                        "y": 0.45176986
+                    },
+                    {
+                        "x": 0.692547,
+                        "y": 0.45176986
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01rkbr",
+            "name": "Tie",
+            "score": 0.67459226,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7301249,
+                        "y": 0.76447266
+                    },
+                    {
+                        "x": 0.83477914,
+                        "y": 0.76447266
+                    },
+                    {
+                        "x": 0.83477914,
+                        "y": 0.99684006
+                    },
+                    {
+                        "x": 0.7301249,
+                        "y": 0.99684006
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04szw",
+            "name": "Musical instrument",
+            "score": 0.63413715,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.015000018,
+                        "y": 0.27617648
+                    },
+                    {
+                        "x": 0.4678235,
+                        "y": 0.27617648
+                    },
+                    {
+                        "x": 0.4678235,
+                        "y": 0.785
+                    },
+                    {
+                        "x": 0.015000018,
+                        "y": 0.785
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.62511265,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.25469592,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.40953943,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.40953943,
+                        "y": 0.9698206
+                    },
+                    {
+                        "x": 0.25469592,
+                        "y": 0.9698206
+                    }
+                ]
+            }
+        }
+    ]
+}

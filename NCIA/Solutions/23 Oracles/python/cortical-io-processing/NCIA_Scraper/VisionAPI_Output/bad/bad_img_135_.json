@@ -1,0 +1,806 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 184,
+                        "y": 3
+                    },
+                    {
+                        "x": 314,
+                        "y": 3
+                    },
+                    {
+                        "x": 314,
+                        "y": 154
+                    },
+                    {
+                        "x": 184,
+                        "y": 154
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 199,
+                        "y": 40
+                    },
+                    {
+                        "x": 295,
+                        "y": 40
+                    },
+                    {
+                        "x": 295,
+                        "y": 135
+                    },
+                    {
+                        "x": 199,
+                        "y": 135
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 226.84694,
+                        "y": 69.8394,
+                        "z": -0.00079577824
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 268.29214,
+                        "y": 69.85873,
+                        "z": -1.3228084
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 214.6956,
+                        "y": 62.30439,
+                        "z": 4.507499
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 237.98492,
+                        "y": 61.109936,
+                        "z": -7.7859154
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 257.7464,
+                        "y": 60.921345,
+                        "z": -8.380107
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 280.9786,
+                        "y": 61.520363,
+                        "z": 2.243277
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 247.86253,
+                        "y": 69.6639,
+                        "z": -8.929986
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 248.21115,
+                        "y": 90.527596,
+                        "z": -20.994593
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 248.07683,
+                        "y": 106.15359,
+                        "z": -12.354601
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 248.5827,
+                        "y": 119.27149,
+                        "z": -9.901118
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 232.57228,
+                        "y": 111.6802,
+                        "z": -1.2721543
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 264.52203,
+                        "y": 112.016136,
+                        "z": -2.2980115
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 248.36623,
+                        "y": 111.85189,
+                        "z": -9.628007
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 259.72684,
+                        "y": 95.42257,
+                        "z": -6.247332
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 236.99338,
+                        "y": 95.19661,
+                        "z": -5.6093135
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 248.29181,
+                        "y": 97.25731,
+                        "z": -12.267485
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 228.31375,
+                        "y": 68.09737,
+                        "z": -2.6823952
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 235.37228,
+                        "y": 71.35948,
+                        "z": -0.15824027
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 226.83485,
+                        "y": 73.12182,
+                        "z": -0.4369217
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 220.66487,
+                        "y": 71.20662,
+                        "z": 3.7723362
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 227.7863,
+                        "y": 70.87787,
+                        "z": -1.0846677
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 267.5154,
+                        "y": 67.629776,
+                        "z": -3.929857
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 275.84256,
+                        "y": 70.59236,
+                        "z": 2.0837553
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 268.4563,
+                        "y": 73.14043,
+                        "z": -1.7395475
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 260.22824,
+                        "y": 71.17414,
+                        "z": -0.93898565
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 267.98807,
+                        "y": 70.42348,
+                        "z": -2.4297607
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 226.50969,
+                        "y": 56.737434,
+                        "z": -4.264555
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 268.99176,
+                        "y": 56.233154,
+                        "z": -5.6340723
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 205.35075,
+                        "y": 91.826324,
+                        "z": 48.466656
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 294.31622,
+                        "y": 90.73927,
+                        "z": 45.68058
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 247.66852,
+                        "y": 60.55698,
+                        "z": -9.591613
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 248.57295,
+                        "y": 137.92365,
+                        "z": -4.9185214
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 209.53836,
+                        "y": 116.08888,
+                        "z": 31.620687
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 289.70554,
+                        "y": 115.357895,
+                        "z": 29.071373
+                    }
+                }
+            ],
+            "rollAngle": -0.645976,
+            "panAngle": -1.8159077,
+            "tiltAngle": 1.7556905,
+            "detectionConfidence": 0.9998864,
+            "landmarkingConfidence": 0.6729594,
+            "joyLikelihood": "UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0283dt1",
+            "description": "mouth",
+            "score": 0.67011166,
+            "topicality": 0.67011166
+        },
+        {
+            "mid": "/m/0ds5b",
+            "description": "facial hair",
+            "score": 0.6362349,
+            "topicality": 0.6362349
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "UNLIKELY",
+        "violence": "LIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 17,
+                        "green": 25,
+                        "blue": 31
+                    },
+                    "score": 0.25392166,
+                    "pixelFraction": 0.2511556
+                },
+                {
+                    "color": {
+                        "red": 157,
+                        "green": 157,
+                        "blue": 161
+                    },
+                    "score": 0.032947812,
+                    "pixelFraction": 0.04468413
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 13,
+                        "blue": 22
+                    },
+                    "score": 0.021023486,
+                    "pixelFraction": 0.010785825
+                },
+                {
+                    "color": {
+                        "red": 17,
+                        "green": 30,
+                        "blue": 43
+                    },
+                    "score": 0.20656912,
+                    "pixelFraction": 0.14971751
+                },
+                {
+                    "color": {
+                        "red": 29,
+                        "green": 44,
+                        "blue": 57
+                    },
+                    "score": 0.15833278,
+                    "pixelFraction": 0.12673344
+                },
+                {
+                    "color": {
+                        "red": 42,
+                        "green": 46,
+                        "blue": 52
+                    },
+                    "score": 0.082890406,
+                    "pixelFraction": 0.08115049
+                },
+                {
+                    "color": {
+                        "red": 42,
+                        "green": 13,
+                        "blue": 18
+                    },
+                    "score": 0.041770034,
+                    "pixelFraction": 0.022984078
+                },
+                {
+                    "color": {
+                        "red": 193,
+                        "green": 192,
+                        "blue": 194
+                    },
+                    "score": 0.028466946,
+                    "pixelFraction": 0.046481766
+                },
+                {
+                    "color": {
+                        "red": 67,
+                        "green": 40,
+                        "blue": 43
+                    },
+                    "score": 0.021065127,
+                    "pixelFraction": 0.01489471
+                },
+                {
+                    "color": {
+                        "red": 121,
+                        "green": 121,
+                        "blue": 124
+                    },
+                    "score": 0.019152256,
+                    "pixelFraction": 0.022342065
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 319
+                        },
+                        {
+                            "x": 319,
+                            "y": 179
+                        },
+                        {
+                            "y": 179
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 1.1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01b8g6",
+                "score": 7.998,
+                "description": "Jens Stoltenberg"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.89699996,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7189,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7189
+            },
+            {
+                "entityId": "/m/01znc_",
+                "score": 0.6519,
+                "description": "Turkey"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.6045
+            },
+            {
+                "entityId": "/m/015pjd",
+                "score": 0.5606,
+                "description": "Geopolitics"
+            },
+            {
+                "entityId": "/t/21mxcct4492j5",
+                "score": 0.5415
+            },
+            {
+                "entityId": "/g/11ggn5yvyg",
+                "score": 0.5402,
+                "description": "Katehon"
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.5148
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.4912
+            },
+            {
+                "entityId": "/t/2clvyq28bvdgq",
+                "score": 0.4668
+            },
+            {
+                "entityId": "/m/05qt0",
+                "score": 0.4505,
+                "description": "Politics"
+            },
+            {
+                "entityId": "/t/2bxjx5c4t6gvs",
+                "score": 0.438
+            },
+            {
+                "entityId": "/m/01t_55",
+                "score": 0.409,
+                "description": "Foreign minister"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://katehon.com/sites/default/files/makinde_nato_1.jpg"
+            },
+            {
+                "url": "http://katehon.com/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_1.jpg?itok=8iRKQlln"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://katehon.com/sites/default/files/viber_image_4_0.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.geopolitica.ru/en/news/new-issue-katehon",
+                "pageTitle": "The new issue of \u00ab<b>Katehon</b>\u00bb | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.geopolitica.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_2.jpg?itok=7nv_cjti"
+                    }
+                ]
+            },
+            {
+                "url": "http://katehon.com/article/nato-private-club-war-criminals",
+                "pageTitle": "NATO \u2014 private club of war criminals | <b>Katehon</b> think tank ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/makinde_nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://katehon.com/article/armageddon-over-horizon",
+                "pageTitle": "Is That Armageddon Over The Horizon? | <b>Katehon</b> think tank ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=KgnGEiHg"
+                    }
+                ]
+            },
+            {
+                "url": "http://katehon.com/agenda/putin-launched-india-against-united-states",
+                "pageTitle": "Putin launched India against the United States | <b>Katehon</b> think tank ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=KgnGEiHg"
+                    }
+                ]
+            },
+            {
+                "url": "http://katehon.com/article/mainstream-media-beck-and-call-military-industrial-complex-washington-warmonger",
+                "pageTitle": "Mainstream Media is at the Beck and Call of the Military ... - <b>Katehon</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=KgnGEiHg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.geopolitica.ru/en/video/mechanism-mass-manipulation-us",
+                "pageTitle": "The mechanism of mass manipulation in the US | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.geopolitica.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_2.jpg?itok=7nv_cjti"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.geopolitica.ru/en/video/nato-private-club-war-criminals",
+                "pageTitle": "NATO is Private club of war criminals | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.geopolitica.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_2.jpg?itok=7nv_cjti"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.geopolitica.ru/en/news/theresa-may-government-must-get-brexit-under-way",
+                "pageTitle": "Theresa May: government must get Brexit under way | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.geopolitica.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_2.jpg?itok=7nv_cjti"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.imaginaire.ru/en/video/nato-private-club-war-criminals",
+                "pageTitle": "NATO is Private club of war criminals | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.imaginaire.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=jnVwu8A1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.eurasianaffairs.net/en/video/nato-private-club-war-criminals",
+                "pageTitle": "NATO is Private club of war criminals | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.eurasianaffairs.net/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=jnVwu8A1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novaresistencia.org/en/news/jens-stoltenberg-plans-meet-sergey-lavrov-during-munich-security-conference",
+                "pageTitle": "Jens Stoltenberg plans to meet Sergey Lavrov during Munich ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novaresistencia.org/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=jnVwu8A1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novaresistencia.org/en/news/jens-stoltenberg-plans-meet-sergey-lavrov-during-munich-security-conference?page=1",
+                "pageTitle": "Jens Stoltenberg plans to meet Sergey Lavrov during Munich ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novaresistencia.org/sites/default/files/styles/thumbnail__270x150/public/makinde_nato.jpg?itok=jnVwu8A1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/adeyinka-makinde-c4.html",
+                "pageTitle": "Adeyinka Makinde | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/makinde_nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.therussophile.org/sergey-latyshev-piece-or-war-patrushev-and-bolton-hold-closed-talks-in-geneva.html/",
+                "pageTitle": "Sergey Latyshev: Piece or war: Patrushev and Bolton hold closed ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.therussophile.org/wp-content/uploads/2018/08/makinde_nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novaresistencia.org/es/news/los-dias-de-la-otan-en-azerbaiyan-llegan-su-fin",
+                "pageTitle": "Los \u201cd\u00edas de la OTAN\u201d en Azerbaiy\u00e1n llegan a su fin | Geopolitica.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novaresistencia.org/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_1.jpg?itok=8lU3Pn0q"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.platonizm.ru/sr/news/tereza-mej-je-u-poseti-indiji",
+                "pageTitle": "\u0422\u0435\u0440\u0435\u0437\u0430 \u041c\u0435\u0458 \u0458\u0435 \u0443 \u043f\u043e\u0441\u0435\u0442\u0438 \u0418\u043d\u0434\u0438\u0458\u0438 | \u0413\u0435\u043e\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.platonizm.ru/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_0.jpg?itok=_l6JjpS7"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novaresistencia.org/it/node/44380",
+                "pageTitle": "OTAN: Club privado de criminales de Guerra | \u0413\u0435\u043e\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430.RU",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novaresistencia.org/sites/default/files/makinde_nato_1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.4pt.su/sr/article/liberalni-fejk-njuz-mediji-i-josh-njihovih-duplih-standarda",
+                "pageTitle": "\u041b\u0438\u0431\u0435\u0440\u0430\u043b\u043d\u0438 \u0444\u0435\u0458\u043a \u045a\u0443\u0437 \u043c\u0435\u0434\u0438\u0458\u0438 \u0438 \u0458\u043e\u0448 \u045a\u0438\u0445\u043e\u0432\u0438\u0445 \u0434\u0443\u043f\u043b\u0438\u0445 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0434\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.4pt.su/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_0.jpg?itok=_l6JjpS7"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.eurasianaffairs.net/sr/article/crna-gora-u-nato-vojna-tragikomedija-i-geopolitika-gluposti-1",
+                "pageTitle": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 \u0443 \u041d\u0410\u0422\u041e: \u0412\u043e\u0458\u043d\u0430 \u0442\u0440\u0430\u0433\u0438\u043a\u043e\u043c\u0435\u0434\u0438\u0458\u0430 \u0438 \u0433\u0435\u043e\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u0433\u043b\u0443\u043f\u043e\u0441\u0442\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.eurasianaffairs.net/sites/default/files/styles/thumbnail__270x150/public/makinde_nato_0.jpg?itok=_l6JjpS7"
+                    }
+                ]
+            },
+            {
+                "url": "http://plataformadistritocero.blogspot.com/2016_10_15_archive.html",
+                "pageTitle": "Plataforma Distrito Cero: 10/15/16",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/makinde_nato_1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://plataformadistritocero.blogspot.com/2016/10/otan-club-privado-de-criminales-de.html",
+                "pageTitle": "Plataforma Distrito Cero: OTAN: Club privado de criminales de Guerra",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://katehon.com/sites/default/files/makinde_nato_1.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://katehon.com/sites/default/files/makinde_nato.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/736x/a7/5a/52/a75a52b42ef3527aeda564508e19d8b9--god.jpg"
+            },
+            {
+                "url": "http://katehon.com/sites/default/files/dugin_5.jpg"
+            },
+            {
+                "url": "http://katehon.com/sites/default/files/andrey-karlov_2016.jpg"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/-UL_XDAcY15Q/W4JOAfsFNLI/AAAAAAAAuXc/WZ-XT6UZ_jMaKU01OzoMeGHZA4gGTk4WwCLcBGAs/s640/auca.jpg"
+            },
+            {
+                "url": "https://usareally.com/uploads/2018/08/03/full-kkjhuii-1533301157.jpg"
+            },
+            {
+                "url": "http://katehon.com/sites/default/files/china_rr.jpg"
+            },
+            {
+                "url": "http://katehon.com/sites/default/files/obama_narciss.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Katehon"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.9094097,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.06938296
+                    },
+                    {
+                        "x": 0.9953478,
+                        "y": 0.06938296
+                    },
+                    {
+                        "x": 0.9953478,
+                        "y": 0.984264
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.984264
+                    }
+                ]
+            }
+        }
+    ]
+}

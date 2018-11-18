@@ -1,0 +1,2296 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 312,
+                        "y": 160
+                    },
+                    {
+                        "x": 379,
+                        "y": 160
+                    },
+                    {
+                        "x": 379,
+                        "y": 238
+                    },
+                    {
+                        "x": 312,
+                        "y": 238
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 313,
+                        "y": 175
+                    },
+                    {
+                        "x": 376,
+                        "y": 175
+                    },
+                    {
+                        "x": 376,
+                        "y": 238
+                    },
+                    {
+                        "x": 313,
+                        "y": 238
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 323.2927,
+                        "y": 204.30017,
+                        "z": -2.3506967e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 339.51755,
+                        "y": 201.41217,
+                        "z": -13.440599
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 318.5348,
+                        "y": 200.29924,
+                        "z": 4.2870035
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 324.32428,
+                        "y": 200.76668,
+                        "z": -7.7037845
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 331.7374,
+                        "y": 199.38623,
+                        "z": -14.000562
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 344.0369,
+                        "y": 195.56271,
+                        "z": -17.354635
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 329.34854,
+                        "y": 204.11267,
+                        "z": -10.165504
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 330.10843,
+                        "y": 216.91992,
+                        "z": -12.119432
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 335.23444,
+                        "y": 221.84618,
+                        "z": -7.0945306
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 338.39984,
+                        "y": 227.52725,
+                        "z": -4.57444
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 333.8929,
+                        "y": 223.60371,
+                        "z": 2.5345266
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 345.53485,
+                        "y": 221.10315,
+                        "z": -7.5635
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 337.20496,
+                        "y": 224.10623,
+                        "z": -5.302017
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 338.69006,
+                        "y": 214.73695,
+                        "z": -9.543652
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 330.76892,
+                        "y": 216.17639,
+                        "z": -2.5223212
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 333.882,
+                        "y": 218.22385,
+                        "z": -8.000693
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 323.01492,
+                        "y": 203.67744,
+                        "z": -1.7382646
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 327.35306,
+                        "y": 203.98404,
+                        "z": -2.9315016
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 324.48724,
+                        "y": 205.71483,
+                        "z": -0.27398938
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 322.2761,
+                        "y": 204.34155,
+                        "z": 3.5280433
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 323.77597,
+                        "y": 204.66316,
+                        "z": -0.58548546
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 338.3078,
+                        "y": 200.85222,
+                        "z": -14.69844
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 343.62866,
+                        "y": 200.39973,
+                        "z": -14.579776
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 339.97446,
+                        "y": 202.98914,
+                        "z": -13.22486
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 336.5989,
+                        "y": 202.47682,
+                        "z": -10.673976
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 339.44302,
+                        "y": 201.78835,
+                        "z": -13.903583
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 319.8045,
+                        "y": 198.80313,
+                        "z": -3.1673837
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 336.38553,
+                        "y": 195.73672,
+                        "z": -17.222952
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 331.92188,
+                        "y": 205.83307,
+                        "z": 28.370512
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 367.3103,
+                        "y": 199.87381,
+                        "z": -0.9091189
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 327.5481,
+                        "y": 200.15305,
+                        "z": -11.462838
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 343.19507,
+                        "y": 234.89662,
+                        "z": -0.52665794
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 333.51215,
+                        "y": 220.48698,
+                        "z": 23.617205
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 364.9725,
+                        "y": 214.70334,
+                        "z": -3.0361965
+                    }
+                }
+            ],
+            "rollAngle": -20.747482,
+            "panAngle": -40.905994,
+            "tiltAngle": -12.064307,
+            "detectionConfidence": 0.54040545,
+            "landmarkingConfidence": 0.1547937,
+            "joyLikelihood": "UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.95830065,
+            "topicality": 0.95830065
+        },
+        {
+            "mid": "/m/086mh",
+            "description": "winter",
+            "score": 0.9378012,
+            "topicality": 0.9378012
+        },
+        {
+            "mid": "/m/06_dn",
+            "description": "snow",
+            "score": 0.9267755,
+            "topicality": 0.9267755
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.8980453,
+            "topicality": 0.8980453
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.8804887,
+            "topicality": 0.8804887
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.7711595,
+            "topicality": 0.7711595
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.72776717,
+            "topicality": 0.72776717
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.71571594,
+            "topicality": 0.71571594
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.6072142,
+            "topicality": 0.6072142
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.60665184,
+            "topicality": 0.60665184
+        },
+        {
+            "mid": "/m/01c791",
+            "description": "freezing",
+            "score": 0.5869519,
+            "topicality": 0.5869519
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.5826753,
+            "topicality": 0.5826753
+        },
+        {
+            "mid": "/m/03vtj",
+            "description": "ice",
+            "score": 0.5691046,
+            "topicality": 0.5691046
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.5149176,
+            "topicality": 0.5149176
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 85,
+                        "green": 84,
+                        "blue": 77
+                    },
+                    "score": 0.12939249,
+                    "pixelFraction": 0.051360544
+                },
+                {
+                    "color": {
+                        "red": 250,
+                        "green": 227,
+                        "blue": 169
+                    },
+                    "score": 0.062435016,
+                    "pixelFraction": 0.058435373
+                },
+                {
+                    "color": {
+                        "red": 118,
+                        "green": 117,
+                        "blue": 111
+                    },
+                    "score": 0.101541914,
+                    "pixelFraction": 0.044761904
+                },
+                {
+                    "color": {
+                        "red": 134,
+                        "green": 117,
+                        "blue": 97
+                    },
+                    "score": 0.091037154,
+                    "pixelFraction": 0.025170067
+                },
+                {
+                    "color": {
+                        "red": 56,
+                        "green": 54,
+                        "blue": 48
+                    },
+                    "score": 0.07972642,
+                    "pixelFraction": 0.029183673
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 83,
+                        "blue": 64
+                    },
+                    "score": 0.07177541,
+                    "pixelFraction": 0.01904762
+                },
+                {
+                    "color": {
+                        "red": 249,
+                        "green": 239,
+                        "blue": 203
+                    },
+                    "score": 0.058670145,
+                    "pixelFraction": 0.055986393
+                },
+                {
+                    "color": {
+                        "red": 166,
+                        "green": 147,
+                        "blue": 126
+                    },
+                    "score": 0.056665394,
+                    "pixelFraction": 0.021088436
+                },
+                {
+                    "color": {
+                        "red": 18,
+                        "green": 17,
+                        "blue": 17
+                    },
+                    "score": 0.05000934,
+                    "pixelFraction": 0.020612245
+                },
+                {
+                    "color": {
+                        "red": 60,
+                        "green": 52,
+                        "blue": 34
+                    },
+                    "score": 0.04778716,
+                    "pixelFraction": 0.014013605
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1241
+                        },
+                        {
+                            "x": 1241,
+                            "y": 809
+                        },
+                        {
+                            "y": 809
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.35999998
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0b6m4sn",
+                "score": 0.6006,
+                "description": "V\u00e6rnes Air Station"
+            },
+            {
+                "entityId": "/t/2b2qfcf0dvwt6",
+                "score": 0.5376
+            },
+            {
+                "entityId": "/m/01skqzw",
+                "score": 0.5376,
+                "description": "United States Marine Corps"
+            },
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.5094,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.49335003,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/05l64",
+                "score": 0.49150202,
+                "description": "Oslo"
+            },
+            {
+                "entityId": "/m/08dmm7",
+                "score": 0.4753,
+                "description": "Marines"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.4303
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.4303,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.3513
+            },
+            {
+                "entityId": "/t/2g9ck5044cxhq",
+                "score": 0.3512
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.3289
+            },
+            {
+                "entityId": "/m/01lff",
+                "score": 0.294,
+                "description": "Country"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.2933,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/05b4w",
+                "score": 0.042066,
+                "description": "Norway"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.neweurope.eu/wp-content/uploads/2017/01/04_Marines.jpg"
+            },
+            {
+                "url": "http://www.alghad.tv/wp-content/uploads/2017/01/2017-01-16T171254Z_635653714_RC1DC8EBB4B0_RTRMADP_3_NORWAY-USA-MILITARY.jpg"
+            },
+            {
+                "url": "https://www.arctictoday.com/wp-content/uploads/2018/06/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg"
+            },
+            {
+                "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83.jpg"
+            },
+            {
+                "url": "http://www.gp.se/image/policy:1.6530529:1528813263/image.jpg?f=Wide%26w=1200%26%24p%24f%24w=834285a"
+            },
+            {
+                "url": "https://imagens.publicocdn.com/imagens.aspx/1102944?tp=UH&db=IMAGENS&type=JPG"
+            },
+            {
+                "url": "http://the-blogger.ru/wp-content/uploads/2017/05/us-marines.jpg"
+            },
+            {
+                "url": "https://ap.mnocdn.no/images/ab5cae88-bd25-4d07-996a-5fd9f7c96c53?fit=crop&q=80&w=1440"
+            },
+            {
+                "url": "https://www.dreuz.info/wp-content/uploads/2018/06/Screen-Shot-2018-06-13-at-16.02.34.jpg"
+            },
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&r=LYNXMPEE5B15I&w=1280"
+            },
+            {
+                "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_GR_20170116130912.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/russian/images/2017.12/original/5a40975f370f2cbd5c8b45a2.jpg"
+            },
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&w=1200&r=LYNXMPEE5B15I"
+            },
+            {
+                "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=1200&r=LYNXMPED0F11Y"
+            },
+            {
+                "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w1200_r1_s.jpg"
+            },
+            {
+                "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83-1024x681.jpg"
+            },
+            {
+                "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2018/06/14/gettyimages-631821968.jpg"
+            },
+            {
+                "url": "https://www.alghad.tv/wp-content/uploads/2017/01/2017-01-16T171254Z_635653714_RC1DC8EBB4B0_RTRMADP_3_NORWAY-USA-MILITARY-1024x681.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w1080_h608.jpg"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/594e8216d084cc42238b50f3-1136-568.jpg"
+            },
+            {
+                "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2018/06/14/gettyimages-631821968.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w1023_r1_s.jpg"
+            },
+            {
+                "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&r=LYNXMPED0F11Y&w=940"
+            },
+            {
+                "url": "https://jyllands-posten.dk/pictures/image/9298992/k4g6kx/ALTERNATES/h-free/ok---marines-norge.jpg"
+            },
+            {
+                "url": "http://haber.sol.org.tr/sites/default/files/norvec_0.jpg"
+            },
+            {
+                "url": "https://www.newshonyaku.com/wp-content/uploads/2018/06/1303.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/files/2018.06/article/5b1fa960dda4c8b7328b45ec.jpg"
+            },
+            {
+                "url": "https://cdn.isna.ir/d/2018/06/13/4/57693204.jpg"
+            },
+            {
+                "url": "https://imagens.publicocdn.com/imagens.aspx/1102944?tp=UH&db=IMAGENS&type=JPG&w=823"
+            },
+            {
+                "url": "https://img.ilcdn.fi/OOO8tzdboJQnlvjDcofA_u3CwXA=/820x/img-s3.ilcdn.fi/daf383eb7594184aafafdf1e266f0722d3cd0d4c992919dfd90148f2c731a08f.jpg"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/18/16/37/808x539_cmsv2_a8042af0-7c4a-5411-92db-ef321dd02683-3181637.jpg"
+            },
+            {
+                "url": "https://www.contra-magazin.com/wp-content/uploads/2018/06/US-Marines-Norwegen.jpg"
+            },
+            {
+                "url": "https://media.novinky.cz/118/591182-original1-cxlk1.jpg"
+            },
+            {
+                "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170624&t=2&i=1190335114&r=LYNXMPED5N07Y&w=1280"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/594e81eed084cc351c8b488a-750-563.jpg"
+            },
+            {
+                "url": "https://static.seattletimes.com/wp-content/uploads/2017/01/7c4af8ce-dc43-11e6-a71b-d8fa358cf965-780x530.jpg"
+            },
+            {
+                "url": "http://d6jf7ok6u1qis.cloudfront.net/imengine/image.php?uuid=f64bbdde-ac0e-5c04-ac67-5b687301e73d&type=preview&source=false&function=cropresize&width=768&height=512&q=40&x=0.00125&y=0.0&crop_w=0.9975&crop_h=0.999999999&z=1"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-master768.jpg"
+            },
+            {
+                "url": "http://www.chinabelaraby.com/wp-content/uploads/2017/05/17NORWAY-1-master768.jpg"
+            },
+            {
+                "url": "http://ipravda.sk/res/2017/01/16/thumbs/norsko-americki-vojaci-clanokW.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/deutsch/images/2018.08/article/5b7443290d04031b788b4567.jpg"
+            },
+            {
+                "url": "http://imgs.vietnamnet.vn/Images/2017/01/17/10/20170117103236-quan-doi-my.jpg"
+            },
+            {
+                "url": "http://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=&fh=&fw=&ll=780&pl=468&sq=&r=LYNXMPED0F11Y"
+            },
+            {
+                "url": "https://static2.ilna.ir/thumbnail/9eCTqrFmPgNT/XWHCw76VBsxV-gjMD_1vCetw5eCq7S04hX6xsI6ISfTD_yl-j66fW7VVozzx0Z7LsP5TEIhL62E,/s24.reutersmedia.net.jpg"
+            },
+            {
+                "url": "http://cdn.baogiaothong.vn/files/hien.han/2017/01/17/tai-xuong-1147.jpg"
+            },
+            {
+                "url": "https://cdn1.img.rs.sputniknews.com/images/111030/19/1110301932.jpg"
+            },
+            {
+                "url": "https://f10.pmo.ee/declk4oKdotZVZuTLlhSPDZT8IY=/685x410/smart/nginx/o/2018/06/16/7904579t1haed4.jpg"
+            },
+            {
+                "url": "https://cdn.sindonews.net/dyn/620/content/2017/01/17/41/1171499/ratusan-marinir-as-tiba-di-norwegia-diklaim-tak-terkait-rusia-DtQ.jpg"
+            },
+            {
+                "url": "http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/norvec_0.jpg"
+            },
+            {
+                "url": "https://img.ilcdn.fi/WzKiv-qagyOTn8Xax7Q2VgXV51w=/full-fit-in/612x/img-s3.ilcdn.fi/daf383eb7594184aafafdf1e266f0722d3cd0d4c992919dfd90148f2c731a08f.jpg"
+            },
+            {
+                "url": "https://image.thanhnien.vn/665/uploaded/minhhung/2018_06_13/r_cyus.jpg"
+            },
+            {
+                "url": "https://kor.ill.in.ua/m/610x0/1940605.jpg"
+            },
+            {
+                "url": "http://ic.pics.livejournal.com/andreistp/13279564/535717/535717_900.jpg"
+            },
+            {
+                "url": "https://img03.rl0.ru/699e81845f7ad1d17bdde167e8649074/c615x400/news.rambler.ru/img/2017/12/25101307.381180.9222.jpg"
+            },
+            {
+                "url": "http://www.chaoprayanews.com/wp-content/uploads/2017/01/651.jpg"
+            },
+            {
+                "url": "http://politicasite.com/wp-content/uploads/2017/06/download-5-8.jpg"
+            },
+            {
+                "url": "https://media.mehrnews.com/d/2017/06/25/3/2496838.jpg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-articleLarge.jpg?quality=90&auto=webp"
+            },
+            {
+                "url": "http://mmbiz.qpic.cn/mmbiz_jpg/9ls7yVyaic14cCLNR4V6Eic9AoIwRHCY8dibW45AVhdD5uDibBic9fNP2Fy8qG5RHLKGqw6G5YR7MJf3KPbiaW4OWLGw/640?wx_fmt=jpeg"
+            },
+            {
+                "url": "https://static3.ilna.ir/thumbnail/9eCTqrFmPgNT/zD2ly951Lbe1X4vBXmeYxnwvBKd2o-upCBoRpuXWWQ3xVYIwBtE8SJc5CgG8w1SR1HhaeHPcWe7Z4QQxwQ5aCQuC6bW65Yo2vzNA1A_oYcME-xuDHnCGIL88GkvFaMums2lp5Xzk-eHBnhR0v72AGlgUGoACo5X0XuOejRjZDSys4NdjIqNZJEQ6csj1vAj0e_flocx_BKk,/s24.reutersmedia.net.jpg"
+            },
+            {
+                "url": "http://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpxliH95.jpg"
+            },
+            {
+                "url": "http://img1.gtimg.com/news/pics/hv1/156/67/2220/144372741.jpg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/US-Marines-Norway-791597.jpg"
+            },
+            {
+                "url": "https://cdn.isna.ir/d/2018/06/13/3/57693204.jpg"
+            },
+            {
+                "url": "https://mpics.mgronline.com/pics/Images/560000000546801.JPEG"
+            },
+            {
+                "url": "http://cms-bucket.nosdn.127.net/catchpic/9/99/993c05b35d3051077e1d9867c8b2165e.jpg?imageView&thumbnail=550x0"
+            },
+            {
+                "url": "http://n.sinaimg.cn/news/crawl/123/w550h373/20180613/rqvk-hcwpcmq5180072.jpg"
+            },
+            {
+                "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=58RZIgnzC5yJsBH5G6UrUJB4rT4%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65mlUN0RZv7quV4l-l5ktORs3OB3P-Hmf5r5afOSq4LpKcZsDfuT93fSsC_1ptPbH5BF-WfZG8Ko3vfN13ipTlLZHmKA0Wbg"
+            },
+            {
+                "url": "https://m.aawsat.com/sites/default/files/styles/large/public/2018/04/16/download_2.jpg?itok=B6k9vG_t"
+            },
+            {
+                "url": "https://image.thanhnien.vn/500/uploaded/minhhung/2018_06_13/r_cyus.jpg"
+            },
+            {
+                "url": "https://danieldeubank.files.wordpress.com/2018/06/marines-in-norway.jpg?w=450"
+            },
+            {
+                "url": "http://brusselsmorning.com/wp-content/uploads/2018/08/5b1fa960dda4c8b7328b45ec.jpg"
+            },
+            {
+                "url": "http://img.over-blog-kiwi.com/400x260-ct/0/78/07/19/20170117/ob_5d4f54_armee-us10.jpg"
+            },
+            {
+                "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/sm/public/2018/06/14/gettyimages-631821968.jpg"
+            },
+            {
+                "url": "http://www.xinhuanet.com/legal/titlepic/129450202_1_title1n.jpg"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/594e81eed084cc351c8b488a-320-240.jpg"
+            },
+            {
+                "url": "https://img.tsn.ua/cached/1533909314/tsn-7fb3ba3a1c366fde98f9c353dffa928f/thumbs/315x210/bb/9f/9178e4d5a7b74f3564c7547991269fbb.jpeg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEGCNQCEL4B&rs=AOn4CLD0BuMERRbqCZhWUH3sI5P5heTVyA"
+            },
+            {
+                "url": "https://mpics.mgronline.com/pics/Thumbnails/560000000546801.JPEG"
+            },
+            {
+                "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_D_20170116130912.jpg"
+            },
+            {
+                "url": "https://cdn.isna.ir/d/2018/06/13/2/57693204.jpg"
+            },
+            {
+                "url": "https://spaceshipcinema.com/wp-content/uploads/2018/07/1530503363_hqdefault-277x156.jpg"
+            },
+            {
+                "url": "https://media.mehrnews.com/d/2018/06/14/2/2805365.jpg"
+            },
+            {
+                "url": "http://www.cdkyy.com/uploads/allimg/180816/160220JW-0-lp.jpg"
+            },
+            {
+                "url": "https://cdn.tuoitre.vn/zoom/212_132/2018/6/13/photo1528857206310-1528857206312391429492.jpg"
+            },
+            {
+                "url": "https://iadsb.tmgrup.com.tr/e437ca/200/134/0/0/793/532?u=https://idsb.tmgrup.com.tr/2018/06/14/russia-vows-retaliation-after-norway-invites-more-us-marines-1528984709464.jpg"
+            },
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&w=200&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEE5B15I"
+            },
+            {
+                "url": "https://kor.ill.in.ua/m/190x120/1940604.jpg"
+            },
+            {
+                "url": "http://ludassocial.com/wp-content/uploads/2018/06/5b1fa960dda4c8b7328b45ec-180x120.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB6UAtGDY7y0l0yu_TUf3VTDhm1qw"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAG0zHve_OHnN2qz3MuaJW6hW1m7g"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAhkIYAQ==&rs=AOn4CLBxrE8Mwj3zwq-Yx9189OKStSO-hw"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://kopp-report.de/wp-content/uploads/2018/06/87275569.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/9fbe62c1e0bb78a266ae5bfbb007c0f42cc6802b/c=0-160-3200-1968/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=3200&height=1680&fit=crop"
+            },
+            {
+                "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800&h=1000&crop=0,0,300,0"
+            },
+            {
+                "url": "https://theins.ru/wp-content/uploads/2018/10/kirk4.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/9fbe62c1e0bb78a266ae5bfbb007c0f42cc6802b/c=0-160-3200-1968/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=1600&height=800&fit=crop"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/UXuLpeNJHP8/maxresdefault.jpg"
+            },
+            {
+                "url": "https://static.independent.co.uk/s3fs-public/styles/story_large/public/brightcove/5797883964001.jpg"
+            },
+            {
+                "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1200_r1_s.jpg"
+            },
+            {
+                "url": "https://img.tsn.ua/cached/1533909314/tsn-7fb3ba3a1c366fde98f9c353dffa928f/thumbs/1200x630/bb/9f/9178e4d5a7b74f3564c7547991269fbb.jpeg"
+            },
+            {
+                "url": "https://jyllands-posten.dk/pictures/image/9298992/k4g6kx/ALTERNATES/f_a-s/ok---marines-norge.jpg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=2CCdLr3YMXc8UFAckE0Sgs$daE2N3K4ZzOUsqbU5sYuYTcWTDddnXlu2WU0O9wDN6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://kopp-report.de/wp-content/uploads/2018/06/87275569-1024x681.jpg"
+            },
+            {
+                "url": "https://o.aolcdn.com/images/dims?thumbnail=1028%2C675%2Cauto&format=png&quality=60&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2018-06%2F14%2F5b228d2cc2ec1075434145fe%2F5b228d30e8195565fe681c89_o_F_v0.jpg&client=amp-blogside-v2&signature=56db4a805dffea9d510d3cb276362292db3687cf"
+            },
+            {
+                "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1080_h608.jpg"
+            },
+            {
+                "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/27/10/80/1000x563_cmsv2_33a5c3e8-76ce-52e5-939c-8f0272d25632-3271080.jpg"
+            },
+            {
+                "url": "http://cdn3.img.sputniknews.cn/images/102265/83/1022658386.jpg"
+            },
+            {
+                "url": "https://www.ouest-france.fr/sites/default/files/styles/image-900x500/public/2017/01/17/la-scandinavie-montre-les-dents-face-l-ours-russe.jpg?itok=bl74IBnY"
+            },
+            {
+                "url": "https://i.iplsc.com/amerykanscy-zolnierze-w-norwegii/0007F9G1YAM9D4FU-C122-F4.png"
+            },
+            {
+                "url": "https://i.iplsc.com/amerykanscy-zolnierze-w-norwegii/0007F9G1YAM9D4FU-C122-F4.jpg"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/27/10/80/880x495_cmsv2_33a5c3e8-76ce-52e5-939c-8f0272d25632-3271080.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20170624/17393749_xl.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20171222/23113554_xl.jpg"
+            },
+            {
+                "url": "https://kopp-report.de/wp-content/uploads/2018/06/87275569-800x532.jpg"
+            },
+            {
+                "url": "http://ipravda.sk/res/2018/06/12/thumbs/usa-norsko-vojaci-clanokW.jpg"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/-Ul9oR2QKGio/WR9n-ObUpnI/AAAAAAAAZxE/FBULc-LwJooGqwIsFYlkfwItdOEf52wywCLcB/s1600/3C7.webp"
+            },
+            {
+                "url": "https://russian.rt.com/inotv/s/content/k/1/t/691163_1_RTX68Q83_cr_big.jpg"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-v6KXHFTMyyQ/WR6EBLZ6K-I/AAAAAAAAiZo/7HQ6Vp2ixqA4K_M1fGLQXge9uHuOR4fwwCEw/w1200-h630-p-k-no-nu/Militares%2Bestadounidenses%2Bse%2Bcongelan%2Bcerca%2Bde%2Blas%2Bfronteras%2Bde%2BRusia.png"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/-Ul9oR2QKGio/WR9n-ObUpnI/AAAAAAAAZxE/FBULc-LwJooGqwIsFYlkfwItdOEf52wywCLcB/w1200-h630-p-k-no-nu/3C7.webp"
+            },
+            {
+                "url": "http://cdn3.img.sputniknews.cn/images/102265/83/1022658395.jpg"
+            },
+            {
+                "url": "https://inews.gtimg.com/newsapp_bt/0/2710088227/640"
+            },
+            {
+                "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dd32c8dc-3f87-4d2d-b27e-a802133abd22&SiteName=Newsmax"
+            },
+            {
+                "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w650_r0_s.jpg"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/27/10/80/696x392_cmsv2_33a5c3e8-76ce-52e5-939c-8f0272d25632-3271080.jpg"
+            },
+            {
+                "url": "https://joinfo.com/img/sites/2/2017/06/download6.jpg"
+            },
+            {
+                "url": "http://cdn3.img.sputniknews.cn/images/102265/83/1022658387.jpg"
+            },
+            {
+                "url": "http://images.haiwainet.cn/20180613/1528900458924457.jpg"
+            },
+            {
+                "url": "https://05.imgmini.eastday.com/mobile/20180619/20180619164119_9d3addf2a286281091502eb01d43f258_1.jpeg"
+            },
+            {
+                "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_TOP_20170116130912.jpg"
+            },
+            {
+                "url": "http://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2017/01/17/la-scandinavie-montre-les-dents-face-l-ours-russe.jpg?itok=GJLD_2cN"
+            },
+            {
+                "url": "https://www.armytimes.com/resizer/SwbBk72T4TI9I4OA82UfMdcyrxs=/640x360/filters:quality(80)/s3.amazonaws.com/arc-goldfish-mco-thumbnails/10-27-2017/t_1509124471561_name_59f363b160b205a38a7ebd28_1920x1080_1_Oct_27_2017_17_13_50_poster.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/050261440dc0b4bdd434898e48e769162b3f4949/c=185-0-3015-2128/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=534&height=401&fit=crop"
+            },
+            {
+                "url": "https://www.lzinios.lt/lzinios/fbImage/237234"
+            },
+            {
+                "url": "https://www.telesurtv.net/__export/1484603171322/sites/telesur/img/news/2017/01/16/587d168dc3618819228b45c1.jpg_1718483347.jpg"
+            },
+            {
+                "url": "http://images.haiwainet.cn/20180816/1534383529885677.jpg"
+            },
+            {
+                "url": "http://himg2.huanqiu.com/attachment2010/2018/0816/20180816104724873.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+            },
+            {
+                "url": "https://munkaspart.hu/images/mi_ti_fotok/2017/01/high/us_katonak_norvegiaban_is_ennek_fele_sem_trefa.jpg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=QF_PrbFhEa$KNReaggoOpc$daE2N3K4ZzOUsqbU5sYvgYbAplPN1beNW0g_yzEI_6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=Vj1rof2v8_bCy3sGI76_hc$daE2N3K4ZzOUsqbU5sYvyxdGjyCCAwGku3Lb9If9c6FB40xiOfUoExWL3M40tfzssyZqpeG_J0TFo7ZhRaDiHC9oxmioMlYVJD0A$3RbIiibgT65kY_CSDiCiUzvHvODrHApbd6ry6YGl5GGOZrs-&CONTENTTYPE=image/jpeg"
+            },
+            {
+                "url": "https://www.adressa.no/incoming/article14074922.ece/uxfkd5/ALTERNATES/w380-default/Nytimes.jpg"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/27/15/18/368x207_cmsv2_74115f3a-55e1-5979-9ae9-48043bf4e343-3271518.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2018/06/12091853/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg?resize=350%2C200&ssl=1"
+            },
+            {
+                "url": "https://imgs.aftonbladet-cdn.se/v2/images/4e328753-e197-46c3-8fa8-5a299133fba5?fit=crop&h=225&tight=true&w=300&s=8d6280211b9e0558c55f7701502c333c846deacf"
+            },
+            {
+                "url": "https://s.err.ee/photo/crop/2017/06/24/382578h5e81t22.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20171222/23113554_m.jpg"
+            },
+            {
+                "url": "https://ipravda.sk/res/2018/06/12/thumbs/usa-norsko-vojaci-malaW.jpg"
+            },
+            {
+                "url": "http://www.fgfamen.com/uploads/allimg/180716/12220145T-0-lp.jpg"
+            },
+            {
+                "url": "https://images-8.svd.se/v2/images/d0e49198-50d8-4ed5-95ba-3b170fa2630e?fit=crop&h=132&q=70&upscale=true&w=211&s=873b4c70f99d0de16e56445465598dddf763a323"
+            },
+            {
+                "url": "https://static.euronews.com/articles/stories/03/27/15/18/160x90_cmsv2_74115f3a-55e1-5979-9ae9-48043bf4e343-3271518.jpg"
+            },
+            {
+                "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dd32c8dc-3f87-4d2d-b27e-a802133abd22&maxsidesize=120&SiteName=Newsmax"
+            },
+            {
+                "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w144_r1.jpg"
+            },
+            {
+                "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w144_r1.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.reuters.com/article/us-norway-us-russia/norway-to-invite-more-u-s-marines-for-longer-and-closer-to-russia-idUSKBN1J8149",
+                "pageTitle": "<b>Norway</b> to invite more U.S. <b>Marines</b>, for longer and closer to Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&r=LYNXMPEE5B15I&w=1280"
+                    },
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&w=1200&r=LYNXMPEE5B15I"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.defensenews.com/global/europe/2017/10/27/norwegian-leaders-want-to-know-why-us-marines-are-stationed-in-the-country/",
+                "pageTitle": "<b>Norwegian</b> leaders want to know why US <b>Marines</b> are stationed in ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.armytimes.com/resizer/SwbBk72T4TI9I4OA82UfMdcyrxs=/640x360/filters:quality(80)/s3.amazonaws.com/arc-goldfish-mco-thumbnails/10-27-2017/t_1509124471561_name_59f363b160b205a38a7ebd28_1920x1080_1_Oct_27_2017_17_13_50_poster.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-norway-usa-military-idUSKBN1501CD",
+                "pageTitle": "Hundreds of U.S. <b>Marines</b> land in <b>Norway</b>, irking Russia | Reuters",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=1200&r=LYNXMPED0F11Y"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=2tgzeZFPSMg",
+                "pageTitle": "US <b>Marines in Norway</b> &#39;clearly a provocation&#39; toward Russia \u2013 former ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.independent.co.uk/news/world/europe/russia-norway-us-marines-nato-border-moscow-ukraine-crimea-a8399601.html",
+                "pageTitle": "Russia warns <b>Norway</b> of &#39;consequences&#39; after it invites in more US ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.independent.co.uk/s3fs-public/styles/story_large/public/brightcove/5797883964001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rferl.org/a/more-u-s-marines-in-norway-could-cause-growing-tensions-russia-warns/29290907.html",
+                "pageTitle": "More U.S. <b>Marines In Norway</b> Could Cause &#39;Growing Tensions ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1200_r1_s.jpg"
+                    },
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1080_h608.jpg"
+                    },
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.businessinsider.com/r-norway-russia-relations-to-deteriorate-following-us-marines-base-extension-russian-embassy-2017-6",
+                "pageTitle": "Russia: Relations with <b>Norway</b> to worsen when 330 US <b>marines</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://amp.businessinsider.com/images/594e81eed084cc351c8b488a-320-240.jpg"
+                    },
+                    {
+                        "url": "https://amp.businessinsider.com/images/594e8216d084cc42238b50f3-1136-568.jpg"
+                    },
+                    {
+                        "url": "https://amp.businessinsider.com/images/594e81eed084cc351c8b488a-750-563.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nytimes.com/2017/01/16/world/europe/norway-us-russia-marines.html",
+                "pageTitle": "Cold War Jitters Resurface as U.S. <b>Marines</b> Arrive in <b>Norway</b> - The ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    },
+                    {
+                        "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-articleLarge.jpg?quality=90&auto=webp"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsmax.com/newsfront/us-marines-norway-cold-weather-training-increase/2018/06/18/id/866877/",
+                "pageTitle": "Russia Says Increase of US <b>Marines in Norway</b> ... - Newsmax.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dd32c8dc-3f87-4d2d-b27e-a802133abd22&maxsidesize=120&SiteName=Newsmax"
+                    },
+                    {
+                        "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=dd32c8dc-3f87-4d2d-b27e-a802133abd22&SiteName=Newsmax"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-norway-usa-russia/norway-russia-relations-to-deteriorate-following-u-s-marines-base-extension-russian-embassy-idUSKBN19F0AL",
+                "pageTitle": "<b>Norway</b>-Russia relations to deteriorate following U.S. <b>Marines</b>&#39; base ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170624&t=2&i=1190335114&r=LYNXMPED5N07Y&w=1280"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsweek.com/us-troops-norway-destabilizing-russia-977834",
+                "pageTitle": "Additional U.S. Troops In <b>Norway</b> Could Bring &#39;Destabilizing&#39; Impact ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2018/06/14/gettyimages-631821968.jpg"
+                    },
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-norway-us-russia/norway-to-invite-more-u-s-marines-for-longer-and-closer-to-russia-idUSKBN1J8149?feedType=RSS&feedName=topNews",
+                "pageTitle": "<b>Norway</b> to invite more U.S. <b>Marines</b>, for longer and closer to Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&r=LYNXMPEE5B15I&w=1280"
+                    },
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180612&t=2&i=1271894275&w=1200&r=LYNXMPEE5B15I"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rt.com/news/429533-us-norway-nato-marines/",
+                "pageTitle": "<b>Norway</b> asks US to send more <b>Marines</b> and wants to keep them ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2018.06/article/5b1fa960dda4c8b7328b45ec.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=UXuLpeNJHP8",
+                "pageTitle": "Russia vows consequences after <b>Norway</b> invites more U.S. <b>Marines</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/UXuLpeNJHP8/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rcinet.ca/eye-on-the-arctic/2018/06/12/america-norway-military-marines-russia-training/",
+                "pageTitle": "Hundreds of U.S. <b>Marines</b> to train in Northern <b>Norway</b> \u2013 Eye on the ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83.jpg"
+                    },
+                    {
+                        "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83-1024x681.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://foreignpolicy.com/2018/10/03/the-new-cold-front-in-russias-information-war-nato-norway/",
+                "pageTitle": "A New Cold Front in Russia&#39;s Information War \u2013 Foreign Policy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg"
+                    },
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wsj.com/articles/amid-trumps-nato-blasts-u-s-marines-norway-mission-goes-on-1484591359",
+                "pageTitle": "Amid Trump&#39;s NATO Blasts, U.S. <b>Marines</b>&#39; <b>Norway</b> Mission Goes On ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_D_20170116130912.jpg"
+                    },
+                    {
+                        "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_GR_20170116130912.jpg"
+                    },
+                    {
+                        "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_TOP_20170116130912.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/military/201710181058346360-norway-usa-marines/",
+                "pageTitle": "<b>Norway</b> Expands Training Routine With Allies, Paves the Way for ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.express.co.uk/news/world/754945/us-marines-norway-arctic-warfare-training-poland-nato-russia",
+                "pageTitle": "US <b>marines</b> land in <b>Norway</b> to train for &#39;ARCTIC WARFARE training ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/US-Marines-Norway-791597.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jimbakkershow.com/news/russia-vows-consequences-after-norway-invites-more-u-s-marines/",
+                "pageTitle": "Russia vows consequences after <b>Norway</b> invites more U.S. <b>Marines</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2018/06/12091853/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.voanews.com/a/norway-strengthens-ties-with-united-states-arctic-region-gains-importance/4200191.html",
+                "pageTitle": "<b>Norway</b> Strengthens Ties With US as Arctic Heats Up - VOA News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.voanews.com/92730B23-285C-4184-8107-667419D4FEC8_w650_r0_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rferl.org/a/norway-to-free-russian-spy-suspect/29552840.html",
+                "pageTitle": "<b>Norway</b> To Free Russian Spy Suspect - RFE/RL",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rt.com/news/436077-us-norway-double-marines/",
+                "pageTitle": "For &#39;times of crisis and war&#39;? <b>Norway</b> confirms US to double troops ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2018.06/thumbnail/5b1fa960dda4c8b7328b45ec.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://aawsat.com/english/home/article/1239421/norway-discusses-extension-us-marines-presence",
+                "pageTitle": "<b>Norway</b> Discusses Extension of US <b>Marines</b>&#39; Presence | Asharq AL ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://aawsat.com/sites/default/files/styles/large/public/2018/04/16/download_2.jpg?itok=B6k9vG_t"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.arctictoday.com/norway-invite-u-s-marines-longer-closer-russia/",
+                "pageTitle": "<b>Norway</b> to invite more U.S. <b>Marines</b>, for longer and closer to Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.arctictoday.com/wp-content/uploads/2018/06/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.seattletimes.com/nation-world/cold-war-jitters-resurface-as-us-marines-arrive-in-norway/",
+                "pageTitle": "Cold War jitters resurface as U.S. <b>Marines</b> arrive in <b>Norway</b> | The ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static.seattletimes.com/wp-content/uploads/2017/01/7c4af8ce-dc43-11e6-a71b-d8fa358cf965-780x530.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.neweurope.eu/article/us-marines-arrive-norway/",
+                "pageTitle": "US <b>Marines</b> arrive in <b>Norway</b> - New Europe",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.neweurope.eu/wp-content/uploads/2017/01/04_Marines.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/military/201705121053527778-marine-corps-doubling-norway-base/",
+                "pageTitle": "US <b>Marines</b> Consider More Than Doubling Troops at Controversial ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://southfront.org/norway-wants-more-u-s-marines-deployed/",
+                "pageTitle": "<b>Norway</b> Wants More U.S. <b>Marines</b> Deployed - SouthFront",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://southfront.org/wp-content/uploads/2018/06/1-110.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.usatoday.com/story/news/2017/02/03/norway-russian-hackers-hit-spy-agency-defense-labour-party/97441782/",
+                "pageTitle": "<b>Norway</b>: Russian hackers hit spy agency, defense, Labour party",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/050261440dc0b4bdd434898e48e769162b3f4949/c=185-0-3015-2128/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=534&height=401&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/9fbe62c1e0bb78a266ae5bfbb007c0f42cc6802b/c=0-160-3200-1968/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=1600&height=800&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/9fbe62c1e0bb78a266ae5bfbb007c0f42cc6802b/c=0-160-3200-1968/local/-/media/2017/02/03/USATODAY/USATODAY/636217164481306918-AP-Norway.jpg?width=3200&height=1680&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rferl.org/z/666/2018/6/14",
+                "pageTitle": "Russia, June 14, 2018 - RFE/RL",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsweek.com/norway-welcomes-330-us-troops-tension-russia-513470",
+                "pageTitle": "<b>Norway</b> to Host U.S. Troops in Move Likely to Upset Russia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/sm/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/artemischats/status/1006578463938146304",
+                "pageTitle": "Artemis Moshtaghian on Twitter: &quot;The government of #<b>Norway</b> has ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DfgVxmuUEAAYJjC.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.aawsat.com/english/home/article/1239421/norway-discusses-extension-us-marines-presence",
+                "pageTitle": "<b>Norway</b> Discusses Extension of US <b>Marines</b>&#39; Presence | Asharq AL ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://m.aawsat.com/sites/default/files/styles/large/public/2018/04/16/download_2.jpg?itok=B6k9vG_t"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/europe/201710311058677081-us-marine-corps-norway-questions/",
+                "pageTitle": "US Marine Presence Extended in <b>Norway</b>, <b>Norwegian</b> Lawmakers ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jimbakkershow.com/news/norway-russia-relations-deteriorate-following-u-s-marines-base-extension-russian-embassy/",
+                "pageTitle": "<b>Norway</b>-Russia relations to deteriorate following U.S. <b>Marines</b>&#39; base ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2018/06/12091853/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/military/201701171049673699-norway-usa-marines/",
+                "pageTitle": "Cold War Apparitions Resurface as <b>Norway</b> Welcomes US <b>Marines</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://aawsat.com/english/home/article/1239421/norway-discusses-extension-us-marines-presence?amp",
+                "pageTitle": "<b>Norway</b> Discusses Extension of US <b>Marines</b>&#39; Presence | Asharq AL ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://aawsat.com/sites/default/files/styles/large/public/2018/04/16/download_2.jpg?itok=B6k9vG_t"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsweek.com/f-22-vs-f-35-us-and-norway-face-amid-russian-threat-1077811",
+                "pageTitle": "F-22 vs. F-35: US and <b>Norway</b> Face Off Amid Russian Threat",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/sm/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ibtimes.co.uk/moscow-concerned-hundreds-us-marines-land-norway-training-mission-1601407",
+                "pageTitle": "Russia irked as hundreds of US <b>Marines</b> deployed in <b>Norway</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d.ibtimes.co.uk/en/full/1583186/us-marines.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rferl.org/a/us-needs-up-game-arctic-amid-russian-chinese-development-ambitions-mattis-pentagon-chief-/29320591.html",
+                "pageTitle": "Mattis Says U.S. Needs To &#39;Up Its Game&#39; In Arctic Amid Russian ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w144_r1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=98XIFrRIiS0",
+                "pageTitle": "Russia Warns <b>Norway</b>: US Marine Corp could be viewed as ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAG0zHve_OHnN2qz3MuaJW6hW1m7g"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsweek.com/topic/norway",
+                "pageTitle": "<b>Norway</b> - Newsweek",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/sm/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://socioecohistory.wordpress.com/2018/06/21/us-marines-in-norway-clearly-a-provocation-toward-russia-former-pentagon-officer/",
+                "pageTitle": "US <b>Marines in Norway</b> &#39;Clearly a Provocation&#39; Toward Russia ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.youtube.com/vi/2tgzeZFPSMg/0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vosizneias.com/259644/2017/01/16/oslo-hundreds-of-us-marines-land-in-norway-irking-russia/",
+                "pageTitle": "Oslo - Hundreds Of US <b>Marines</b> Land In <b>Norway</b>, Irking Russia",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vosizneias.com/wp-content/uploads/2017/01/h_53246505.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.seattletimes.com/author/henrik-pryser-libell/",
+                "pageTitle": "HENRIK PRYSER LIBELL | The Seattle Times",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static.seattletimes.com/wp-content/uploads/2017/01/7c4af8ce-dc43-11e6-a71b-d8fa358cf965-780x530.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://maps.southfront.org/norway-wants-more-u-s-marines-deployed/",
+                "pageTitle": "<b>Norway</b> Wants More U.S. <b>Marines</b> Deployed - SouthFront",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://southfront.org/wp-content/uploads/2018/06/1-110.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ar15.com/forums/general/300--Marines-land-in-Norway-for-Obama-s-Let-s-See-How-Many-People-I-Can-Piss-Off-Before-I-leave-plan/5-1955226/?",
+                "pageTitle": "300+ <b>Marines</b> land in <b>Norway</b> for Obama&#39;s Let&#39;s-See-How-Many ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=&fh=&fw=&ll=780&pl=468&sq=&r=LYNXMPED0F11Y"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.waonews.com/news/19399-Norway_plans_to_increase_U_S_foreign_media_Russia_or_Wrath.html",
+                "pageTitle": "<b>Norway</b> plans to increase U.S. foreign media: Russia or Wrath ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.waonews.com/uploads/2018/06//eae08952a5e46e44e2eff73647f2dde1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://foreignpolicy.com/tag/norway/",
+                "pageTitle": "<b>Norway</b> \u2013 Foreign Policy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800&h=1000&crop=0,0,300,0"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/user/RTAmerica/videos?disable_polymer=1",
+                "pageTitle": "RT America - YouTube",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB6UAtGDY7y0l0yu_TUf3VTDhm1qw"
+                    }
+                ]
+            },
+            {
+                "url": "https://jimbakkershow.com/news/record-number-u-s-marines-train-australia-symbolic-challenge-china/",
+                "pageTitle": "Record number of U.S. <b>Marines</b> to train in Australia in symbolic ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2018/06/12091853/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.arctictoday.com/week-ahead-second-generation/",
+                "pageTitle": "The Week Ahead: Second generation - Arctic Today",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.arctictoday.com/wp-content/uploads/2018/06/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.w3livenews.com/TopStories/2018/06/15/More-US-Marines-In-Norway-Could-Cause-Growing-Tensions-Russia-Warns/9291603",
+                "pageTitle": "More US <b>Marines In Norway</b> Could Cause &#39;Growing Tensions ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1200_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1pxYTJSMkVnSmxiaWdBUAE",
+                "pageTitle": "Google News - Ine Marie Eriksen S\u00f8reide - Latest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2018.06/article/5b1fa960dda4c8b7328b45ec.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jimbakkershow.com/news/as-winter-comes-nato-kicks-off-largest-maneuvers-since-cold-war/",
+                "pageTitle": "As winter comes, NATO kicks off largest maneuvers since Cold War",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/d2c13moo8u717n.cloudfront.net/wp-content/uploads/sites/11/2018/06/12091853/2018-06-12T140050Z_1_LYNXMPEE5B15I_RTROPTP_4_NORWAY-US-RUSSIA.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://danieldeubank.wordpress.com/category/united-states-marine-corps/page/2/",
+                "pageTitle": "United States Marine Corps | Daniel D. Eubank&#39;s Blog | Page 2",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://danieldeubank.files.wordpress.com/2018/06/marines-in-norway.jpg?w=450"
+                    }
+                ]
+            },
+            {
+                "url": "https://danieldeubank.wordpress.com/page/3/",
+                "pageTitle": "Daniel D. Eubank&#39;s Blog | Just another WordPress.com weblog ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://danieldeubank.files.wordpress.com/2018/06/marines-in-norway.jpg?w=450"
+                    }
+                ]
+            },
+            {
+                "url": "https://foreignpolicy.com/category/section/dispatch/",
+                "pageTitle": "Dispatch \u2013 Foreign Policy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800&h=1000&crop=0,0,300,0"
+                    }
+                ]
+            },
+            {
+                "url": "http://eclectica28.rssing.com/XMbAttlA5moAFhgAQzsAz1pA8soAwitA/I.BsYci1hok6Wm/08/R0X-v/ARBdCpntsMMmR_KfNpn_sBMkpvHehloytBMsgai.PwHjh/pptVFgtv28pajBsTv6:VTS/krS/S8L3y6u.1wGbpc2pICH.",
+                "pageTitle": "Thomas Nilsen, The Independent Barents Observer \u2013 Eye on the Arctic",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://foreignpolicy.com/category/dispatch/",
+                "pageTitle": "Dispatch \u2013 Foreign Policy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800&h=1000&crop=0,0,300,0"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/russia-norway-d0.html",
+                "pageTitle": "Russia <b>Norway</b> | www.picswe.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://techjollof.com/2017/06/24/norway-russia-relations-to-deteriorate-following-u-s-marines-base-extension-russian-embassy/",
+                "pageTitle": "<b>Norway</b>-Russia relations to deteriorate following U.S. <b>Marines</b>&#39; base ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://techjollof.com/wp-content/uploads/2017/06/1498316358_"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.russianinsight.com/norway-russia-relations-to-deteriorate-following-u-s-marines-base-extension-russian-embassy/",
+                "pageTitle": "<b>Norway</b>-Russia relations to deteriorate following U.S. <b>Marines</b>&#39; base ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170624&t=2&i=1190335114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED5N07Y"
+                    }
+                ]
+            },
+            {
+                "url": "https://usmarines.einnews.com/country/estonia",
+                "pageTitle": "Estonia U.S. Marine Corps News Monitoring Service &amp; Press ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://forum.gcaptain.com/t/pay-and-trip-lengths-on-sbx-1/16922/17",
+                "pageTitle": "Pay and trip lengths on SBX-1? - Maritime Employment - gCaptain ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=1200&r=LYNXMPED0F11Y"
+                    }
+                ]
+            },
+            {
+                "url": "http://software-help.info/moscow-says-norways-decision/",
+                "pageTitle": "Moscow Says Norways Decision - Software Help",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.mogaznews.com/collection/336782/Gearing-up-for-BATTLE-US-troops-land-in-Norway-to-train-.html",
+                "pageTitle": "Gearing up for BATTLE? US troops land in <b>Norway</b> to train ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/US-Marines-Norway-791597.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailysabah.com/europe/2018/06/14/vienna-mosque-previously-shut-down-by-austrian-government-reopens",
+                "pageTitle": "Vienna mosque previously shut down by Austrian government ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iadsb.tmgrup.com.tr/e437ca/200/134/0/0/793/532?u=https://idsb.tmgrup.com.tr/2018/06/14/russia-vows-retaliation-after-norway-invites-more-us-marines-1528984709464.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tipestry.com/sites/oKhWc2bZe1zcSCv5n5OQjplAhqEi10jTDczmDdFek9hj7JKtqMncNesf8N8kuHnShkVIqWU7zefrtybfMHVJYkiWlnnCQMp7ygk0y6OpZWKNbcAeIGBS/topics/992",
+                "pageTitle": "1. Russia warns <b>Norway</b> of - Tipestry - comment and tip ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.independent.co.uk/s3fs-public/styles/story_large/public/brightcove/5797883964001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://joinfo.com/en/tag/russia",
+                "pageTitle": "Tags Russia - joinfo.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://joinfo.com/img/sites/2/2017/06/download6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://abilk.com/gearing-up-for-battle-us-troops-land-in-norway-to-train-for-arctic-warfare-survival/",
+                "pageTitle": "Gearing up for BATTLE? US troops land in <b>Norway</b> to train for ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://abilk.com/wp-content/uploads/2017/01/US-Marines-Norway-791597.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.w3livenews.com/TopStories/2018/06/15/Additional-US-Troops-In-Norway-Could-Bring-Destabilizing-Impact-Russia-Says/9291602",
+                "pageTitle": "Additional US Troops In <b>Norway</b> Could Bring &#39;Destabilizing&#39; Impact ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/full/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/norwegian-digital-border-defense",
+                "pageTitle": "<b>Norwegian</b> Digital Border Defense - DBSecurity",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    }
+                ]
+            },
+            {
+                "url": "http://viralshow247.com/2018/06/18/feds-will-build-tent-city-for-migrant-kids-in-tornillo-texas/",
+                "pageTitle": "Feds will build tent city for migrant kids in Tornillo, Texas",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://half-pencil.loan/peek/winter-warfare-training-jan",
+                "pageTitle": "Winter Warfare Training Jan - Half Pencil",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.4conservative.com/sputniknews.com/occupation-how-norway-was-scaremongered-into-doubling-us-military-presence/",
+                "pageTitle": "&#39;Occupation&#39;: How <b>Norway</b> Was Scaremongered Into Doubling US ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/104967/32/1049673243.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.4search.com/upi.com/marines-send-f-35b-on-first-combat-strike/",
+                "pageTitle": "<b>Marines</b> send F-35B on first combat strike | 4search.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2018.06/article/5b1fa960dda4c8b7328b45ec.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://dailynht.com/story/49778",
+                "pageTitle": "The New Cold Front in Russia&#39;s Information War \u2013 Daily NHT",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://dailynht.com/news/wp-content/uploads/2018/10/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ceonews.info/news/hundreds-norways-favorite-model",
+                "pageTitle": "Hundreds Norways Favorite Model - CEO News",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.rcinet.ca/eye-on-the-arctic/wp-content/uploads/sites/30/2018/06/rtx68q83-1024x681.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://klikmusik.men/watch?v=I9qM_tTItT0",
+                "pageTitle": "Stormtroopers VS US <b>Marines</b> | Combat History &amp; Tactics | KlikMusik",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.youtube.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://downloadmp3x.com/watch/hahxF0-h05Q/",
+                "pageTitle": "Russia vows revenge of US military build-up in <b>Norway</b>-China Adds ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.youtube.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://strategicstudyindia.blogspot.com/2018/10/a-new-cold-front-in-russias-information.html",
+                "pageTitle": "Indian Strategic Studies: A New Cold Front in Russia&#39;s Information War",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.russia.netizen24.com/2018/10/the-new-cold-front-in-russias.html",
+                "pageTitle": "The New Cold Front in Russia&#39;s Information War | Netizen 24 Russia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://joinfo.com/en/world/1005133_russian-army-holds-exercises-aimed-isolation-baltics-nato-makes-training-nuclear-attack-warsaw.html",
+                "pageTitle": "Russian army holds exercises aimed at isolation of Baltics from ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://joinfo.com/img/sites/2/2017/06/download6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/norway-nato-8b.html",
+                "pageTitle": "<b>Norway</b> Nato | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://si.wsj.net/public/resources/images/BN-RQ573_nornat_GR_20170116130912.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailysabah.com/europe/2018/06/14/greek-opposition-calls-censure-vote-against-macedonia-name-deal",
+                "pageTitle": "Greek opposition calls censure vote against Macedonia name deal ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iadsb.tmgrup.com.tr/e437ca/200/134/0/0/793/532?u=https://idsb.tmgrup.com.tr/2018/06/14/russia-vows-retaliation-after-norway-invites-more-us-marines-1528984709464.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailysabah.com/europe/2018/06/14/uk-police-arrest-man-over-threatening-punish-a-muslim-day-letters",
+                "pageTitle": "UK police arrest man over threatening &#39;Punish a Muslim Day&#39; letters ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iadsb.tmgrup.com.tr/e437ca/200/134/0/0/793/532?u=https://idsb.tmgrup.com.tr/2018/06/14/russia-vows-retaliation-after-norway-invites-more-us-marines-1528984709464.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://wap.codedfilm.com/download/russia-plans-missile-firing-exercise-off-norway-amid-nato-drills/J47ojogh05k",
+                "pageTitle": "Download Russia Plans Missile Firing Exercise Off <b>Norway</b> Amid ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.youtube.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nvemedia.com/info/norway-amid-nato-drills",
+                "pageTitle": "<b>Norway</b> Amid Nato Drills - NVE Media",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.rferl.org/9EA268C7-F34A-4694-BE64-7519A0B79C89_cx0_cy5_cw0_w1023_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mp3silver.ga/post/russia-vows-consequences-after-norway-invites-more-us-marines.html",
+                "pageTitle": "Russia Vows Consequences After <b>Norway</b> Invites More Us <b>Marines</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/UXuLpeNJHP8/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailysabah.com/europe/2018/06/15/growing-row-over-migration-threatens-german-coalition",
+                "pageTitle": "Growing row over migration threatens German coalition - Daily Sabah",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iadsb.tmgrup.com.tr/e437ca/200/134/0/0/793/532?u=https://idsb.tmgrup.com.tr/2018/06/14/russia-vows-retaliation-after-norway-invites-more-us-marines-1528984709464.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wehavemoved.info/author/reid-standish",
+                "pageTitle": "Reid Standish \u2013 Foreign Policy - www.wehavemoved.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://foreignpolicymag.files.wordpress.com/2018/10/gettyimages-631821968.jpg?w=1800&h=1000&crop=0,0,300,0"
+                    }
+                ]
+            },
+            {
+                "url": "https://joinfo.com/en/world/1014332_russia-creates-an-army-corps-of-ukrainian-citizens-security-service-of-ukraine.html",
+                "pageTitle": "Russia creates an army corps of Ukrainian citizens \u2013 Security ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://joinfo.com/img/sites/2/2017/06/download6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://trendsreader.com/gallery/lands-300-us-soldiers-in-norway",
+                "pageTitle": "Lands 300 US soldiers in <b>Norway</b> - Trends reader",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s4.reutersmedia.net/resources/r/?m=02&d=20170116&t=2&i=1168923605&w=&fh=&fw=&ll=780&pl=468&sq=&r=LYNXMPED0F11Y"
+                    }
+                ]
+            },
+            {
+                "url": "https://joinfo.com/en/world/1013721_russian-mig-31-fighter-jet-crashed-in-syberia-pilots-ejected.html",
+                "pageTitle": "Russian MiG-31 fighter jet crashed in Syberia, pilots ejected - Joinfo",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://joinfo.com/img/sites/2/2017/06/download6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://geek-tattoos.info/info/marine-criticizes-united-states-government",
+                "pageTitle": "Marine Criticizes United States Government \u2013 Geek Tattoos",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://amp.businessinsider.com/images/594e81eed084cc351c8b488a-750-563.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://viralshow247.com/2018/06/18/harvard-acknowledged-asian-americans-faced-admissions/",
+                "pageTitle": "Harvard acknowledged Asian-Americans faced admissions penalty",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2018/06/14/gettyimages-631821968.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tomatobubble.com/id1086.html",
+                "pageTitle": "JANUARY 2017 - Tomato Bubble",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://static01.nyt.com/images/2017/01/17/world/17NORWAY-1/17NORWAY-1-master768.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nbc.atozviews.com/watch/z8zv3vph2hx6x1j5jr7rq2qw8wv3v0u6uh2hc.html",
+                "pageTitle": "Nato Reports Russian Naval Buildup Amid Syria Tensions - Nbc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.youtube.com/vi/2tgzeZFPSMg/0.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://ex.f3img.gq/api/image?url=https%3A%2F%2Fcdni.rt.com%2Ffiles%2F2018.06%2Fthumbnail%2F5b1fa960dda4c8b7328b45ec.jpg&w=865"
+            },
+            {
+                "url": "https://cdns.yournewswire.com/wp-content/uploads/2017/01/marines-norway.jpg"
+            },
+            {
+                "url": "http://english.fastnews.lk/wp-content/uploads/2018/06/wwww-1.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/2tgzeZFPSMg/hqdefault.jpg"
+            },
+            {
+                "url": "https://www.thelocal.no/userdata/images/article/bf578037970c8b2ea30e8d52889b4d258ca1007ca280be22b5d3df117f2ba7a6.jpg"
+            },
+            {
+                "url": "https://www.royalnavy.mod.uk/-/media/royal-navy-responsive/images/news/fleet-air-arm/chf/130312-chf-norway/chf1300110791.jpg?mh=447&mw=980&thn=0&hash=736FE675C1F94A04AC3307C174E1583754A52E4E"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-mlhj86v4SZQ/WkIH_4hH8_I/AAAAAAAAnr0/Oh2ShNV9U_EspEA3jvk_4x7YS6orwYtngCLcBGAs/s640/marines-in-norway-1800.jpg"
+            },
+            {
+                "url": "https://thedefensepost.com/wp-content/uploads/2018/06/us-marines-norway-4341230.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "marines in norway",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.90768665,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7661374,
+                        "y": 0.27204633
+                    },
+                    {
+                        "x": 0.8357946,
+                        "y": 0.27204633
+                    },
+                    {
+                        "x": 0.8357946,
+                        "y": 0.61186695
+                    },
+                    {
+                        "x": 0.7661374,
+                        "y": 0.61186695
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.905638,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.21786742,
+                        "y": 0.1702691
+                    },
+                    {
+                        "x": 0.40095612,
+                        "y": 0.1702691
+                    },
+                    {
+                        "x": 0.40095612,
+                        "y": 0.859378
+                    },
+                    {
+                        "x": 0.21786742,
+                        "y": 0.859378
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.84246886,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6820508,
+                        "y": 0.26263458
+                    },
+                    {
+                        "x": 0.7592371,
+                        "y": 0.26263458
+                    },
+                    {
+                        "x": 0.7592371,
+                        "y": 0.6005728
+                    },
+                    {
+                        "x": 0.6820508,
+                        "y": 0.6005728
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.78682256,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.40346342,
+                        "y": 0.2644562
+                    },
+                    {
+                        "x": 0.5181837,
+                        "y": 0.2644562
+                    },
+                    {
+                        "x": 0.5181837,
+                        "y": 0.6614262
+                    },
+                    {
+                        "x": 0.40346342,
+                        "y": 0.6614262
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6484591,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8498279,
+                        "y": 0.29047358
+                    },
+                    {
+                        "x": 0.9190143,
+                        "y": 0.29047358
+                    },
+                    {
+                        "x": 0.9190143,
+                        "y": 0.5375883
+                    },
+                    {
+                        "x": 0.8498279,
+                        "y": 0.5375883
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "name": "Luggage & bags",
+            "score": 0.64458764,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.14255847,
+                        "y": 0.4680588
+                    },
+                    {
+                        "x": 0.27198023,
+                        "y": 0.4680588
+                    },
+                    {
+                        "x": 0.27198023,
+                        "y": 0.75329113
+                    },
+                    {
+                        "x": 0.14255847,
+                        "y": 0.75329113
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "name": "Luggage & bags",
+            "score": 0.55343866,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.33849654,
+                        "y": 0.5601455
+                    },
+                    {
+                        "x": 0.49333003,
+                        "y": 0.5601455
+                    },
+                    {
+                        "x": 0.49333003,
+                        "y": 0.8378484
+                    },
+                    {
+                        "x": 0.33849654,
+                        "y": 0.8378484
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "name": "Luggage & bags",
+            "score": 0.5391444,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.48806924,
+                        "y": 0.52625597
+                    },
+                    {
+                        "x": 0.5762528,
+                        "y": 0.52625597
+                    },
+                    {
+                        "x": 0.5762528,
+                        "y": 0.7101527
+                    },
+                    {
+                        "x": 0.48806924,
+                        "y": 0.7101527
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/080hkjn",
+            "name": "Handbag",
+            "score": 0.537256,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.14255847,
+                        "y": 0.4680588
+                    },
+                    {
+                        "x": 0.27198023,
+                        "y": 0.4680588
+                    },
+                    {
+                        "x": 0.27198023,
+                        "y": 0.75329113
+                    },
+                    {
+                        "x": 0.14255847,
+                        "y": 0.75329113
+                    }
+                ]
+            }
+        }
+    ]
+}

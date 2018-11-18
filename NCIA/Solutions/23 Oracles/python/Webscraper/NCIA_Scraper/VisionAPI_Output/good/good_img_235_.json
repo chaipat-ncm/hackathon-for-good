@@ -1,0 +1,640 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/09d_r",
+            "description": "mountain",
+            "score": 0.76776034,
+            "topicality": 0.76776034
+        },
+        {
+            "mid": "/m/07sn5gn",
+            "description": "geological phenomenon",
+            "score": 0.74510866,
+            "topicality": 0.74510866
+        },
+        {
+            "mid": "/m/01cbzq",
+            "description": "rock",
+            "score": 0.65606385,
+            "topicality": 0.65606385
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.52321273,
+            "topicality": 0.52321273
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 50,
+                        "blue": 30
+                    },
+                    "score": 0.12802388,
+                    "pixelFraction": 0.011434253
+                },
+                {
+                    "color": {
+                        "red": 26,
+                        "green": 24,
+                        "blue": 20
+                    },
+                    "score": 0.12263108,
+                    "pixelFraction": 0.02353136
+                },
+                {
+                    "color": {
+                        "red": 83,
+                        "green": 82,
+                        "blue": 60
+                    },
+                    "score": 0.12402831,
+                    "pixelFraction": 0.014085674
+                },
+                {
+                    "color": {
+                        "red": 51,
+                        "green": 48,
+                        "blue": 43
+                    },
+                    "score": 0.094915986,
+                    "pixelFraction": 0.02568564
+                },
+                {
+                    "color": {
+                        "red": 84,
+                        "green": 83,
+                        "blue": 76
+                    },
+                    "score": 0.070702486,
+                    "pixelFraction": 0.03272848
+                },
+                {
+                    "color": {
+                        "red": 107,
+                        "green": 76,
+                        "blue": 54
+                    },
+                    "score": 0.062361673,
+                    "pixelFraction": 0.0024028502
+                },
+                {
+                    "color": {
+                        "red": 74,
+                        "green": 45,
+                        "blue": 24
+                    },
+                    "score": 0.049461674,
+                    "pixelFraction": 0.0014914243
+                },
+                {
+                    "color": {
+                        "red": 121,
+                        "green": 119,
+                        "blue": 112
+                    },
+                    "score": 0.043430813,
+                    "pixelFraction": 0.055016987
+                },
+                {
+                    "color": {
+                        "red": 77,
+                        "green": 88,
+                        "blue": 62
+                    },
+                    "score": 0.04213767,
+                    "pixelFraction": 0.007871406
+                },
+                {
+                    "color": {
+                        "red": 159,
+                        "green": 159,
+                        "blue": 156
+                    },
+                    "score": 0.03511939,
+                    "pixelFraction": 0.15030243
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 999
+                        },
+                        {
+                            "x": 999,
+                            "y": 540
+                        },
+                        {
+                            "y": 540
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01c096",
+                "score": 1.2721336,
+                "description": "Bagram Airfield"
+            },
+            {
+                "entityId": "/m/024l5n",
+                "score": 1.0519739,
+                "description": "Bagram"
+            },
+            {
+                "entityId": "/m/012hd89g",
+                "score": 0.82515,
+                "description": "Resolute Support Mission"
+            },
+            {
+                "entityId": "/m/0494n",
+                "score": 0.764478,
+                "description": "Kabul"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.657,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/0m0gxzz",
+                "score": 0.5952,
+                "description": "Withdrawal of U.S. troops from Afghanistan"
+            },
+            {
+                "entityId": "/m/01bl19",
+                "score": 0.5541,
+                "description": "International Security Assistance Force"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.5522
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.5358,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.5173,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.4756
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.4565,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/24ymcsd_h05cj",
+                "score": 0.4481
+            },
+            {
+                "entityId": "/m/05p9d72",
+                "score": 0.059595,
+                "description": "Lubom\u00edr Zaor\u00e1lek"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 7.128961e-5,
+                "description": "Afghanistan"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+            },
+            {
+                "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+            },
+            {
+                "url": "https://84.gostreamcdn.net/uploads/images/news/755x390-afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+            },
+            {
+                "url": "https://84.gostreamcdn.net/uploads/images/news/745x500-afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+            },
+            {
+                "url": "http://defence.az/photos/2018/10/1539842291.jpg"
+            },
+            {
+                "url": "https://cdn2.img.sputniknews.com/images/106898/47/1068984738.jpg"
+            },
+            {
+                "url": "https://84.gostreamcdn.net/uploads/images/news/afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+            },
+            {
+                "url": "http://defence.az/resizer.php?src=http://defence.az/photos/2018/10/1539842291.jpg&h=123&w=225&zc=1&q=100"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://cdn2.img.sputniknews.com/images/106898/47/1068984733.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://sputniknews.com/tags/geo_Afghanistan/",
+                "pageTitle": "<b>Afghanistan</b> - Sputnik International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/106898/47/1068984733.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/europe/201811051069507745-czech-nato-afghanistan-mission/",
+                "pageTitle": "Czech Ex-FM Under Fire for Slamming NATO Mission in <b>Afghanistan</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    },
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/asia/201810181068984561-afghanistan-nato-czech-military/",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    },
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/military/201811171069888103-belgium-afghanistan-military-contingent/",
+                "pageTitle": "Belgium to Boost Troops Number in <b>Afghanistan</b> by Over 2.5 Times ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.sputniknews.com/images/106898/47/1068984738.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://defence.az/en/news/130596/five-czech-soldiers-injured-near-us-bagram-base-in-afghanistan",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://defence.az/photos/2018/10/1539842291.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://defence.az/en/news/130596",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://defence.az/photos/2018/10/1539842291.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://defence.az/az/news/130596/five-czech-soldiers-injured-near-us-bagram-base-in-afghanistan",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://defence.az/photos/2018/10/1539842291.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.w3livenews.com/TopStories/2018/10/19/Five-Czech-Soldiers-Injured-Near-US-Bagram-Base-in-Afghanistan/10246600",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://world-ai.news/474392/five-czech-soldiers-injured-near-us-bagram-base-in-afghanistan",
+                "pageTitle": "Five Czech Soldiers Injured Near US Bagram Base in <b>Afghanistan</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://world-ai.news/img/ef/99/c0/13dfd9cd370cc389d4af6c24b397895ca729de84d5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://world-ai.news/504824/czech-ex-fm-under-fire-for-slamming-nato-mission-in-afghanistan-politician",
+                "pageTitle": "Czech Ex-FM Under Fire for Slamming NATO Mission in <b>Afghanistan</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://world-ai.news/img/ef/99/c0/13dfd9cd370cc389d4af6c24b397895ca729de84d5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/near-bagram-32.html",
+                "pageTitle": "Near Bagram | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/unrest-nato-19.html",
+                "pageTitle": "Unrest Nato | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nvemedia.com/info/bagram-s-maintainers-push",
+                "pageTitle": "Bagram S Maintainers Push - NVE Media",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://defence.az/en/cats/20",
+                "pageTitle": "Syrian Forces begin military drills in Eastern Idlib - Military news ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://defence.az/resizer.php?src=http://defence.az/photos/2018/10/1539842291.jpg&h=123&w=225&zc=1&q=100"
+                    }
+                ]
+            },
+            {
+                "url": "https://military.einnews.com/country/czech",
+                "pageTitle": "Czech Republic Military News Monitoring Service &amp; Press Release ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://world-ai.news/507428/india-has-yet-to-commit-to-attending-afghan-peace-talks-in-moscow-source",
+                "pageTitle": "India Has Yet to Commit to Attending Afghan Peace Talks in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://world-ai.news/img/ef/99/c0/13dfd9cd370cc389d4af6c24b397895ca729de84d5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.russianinsight.com/india-has-yet-to-commit-to-attending-afghan-peace-talks-in-moscow-source/",
+                "pageTitle": "India Has Yet to Commit to Attending Afghan Peace Talks in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.francheval.com/en/?article=13142",
+                "pageTitle": "US Sanctions Against Iran Taking Full Effect ... - Francheval News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tecstar.info/info/self-defense-forces-start-peace-talks",
+                "pageTitle": "Self Defense Forces Start Peace Talks | Tecstar",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ruediger-will.com/i/reportedly-sent-military-personnel",
+                "pageTitle": "Reportedly Sent Military Personnel | Ruediger Will",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://thenewsslate.com/News/Keyword/Suicide%20attack",
+                "pageTitle": "Suicide attack - TheNewsSlate.com Search | Australia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984741.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://es.news-front.info/2018/10/18/cinco-soldados-checos-heridos-cerca-de-la-base-estadounidense-de-bagram-en-afganistan/",
+                "pageTitle": "Cinco soldados checos heridos cerca de la base estadounidense ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://es.news-front.info/wp-content/uploads/2018/10/1068984726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haber365.com.tr/dunya-haberleri/afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi-h99176.html",
+                "pageTitle": "Afganistan&#39;da ABD \u00dcss\u00fc Yak\u0131n\u0131nda Be\u015f \u00c7ek Asker Yaraland\u0131 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://84.gostreamcdn.net/uploads/images/news/755x390-afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+                    },
+                    {
+                        "url": "https://84.gostreamcdn.net/uploads/images/news/afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+                    },
+                    {
+                        "url": "https://84.gostreamcdn.net/uploads/images/news/745x500-afganistanda-abd-ussu-yakininda-bes-cek-asker-yaralandi.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdn5.img.sputniknews.com/images/106898/47/1068984726.jpg"
+            },
+            {
+                "url": "https://www.unomaha.edu/international-studies-and-programs/center-for-afghanistan-studies/academics/transboundary-water-research/DLM8/Fig%208.2%20afghanistan-drought-unhcr.jpg"
+            },
+            {
+                "url": "https://www.ctvnews.ca/polopoly_fs/1.112931.1337370811!/httpImage/image._gen/derivatives/landscape_620/image."
+            },
+            {
+                "url": "https://www.albawaba.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/afghan-security-forces-vs-Daesh-nangarhar-eastern-Afghanistan-Afghan-clashes-june-2016-AFP.jpg"
+            },
+            {
+                "url": "https://m.aawsat.com/sites/default/files/styles/article_img_top/public/2018/04/13/afghan_policemen_keep_watch_during_a_battle_with_the_taliban_in_afghanistan._reuters.jpg?itok=ls1bwMW7"
+            },
+            {
+                "url": "https://www.chasingtheunexpected.com/wp-content/uploads/2017/01/kite-runners-herat-how-to-photograph-afghanistan-min.jpg"
+            },
+            {
+                "url": "https://timedotcom.files.wordpress.com/2014/04/us-soldiers-afghanistan.jpg"
+            },
+            {
+                "url": "https://static01.nyt.com/images/2017/06/12/world/12AFGHANISTAN/12AFGHANISTAN-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Afghanistan"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8799765,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.47351944,
+                        "y": 0.15017942
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.15017942
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.6227618
+                    },
+                    {
+                        "x": 0.47351944,
+                        "y": 0.6227618
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8349865,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.61069596,
+                        "y": 0.08006177
+                    },
+                    {
+                        "x": 0.7453041,
+                        "y": 0.08006177
+                    },
+                    {
+                        "x": 0.7453041,
+                        "y": 0.61617357
+                    },
+                    {
+                        "x": 0.61069596,
+                        "y": 0.61617357
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6484591,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.18577829,
+                        "y": 0.35063457
+                    },
+                    {
+                        "x": 0.24461183,
+                        "y": 0.35063457
+                    },
+                    {
+                        "x": 0.24461183,
+                        "y": 0.5859846
+                    },
+                    {
+                        "x": 0.18577829,
+                        "y": 0.5859846
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.61390686,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.61069596,
+                        "y": 0.08006177
+                    },
+                    {
+                        "x": 0.7453041,
+                        "y": 0.08006177
+                    },
+                    {
+                        "x": 0.7453041,
+                        "y": 0.61617357
+                    },
+                    {
+                        "x": 0.61069596,
+                        "y": 0.61617357
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.5223461,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.47351944,
+                        "y": 0.15017942
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.15017942
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.6227618
+                    },
+                    {
+                        "x": 0.47351944,
+                        "y": 0.6227618
+                    }
+                ]
+            }
+        }
+    ]
+}

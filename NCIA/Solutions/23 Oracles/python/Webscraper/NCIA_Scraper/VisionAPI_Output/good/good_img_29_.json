@@ -1,0 +1,922 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 155,
+                        "y": 44
+                    },
+                    {
+                        "x": 233,
+                        "y": 44
+                    },
+                    {
+                        "x": 233,
+                        "y": 134
+                    },
+                    {
+                        "x": 155,
+                        "y": 134
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 171,
+                        "y": 69
+                    },
+                    {
+                        "x": 229,
+                        "y": 69
+                    },
+                    {
+                        "x": 229,
+                        "y": 127
+                    },
+                    {
+                        "x": 171,
+                        "y": 127
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 202.99068,
+                        "y": 90.199455,
+                        "z": -0.00033588783
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 218.58275,
+                        "y": 84.066025,
+                        "z": 18.134846
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 195.87854,
+                        "y": 85.86693,
+                        "z": -6.3754272
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 210.13312,
+                        "y": 83.6338,
+                        "z": -0.05416414
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 217.44473,
+                        "y": 80.996605,
+                        "z": 8.600551
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 220.99261,
+                        "y": 76.80679,
+                        "z": 23.30015
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 214.18565,
+                        "y": 87.43412,
+                        "z": 5.507321
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 219.46252,
+                        "y": 99.3124,
+                        "z": 4.802188
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 215.29916,
+                        "y": 109.50175,
+                        "z": 10.879472
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 214.18459,
+                        "y": 117.52019,
+                        "z": 14.314502
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 204.52882,
+                        "y": 113.66951,
+                        "z": 8.620142
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 216.73854,
+                        "y": 109.48439,
+                        "z": 22.586079
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 214.15138,
+                        "y": 112.741135,
+                        "z": 12.968789
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 216.95868,
+                        "y": 100.38187,
+                        "z": 15.790942
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 209.4934,
+                        "y": 102.40271,
+                        "z": 6.2265663
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 215.85176,
+                        "y": 103.511475,
+                        "z": 9.198921
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 203.96848,
+                        "y": 88.54524,
+                        "z": -1.646745
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 205.8685,
+                        "y": 89.03871,
+                        "z": 3.527696
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 202.88008,
+                        "y": 91.70391,
+                        "z": 0.13259245
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 198.08154,
+                        "y": 90.71588,
+                        "z": -2.3714898
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 202.92789,
+                        "y": 90.05804,
+                        "z": -0.85181445
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 219.0553,
+                        "y": 83.10141,
+                        "z": 16.198675
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 219.10194,
+                        "y": 83.092545,
+                        "z": 22.491186
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 218.07465,
+                        "y": 85.98935,
+                        "z": 17.934082
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 214.75932,
+                        "y": 85.70492,
+                        "z": 14.141722
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 218.43527,
+                        "y": 84.47062,
+                        "z": 17.455698
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 204.05429,
+                        "y": 82.2133,
+                        "z": -5.0330353
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 220.41446,
+                        "y": 76.308846,
+                        "z": 14.310007
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 173.34369,
+                        "y": 102.380356,
+                        "z": 10.315977
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 204.81265,
+                        "y": 88.110466,
+                        "z": 49.80911
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 214.45935,
+                        "y": 82.18226,
+                        "z": 3.6518764
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 210.55777,
+                        "y": 126.36944,
+                        "z": 19.602154
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 180.59087,
+                        "y": 116.878815,
+                        "z": 10.147171
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 211.21976,
+                        "y": 105.1774,
+                        "z": 46.16815
+                    }
+                }
+            ],
+            "rollAngle": -1.3959105,
+            "panAngle": 50.648106,
+            "tiltAngle": -15.863377,
+            "detectionConfidence": 0.6827565,
+            "landmarkingConfidence": 0.4721336,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9854256,
+            "topicality": 0.9854256
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.97081274,
+            "topicality": 0.97081274
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.9526639,
+            "topicality": 0.9526639
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.88137233,
+            "topicality": 0.88137233
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.7791272,
+            "topicality": 0.7791272
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.76180214,
+            "topicality": 0.76180214
+        },
+        {
+            "mid": "/m/03w1r4",
+            "description": "military uniform",
+            "score": 0.71098447,
+            "topicality": 0.71098447
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.67042744,
+            "topicality": 0.67042744
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.64245546,
+            "topicality": 0.64245546
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.60168517,
+            "topicality": 0.60168517
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.57739365,
+            "topicality": 0.57739365
+        },
+        {
+            "mid": "/m/09l63h",
+            "description": "military camouflage",
+            "score": 0.5710092,
+            "topicality": 0.5710092
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.55161494,
+            "topicality": 0.55161494
+        },
+        {
+            "mid": "/m/086mh",
+            "description": "winter",
+            "score": 0.54670817,
+            "topicality": 0.54670817
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.5323906,
+            "topicality": 0.5323906
+        },
+        {
+            "mid": "/m/0167s5",
+            "description": "non commissioned officer",
+            "score": 0.5016711,
+            "topicality": 0.5016711
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.50035065,
+            "topicality": 0.50035065
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 96,
+                        "green": 82,
+                        "blue": 60
+                    },
+                    "score": 0.18576759,
+                    "pixelFraction": 0.057080418
+                },
+                {
+                    "color": {
+                        "red": 27,
+                        "green": 21,
+                        "blue": 18
+                    },
+                    "score": 0.059209317,
+                    "pixelFraction": 0.029020978
+                },
+                {
+                    "color": {
+                        "red": 187,
+                        "green": 194,
+                        "blue": 199
+                    },
+                    "score": 0.03147355,
+                    "pixelFraction": 0.2597028
+                },
+                {
+                    "color": {
+                        "red": 220,
+                        "green": 135,
+                        "blue": 153
+                    },
+                    "score": 0.011824862,
+                    "pixelFraction": 0.00078671327
+                },
+                {
+                    "color": {
+                        "red": 242,
+                        "green": 112,
+                        "blue": 132
+                    },
+                    "score": 0.011798143,
+                    "pixelFraction": 0.00052447553
+                },
+                {
+                    "color": {
+                        "red": 130,
+                        "green": 116,
+                        "blue": 89
+                    },
+                    "score": 0.16000177,
+                    "pixelFraction": 0.043793708
+                },
+                {
+                    "color": {
+                        "red": 65,
+                        "green": 52,
+                        "blue": 32
+                    },
+                    "score": 0.13999785,
+                    "pixelFraction": 0.036713287
+                },
+                {
+                    "color": {
+                        "red": 164,
+                        "green": 150,
+                        "blue": 119
+                    },
+                    "score": 0.08196121,
+                    "pixelFraction": 0.022027971
+                },
+                {
+                    "color": {
+                        "red": 56,
+                        "green": 50,
+                        "blue": 47
+                    },
+                    "score": 0.056737676,
+                    "pixelFraction": 0.04353147
+                },
+                {
+                    "color": {
+                        "red": 40,
+                        "green": 28,
+                        "blue": 10
+                    },
+                    "score": 0.03187354,
+                    "pixelFraction": 0.008741259
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 765
+                        },
+                        {
+                            "x": 765,
+                            "y": 443
+                        },
+                        {
+                            "y": 443
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.48
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/099md",
+                "score": 1.1229322,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0345h",
+                "score": 1.08375,
+                "description": "Germany"
+            },
+            {
+                "entityId": "/m/0df7s5",
+                "score": 1.05375,
+                "description": "Operation Active Endeavour"
+            },
+            {
+                "entityId": "/m/0jl0g",
+                "score": 0.8082,
+                "description": "Angela Merkel"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7508605,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.7225
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7129
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7129,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/012qdp",
+                "score": 0.6124275,
+                "description": "Army officer"
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.48246214,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/04t2sj",
+                "score": 0.4809,
+                "description": "Cabinet of Germany"
+            },
+            {
+                "entityId": "/m/01q9lq",
+                "score": 0.4794,
+                "description": "Bundeswehr"
+            },
+            {
+                "entityId": "/g/11f7r5ym9h",
+                "score": 0.435,
+                "description": "Operation Sea Guardian"
+            },
+            {
+                "entityId": "/m/0gg0l",
+                "score": 0.4191,
+                "description": "Chancellor of Germany"
+            },
+            {
+                "entityId": "/m/03w1r4",
+                "score": 0.39114672,
+                "description": "Military Uniforms"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdni.rt.com/files/2016.09/article/57d9ef93c36188de208b4679.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://img.elcomercio.pe/files/ec_article_multimedia_gallery/uploads/2017/03/22/58d22e956e1fc.jpeg"
+            },
+            {
+                "url": "https://static.life.ru/posts/2016/08/894452/gr/north/5d05444ca4d1b59a75e237a37be108ac__1200x630.JPG"
+            },
+            {
+                "url": "https://attach.forum.ge/post-49-1519724284.png"
+            },
+            {
+                "url": "https://im.haberturk.com/2017/02/16/ver1487237337/1393086_620x410.jpg"
+            },
+            {
+                "url": "https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2017/03/22/58d22e956e1fc.jpeg"
+            },
+            {
+                "url": "http://media.ws.irib.ir/image/4bk97e999a2473e29v_440C247.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.rt.com/news/359363-germany-mediterranean-arms-smuggling/",
+                "pageTitle": "<b>Germany</b> deploys 650 troops on <b>NATO</b> mission in Mediterranean ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2016.09/article/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://aktivpress.com/nato-me-baze-te-re-ne-gjermani/?single_page=1187",
+                "pageTitle": "<b>NATO</b> me baz\u00eb t\u00eb re n\u00eb Gjermani \u2013 AktivPress",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://aktivpress.com/wp-content/uploads/2018/03/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://aktivpress.com/nato-me-baze-te-re-ne-gjermani/?single_page=983",
+                "pageTitle": "<b>NATO</b> me baz\u00eb t\u00eb re n\u00eb Gjermani \u2013 AktivPress",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://aktivpress.com/wp-content/uploads/2018/03/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://aktivpress.com/nato-me-baze-te-re-ne-gjermani/",
+                "pageTitle": "<b>NATO</b> me baz\u00eb t\u00eb re n\u00eb Gjermani \u2013 AktivPress",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://aktivpress.com/wp-content/uploads/2018/03/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/haberleri/skandal",
+                "pageTitle": "Skandal Haberleri, G\u00fcncel Skandal haberleri ve Skandal geli\u015fmeleri",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2017/02/16/ver1487237337/1393086_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/der-operation-active-endeavour",
+                "pageTitle": "Der Operation Active Endeavour \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/2016.09/article/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://elcomercio.pe/mundo/europa/plena-ofensiva-terrorismo-merkel-visita-base-naval-264676",
+                "pageTitle": "En plena ofensiva contra terrorismo, Merkel visita base naval | Foto ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.elcomercio.pe/files/article_content_ec_fotos/uploads/2017/03/22/58d22e956e1fc.jpeg"
+                    },
+                    {
+                        "url": "https://img.elcomercio.pe/files/ec_article_multimedia_gallery/uploads/2017/03/22/58d22e956e1fc.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/dunya/haber/1393086-alman-ordusunda-yasanan-cinsel-icerikli-skandalin-ayrintilari-ortaya-cikti",
+                "pageTitle": "Alman ordusunda ya\u015fanan &#39;cinsel i\u00e7erikli skandal&#39;\u0131n ayr\u0131nt\u0131lar\u0131 ortaya ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2017/02/16/ver1487237337/1393086_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://life.ru/t/%D0%B0%D1%80%D0%BC%D0%B8%D1%8F/894452/niemtsy_ispughany_vozmozhnym_vozvrashchieniiem_prizyva_v_armiiu",
+                "pageTitle": "\u041d\u0435\u043c\u0446\u044b \u0438\u0441\u043f\u0443\u0433\u0430\u043d\u044b \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u043c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0435\u043c \u043f\u0440\u0438\u0437\u044b\u0432\u0430 \u0432 \u0430\u0440\u043c\u0438\u044e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.life.ru/posts/2016/08/894452/gr/north/5d05444ca4d1b59a75e237a37be108ac__1200x630.JPG"
+                    }
+                ]
+            },
+            {
+                "url": "http://aktivpress.com/shteti-me-i-pasur-ne-bote-tash-eshte-ne-rrezik/?single_page=273",
+                "pageTitle": "Shteti m\u00eb i pasur n\u00eb bot\u00eb, tash \u00ebsht\u00eb n\u00eb rrezik \u2013 AktivPress",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://aktivpress.com/wp-content/uploads/2018/03/57d9ef93c36188de208b4679.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://parstoday.com/bn/news/world-i64370",
+                "pageTitle": "\u09b8\u09bf\u09b0\u09bf\u09af\u09bc\u09be\u09b0 \u0989\u09aa\u0995\u09c2\u09b2\u09c7 \u098f\u0997\u09bf\u09af\u09bc\u09c7 \u0986\u09b8\u099b\u09c7 \u09a8\u09cd\u09af\u09be\u099f\u09cb \u09af\u09c1\u09a6\u09cd\u09a7\u099c\u09be\u09b9\u09be\u099c - Parstoday",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.ws.irib.ir/image/4bk97e999a2473e29v_440C247.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://parstoday.com/bn/news/tag--%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A6%BE%E0%A6%97%E0%A6%B0",
+                "pageTitle": "\u09ad\u09c2\u09ae\u09a7\u09cd\u09af\u09b8\u09be\u0997\u09b0 - Parstoday",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.ws.irib.ir/image/4bk97e999a2473e29v_440C247.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://parstoday.com/bn/news/world-i27865",
+                "pageTitle": "&#39;\u09b2\u09c1\u0995\u09bf\u09af\u09bc\u09c7&#39; \u09a5\u09be\u0995\u09be \u09b0\u09c1\u09b6 \u09a1\u09c1\u09ac\u09cb\u099c\u09be\u09b9\u09be\u099c\u09c7\u09b0 \u09ac\u09bf\u09b0\u09c1\u09a6\u09cd\u09a7\u09c7 \u09a4\u09b2\u09cd\u09b2\u09be\u09b8\u09bf \u099a\u09be\u09b2\u09be\u099a\u09cd\u099b\u09c7 \u09a8\u09cd\u09af\u09be\u099f\u09cb ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.ws.irib.ir/image/4bk97e999a2473e29v_440C247.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.haberturk.com/haberleri/sadist",
+                "pageTitle": "Sadist Haberleri, G\u00fcncel Sadist haberleri ve Sadist geli\u015fmeleri",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://im.haberturk.com/2017/02/16/ver1487237337/1393086_620x410.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://parstoday.com/bn/news/world-i30304",
+                "pageTitle": "\u09b0\u09be\u09b6\u09bf\u09af\u09bc\u09be\u09b0 &#39;\u0986\u0997\u09cd\u09b0\u09be\u09b8\u09a8 \u09a0\u09c7\u0995\u09be\u09a4\u09c7&#39; \u0987\u0989\u09b0\u09cb\u09aa\u09c7 \u09af\u09be\u099a\u09cd\u099b\u09c7 \u09b6\u09a4 \u09b6\u09a4 \u09ae\u09be\u09b0\u09cd\u0995\u09bf\u09a8 \u099f\u09cd\u09af\u09be\u0982\u0995 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.ws.irib.ir/image/4bk97e999a2473e29v_440C247.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://forum.ge/?showtopic=35009439&f=&st=0&",
+                "pageTitle": "\u10d9\u10d0\u10db\u10e3\u10e4\u10da\u10d0\u10df\u10d8 \u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 \u10ef\u10d0\u10e0\u10d8\u10e1\u10d7\u10d5\u10d8\u10e1 -&gt; \u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8\u10e1 \u10e4\u10dd\u10e0\u10e3\u10db\u10d8",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://attach.forum.ge/post-49-1519724284.png"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.khaama.com/wp-content/uploads/2014/12/German-Defense-minister.jpg"
+            },
+            {
+                "url": "https://farm2.static.flickr.com/1473/24722290711_8123f30439_b.jpg"
+            },
+            {
+                "url": "http://archive.defense.gov/dodcmsshare/photoessay/2014-09/hires_140903-F-YC884-444a.jpg"
+            },
+            {
+                "url": "http://www.voltairenet.org/local/cache-vignettes/L400xH300/Voltairenet-org_-_1_1_-25-d8fcf.jpg"
+            },
+            {
+                "url": "https://media.arkansasonline.com/img/photos/2015/06/22/resized_99261-germany-nato-response_hanr_48-19753_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d"
+            },
+            {
+                "url": "http://archive.defense.gov/dodcmsshare/photoessay/2014-09/hires_140903-F-YC884-400a.jpg"
+            },
+            {
+                "url": "http://cdn2.spiegel.de/images/image-37745-860_panofree-knxk-37745.jpg"
+            },
+            {
+                "url": "http://archive.defense.gov/dodcmsshare/photoessay/2014-03/hires_140309-Z-HP669-005a.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "germany nato",
+                "languageCode": " invalid_language_code"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9851277,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.11010269,
+                        "y": 0.11285734
+                    },
+                    {
+                        "x": 0.4423679,
+                        "y": 0.11285734
+                    },
+                    {
+                        "x": 0.4423679,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.11010269,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9821546,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.51010275,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.7698974,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.7698974,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.51010275,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.59322923,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.51010275,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.7698974,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.7698974,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.51010275,
+                        "y": 1
+                    }
+                ]
+            }
+        }
+    ]
+}

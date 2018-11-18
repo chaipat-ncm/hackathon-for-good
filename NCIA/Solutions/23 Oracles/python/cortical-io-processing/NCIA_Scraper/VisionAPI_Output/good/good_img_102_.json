@@ -1,0 +1,1014 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 68
+                    },
+                    {
+                        "x": 166
+                    },
+                    {
+                        "x": 166,
+                        "y": 75
+                    },
+                    {
+                        "x": 68,
+                        "y": 75
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 72
+                    },
+                    {
+                        "x": 145
+                    },
+                    {
+                        "x": 145,
+                        "y": 59
+                    },
+                    {
+                        "x": 72,
+                        "y": 59
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 89.56098,
+                        "y": 12.663147,
+                        "z": -0.00014354778
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 114.595795,
+                        "y": 6.9557705,
+                        "z": -14.811757
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 81.91541,
+                        "y": 8.106457,
+                        "z": 8.873969
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 92.27727,
+                        "y": 3.369175,
+                        "z": -7.064836
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 104.48273,
+                        "y": 0.60432243,
+                        "z": -14.283236
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 123.87417,
+                        "y": -1.392828,
+                        "z": -15.953852
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 98.53671,
+                        "y": 8.243355,
+                        "z": -12.456908
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 95.515465,
+                        "y": 22.924267,
+                        "z": -23.495459
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 100.37631,
+                        "y": 35.159103,
+                        "z": -20.131521
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 102.41514,
+                        "y": 44.927948,
+                        "z": -20.541788
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 95.53426,
+                        "y": 42.108536,
+                        "z": -8.627366
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 114.57314,
+                        "y": 38.07193,
+                        "z": -20.215836
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 102.183556,
+                        "y": 39.62773,
+                        "z": -19.271742
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 108.667984,
+                        "y": 25.61409,
+                        "z": -18.503035
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 95.00462,
+                        "y": 28.698526,
+                        "z": -10.379012
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 99.68847,
+                        "y": 28.83683,
+                        "z": -18.830252
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 88.28395,
+                        "y": 10.329557,
+                        "z": -1.1811401
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 94.646996,
+                        "y": 11.614462,
+                        "z": -2.8944864
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 89.58835,
+                        "y": 14.5327,
+                        "z": -0.6272238
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 85.98126,
+                        "y": 14.219156,
+                        "z": 5.2546606
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 88.75264,
+                        "y": 12.575716,
+                        "z": -0.32132533
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 113.42051,
+                        "y": 4.6138916,
+                        "z": -16.044724
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 121.09176,
+                        "y": 6.2432556,
+                        "z": -15.50836
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 114.67844,
+                        "y": 8.810282,
+                        "z": -15.47131
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 109.67207,
+                        "y": 8.295126,
+                        "z": -11.796632
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 114.522835,
+                        "y": 6.716524,
+                        "z": -15.609919
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 85.65505,
+                        "y": 1.9454346,
+                        "z": 0.12582417
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 112.92454,
+                        "y": -4.2500305,
+                        "z": -15.999787
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 94.23566,
+                        "y": 35.69843,
+                        "z": 36.964336
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 151.25723,
+                        "y": 22.713192,
+                        "z": 3.20212
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 97.75352,
+                        "y": 1.4643803,
+                        "z": -11.526115
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 105.28304,
+                        "y": 59.292492,
+                        "z": -20.198317
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 92.26235,
+                        "y": 51.811733,
+                        "z": 20.947481
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 143.84256,
+                        "y": 40.12632,
+                        "z": -9.563694
+                    }
+                }
+            ],
+            "rollAngle": -5.250559,
+            "panAngle": -30.819513,
+            "tiltAngle": 12.875412,
+            "detectionConfidence": 0.6170932,
+            "landmarkingConfidence": 0.13631718,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.98858446,
+            "topicality": 0.98858446
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9622979,
+            "topicality": 0.9622979
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.95523936,
+            "topicality": 0.95523936
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.89268625,
+            "topicality": 0.89268625
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.87321955,
+            "topicality": 0.87321955
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.84533477,
+            "topicality": 0.84533477
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6899259,
+            "topicality": 0.6899259
+        },
+        {
+            "mid": "/m/03w1r4",
+            "description": "military uniform",
+            "score": 0.5631644,
+            "topicality": 0.5631644
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 150,
+                        "green": 195,
+                        "blue": 229
+                    },
+                    "score": 0.23872735,
+                    "pixelFraction": 0.16202775
+                },
+                {
+                    "color": {
+                        "red": 122,
+                        "green": 172,
+                        "blue": 221
+                    },
+                    "score": 0.18334417,
+                    "pixelFraction": 0.113339216
+                },
+                {
+                    "color": {
+                        "red": 21,
+                        "green": 19,
+                        "blue": 15
+                    },
+                    "score": 0.09670492,
+                    "pixelFraction": 0.19018207
+                },
+                {
+                    "color": {
+                        "red": 56,
+                        "green": 50,
+                        "blue": 31
+                    },
+                    "score": 0.04471032,
+                    "pixelFraction": 0.04203096
+                },
+                {
+                    "color": {
+                        "red": 113,
+                        "green": 121,
+                        "blue": 117
+                    },
+                    "score": 0.04106548,
+                    "pixelFraction": 0.067458086
+                },
+                {
+                    "color": {
+                        "red": 134,
+                        "green": 184,
+                        "blue": 229
+                    },
+                    "score": 0.05909893,
+                    "pixelFraction": 0.04058715
+                },
+                {
+                    "color": {
+                        "red": 52,
+                        "green": 51,
+                        "blue": 45
+                    },
+                    "score": 0.042431697,
+                    "pixelFraction": 0.06657576
+                },
+                {
+                    "color": {
+                        "red": 180,
+                        "green": 193,
+                        "blue": 187
+                    },
+                    "score": 0.039518606,
+                    "pixelFraction": 0.051816795
+                },
+                {
+                    "color": {
+                        "red": 87,
+                        "green": 81,
+                        "blue": 58
+                    },
+                    "score": 0.035673346,
+                    "pixelFraction": 0.03288682
+                },
+                {
+                    "color": {
+                        "red": 82,
+                        "green": 84,
+                        "blue": 78
+                    },
+                    "score": 0.031227667,
+                    "pixelFraction": 0.04965108
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 633
+                        },
+                        {
+                            "x": 633,
+                            "y": 421
+                        },
+                        {
+                            "y": 421
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.39999998
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0jdd",
+                "score": 1.2998999,
+                "description": "Afghanistan"
+            },
+            {
+                "entityId": "/m/012w_b",
+                "score": 0.745239,
+                "description": "Manbij"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.6164,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/01znc_",
+                "score": 0.61455,
+                "description": "Turkey"
+            },
+            {
+                "entityId": "/t/2bxjx5c4t6gvs",
+                "score": 0.5488
+            },
+            {
+                "entityId": "/t/2clvyq28bvdgq",
+                "score": 0.5034
+            },
+            {
+                "entityId": "/t/24ymcsd_h05cj",
+                "score": 0.5009
+            },
+            {
+                "entityId": "/m/0f8l9c",
+                "score": 0.46935,
+                "description": "France"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.4396138,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.4115,
+                "description": "News"
+            },
+            {
+                "entityId": "/t/24cbn2zmlzd0f",
+                "score": 0.3692
+            },
+            {
+                "entityId": "/t/24qvwlpxg7yk0",
+                "score": 0.3603
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.34951392,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/03w1r4",
+                "score": 0.29671457,
+                "description": "Military Uniforms"
+            },
+            {
+                "entityId": "/m/06vbd",
+                "score": 0.021246,
+                "description": "Syria"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+            },
+            {
+                "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+            },
+            {
+                "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415172.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://ocdn.eu/images/pulscms/MGQ7MDQsMCwwLDEyOGEsYTZkOzA2LDMxNCwxYmM7MGMsMTQwYjFjZmU3ZjBhYzUyZWRjMDEwZDcwOTc4ZTg0YmUsMSwxLDYsMA__/e63017e7e5612993870bdb66a006d772.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.tasnimnews.com/fa/news/1397/02/08/1711213/%D9%86%DA%AF%D8%A7%D9%87-%D8%B1%D9%88%D8%B2-%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A7%DB%8C%D8%B9%D9%87-%D8%AA%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
+                "pageTitle": "\u0646\u06af\u0627\u0647 \u0631\u0648\u0632|\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 \u0648\u0627\u0642\u0639\u06cc\u062a + ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    },
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415172.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tasnimnews.com/fa/news/1393/10/11/605863/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%A3%D9%85%D9%88%D8%B1%DB%8C%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AF%D8%B1%DB%8C%DA%86%D9%87-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86",
+                "pageTitle": "\u067e\u0627\u06cc\u0627\u0646 \u0645\u0623\u0645\u0648\u0631\u06cc\u062a \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0632 \u062f\u0631\u06cc\u0686\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646 - \u0627\u062e\u0628\u0627\u0631 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/ortadogunun-hasta-liderleri,sVrdpmJ4K02RRpVGnAJZdA/yjEY8bBFaUiKNbMvor2sbQ",
+                "pageTitle": "Ortado\u011fu&#39;nun hasta liderleri - 2 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/ortadogunun-hasta-liderleri,sVrdpmJ4K02RRpVGnAJZdA/_GENHS1ObEG2WQbnmWlGAg",
+                "pageTitle": "Ortado\u011fu&#39;nun hasta liderleri - 4 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/ortadogunun-hasta-liderleri,sVrdpmJ4K02RRpVGnAJZdA/X9w9M8fplk-Gu38ILNfJkA",
+                "pageTitle": "Ortado\u011fu&#39;nun hasta liderleri - 10 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/ortadogunun-hasta-liderleri,sVrdpmJ4K02RRpVGnAJZdA/c1XcRbizQkuW43qHREfQPw",
+                "pageTitle": "Ortado\u011fu&#39;nun hasta liderleri - 6 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/hupuQSdyk0mHPZwDvSJfQA",
+                "pageTitle": "D\u00fcnya - Afgan havaliman\u0131 T\u00fcrk askerine teslim - 14 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 1 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/-HuQ4kF60kq5XKBoJumKzA",
+                "pageTitle": "D\u00fcnya - Afgan havaliman\u0131 T\u00fcrk askerine teslim - 19 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/iNmDrSRyl0ObWMdiVRWH6Q",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 17 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/LTOsHwPrm0OHdYG5--Pl9w",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 16 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/q78xUI_GZEGf1OI5a7nr8g",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 8 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/SPtNrDnhE0myZ1xk-KQL1A",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 3 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ntv.com.tr/galeri/dunya/afgan-havalimani-turk-askerine-teslim,YT_KPGd0tEuhr-yynPGgEQ/5mgpZdVLcEKH7Jku4R9mTA",
+                "pageTitle": "Afgan havaliman\u0131 T\u00fcrk askerine teslim - 7 | NTV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn1.ntv.com.tr/gorsel/dunya/afgan-havalimani-turk-askerine-teslim/,xtGamKBj8kOrpTLOI6L7Ng.jpg?w=960&mode=max&v=20141231152615864"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ghatreh.com/news/nn42381579/%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%B4%D8%A7%DB%8C%D8%B9%D9%87-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1",
+                "pageTitle": "\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 \u0648\u0627\u0642\u0639\u06cc\u062a + \u062a\u0635\u0627\u0648\u06cc\u0631 - \u0634\u0639\u0627\u0631 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://shoaresal.ir/files/fa/multimedia/1397/2/8/123045_433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://shoaresal.ir/fa/news/124779/%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A7%DB%8C%D8%B9%D9%87-%D8%AA%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1",
+                "pageTitle": "\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 \u0648\u0627\u0642\u0639\u06cc\u062a + \u062a\u0635\u0627\u0648\u06cc\u0631",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://shoaresal.ir/files/fa/multimedia/1397/2/8/123045_433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://econews.com/fa/content/1187539",
+                "pageTitle": "\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 \u0648\u0627\u0642\u0639\u06cc\u062a + \u062a\u0635\u0627\u0648\u06cc\u0631 \u0648 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tehranstar.com/1397/02/08/page/10/",
+                "pageTitle": "\u06f1\u06f3\u06f9\u06f7-\u06f0\u06f2-\u06f0\u06f8 \u2013 \u0628\u0631\u06af\u0647 10 \u2013 Tehran Star",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.tehranstar.com/wp-content/uploads/2018/04/d8add8b6d988d8b1-d986d8b8d8a7d985db8cd8a7d986-d981d8b1d8a7d986d8b3d988db8c-d8afd8b1-d8b3d988d8b1db8cd987-d8a7d8b2-d8b4d8a7db8cd8b9d987.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tn.ai/fa/news/1393/10/11/605863/%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%85%D8%A3%D9%85%D9%88%D8%B1%DB%8C%D8%AA-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B2-%D8%AF%D8%B1%DB%8C%DA%86%D9%87-%D8%AF%D9%88%D8%B1%D8%A8%DB%8C%D9%86",
+                "pageTitle": "\u067e\u0627\u06cc\u0627\u0646 \u0645\u0623\u0645\u0648\u0631\u06cc\u062a \u0646\u06cc\u0631\u0648\u0647\u0627\u06cc \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0632 \u062f\u0631\u06cc\u0686\u0647 \u062f\u0648\u0631\u0628\u06cc\u0646 - \u0627\u062e\u0628\u0627\u0631 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zimarra.rssing.com/chan-2104920/all_p611.html",
+                "pageTitle": "611 - KUCANIE WSPIERA WSTAWANIE Z KOLAN - RSSing.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ocdn.eu/images/pulscms/MGQ7MDQsMCwwLDEyOGEsYTZkOzA2LDMxNCwxYmM7MGMsMTQwYjFjZmU3ZjBhYzUyZWRjMDEwZDcwOTc4ZTg0YmUsMSwxLDYsMA__/e63017e7e5612993870bdb66a006d772.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://khabarone.ir/news/15922570/%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A7%DB%8C%D8%B9%D9%87-%D8%AA%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D9%88-%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
+                "pageTitle": "\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 \u0648\u0627\u0642\u0639\u06cc\u062a + \u062a\u0635\u0627\u0648\u06cc\u0631 \u0648 \u0648\u06cc\u062f\u0626\u0648 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mokhbernews.ir/Home/ShowNewsInfo/4828434/%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%D8%B1%DB%8C%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A7%DB%8C%D8%B9%D9%87-%D8%AA%D8%A7-%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA--%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1",
+                "pageTitle": "\u0645\u062e\u0628\u0631 - 1397/02/08 - \u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.shoaresal.ir/files/fa/multimedia/1397/2/8/123045_433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dastres.com/news/view/667541/%D9%86%DA%AF%D8%A7%D9%87_%D8%B1%D9%88%D8%B2%7C%D8%AD%D8%B6%D9%88%D8%B1_%D9%86%D8%B8%D8%A7%D9%85%DB%8C%D8%A7%D9%86_%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%88%DB%8C_%D8%AF%D8%B1_%D8%B3%D9%88%D8%B1%DB%8C%D9%87_%D8%A7%D8%B2_%D8%B4%D8%A7%DB%8C%D8%B9%D9%87_%D8%AA%D8%A7_%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA_+_%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1_%D9%88_%D9%88%DB%8C%D8%AF%D8%A6%D9%88",
+                "pageTitle": "\u0633\u0627\u06cc\u062a \u062f\u0633\u062a\u0631\u0633 :: \u0646\u06af\u0627\u0647 \u0631\u0648\u0632|\u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0648\u06cc \u062f\u0631 \u0633\u0648\u0631\u06cc\u0647 \u0627\u0632 \u0634\u0627\u06cc\u0639\u0647 \u062a\u0627 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/10/11/139310111302154064415174.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://gdb.voanews.com/BDA9690B-220D-4C7A-9B0E-A6E61E5A333E_w1023_r1_s.jpg"
+            },
+            {
+                "url": "https://wearethemighty-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F17308276%2F980x.jpg/2000%2C2000/qaGW19F88Hcf0jfr/img.jpg"
+            },
+            {
+                "url": "https://www.alaraby.co.uk/file/Get/3f7d7378-9830-41ff-afc1-307d871115c9"
+            },
+            {
+                "url": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2017/7/17/2b2a302b8af3453f9c58f8758e9885b3_18.jpg"
+            },
+            {
+                "url": "https://www.armyrecognition.com/images/stories/news/2012/january/Nomadic_Tuareg_mercenaries_soldiers_of_the_former_army_of_Gaddafi_640_001.jpg"
+            },
+            {
+                "url": "http://www.bossiersheriff.com/images/young_marines/Insp2.jpg"
+            },
+            {
+                "url": "https://static.timesofisrael.com/www/uploads/2018/07/000_17Z1RP.jpg"
+            },
+            {
+                "url": "https://www.army.mil/e2/c/images/2018/05/17/517601/size0.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "army"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9494681,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5866959,
+                        "y": 0.41723824
+                    },
+                    {
+                        "x": 0.77683353,
+                        "y": 0.41723824
+                    },
+                    {
+                        "x": 0.77683353,
+                        "y": 0.9698206
+                    },
+                    {
+                        "x": 0.5866959,
+                        "y": 0.9698206
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9423277,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.80393404,
+                        "y": 0.449868
+                    },
+                    {
+                        "x": 0.962419,
+                        "y": 0.449868
+                    },
+                    {
+                        "x": 0.962419,
+                        "y": 0.86660266
+                    },
+                    {
+                        "x": 0.80393404,
+                        "y": 0.86660266
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9331212,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.0045290627,
+                        "y": 0.0130646685
+                    },
+                    {
+                        "x": 0.39986312,
+                        "y": 0.0130646685
+                    },
+                    {
+                        "x": 0.39986312,
+                        "y": 0.9930529
+                    },
+                    {
+                        "x": 0.0045290627,
+                        "y": 0.9930529
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9097219,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.3946959,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.5735394,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.5735394,
+                        "y": 0.9698206
+                    },
+                    {
+                        "x": 0.3946959,
+                        "y": 0.9698206
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.70110065,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.0045290627,
+                        "y": 0.0130646685
+                    },
+                    {
+                        "x": 0.39986312,
+                        "y": 0.0130646685
+                    },
+                    {
+                        "x": 0.39986312,
+                        "y": 0.9930529
+                    },
+                    {
+                        "x": 0.0045290627,
+                        "y": 0.9930529
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.6218281,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8380517,
+                        "y": 0.4536327
+                    },
+                    {
+                        "x": 0.99606603,
+                        "y": 0.4536327
+                    },
+                    {
+                        "x": 0.99606603,
+                        "y": 0.862838
+                    },
+                    {
+                        "x": 0.8380517,
+                        "y": 0.862838
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.53267694,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.3946959,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.5735394,
+                        "y": 0.33347356
+                    },
+                    {
+                        "x": 0.5735394,
+                        "y": 0.9698206
+                    },
+                    {
+                        "x": 0.3946959,
+                        "y": 0.9698206
+                    }
+                ]
+            }
+        }
+    ]
+}

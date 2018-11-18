@@ -1,0 +1,425 @@
+{
+    "logoAnnotations": [
+        {
+            "mid": "/m/0k2b7q9",
+            "description": "WWE Main Event",
+            "score": 0.18853432,
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 111,
+                        "y": 31
+                    },
+                    {
+                        "x": 508,
+                        "y": 31
+                    },
+                    {
+                        "x": 508,
+                        "y": 120
+                    },
+                    {
+                        "x": 111,
+                        "y": 120
+                    }
+                ]
+            }
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g5v",
+            "description": "blue",
+            "score": 0.9683074,
+            "topicality": 0.9683074
+        },
+        {
+            "mid": "/m/0jjw",
+            "description": "art",
+            "score": 0.893418,
+            "topicality": 0.893418
+        },
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.86866283,
+            "topicality": 0.86866283
+        },
+        {
+            "mid": "/m/04rd7",
+            "description": "mural",
+            "score": 0.63367933,
+            "topicality": 0.63367933
+        },
+        {
+            "mid": "/m/0p9xx",
+            "description": "visual arts",
+            "score": 0.60954815,
+            "topicality": 0.60954815
+        },
+        {
+            "mid": "/m/021sdg",
+            "description": "graphics",
+            "score": 0.6043082,
+            "topicality": 0.6043082
+        },
+        {
+            "mid": "/m/03w43x",
+            "description": "computer wallpaper",
+            "score": 0.5737988,
+            "topicality": 0.5737988
+        },
+        {
+            "mid": "/m/01kr8f",
+            "description": "illustration",
+            "score": 0.5486806,
+            "topicality": 0.5486806
+        },
+        {
+            "mid": "/m/09nm_",
+            "description": "world",
+            "score": 0.54807967,
+            "topicality": 0.54807967
+        },
+        {
+            "mid": "/m/05qdh",
+            "description": "painting",
+            "score": 0.5469461,
+            "topicality": 0.5469461
+        },
+        {
+            "mid": "/m/03c31",
+            "description": "graphic design",
+            "score": 0.5428389,
+            "topicality": 0.5428389
+        },
+        {
+            "mid": "/m/07j7r",
+            "description": "tree",
+            "score": 0.53798264,
+            "topicality": 0.53798264
+        },
+        {
+            "mid": "/m/015r61",
+            "description": "modern art",
+            "score": 0.5278818,
+            "topicality": 0.5278818
+        },
+        {
+            "mid": "/m/0dgsmq8",
+            "description": "artwork",
+            "score": 0.52612895,
+            "topicality": 0.52612895
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 10,
+                        "green": 33,
+                        "blue": 123
+                    },
+                    "score": 0.13649291,
+                    "pixelFraction": 0.035084035
+                },
+                {
+                    "color": {
+                        "red": 187,
+                        "green": 154,
+                        "blue": 60
+                    },
+                    "score": 0.07704527,
+                    "pixelFraction": 0.042016808
+                },
+                {
+                    "color": {
+                        "red": 237,
+                        "green": 248,
+                        "blue": 252
+                    },
+                    "score": 0.03214245,
+                    "pixelFraction": 0.018382354
+                },
+                {
+                    "color": {
+                        "red": 37,
+                        "green": 48,
+                        "blue": 77
+                    },
+                    "score": 0.018967394,
+                    "pixelFraction": 0.012605042
+                },
+                {
+                    "color": {
+                        "red": 105,
+                        "green": 85,
+                        "blue": 28
+                    },
+                    "score": 0.013546249,
+                    "pixelFraction": 0.01817227
+                },
+                {
+                    "color": {
+                        "red": 141,
+                        "green": 151,
+                        "blue": 214
+                    },
+                    "score": 0.007667983,
+                    "pixelFraction": 0.0018907563
+                },
+                {
+                    "color": {
+                        "red": 16,
+                        "green": 40,
+                        "blue": 117
+                    },
+                    "score": 0.114393726,
+                    "pixelFraction": 0.037710086
+                },
+                {
+                    "color": {
+                        "red": 25,
+                        "green": 41,
+                        "blue": 100
+                    },
+                    "score": 0.10541617,
+                    "pixelFraction": 0.054831933
+                },
+                {
+                    "color": {
+                        "red": 9,
+                        "green": 23,
+                        "blue": 82
+                    },
+                    "score": 0.058375653,
+                    "pixelFraction": 0.01764706
+                },
+                {
+                    "color": {
+                        "red": 3,
+                        "green": 18,
+                        "blue": 100
+                    },
+                    "score": 0.04095306,
+                    "pixelFraction": 0.008928572
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 619
+                        },
+                        {
+                            "x": 619,
+                            "y": 319
+                        },
+                        {
+                            "y": 319
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/059dn",
+                "score": 0.8861,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7024
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.4538
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.43035,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/05qdh",
+                "score": 0.28628504,
+                "description": "Painting"
+            },
+            {
+                "entityId": "/m/07zw_g",
+                "score": 0.282,
+                "description": "Casus foederis"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.2793,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/2584j90pb3h07",
+                "score": 0.2652
+            },
+            {
+                "entityId": "/t/2bxjx5c4t6gvs",
+                "score": 0.2598
+            },
+            {
+                "entityId": "/m/0p9xx",
+                "score": 0.21670772,
+                "description": "Visual arts"
+            },
+            {
+                "entityId": "/g/11f5stpzsd",
+                "score": 0.2104,
+                "description": "AllPosters.com Fathead Assorted Golf Wall Decal - 69-00009"
+            },
+            {
+                "entityId": "/m/04k01b",
+                "score": 0.2079,
+                "description": "Military exercise"
+            },
+            {
+                "entityId": "/t/23_hnyn5d3l3l",
+                "score": 0.2052
+            },
+            {
+                "entityId": "/m/021sdg",
+                "score": 0.20024812,
+                "description": "Graphics"
+            },
+            {
+                "entityId": "/m/0cqt90",
+                "score": 0.041685004,
+                "description": "Donald Trump"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?resize=640%2C360&ssl=1"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.pravda-tv.com/2018/06/nato-und-bundesregierung-errichten-blitzkrieg-strukturen-in-europa/",
+                "pageTitle": "Nato und Bundesregierung errichten Blitzkrieg-Strukturen in Europa ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://uncut-news.ch/2018/06/18/nato-und-bundesregierung-errichten-blitzkrieg-strukturen-in-europa/",
+                "pageTitle": "Nato und Bundesregierung errichten Blitzkrieg-Strukturen in Europa ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?resize=640%2C360&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://uncut-news.ch/uncut/nato/page/4/",
+                "pageTitle": "NATO Archives - Seite 4 von 6 - uncut-news.ch",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?resize=640%2C360&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://uncut-news.ch/page/242/",
+                "pageTitle": "Donald Trump und die Erf\u00fcllung der Nahostpolitik f\u00fcr ... - Uncut News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?resize=640%2C360&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/das-ende-der-nato",
+                "pageTitle": "Das Ende Der Nato \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.pravda-tv.com/wp-content/uploads/2018/06/titel-natrus160618.jpg?resize=640%2C360&ssl=1"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://get.wallhere.com/photo/illustration-fantasy-art-castle-mural-screenshot-11995.jpg"
+            },
+            {
+                "url": "http://space.nss.org/space-blog/mccall-mural.jpg"
+            },
+            {
+                "url": "http://at-bangkok.com/newsletter/img/sep2007/d'senese.jpg"
+            },
+            {
+                "url": "https://www.muralarts.org/wp-content/uploads/2016/03/Philly-on-a-Half-Tank_Santoleri.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/MB4R23/alesund-norway-april-04-2018-outdoor-view-of-alesund-church-with-a-blue-sky-on-kirkegata-MB4R23.jpg"
+            },
+            {
+                "url": "https://ahujaaltustowers.files.wordpress.com/2015/10/pic6.jpeg"
+            },
+            {
+                "url": "http://esphoto500x500.mnstatic.com/alegoria-al-mundo-del-vino-_-mural_2959541.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/display_pic_with_logo/1517909/1075560164/stock-photo-the-eastern-orthodox-s-alexeevsky-church-night-piece-in-harbin-china-1075560164.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "sky"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/07cmd",
+            "name": "Tank",
+            "score": 0.5169347,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7051105,
+                        "y": 0.47198564
+                    },
+                    {
+                        "x": 0.984066,
+                        "y": 0.47198564
+                    },
+                    {
+                        "x": 0.984066,
+                        "y": 0.9061321
+                    },
+                    {
+                        "x": 0.7051105,
+                        "y": 0.9061321
+                    }
+                ]
+            }
+        }
+    ]
+}

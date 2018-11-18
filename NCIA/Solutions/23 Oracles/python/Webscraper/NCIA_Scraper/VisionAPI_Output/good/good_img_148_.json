@@ -1,0 +1,604 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/09cynt",
+            "description": "convention",
+            "score": 0.8181842,
+            "topicality": 0.8181842
+        },
+        {
+            "mid": "/m/01s8fx",
+            "description": "news conference",
+            "score": 0.81424737,
+            "topicality": 0.81424737
+        },
+        {
+            "mid": "/m/07bx10",
+            "description": "academic conference",
+            "score": 0.72312915,
+            "topicality": 0.72312915
+        },
+        {
+            "mid": "/m/039l3v",
+            "description": "auditorium",
+            "score": 0.6636311,
+            "topicality": 0.6636311
+        },
+        {
+            "mid": "/m/033lpr",
+            "description": "audience",
+            "score": 0.65514445,
+            "topicality": 0.65514445
+        },
+        {
+            "mid": "/m/068k4",
+            "description": "public speaking",
+            "score": 0.64674103,
+            "topicality": 0.64674103
+        },
+        {
+            "mid": "/m/035y33",
+            "description": "official",
+            "score": 0.61474127,
+            "topicality": 0.61474127
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.52658165,
+            "topicality": 0.52658165
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 101,
+                        "green": 126,
+                        "blue": 153
+                    },
+                    "score": 0.09907015,
+                    "pixelFraction": 0.046299048
+                },
+                {
+                    "color": {
+                        "red": 92,
+                        "green": 44,
+                        "blue": 8
+                    },
+                    "score": 0.09772597,
+                    "pixelFraction": 0.021997621
+                },
+                {
+                    "color": {
+                        "red": 131,
+                        "green": 54,
+                        "blue": 24
+                    },
+                    "score": 0.090878695,
+                    "pixelFraction": 0.011519025
+                },
+                {
+                    "color": {
+                        "red": 225,
+                        "green": 189,
+                        "blue": 129
+                    },
+                    "score": 0.046451434,
+                    "pixelFraction": 0.0045332937
+                },
+                {
+                    "color": {
+                        "red": 22,
+                        "green": 16,
+                        "blue": 13
+                    },
+                    "score": 0.023980666,
+                    "pixelFraction": 0.2632283
+                },
+                {
+                    "color": {
+                        "red": 248,
+                        "green": 226,
+                        "blue": 197
+                    },
+                    "score": 0.021095917,
+                    "pixelFraction": 0.0038644471
+                },
+                {
+                    "color": {
+                        "red": 186,
+                        "green": 143,
+                        "blue": 88
+                    },
+                    "score": 0.01041885,
+                    "pixelFraction": 0.010478597
+                },
+                {
+                    "color": {
+                        "red": 118,
+                        "green": 65,
+                        "blue": 20
+                    },
+                    "score": 0.08210081,
+                    "pixelFraction": 0.025564805
+                },
+                {
+                    "color": {
+                        "red": 122,
+                        "green": 150,
+                        "blue": 172
+                    },
+                    "score": 0.07421057,
+                    "pixelFraction": 0.041096907
+                },
+                {
+                    "color": {
+                        "red": 106,
+                        "green": 35,
+                        "blue": 12
+                    },
+                    "score": 0.06427682,
+                    "pixelFraction": 0.008026159
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 299
+                        },
+                        {
+                            "x": 299,
+                            "y": 299
+                        },
+                        {
+                            "y": 299
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/059dn",
+                "score": 0.8883,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/g/11bvt4sxv0",
+                "score": 0.820545,
+                "description": "2016 Warsaw summit"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7447
+            },
+            {
+                "entityId": "/m/0345h",
+                "score": 0.58019996,
+                "description": "Germany"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.56175,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.55425,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.5419
+            },
+            {
+                "entityId": "/g/11b768kl7b",
+                "score": 0.4444,
+                "description": "Econom\u00eda Digital"
+            },
+            {
+                "entityId": "/t/213kwpc2n5k6v",
+                "score": 0.4351
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.4273,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/0377k9",
+                "score": 0.4246,
+                "description": "Minister"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.4108
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.3745
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 0.15156001,
+                "description": "NATO summit"
+            },
+            {
+                "entityId": "/m/089zlv",
+                "score": 0.0639,
+                "description": "Frank-Walter Steinmeier"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://ideas.economiadigital.es/uploads/s1/59/68/03/4/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final.jpeg"
+            },
+            {
+                "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=4126%2C2478"
+            },
+            {
+                "url": "https://www.eurointegration.com.ua/images/doc/8/a/8a34994-08.jpg"
+            },
+            {
+                "url": "http://ultimaratio-blog.org/wp-content/uploads/BlogDEEP2-1024x535.png"
+            },
+            {
+                "url": "https://ideas.economiadigital.es/uploads/s1/59/68/04/3/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final_16_643x397.jpeg"
+            },
+            {
+                "url": "http://globalbalita.com/wp-content/uploads/2014/03/NATO.2.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/zerosumnews.org/wp-content/uploads/2017/02/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?resize=350%2C200"
+            },
+            {
+                "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=1200%2C721&resize=350%2C200"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.worldaffairsjournal.org/blog/michael-zantovsky/natos-90s-expansion-enlarged-zone-stability",
+                "pageTitle": "<b>NATO&#39;s</b> 90s Expansion Enlarged Zone of Stability | World Affairs ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.worldaffairsjournal.org/sites/default/files/styles/full_view/public/3.13.14.zantovsky.jpg?itok=Aksc996-"
+                    }
+                ]
+            },
+            {
+                "url": "http://zerosumnews.org/nato-train-solider-iraq/",
+                "pageTitle": "<b>NATO</b> Starts to Train Soldiers in Iraq to Fight ISIS, Terrorists",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/zerosumnews.org/wp-content/uploads/2017/02/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalbalita.com/2014/03/page/2/",
+                "pageTitle": "Global Balita | Archive for March 2014 | Page 2",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://globalbalita.com/wp-content/uploads/2014/03/NATO.2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zerosumnews.org/new-german-president-elected/",
+                "pageTitle": "Frank-Walter Steinmeier Elected President of Germany",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/zerosumnews.org/wp-content/uploads/2017/02/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalbalita.com/author/perry/page/50/",
+                "pageTitle": "Global Balita | Archive for perry | Page 50",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://globalbalita.com/wp-content/uploads/2014/03/NATO.2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.picsnaper.com/p/Latvia%E2%80%99s-New-Old-Government-%E2%80%93-Analysis-%E2%80%93-Eurasia-Review",
+                "pageTitle": "Snap Latvia&#39;s New Old Government \u2013 Analysis \u2013 Eurasia Review ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.worldaffairsjournal.org/sites/default/files/styles/full_view/public/3.13.14.zantovsky.jpg?itok=Aksc996-"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cnapd.be/bruit-de-bottes-a-lotan/",
+                "pageTitle": "Bruit de bottes \u00e0 l&#39;OTAN - CNAPD",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=1200%2C721&resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "http://ultimaratio-blog.org/archives/8576",
+                "pageTitle": "Un exemple de coop\u00e9ration multinationale : le Defense Education ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ultimaratio-blog.org/wp-content/uploads/BlogDEEP2-1024x535.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cnapd.be/memorandum-de-cnapd-sommet-otan-de-juillet-2016-a-varsovie/",
+                "pageTitle": "M\u00e9morandum de la CNAPD pour le Sommet OTAN de juillet 2016 \u00e0 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=4126%2C2478"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cnapd.be/tag/defense/",
+                "pageTitle": "d\u00e9fense Archives - CNAPD",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=4126%2C2478"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cnapd.be/apres-lotan-la-neutralite-une-option-strategique-pour-lue/",
+                "pageTitle": "Apr\u00e8s l&#39;OTAN : la neutralit\u00e9, une option strat\u00e9gique pour l&#39;UE - CNAPD",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.cnapd.be/wp-content/uploads/2016/06/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg?fit=1200%2C721&resize=350%2C200"
+                    }
+                ]
+            },
+            {
+                "url": "https://ideas.economiadigital.es/xavier-bru-de-sala/doble-barcelonismo_573596_102.html",
+                "pageTitle": "Xavier Bru de Sala | Doble barcelonismo - Econom\u00eda Digital Ideas",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ideas.economiadigital.es/uploads/s1/59/68/03/4/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ideas.economiadigital.es/xavier-bru-de-sala/lo-que-queda-de-la-otan_573011_102.html",
+                "pageTitle": "Xavier Bru de Sala | Lo que queda de la OTAN",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ideas.economiadigital.es/uploads/s1/59/68/03/4/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final.jpeg"
+                    },
+                    {
+                        "url": "https://ideas.economiadigital.es/uploads/s1/59/68/04/3/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final_16_643x397.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ideas.economiadigital.es/ideas/oscar-del-pueblo-para-rosa-diez_150522_102.html",
+                "pageTitle": "&quot;Oscar&quot; del pueblo para Rosa D\u00edez - Econom\u00eda Digital Ideas",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ideas.economiadigital.es/uploads/s1/59/68/03/4/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ideas.economiadigital.es/ideas/el-grupo-parlamentario-catalan-de-los-imputados_154465_102.html",
+                "pageTitle": "El grupo parlamentario (catal\u00e1n) de los imputados",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ideas.economiadigital.es/uploads/s1/59/68/03/4/defense-gov-news-photo-101014-f-6655m-004-secretary-of-defense-robert-m-gates-and-other-nato-ministers-of-defense-and-of-foreign-affairs-meet-together-at-nato-headquarters-to-give-final.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.eurointegration.com.ua/news/2016/10/26/7056487/",
+                "pageTitle": "\u041c\u0456\u043d\u0456\u0441\u0442\u0440\u0438 \u043e\u0431\u043e\u0440\u043e\u043d\u0438 \u041d\u0410\u0422\u041e \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044f\u0442\u044c \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0443 \u0430\u043a\u0442\u0438\u0432\u043d\u0456\u0441\u0442\u044c ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.eurointegration.com.ua/images/doc/8/a/8a34994-08.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.eurointegration.com.ua/rus/news/2016/10/26/7056487/view_print/",
+                "pageTitle": "\u041c\u0438\u043d\u0438\u0441\u0442\u0440\u044b \u043e\u0431\u043e\u0440\u043e\u043d\u044b \u041d\u0410\u0422\u041e \u043e\u0431\u0441\u0443\u0434\u044f\u0442 \u0432\u043e\u0435\u043d\u043d\u0443\u044e \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.eurointegration.com.ua/images/doc/8/a/8a34994-08.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://d.digests.nhub.news/2016/10/26/18/ukraine_mix_ua.html",
+                "pageTitle": "DC5m Ukraine mix in ukrainian Created at 2016-10-26 18:15",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.eurointegration.com.ua/images/doc/8/a/8a34994-08.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Defense.gov_News_Photo_101014-F-6655M-004_-_Secretary_of_Defense_Robert_M._Gates_and_other_NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_together_at_NATO_headquarters_to_give_final.jpg"
+            },
+            {
+                "url": "https://editorial01.shutterstock.com/wm-preview-450/7644398n/f9de0065/belgium-nato-defence-ministers-meeting-mar-2011-shutterstock-editorial-7644398n.jpg"
+            },
+            {
+                "url": "https://twt-thumbs.washtimes.com/media/image/2010/06/10/gates_837_s878x617.jpg?2bf1099f25e15ed7cf364ceb41fca35220dfea63"
+            },
+            {
+                "url": "https://media.defense.gov/2016/Jan/21/2001336331/-1/-1/0/160121-D-VO565-060.JPG"
+            },
+            {
+                "url": "https://archive.defense.gov/dodcmsshare/newsphoto/2013-02/hires_130221-D-NI589-871.JPG"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/view-of-nato-defence-council-meeting-at-the-nato-headquarters-in-on-picture-id803347838?s=612x612"
+            },
+            {
+                "url": "https://i1.wp.com/thesiriusreport.com/wp-content/uploads/2017/01/1280px-NATO_Ministers_of_Defense_and_of_Foreign_Affairs_meet_at_NATO_headquarters_in_Brussels_2010.jpg?zoom=1.25&resize=641%2C360&ssl=1"
+            },
+            {
+                "url": "https://editorial01.shutterstock.com/wm-preview-450/9381611af/941f1f00/nato-defense-ministers-council-brussels-belgium-shutterstock-editorial-9381611af.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato headquarters",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.94051147,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8415195,
+                        "y": 0.37582648
+                    },
+                    {
+                        "x": 0.9968335,
+                        "y": 0.37582648
+                    },
+                    {
+                        "x": 0.9968335,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.8415195,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01mzpv",
+            "name": "Chair",
+            "score": 0.75904816,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.111999996,
+                        "y": 0.6658824
+                    },
+                    {
+                        "x": 0.37905884,
+                        "y": 0.6658824
+                    },
+                    {
+                        "x": 0.37905884,
+                        "y": 0.9945882
+                    },
+                    {
+                        "x": 0.111999996,
+                        "y": 0.9945882
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0c_jw",
+            "name": "Furniture",
+            "score": 0.71398234,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.111999996,
+                        "y": 0.6658824
+                    },
+                    {
+                        "x": 0.37905884,
+                        "y": 0.6658824
+                    },
+                    {
+                        "x": 0.37905884,
+                        "y": 0.9945882
+                    },
+                    {
+                        "x": 0.111999996,
+                        "y": 0.9945882
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.59746903,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8415195,
+                        "y": 0.37582648
+                    },
+                    {
+                        "x": 0.9968335,
+                        "y": 0.37582648
+                    },
+                    {
+                        "x": 0.9968335,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.8415195,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01mzpv",
+            "name": "Chair",
+            "score": 0.5926555,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.38235295,
+                        "y": 0.62
+                    },
+                    {
+                        "x": 0.6475295,
+                        "y": 0.62
+                    },
+                    {
+                        "x": 0.6475295,
+                        "y": 0.94447064
+                    },
+                    {
+                        "x": 0.38235295,
+                        "y": 0.94447064
+                    }
+                ]
+            }
+        }
+    ]
+}

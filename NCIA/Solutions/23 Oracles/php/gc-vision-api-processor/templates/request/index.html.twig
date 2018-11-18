@@ -1,0 +1,64 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Is it propaganda?!{% endblock %}
+
+{% block stylesheets %}
+
+{% endblock stylesheets %}
+
+{% block javascripts %}
+    <script>
+        Dropzone.autoDiscover = false;
+
+        // Dropzone class:
+        var myDropzone = new Dropzone("#mydropzone", {
+            url: "/uploadImage",
+            method: "post",
+            maxFiles: 1,
+            dictMaxFilesExceeded: 'Only 1 Image can be uploaded',
+            acceptedFiles: 'image/*',
+            maxFilesize: 5,  // in Mb
+            addRemoveLinks: true,
+            init: function () {
+                var response;
+                this.on("maxfilesexceeded", function (file) {
+                    this.removeFile(file);
+                });
+                this.on("sending", function (file, xhr, formData) {
+                    // send additional data with the file as POST data if needed.
+                    // formData.append("key", "value");
+                });
+                this.on("success", function (file, response) {
+                    console.log(response);
+
+                    window.location.href = ("/overview/"+response.fileName)
+                });
+            }
+        });
+    </script>
+{% endblock javascripts %}
+
+{% block body %}
+<style>
+    .example-wrapper { margin: 1em auto; max-width: 800px; width: 95%; font: 18px/1.5 sans-serif; }
+    .example-wrapper code { background: #F5F5F5; padding: 2px 6px; }
+</style>
+
+<div class="row mt-5">
+
+    <div class="col-sm-4">
+        <h1 class="col-sm-offset-3 mt-5">Test for possible propaganda</h1>
+    </div>
+    <div class="form-group col-sm-8">
+        <div class="col-sm-10">
+            <div class="clsbox-1" runat="server"  >
+                <div class="dropzone clsbox" id="mydropzone">
+                    <img src="{{ asset('assets/img/propagandaIcon.png') }}" alt="">
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+{% endblock %}

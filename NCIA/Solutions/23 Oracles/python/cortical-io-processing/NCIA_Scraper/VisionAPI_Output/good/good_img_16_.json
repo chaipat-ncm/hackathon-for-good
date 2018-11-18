@@ -1,0 +1,2223 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1958,
+                        "y": 823
+                    },
+                    {
+                        "x": 2043,
+                        "y": 823
+                    },
+                    {
+                        "x": 2043,
+                        "y": 922
+                    },
+                    {
+                        "x": 1958,
+                        "y": 922
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1971,
+                        "y": 841
+                    },
+                    {
+                        "x": 2037,
+                        "y": 841
+                    },
+                    {
+                        "x": 2037,
+                        "y": 906
+                    },
+                    {
+                        "x": 1971,
+                        "y": 906
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1996.387,
+                        "y": 862.62067,
+                        "z": 0.0004209648
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 2020.3026,
+                        "y": 863.06976,
+                        "z": 8.302152
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1987.0576,
+                        "y": 857.31244,
+                        "z": 0.9268163
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 2003.5846,
+                        "y": 855.5328,
+                        "z": -0.78199095
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2015.2118,
+                        "y": 855.7904,
+                        "z": 3.250825
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2027.0967,
+                        "y": 858.1822,
+                        "z": 14.805056
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 2009.9163,
+                        "y": 860.7376,
+                        "z": -0.5040498
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 2013.5364,
+                        "y": 872.87256,
+                        "z": -11.130898
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 2011.8052,
+                        "y": 883.9678,
+                        "z": -8.159204
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 2012.2444,
+                        "y": 890.8527,
+                        "z": -8.574841
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1999.6722,
+                        "y": 888.5887,
+                        "z": -5.9637814
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 2020.3802,
+                        "y": 888.3074,
+                        "z": 0.77585834
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 2011.9581,
+                        "y": 887.3722,
+                        "z": -7.4362993
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 2017.4917,
+                        "y": 877.60254,
+                        "z": -0.23991962
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 2003.8917,
+                        "y": 876.90784,
+                        "z": -4.939163
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 2011.744,
+                        "y": 878.01715,
+                        "z": -6.799642
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1996.6924,
+                        "y": 860.45667,
+                        "z": -1.1098753
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2001.1204,
+                        "y": 862.9472,
+                        "z": 1.6904969
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1996.5066,
+                        "y": 864.165,
+                        "z": -0.6521014
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1990.7654,
+                        "y": 863.21265,
+                        "z": 0.43773603
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1996.1193,
+                        "y": 862.4017,
+                        "z": -0.7082648
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 2020.6322,
+                        "y": 860.965,
+                        "z": 7.1876626
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2024.2577,
+                        "y": 863.91724,
+                        "z": 12.039852
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 2020.4174,
+                        "y": 864.66125,
+                        "z": 7.635749
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 2015.522,
+                        "y": 863.0855,
+                        "z": 6.691427
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 2020.6873,
+                        "y": 862.92004,
+                        "z": 7.7736573
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1995.5638,
+                        "y": 852.9777,
+                        "z": -0.6847851
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 2021.5437,
+                        "y": 853.5456,
+                        "z": 8.316711
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1969.3682,
+                        "y": 883.0516,
+                        "z": 20.986506
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 2026.3778,
+                        "y": 883.82086,
+                        "z": 39.093777
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 2009.6897,
+                        "y": 855.0998,
+                        "z": 0.45380005
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 2011.7639,
+                        "y": 904.00244,
+                        "z": -8.456607
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1978.7109,
+                        "y": 895.68463,
+                        "z": 7.385201
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 2028.1383,
+                        "y": 896.5038,
+                        "z": 24.641195
+                    }
+                }
+            ],
+            "rollAngle": -4.206339,
+            "panAngle": 19.83804,
+            "tiltAngle": 15.245264,
+            "detectionConfidence": 0.9244115,
+            "landmarkingConfidence": 0.5536262,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 600,
+                        "y": 784
+                    },
+                    {
+                        "x": 687,
+                        "y": 784
+                    },
+                    {
+                        "x": 687,
+                        "y": 885
+                    },
+                    {
+                        "x": 600,
+                        "y": 885
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 604,
+                        "y": 810
+                    },
+                    {
+                        "x": 667,
+                        "y": 810
+                    },
+                    {
+                        "x": 667,
+                        "y": 873
+                    },
+                    {
+                        "x": 604,
+                        "y": 873
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 624.8833,
+                        "y": 828.97955,
+                        "z": 0.00024882544
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 648.3739,
+                        "y": 831.2604,
+                        "z": -9.587889
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 617.0018,
+                        "y": 822.2887,
+                        "z": 5.627112
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 628.6256,
+                        "y": 823.4874,
+                        "z": -7.2741857
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 640.5091,
+                        "y": 824.4549,
+                        "z": -12.0879135
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 657.8599,
+                        "y": 825.64343,
+                        "z": -10.892428
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 633.98834,
+                        "y": 829.6147,
+                        "z": -9.7963295
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 630.7077,
+                        "y": 844.9317,
+                        "z": -16.328821
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 631.91077,
+                        "y": 854.70764,
+                        "z": -10.221494
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 632.0058,
+                        "y": 862.7935,
+                        "z": -8.136853
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 624.9717,
+                        "y": 857.43494,
+                        "z": 0.2936664
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 643.9464,
+                        "y": 858.66187,
+                        "z": -7.3707333
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 632.2419,
+                        "y": 858.32166,
+                        "z": -8.243861
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 640.56067,
+                        "y": 847.0895,
+                        "z": -9.5717745
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 627.08936,
+                        "y": 846.7997,
+                        "z": -4.1388445
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 632.1044,
+                        "y": 849.0474,
+                        "z": -10.559123
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 623.3226,
+                        "y": 827.4464,
+                        "z": -1.3961693
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 628.5143,
+                        "y": 829.90955,
+                        "z": -1.5058882
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 623.6967,
+                        "y": 830.95685,
+                        "z": 0.18741138
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 619.9169,
+                        "y": 828.9021,
+                        "z": 4.536477
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 623.2177,
+                        "y": 829.2245,
+                        "z": -0.10774141
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 647.79254,
+                        "y": 829.4456,
+                        "z": -11.296442
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 654.1016,
+                        "y": 831.6852,
+                        "z": -9.285307
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 648.1047,
+                        "y": 832.9564,
+                        "z": -9.7029505
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 643.45197,
+                        "y": 831.0482,
+                        "z": -7.4891477
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 648.3247,
+                        "y": 831.27423,
+                        "z": -10.306572
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 622.2661,
+                        "y": 819.69855,
+                        "z": -2.5321033
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 648.8149,
+                        "y": 821.864,
+                        "z": -13.272803
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 619.7672,
+                        "y": 840.54095,
+                        "z": 37.28415
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 674.24884,
+                        "y": 845.01276,
+                        "z": 14.498976
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 634.2038,
+                        "y": 823.6671,
+                        "z": -10.615832
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 632.6003,
+                        "y": 875.3862,
+                        "z": -4.1012096
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 617.2493,
+                        "y": 857.90533,
+                        "z": 26.881685
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 667.38074,
+                        "y": 861.9246,
+                        "z": 6.618236
+                    }
+                }
+            ],
+            "rollAngle": 3.7271376,
+            "panAngle": -21.977688,
+            "tiltAngle": -2.3018293,
+            "detectionConfidence": 0.9512342,
+            "landmarkingConfidence": 0.17428197,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9667568,
+            "topicality": 0.9667568
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.93443,
+            "topicality": 0.93443
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.90966266,
+            "topicality": 0.90966266
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.81939626,
+            "topicality": 0.81939626
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.80090314,
+            "topicality": 0.80090314
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.79525906,
+            "topicality": 0.79525906
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.63451415,
+            "topicality": 0.63451415
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.5590917,
+            "topicality": 0.5590917
+        },
+        {
+            "mid": "/m/013m1",
+            "description": "air force",
+            "score": 0.54489434,
+            "topicality": 0.54489434
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.52857375,
+            "topicality": 0.52857375
+        },
+        {
+            "mid": "/m/0f_78",
+            "description": "paratrooper",
+            "score": 0.5140381,
+            "topicality": 0.5140381
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 116,
+                        "green": 152,
+                        "blue": 202
+                    },
+                    "score": 0.2612692,
+                    "pixelFraction": 0.07079038
+                },
+                {
+                    "color": {
+                        "red": 127,
+                        "green": 118,
+                        "blue": 98
+                    },
+                    "score": 0.04029441,
+                    "pixelFraction": 0.04137457
+                },
+                {
+                    "color": {
+                        "red": 7,
+                        "green": 23,
+                        "blue": 83
+                    },
+                    "score": 0.007523919,
+                    "pixelFraction": 0.0020618557
+                },
+                {
+                    "color": {
+                        "red": 89,
+                        "green": 23,
+                        "blue": 22
+                    },
+                    "score": 0.0047364235,
+                    "pixelFraction": 0.00075601373
+                },
+                {
+                    "color": {
+                        "red": 131,
+                        "green": 155,
+                        "blue": 188
+                    },
+                    "score": 0.20195882,
+                    "pixelFraction": 0.05814433
+                },
+                {
+                    "color": {
+                        "red": 97,
+                        "green": 130,
+                        "blue": 182
+                    },
+                    "score": 0.118766434,
+                    "pixelFraction": 0.22384879
+                },
+                {
+                    "color": {
+                        "red": 106,
+                        "green": 130,
+                        "blue": 163
+                    },
+                    "score": 0.052899018,
+                    "pixelFraction": 0.047835052
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 119,
+                        "blue": 115
+                    },
+                    "score": 0.03777819,
+                    "pixelFraction": 0.08749141
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 84,
+                        "blue": 65
+                    },
+                    "score": 0.03117201,
+                    "pixelFraction": 0.027697595
+                },
+                {
+                    "color": {
+                        "red": 153,
+                        "green": 152,
+                        "blue": 152
+                    },
+                    "score": 0.028185414,
+                    "pixelFraction": 0.06054983
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 2499
+                        },
+                        {
+                            "x": 2499,
+                            "y": 1613
+                        },
+                        {
+                            "y": 1613
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.41
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01b8g6",
+                "score": 7.4550004,
+                "description": "Jens Stoltenberg"
+            },
+            {
+                "entityId": "/m/0d_fsc",
+                "score": 1.2672,
+                "description": "War in Afghanistan"
+            },
+            {
+                "entityId": "/m/0494n",
+                "score": 0.982278,
+                "description": "Kabul"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.84495,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7132
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7132,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/05sb1",
+                "score": 0.58905,
+                "description": "Pakistan"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5869
+            },
+            {
+                "entityId": "/m/07jqh",
+                "score": 0.5756,
+                "description": "Taliban"
+            },
+            {
+                "entityId": "/m/01f52g",
+                "score": 0.5257,
+                "description": "Afghan National Army"
+            },
+            {
+                "entityId": "/m/01bl19",
+                "score": 0.4484,
+                "description": "International Security Assistance Force"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.4398,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/29ch49gnv32tm",
+                "score": 0.4117
+            },
+            {
+                "entityId": "/m/05qbbhd",
+                "score": 0.3645,
+                "description": "Secretary General of NATO"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 0.043356,
+                "description": "Afghanistan"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://i1.wp.com/www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg?zoom=1.25&ssl=1"
+            },
+            {
+                "url": "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg?fit=2500%2C1614&ssl=1"
+            },
+            {
+                "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+            },
+            {
+                "url": "https://www.phamhongphuoc.net/wp-content/uploads/2015/01/141208-afghanistan-nato-flag-down-war-end-01_resize.jpg"
+            },
+            {
+                "url": "https://images2.corriereobjects.it/methode_image/2014/12/08/Esteri/Foto%20Gallery/283b17222ac5a130670f6a70670089dd.jpg"
+            },
+            {
+                "url": "http://itibritto.com/wp-content/uploads/2018/04/US-NATO-end-Afghan-combat-mission-1024x661.jpg"
+            },
+            {
+                "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO-1024x661.jpg"
+            },
+            {
+                "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=standard_900x600"
+            },
+            {
+                "url": "https://img.topky.sk/900px/1467615.jpg"
+            },
+            {
+                "url": "x-raw-image:///ca8e6559c76ef690b658a49ae03bac2a1a88347ba5003595192c08129ae74065"
+            },
+            {
+                "url": "http://www.gpnewsusa2016.eu/images/20141228AfgIsaf.jpg"
+            },
+            {
+                "url": "https://timesofislamabad.com/digital_images/large/2017-12-03/nato-spokesman-in-afghanistan-reacts-over-the-peshawar-terrorist-attack-1513930431-6203.jpg"
+            },
+            {
+                "url": "https://media1.s-nbcnews.com/j/newscms/2014_50/796981/pc-141208-nato-afghanistan-02_7deb12d0a749125c82e5f6f68a83fd53.fit-760w.jpg"
+            },
+            {
+                "url": "http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+            },
+            {
+                "url": "http://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission-590x380.jpg"
+            },
+            {
+                "url": "http://globalagemagazine.kipscss.net/Images/musa_05_02_2017.jpg"
+            },
+            {
+                "url": "https://img.topky.sk/big/1467615.jpg/USA-NATO-Afganistan.jpg"
+            },
+            {
+                "url": "http://berita.beritajatim.com/brt966022249.jpg"
+            },
+            {
+                "url": "http://nj1015.com/files/2014/12/3c6fff77-3714-4d0b-8e74-4e1f9fcef821-big.jpg"
+            },
+            {
+                "url": "https://timesofislamabad.com/digital_images/medium/2017-12-03/nato-spokesman-in-afghanistan-reacts-over-the-peshawar-terrorist-attack-1513930431-6203.jpg"
+            },
+            {
+                "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=standard_380x253"
+            },
+            {
+                "url": "http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_195x130/public/us-nato-end-afghan-combat-mission.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://imagenes.milenio.com/T-GhyGoQh4fe0vH7rBi2RmyQFZk=/958x596/http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+            },
+            {
+                "url": "https://www.matamatapolitik.com/wp-content/uploads/sites/2/2018/08/Opini-Tatanan-Pasca-Perang-Dunia-yang-Dibangun-Amerika-Kini-Hancur-1-850x600.jpg"
+            },
+            {
+                "url": "https://www.matamatapolitik.com/wp-content/uploads/sites/2/2018/08/Opini-Tatanan-Pasca-Perang-Dunia-yang-Dibangun-Amerika-Kini-Hancur-1.jpg"
+            },
+            {
+                "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+            },
+            {
+                "url": "http://i.dawn.com/large/2014/12/54a1402bda8a8.jpg"
+            },
+            {
+                "url": "https://www.youngisthan.in/wp-content/uploads/cmsimported/img-54a2875a7237a-posts-10202.jpg"
+            },
+            {
+                "url": "https://yash.news/wp-content/uploads/2017/11/54a102e3b9c17-780x405.jpg"
+            },
+            {
+                "url": "https://mediaumat.news/wp-content/uploads/2018/09/tentara-nato-di-afganistan-692x360.jpg"
+            },
+            {
+                "url": "http://turankislakci.com/tr/wp-content/uploads/2018/02/ordular-464x310.jpg"
+            },
+            {
+                "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=cinema_428x228"
+            },
+            {
+                "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/us-nato-end-afghan-combat-mission.jpg?itok=ELjSmC7p"
+            },
+            {
+                "url": "https://www.ispionline.it/sites/default/files/styles/square_thumbnail/public/copertine/us-nato-end-afghan-combat-mission.jpg?itok=ABTTRIXt"
+            },
+            {
+                "url": "https://img.topky.sk/1467615.jpg/Slovenski-analytici-nakrutili-VIDEO--Podporuju-zbrojenie-armady--plnme-zavazky-NATO-.jpg"
+            },
+            {
+                "url": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/09/17/13930917181038414249622.jpg"
+            },
+            {
+                "url": "http://khabarnama.net/wp-content/uploads/2018/09/Nato-in-afghanistan--798x213.jpg"
+            },
+            {
+                "url": "http://www.osservatorioafghanistan.org/wp-content/uploads/2018/07/us-nato-end-afghan-combat-mission-300x129.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.nbcnews.com/news/world/u-s-nato-ceremonially-end-afghan-combat-mission-after-13-n263671",
+                "pageTitle": "U.S., <b>NATO</b> Ceremonially End <b>Afghan</b> Combat Mission After 13 Years",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://media1.s-nbcnews.com/j/newscms/2014_50/796981/pc-141208-nato-afghanistan-02_7deb12d0a749125c82e5f6f68a83fd53.fit-760w.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dawn.com/news/1153833",
+                "pageTitle": "Taliban claim <b>Nato</b> &#39;defeat&#39; in 13-year <b>Afghan</b> war - World - DAWN ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dawn.com/news/1369014",
+                "pageTitle": "<b>Nato</b> to boost <b>Afghan</b> mission by 3,000 troops - World - DAWN.COM",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2017/11/5a01c6e6b56d5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.studentnewsdaily.com/daily-news-article/u-s-nato-officially-end-afghan-combat-mission/",
+                "pageTitle": "U.S., <b>NATO</b> officially end <b>Afghan</b> combat mission - Student News Daily",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission-590x380.jpg"
+                    },
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csmonitor.com/USA/Military/2014/1208/Symbolic-end-to-Afghanistan-war-overshadowed-by-new-Obama-plans",
+                "pageTitle": "Symbolic &#39;end&#39; to <b>Afghanistan</b> war overshadowed by new Obama ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=standard_380x253"
+                    },
+                    {
+                        "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=standard_900x600"
+                    }
+                ]
+            },
+            {
+                "url": "https://yash.news/en/?p=2217",
+                "pageTitle": "<b>NATO</b> will dispatch 3000 reinforcements To <b>Afghanistan</b> \u2013 Yash news",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://yash.news/en/wp-content/uploads/2017/11/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csmonitor.com/World/Latest-News-Wires/2014/1211/French-run-school-Afghan-soldiers-targeted-in-Kabul-bombings",
+                "pageTitle": "French-run school, <b>Afghan</b> soldiers targeted in Kabul bombings ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=cinema_428x228"
+                    }
+                ]
+            },
+            {
+                "url": "https://timesofislamabad.com/03-Dec-2017/nato-spokesman-in-afghanistan-reacts-over-the-peshawar-terrorist-attack",
+                "pageTitle": "<b>NATO</b> spokesman in <b>Afghanistan</b> reacts over the Peshawar terrorist ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://timesofislamabad.com/digital_images/large/2017-12-03/nato-spokesman-in-afghanistan-reacts-over-the-peshawar-terrorist-attack-1513930431-6203.jpg"
+                    },
+                    {
+                        "url": "https://timesofislamabad.com/digital_images/medium/2017-12-03/nato-spokesman-in-afghanistan-reacts-over-the-peshawar-terrorist-attack-1513930431-6203.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youngisthan.in/news-analysis/us-nato-war-coalition-in-afghanistan-ends/10202",
+                "pageTitle": "US <b>NATO</b> War Coalition In <b>Afghanistan</b> Ends - Youngisthan. In",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.youngisthan.in/wp-content/uploads/cmsimported/img-54a2875a7237a-posts-10202.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ipp-news.com/?p=53113",
+                "pageTitle": "Taliban claim <b>Nato</b> &#39;defeat&#39; in 13-year <b>Afghan</b> war - IPP News Reports",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ipp-news.com/wp-content/uploads/2014/12/Nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csmonitor.com/World/Asia-South-Central/2015/0325/As-US-draws-down-can-Ghani-brake-Afghanistan-s-economic-slide",
+                "pageTitle": "As US draws down, can Ghani brake <b>Afghanistan&#39;s</b> economic slide ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=cinema_428x228"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/nato-probing-claims-civilian-casualties/",
+                "pageTitle": "<b>NATO</b> probing claims of civilian casualties - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO-1024x661.jpg"
+                    },
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    },
+                    {
+                        "url": "https://i1.wp.com/thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg?fit=2500%2C1614&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://ipp-news.com/?tag=afghanistan-from-1996-to-2001",
+                "pageTitle": "<b>Afghanistan</b> from 1996 to 2001 - IPP News Reports",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ipp-news.com/wp-content/uploads/2014/12/Nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/afghanistan/page/177/?page=2",
+                "pageTitle": "<b>Afghanistan</b> Archives - Page 177 of 233 - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalagemagazine.kipscss.net/ArticleDetail/2017/Feb/afghanistan-too-many-butchers-spoil-the-cow",
+                "pageTitle": "<b>afghanistan</b>: too many butchers spoil the cow - Global Age Magazine",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://globalagemagazine.kipscss.net/Images/musa_05_02_2017.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalagemagazine.kipscss.net/AuthorArticles/musa-khan-jalalzai",
+                "pageTitle": "horrific cases of women abuse in <b>afghanistan</b> - Global Age Magazine",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://globalagemagazine.kipscss.net/Images/musa_05_02_2017.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/english/1629/world.html",
+                "pageTitle": "Mubassir.com - World",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/taliban(5).jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-war-iraq-fd.html",
+                "pageTitle": "<b>Nato</b> War Iraq | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/english/1554/world.html",
+                "pageTitle": "Mubassir.com - World",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/taliban(5).jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ipp-news.com/?m=2014&paged=4",
+                "pageTitle": "2014 \u2013 Page 4 - IPP News Reports",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ipp-news.com/wp-content/uploads/2014/12/Nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/english/1482/world.html",
+                "pageTitle": "Mubassir.com - World",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/taliban(5).jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-afghanistan-war",
+                "pageTitle": "<b>Nato Afghanistan</b> War \u2013 dede14",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-afghanistan-2001",
+                "pageTitle": "<b>Nato Afghanistan</b> 2001 \u2013 dede14",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ipp-news.com/wp-content/uploads/2014/12/Nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://fertyimg.pw/The-Afghanistan-army-which-is-currently-being-trained-by-the-NATO.html",
+                "pageTitle": "The <b>Afghanistan</b> army which is currently being trained by the <b>NATO</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/afghanistan-war-nato-casualties",
+                "pageTitle": "<b>Afghanistan</b> War <b>Nato</b> Casualties \u2013 dede14",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://interframemedia.com/pics/cent-taliban-group-claims-responsibility",
+                "pageTitle": "Cent Taliban Group Claims Responsibility \u2013 Interframe Media",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.researchgate.net/profile/Matthew_Van_Der_Beeuren/publication/325285486_Gulf_Security_NATO_and_the_Istanbul_Cooperation_Initiative/links/5b03e0a44585154aeb077530/Gulf-Security-NATO-and-the-Istanbul-Cooperation-Initiative.pdf?origin=publication_detail",
+                "pageTitle": "Gulf Security, <b>NATO</b>, and the Istanbul Cooperation ... - ResearchGate",
+                "fullMatchingImages": [
+                    {
+                        "url": "x-raw-image:///ca8e6559c76ef690b658a49ae03bac2a1a88347ba5003595192c08129ae74065"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/20/0/page/1767/",
+                "pageTitle": "The Frontier Post - 1767/2432 - News from all the Frontiers of the world",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalagemagazine.kipscss.net/TagArticles/international",
+                "pageTitle": "president trump and iran nuclear deal - Global Age Magazine",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://globalagemagazine.kipscss.net/Images/musa_05_02_2017.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/en/archive-results.php?_from=&_to=&start=11520&page=",
+                "pageTitle": "Mubassir.com - Archive",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/taliban(5).jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.shoah.org.uk/2014/page/5/",
+                "pageTitle": "Archive | 2014 - Shoah",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg?r=584076408"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.shoah.org.uk/2014/12/30/page/2/",
+                "pageTitle": "Newer Entries - Shoah",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg?r=584076408"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nunn.asia/image-sitemap-9.xml",
+                "pageTitle": "https://www.nunn.asia/49256/%d8%b1%d9%88%d8%b2%da%ab ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.nunn.asia/wp-content/uploads/2015/07/coalition-af.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/8/0/page/1517/",
+                "pageTitle": "The Frontier Post - 1517/2182 - News from all the Frontiers of the world",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-flag-iraq-13.html",
+                "pageTitle": "<b>Nato</b> Flag Iraq | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2018/01/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://globalagemagazine.kipscss.net/Article/2017/Feb",
+                "pageTitle": "Feb 2017 - Global Age Magazine - KIPS CSS",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://globalagemagazine.kipscss.net/Images/musa_05_02_2017.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nj1015.com/tom-hanks-sting-among-5-kennedy-center-honorees/",
+                "pageTitle": "Tom Hanks, Sting among 5 Kennedy Center honorees",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://nj1015.com/files/2014/12/3c6fff77-3714-4d0b-8e74-4e1f9fcef821-big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.csmonitor.com/World/Security-Watch/terrorism-security/2014/1209/Did-torture-yield-results-Expected-report-on-CIA-practices-sparks-controversy",
+                "pageTitle": "Did torture yield results? Expected report on CIA practices sparks ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.csmonitor.com/csm/2014/12/1208-NATO-US-command.jpg?alias=cinema_428x228"
+                    }
+                ]
+            },
+            {
+                "url": "http://nj1015.com/new-jersey-researcher-falls-short-in-eaten-alive-special/",
+                "pageTitle": "New Jersey snake researcher comes up short in &#39;Eaten Alive&#39; special",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://nj1015.com/files/2014/12/3c6fff77-3714-4d0b-8e74-4e1f9fcef821-big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://blowpicxs.pw/Army-major-martyred-in-DI-Khan-ISPR-Desi-News-t-Army.html",
+                "pageTitle": "Army major martyred in DI Khan ISPR Desi News t Army",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ginkgobilobahelp.info/?q=NATO+Training+MissionAfghanistan++Wikipedia",
+                "pageTitle": "<b>NATO</b> Training MissionAfghanistan Wikipedia 1731063 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.inforos.ru/media/2017/04/1492616967.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youngisthan.in/career-advice/tips-for-time-management-at-workplace-you-can-follow/37014",
+                "pageTitle": "7 Tips For Time Management At Workplace You Can Follow",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.youngisthan.in/wp-content/uploads/cmsimported/img-54a2875a7237a-posts-10202.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youngisthan.in/excuse-me/elections-are-over-politics-is-not-the-thoughts-of-these-politicians-will-tickle-your-funny-bone/8022",
+                "pageTitle": "Elections Are Over! Politics isn&#39;t! The Thoughts of These Politicians ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.youngisthan.in/wp-content/uploads/cmsimported/img-54a2875a7237a-posts-10202.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/it/pubblicazione/il-summit-nato-e-il-futuro-della-guerra-afghanistan-20978",
+                "pageTitle": "Il Summit <b>NATO</b> e il futuro della guerra in <b>Afghanistan</b> | ISPI",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/field/image/us-nato-end-afghan-combat-mission.jpg"
+                    },
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/evidenziato-home/public/field/image/us-nato-end-afghan-combat-mission.jpg?itok=ELjSmC7p"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.osservatorioafghanistan.org/2018/07/il-summit-nato-e-il-futuro-della-guerra-afghanistan/",
+                "pageTitle": "Il Summit <b>NATO</b> e il futuro della guerra in <b>Afghanistan</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.osservatorioafghanistan.org/wp-content/uploads/2018/07/us-nato-end-afghan-combat-mission-300x129.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://beritajatim.com/internasional/335716/bom_bunuh_diri_tewaskan_3_pasukan_nato_di_afghanistan.html",
+                "pageTitle": "Bom Bunuh Diri Tewaskan 3 Pasukan <b>NATO</b> di <b>Afghanistan</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://berita.beritajatim.com/brt966022249.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.osservatorioafghanistan.org/category/nato/",
+                "pageTitle": "<b>NATO</b> Archives - OSSERVATORIO <b>AFGHANISTAN</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.osservatorioafghanistan.org/wp-content/uploads/2018/07/us-nato-end-afghan-combat-mission-300x129.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mediaumat.news/mengapa-as-dan-nato-menggunakan-afghanistan-sebagai-koridor-militer-mereka/",
+                "pageTitle": "Mengapa AS dan <b>NATO</b> Menggunakan <b>Afghanistan</b> Sebagai ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mediaumat.news/wp-content/uploads/2018/09/tentara-nato-di-afganistan-692x360.jpg"
+                    },
+                    {
+                        "url": "https://mediaumat.news/wp-content/uploads/2018/09/tentara-nato-di-afganistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ispionline.it/it/bio/claudio-bertolotti",
+                "pageTitle": "Claudio Bertolotti | ISPI",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ispionline.it/sites/default/files/styles/square_thumbnail/public/copertine/us-nato-end-afghan-combat-mission.jpg?itok=ABTTRIXt"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.osservatorioafghanistan.org/category/rapporti/",
+                "pageTitle": "RAPPORTI Archives - OSSERVATORIO <b>AFGHANISTAN</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.osservatorioafghanistan.org/wp-content/uploads/2018/07/us-nato-end-afghan-combat-mission-300x129.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hizb-indonesia.info/2018/09/17/mengapa-as-dan-nato-menggunakan-afghanistan-sebagai-koridor-militer-mereka/",
+                "pageTitle": "Mengapa AS dan <b>NATO</b> Menggunakan <b>Afghanistan</b> Sebagai ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hizb-indonesia.info/wp-content/uploads/2018/09/tentara-nato-di-afganistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://phamhongphuoc.net/2015/01/04/nato-bat-dau-su-mang-moi-o-afghanistan-thoi-hau-chien/",
+                "pageTitle": "ph\u1ea1m h\u1ed3ng ph\u01b0\u1edbc \u00bb <b>NATO</b> b\u1eaft \u0111\u1ea7u s\u1ee9 m\u1ea1ng m\u1edbi \u1edf <b>Afghanistan</b> th\u1eddi ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.phamhongphuoc.net/wp-content/uploads/2015/01/141208-afghanistan-nato-flag-down-war-end-01_resize.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.osservatorioafghanistan.org/tag/intervento-militare/",
+                "pageTitle": "Intervento militare Archives - OSSERVATORIO <b>AFGHANISTAN</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.osservatorioafghanistan.org/wp-content/uploads/2018/07/us-nato-end-afghan-combat-mission-300x129.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.matamatapolitik.com/opini-tatanan-pasca-perang-dunia-yang-dibangun-amerika-kini-hancur/",
+                "pageTitle": "Opini: Tatanan Pasca-Perang Dunia yang Dibangun Amerika Kini ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.matamatapolitik.com/wp-content/uploads/sites/2/2018/08/Opini-Tatanan-Pasca-Perang-Dunia-yang-Dibangun-Amerika-Kini-Hancur-1.jpg"
+                    },
+                    {
+                        "url": "https://www.matamatapolitik.com/wp-content/uploads/sites/2/2018/08/Opini-Tatanan-Pasca-Perang-Dunia-yang-Dibangun-Amerika-Kini-Hancur-1-850x600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://beritajatim.com/internasional/334455/wapres_afghanistan_lolos_dari_bom_bunuh_diri.html",
+                "pageTitle": "Wapres <b>Afghanistan</b> Lolos dari Bom Bunuh Diri - beritajatim.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://berita.beritajatim.com/brt966022249.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://beritajatim.com/internasional/335289/gedung_pemerintah_di_afghanistan_diserang,_15_orang_tewas.html",
+                "pageTitle": "Gedung Pemerintah di <b>Afghanistan</b> Diserang, 15 Orang Tewas ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://berita.beritajatim.com/brt966022249.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://beritajatim.com/internasional/327870/bom_meledak_di_somalia,_7_tentara_kenya_tewas.html",
+                "pageTitle": "Bom Meledak di Somalia, 7 Tentara Kenya Tewas - beritajatim.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://berita.beritajatim.com/brt966022249.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.corriere.it/foto-gallery/esteri/14_dicembre_08/afghanistan-cerimonia-fine-missione-isaf-6cb25860-7ecd-11e4-bf8b-faa9d359f85b.shtml?keepThis=true&ssoAt=",
+                "pageTitle": "<b>Afghanistan</b>, la cerimonia di fine della missione Isaf - Corriere.it",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images2.corriereobjects.it/methode_image/2014/12/08/Esteri/Foto%20Gallery/283b17222ac5a130670f6a70670089dd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.corriere.it/foto-gallery/esteri/14_dicembre_08/afghanistan-cerimonia-fine-missione-isaf-6cb25860-7ecd-11e4-bf8b-faa9d359f85b.shtml",
+                "pageTitle": "<b>Afghanistan</b>, la cerimonia di fine della missione Isaf - Corriere.it",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images2.corriereobjects.it/methode_image/2014/12/08/Esteri/Foto%20Gallery/283b17222ac5a130670f6a70670089dd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topky.sk/cl/10/1455019/Slovenski-analytici-nakrutili-VIDEO--Podporuju-zbrojenie-armady--plnme-zavazky-NATO-",
+                "pageTitle": "Slovensk\u00ed analytici nakr\u00fatili VIDEO: Podporuj\u00fa zbrojenie arm\u00e1dy ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.topky.sk/1467615.jpg"
+                    },
+                    {
+                        "url": "https://img.topky.sk/900px/1467615.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gpnewsusa2016.eu/vide0/93-archiviazione/285-afghanistan-la-missione-finisce-la-guerra-continua",
+                "pageTitle": "<b>Afghanistan</b>: la missione finisce, la guerra continua",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gpnewsusa2016.eu/images/20141228AfgIsaf.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-afghanistan",
+                "pageTitle": "<b>Nato Afghanistan</b> \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topky.sk/cl/11/1443141/USA-a-NATO-slavnostne-ukoncili-bojovu-misiu-v-Afganistane",
+                "pageTitle": "USA a <b>NATO</b> sl\u00e1vnostne ukon\u010dili bojov\u00fa misiu v Afganistane | Topky ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.topky.sk/big/1467615.jpg/USA-NATO-Afganistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topky.sk/gl/276445/1467615/Slovenski-analytici-nakrutili-VIDEO--Podporuju-zbrojenie-armady--plnme-zavazky-NATO-",
+                "pageTitle": "Slovensk\u00ed analytici nakr\u00fatili VIDEO: Podporuj\u00fa zbrojenie arm\u00e1dy ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.topky.sk/900px/1467615.jpg/USA-NATO-Afganistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topky.sk/gl/265561/1467615/USA-a-NATO-slavnostne-ukoncili-bojovu-misiu-v-Afganistane",
+                "pageTitle": "USA a <b>NATO</b> sl\u00e1vnostne ukon\u010dili bojov\u00fa misiu v Afganistane - Topky",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.topky.sk/900px/1467615.jpg/USA-NATO-Afganistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://haber.sol.org.tr/dunya/nato-zirvesinin-ardindan-trump-zafer-ilan-etti-242630",
+                "pageTitle": "<b>NATO</b> zirvesinin ard\u0131ndan Trump zafer ilan etti | soL Haber Portal\u0131",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_195x130/public/us-nato-end-afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://lajmi.net/mbeshtetja-e-nato-s-per-afganistanin-do-te-vazhdoje/",
+                "pageTitle": "Mb\u00ebshtetja e <b>NATO</b>-s p\u00ebr Afganistanin do t\u00eb vazhdoj\u00eb \u2013 Lajmi.net",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://lajmi.net/wp-content/uploads/2017/09/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://haber.sol.org.tr/dunya/nato-zirvesinde-ozel-afganistan-oturumu-242614",
+                "pageTitle": "<b>NATO</b> Zirvesinde \u00f6zel Afganistan oturumu | soL Haber Portal\u0131",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://haber.sol.org.tr/sites/default/files/us-nato-end-afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kresy.pl/wydarzenia/misja-nato-w-afganistanie-bedzie-kontynuowana/",
+                "pageTitle": "Misja <b>NATO</b> w Afganistanie b\u0119dzie kontynuowana \u00bb Kresy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://kresy.pl/wp-content/uploads/2017/02/1cbd711cddfcfe19d9846b3efccf84ba..jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.arbresh.info/bota/nato-thote-se-ka-forca-te-mjaftueshme-ne-afganistan/",
+                "pageTitle": "<b>NATO</b> thot\u00eb se ka forca t\u00eb mjaftueshme n\u00eb Afganistan - Arbresh.info",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.arbresh.info/wp-content/uploads/2017/11/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://yash.news/tr/?p=1688",
+                "pageTitle": "<b>NATO</b> Afganistan&#39;a 3.000 yeni asker g\u00f6nderecek \u2013 Yash news",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://yash.news/tr/wp-content/uploads/2017/11/54a102e3b9c17.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://itibritto.com/organization-nato/",
+                "pageTitle": "\u09a8\u09cd\u09af\u09be\u099f\u09cb: \u098f\u0995\u099f\u09bf \u09ac\u09b9\u09c1\u099c\u09be\u09a4\u09bf\u0995 \u09b8\u09be\u09ae\u09b0\u09bf\u0995 \u09b8\u0982\u0997\u09a0\u09a8 - \u0987\u09a4\u09bf\u09ac\u09c3\u09a4\u09cd\u09a4",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://itibritto.com/wp-content/uploads/2018/04/US-NATO-end-Afghan-combat-mission-1024x661.jpg"
+                    },
+                    {
+                        "url": "http://itibritto.com/wp-content/uploads/2018/04/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.yukle.mobi/sekil-yukle/?q=nato+ordular%C4%B1&page=4",
+                "pageTitle": "<b>Nato</b> ordular\u0131 sor\u011fusuna uy\u011fun \u015fekilleri pulsuz y\u00fckle, bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.inforos.ru/media/2017/04/1492616967.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sprotyv.info/ru/news/kiev/nato-prodlit-deystvie-svoey-missii-v-afganistane-posle-2016-goda",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u043f\u0440\u043e\u0434\u043b\u0438\u0442 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435 \u0441\u0432\u043e\u0435\u0439 \u043c\u0438\u0441\u0441\u0438\u0438 \u0432 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0435 \u043f\u043e\u0441\u043b\u0435 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://sprotyv.info/sites/sprotyv/files/us-nato-end-afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mepanews.com/afganistan-savasi-kronolojisi-21285h.htm",
+                "pageTitle": "Afganistan sava\u015f\u0131 kronolojisi - Mepa News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tr.eyeni.biz/resim-indir/?q=nato&page=4",
+                "pageTitle": "<b>Nato</b> sorgusuna uygun resimleri bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://inforos.ru/media/2017/04/1492616967.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.yukle.mobi/sekil-yukle/?q=nato+ordular%C4%B1&page=3",
+                "pageTitle": "<b>Nato</b> ordular\u0131 sor\u011fusuna uy\u011fun \u015fekilleri pulsuz y\u00fckle, bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.inforos.ru/media/2017/04/1492616967.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://lajmi.net/bota/page/661/?page_archive=19&device=desktop",
+                "pageTitle": "Bota \u2013 Page 661 \u2013 Lajmi.net",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://lajmi.net/wp-content/uploads/2017/09/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.yukle.mobi/sekil-yukle/?q=nato+charcovon&page=1",
+                "pageTitle": "<b>Nato</b> charcovon sor\u011fusuna uy\u011fun \u015fekilleri pulsuz y\u00fckle, bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://russia-now.com/wp-content/uploads/2017/06/1492617011.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ekvatorhaber.com/analiz-abd-afganistanda-yeni-bir-oyun-oynuyor/",
+                "pageTitle": "ABD Afganistan&#39;da yeni bir oyun oynuyor - Ekvator Haber",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.milenio.com/internacional/la-otan-pone-fin-a-mision-de-combate-en-afganistan",
+                "pageTitle": "La OTAN pone fin a misi\u00f3n de combate en Afganist\u00e1n - Milenio",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://imagenes.milenio.com/T-GhyGoQh4fe0vH7rBi2RmyQFZk=/958x596/http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+                    },
+                    {
+                        "url": "http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.matamatapolitik.com/tag/peran-global-amerika/",
+                "pageTitle": "Peran Global Amerika Archives - Mata Mata Politik",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.matamatapolitik.com/wp-content/uploads/sites/2/2018/08/Opini-Tatanan-Pasca-Perang-Dunia-yang-Dibangun-Amerika-Kini-Hancur-1-850x600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://haber.sol.org.tr/dunya/turkiyeye-kacan-rasid-dostum-ulkesine-donuyor-243433",
+                "pageTitle": "T\u00fcrkiye&#39;ye ka\u00e7an Ra\u015fid Dostum \u00fclkesine d\u00f6n\u00fcyor | soL Haber Portal\u0131",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_195x130/public/us-nato-end-afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ekvatorhaber.com/tek-gercek-abd-ingiltere-ve-israilin-cikarlari/",
+                "pageTitle": "Tek ger\u00e7ek; ABD, \u0130ngiltere ve \u0130srail&#39;in \u00e7\u0131karlar\u0131 - Ekvator Haber",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg?zoom=1.25&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://turankislakci.com/tr/k/yazilar/page/2",
+                "pageTitle": "Turan K\u0131\u015flak\u00e7\u0131 Yaz\u0131lar ar\u015fivleri - Sayfa 2 / 9 - Turan K\u0131\u015flak\u00e7\u0131",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://turankislakci.com/tr/wp-content/uploads/2018/02/ordular-464x310.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://origin-www.milenio.com/internacional/la-otan-pone-fin-a-mision-de-combate-en-afganistan",
+                "pageTitle": "La OTAN pone fin a misi\u00f3n de combate en Afganist\u00e1n - Milenio",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://imagenes.milenio.com/T-GhyGoQh4fe0vH7rBi2RmyQFZk=/958x596/http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+                    },
+                    {
+                        "url": "http://www.milenio.com/uploads/media/2014/12/08/unidos-otan-pusieron-mision-combate.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://turankislakci.com/tr/5-yilinda-arap-bahari/215",
+                "pageTitle": "Turan K\u0131\u015flak\u00e7\u0131 5. Y\u0131l\u0131nda Arap Bahar\u0131 - Turan K\u0131\u015flak\u00e7\u0131",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://turankislakci.com/tr/wp-content/uploads/2018/02/ordular-464x310.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://khabarnama.net/blog/category/rivayat/army-and-security-rivayate/",
+                "pageTitle": "\u0631\u0648\u0627\u06cc\u062a \u0646\u0638\u0627\u0645\u06cc \u2013 \u0627\u0645\u0646\u06cc\u062a\u06cc | - \u062e\u0628\u0631\u0646\u0627\u0645\u0647",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://khabarnama.net/wp-content/uploads/2018/09/Nato-in-afghanistan--798x213.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://turankislakci.com/tr/bu-cografyanin-nisanesi/40",
+                "pageTitle": "Turan K\u0131\u015flak\u00e7\u0131 Bu co\u011frafyan\u0131n ni\u015fanesi - Turan K\u0131\u015flak\u00e7\u0131",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://turankislakci.com/tr/wp-content/uploads/2018/02/ordular-464x310.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://turankislakci.com/tr/yezidler-diyari-suriye-huseyinleri-katlediyor/161",
+                "pageTitle": "Turan K\u0131\u015flak\u00e7\u0131 Yezidler diyar\u0131 Suriye, H\u00fcseyinleri katlediyor - Turan ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://turankislakci.com/tr/wp-content/uploads/2018/02/ordular-464x310.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ekvatorhaber.com/guney-afrika-beyazlarin-elindeki-topraklari-alip-yerlilere-dagitacak/",
+                "pageTitle": "G\u00fcney Afrika beyazlar\u0131n elindeki topraklar\u0131 al\u0131p yerlilere da\u011f\u0131tacak",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.studentnewsdaily.com/wp-content/uploads/2014/12/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kuaibao.qq.com/s/20180603A09BVS00?refer=spider",
+                "pageTitle": "\u5317\u7ea6\u79d8\u4e66\u957f\uff1a\u5982\u679c\u4f0a\u6717\u653b\u51fb\u4ee5\u8272\u5217\u5317\u7ea6\u4e0d\u4f1a\u5e2e\u4ee5\u8272\u5217-\u5929\u5929\u5feb\u62a5 - \u817e\u8baf",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://inews.gtimg.com/newsapp_match/0/3820132697/0"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dawnnews.tv/news/1014410",
+                "pageTitle": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0633\u06d2 \u0627\u0646\u062e\u0644\u0627\u0621 \u0646\u06cc\u0679\u0648 \u0627\u0641\u0648\u0627\u062c \u06a9\u06cc \u0634\u06a9\u0633\u062a \u06c1\u06d2\u060c \u0637\u0627\u0644\u0628\u0627\u0646 - World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i.dawn.com/large/2014/12/54a1402bda8a8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://inforos.ru/ru/?module=search&query=%D0%9D%D0%90%D0%A2%D0%9E&page=99",
+                "pageTitle": "99 - \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0418\u043d\u0444\u043e\u0440\u043e\u0441",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://inforos.ru/media/2017/04/1492617011.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://yjsnews.pro/proton-rocket-crash",
+                "pageTitle": "Proton Rocket Crash.Russian Rocket Crashes After Launch In Fiery ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://media1.s-nbcnews.com/i/newscms/2014_50/796981/pc-141208-nato-afghanistan-02_7deb12d0a749125c82e5f6f68a83fd53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://new.qq.com/omn/20180603/20180603A09BVS.html",
+                "pageTitle": "\u5317\u7ea6\u79d8\u4e66\u957f\uff1a\u5982\u679c\u4f0a\u6717\u653b\u51fb\u4ee5\u8272\u5217\u5317\u7ea6\u4e0d\u4f1a\u5e2e\u4ee5\u8272\u5217-\u817e\u8baf\u7f51 - \u817e\u8baf\u65b0\u95fb",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://inews.gtimg.com/newsapp_match/0/3820132697/0"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.yukle.mobi/sekil-yukle/?q=nato+charcovon&page=10",
+                "pageTitle": "<b>Nato</b> charcovon sor\u011fusuna uy\u011fun \u015fekilleri pulsuz y\u00fckle, bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://test-www.inforos.ru/media/2017/04/1492617011.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://fax.al/news/11930873/isis-mori-pergjegjesine-per-sulmin-ne-kabul",
+                "pageTitle": "ISIS mori p\u00ebrgjegj\u00ebsin\u00eb p\u00ebr sulmin n\u00eb Kabul - fax.al",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://lajmi.net/wp-content/uploads/2017/09/US-NATO-end-Afghan-combat-mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://yash.news/?p=3039",
+                "pageTitle": "\u0646\u0627\u062a\u0648 3 \u0647\u0632\u0627\u0631 \u0633\u0631\u0628\u0627\u0632 \u062a\u0627\u0632\u0647\u200c \u0646\u0641\u0633 \u0631\u0627 \u0628\u0647 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0645\u06cc\u200c\u0641\u0631\u0633\u062a\u062f \u2013 Yash.News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://yash.news/wp-content/uploads/2017/11/54a102e3b9c17.jpg"
+                    },
+                    {
+                        "url": "https://yash.news/wp-content/uploads/2017/11/54a102e3b9c17-780x405.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://inforos.ru/ru/?module=news&action=list&region=1&page=911",
+                "pageTitle": "\u0420\u043e\u0441\u0441\u0438\u044f / \u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e \u0418\u043d\u0444\u043e\u0440\u043e\u0441",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://inforos.ru/media/2017/04/1492617011.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://www.censoo.com/data/2016/06/NATO_plans_for_afghan_war_through_2020-218x150.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/NATO_Training_Mission-Afghanistan_120815-F-JF472-504.jpg"
+            },
+            {
+                "url": "http://www.futureforeignpolicy.com/wp-content/uploads/2013/09/NATO_Training_Mission_Afghanistan_command_changes_hands_63153234092-1024x7311.jpg"
+            },
+            {
+                "url": "https://www.militaryshop.com.au/uploads/product_images/blog_470.jpg"
+            },
+            {
+                "url": "https://c1.staticflickr.com/7/6045/6315314047_e6967afb7d_b.jpg"
+            },
+            {
+                "url": "https://www.dw.com/image/43367806_303.jpg"
+            },
+            {
+                "url": "http://www.italnews.info/wp-content/uploads/2014/12/NATO-in-Afghanistan-300x224.jpg"
+            },
+            {
+                "url": "https://www.khaama.com/wp-content/uploads/2017/05/NATO-Afghanistan.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato in afghanistan",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9368415,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.18199003,
+                        "y": 0.4748853
+                    },
+                    {
+                        "x": 0.3010688,
+                        "y": 0.4748853
+                    },
+                    {
+                        "x": 0.3010688,
+                        "y": 0.9691147
+                    },
+                    {
+                        "x": 0.18199003,
+                        "y": 0.9691147
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.89730734,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5631665,
+                        "y": 0.47065
+                    },
+                    {
+                        "x": 0.6775394,
+                        "y": 0.47065
+                    },
+                    {
+                        "x": 0.6775394,
+                        "y": 0.98699707
+                    },
+                    {
+                        "x": 0.5631665,
+                        "y": 0.98699707
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8799765,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.07910337,
+                        "y": 0.61183584
+                    },
+                    {
+                        "x": 0.16899571,
+                        "y": 0.61183584
+                    },
+                    {
+                        "x": 0.16899571,
+                        "y": 0.8890682
+                    },
+                    {
+                        "x": 0.07910337,
+                        "y": 0.8890682
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8799765,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.4735194,
+                        "y": 0.47959116
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.47959116
+                    },
+                    {
+                        "x": 0.5765982,
+                        "y": 0.98135
+                    },
+                    {
+                        "x": 0.4735194,
+                        "y": 0.98135
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8640498,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.71351945,
+                        "y": 0.49135587
+                    },
+                    {
+                        "x": 0.82648057,
+                        "y": 0.49135587
+                    },
+                    {
+                        "x": 0.82648057,
+                        "y": 0.98417354
+                    },
+                    {
+                        "x": 0.71351945,
+                        "y": 0.98417354
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.6314442,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6382861,
+                        "y": 0.055006105
+                    },
+                    {
+                        "x": 0.7587666,
+                        "y": 0.055006105
+                    },
+                    {
+                        "x": 0.7587666,
+                        "y": 0.34070903
+                    },
+                    {
+                        "x": 0.6382861,
+                        "y": 0.34070903
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.5627511,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.46964204,
+                        "y": 0.015080412
+                    },
+                    {
+                        "x": 0.5708285,
+                        "y": 0.015080412
+                    },
+                    {
+                        "x": 0.5708285,
+                        "y": 0.26925397
+                    },
+                    {
+                        "x": 0.46964204,
+                        "y": 0.26925397
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.5474268,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.31283692,
+                        "y": 0.06379156
+                    },
+                    {
+                        "x": 0.40902063,
+                        "y": 0.06379156
+                    },
+                    {
+                        "x": 0.40902063,
+                        "y": 0.27874714
+                    },
+                    {
+                        "x": 0.31283692,
+                        "y": 0.27874714
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,564 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01nd_n",
+            "description": "protest",
+            "score": 0.9584052,
+            "topicality": 0.9584052
+        },
+        {
+            "mid": "/m/03qtwd",
+            "description": "crowd",
+            "score": 0.88956964,
+            "topicality": 0.88956964
+        },
+        {
+            "mid": "/m/081pkj",
+            "description": "event",
+            "score": 0.8456598,
+            "topicality": 0.8456598
+        },
+        {
+            "mid": "/m/026yq0z",
+            "description": "demonstration",
+            "score": 0.6993465,
+            "topicality": 0.6993465
+        },
+        {
+            "mid": "/g/116c3n66l",
+            "description": "public event",
+            "score": 0.6727672,
+            "topicality": 0.6727672
+        },
+        {
+            "mid": "/m/017r8p",
+            "description": "pedestrian",
+            "score": 0.6607584,
+            "topicality": 0.6607584
+        },
+        {
+            "mid": "/m/01c8br",
+            "description": "street",
+            "score": 0.5629061,
+            "topicality": 0.5629061
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 123,
+                        "green": 117,
+                        "blue": 115
+                    },
+                    "score": 0.22937496,
+                    "pixelFraction": 0.12491429
+                },
+                {
+                    "color": {
+                        "red": 54,
+                        "green": 49,
+                        "blue": 47
+                    },
+                    "score": 0.09580939,
+                    "pixelFraction": 0.19874285
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 88,
+                        "blue": 86
+                    },
+                    "score": 0.09054706,
+                    "pixelFraction": 0.18514286
+                },
+                {
+                    "color": {
+                        "red": 157,
+                        "green": 151,
+                        "blue": 148
+                    },
+                    "score": 0.08875357,
+                    "pixelFraction": 0.044114284
+                },
+                {
+                    "color": {
+                        "red": 28,
+                        "green": 24,
+                        "blue": 23
+                    },
+                    "score": 0.078891054,
+                    "pixelFraction": 0.28388572
+                },
+                {
+                    "color": {
+                        "red": 59,
+                        "green": 84,
+                        "blue": 112
+                    },
+                    "score": 0.06353712,
+                    "pixelFraction": 0.0104
+                },
+                {
+                    "color": {
+                        "red": 37,
+                        "green": 59,
+                        "blue": 83
+                    },
+                    "score": 0.047135063,
+                    "pixelFraction": 0.014057143
+                },
+                {
+                    "color": {
+                        "red": 190,
+                        "green": 189,
+                        "blue": 187
+                    },
+                    "score": 0.043020554,
+                    "pixelFraction": 0.0112
+                },
+                {
+                    "color": {
+                        "red": 140,
+                        "green": 109,
+                        "blue": 114
+                    },
+                    "score": 0.039557472,
+                    "pixelFraction": 0.013142857
+                },
+                {
+                    "color": {
+                        "red": 112,
+                        "green": 81,
+                        "blue": 86
+                    },
+                    "score": 0.035200298,
+                    "pixelFraction": 0.017142856
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 409
+                        },
+                        {
+                            "x": 409,
+                            "y": 229
+                        },
+                        {
+                            "y": 229
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.6756,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.6309
+            },
+            {
+                "entityId": "/m/01nd_n",
+                "score": 0.5627988,
+                "description": "Protest"
+            },
+            {
+                "entityId": "/m/04hft0",
+                "score": 0.43950003,
+                "description": "Orange Revolution"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.4055
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.387
+            },
+            {
+                "entityId": "/t/2gvt2p6g8xbyy",
+                "score": 0.3793
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.37875,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/01t_55",
+                "score": 0.2968,
+                "description": "Foreign minister"
+            },
+            {
+                "entityId": "/m/0gnwz4",
+                "score": 0.2894,
+                "description": "Demonstration"
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.2886,
+                "description": "News"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.2668,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/01hy1q",
+                "score": 0.2557,
+                "description": "Foreign policy"
+            },
+            {
+                "entityId": "/m/06grw",
+                "score": 0.2123,
+                "description": "Revolution"
+            },
+            {
+                "entityId": "/m/01mpz1",
+                "score": 0.206,
+                "description": "Threat"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://cdni.rt.com/files/oldfiles/politics/communists-nato-base-ulyanovsk-363/base-plans-staged-protest.si.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.rt.com/politics/communists-nato-base-ulyanovsk-363/",
+                "pageTitle": "NATO &#39;base&#39; worse than &#39;Orange Revolution&#39; threat - Communists ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/oldfiles/politics/communists-nato-base-ulyanovsk-363/base-plans-staged-protest.si.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rt.com/russia/russia-nato-ukraine-statement-160/amp/",
+                "pageTitle": "NATO attacks Russia with propaganda factsheet \u2013 Foreign Ministry",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/oldfiles/politics/communists-nato-base-ulyanovsk-363/base-plans-staged-protest.si.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rt.com/russia/communists-nato-base-ulyanovsk-363/amp/",
+                "pageTitle": "NATO &#39;base&#39; worse than &#39;Orange Revolution&#39; threat - Communists",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/files/oldfiles/politics/communists-nato-base-ulyanovsk-363/base-plans-staged-protest.si.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.independent.ie/world-news/article37524191.ece/ALTERNATES/h342/ipanews_68adf2aa-eaec-4be7-8dc7-1573a7860504_1"
+            },
+            {
+                "url": "http://www.dlprog.org/images/news/thumbs/istock-000018200199large-mumbai-cropped-news500x329.jpg"
+            },
+            {
+                "url": "https://static.toiimg.com/thumb/msid-64817169,width-1070,height-580,imgsize-1142830,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+            },
+            {
+                "url": "https://www.jta.org/wp-content/uploads/2018/11/Teens-marching-from-Gaza-with-RIvlin-2-11082018-resize.jpg"
+            },
+            {
+                "url": "https://epeak.in/wp-content/uploads/2018/10/China-legalises-re-education-camps-in-Xinjiang-News-390x220.jpg"
+            },
+            {
+                "url": "http://www.witf.org/news/pipe_bomb_new_york.jpg"
+            },
+            {
+                "url": "http://revsonfoundation.org/files/2018/09/TheCityNY-photo.jpg"
+            },
+            {
+                "url": "https://www.nydailynews.com/resizer/XZlrATQxiFGfW1fvU_Nu8Y-qf1s=/1400x0/www.trbimg.com/img-5beee3b2/turbine/ny-1542382510-47ljtmeuyf-snap-image"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "News"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.8199839,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.76975477,
+                        "y": 0.40029708
+                    },
+                    {
+                        "x": 0.9161276,
+                        "y": 0.40029708
+                    },
+                    {
+                        "x": 0.9161276,
+                        "y": 0.9302913
+                    },
+                    {
+                        "x": 0.76975477,
+                        "y": 0.9302913
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.804367,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.46975473,
+                        "y": 0.5224147
+                    },
+                    {
+                        "x": 0.5987159,
+                        "y": 0.5224147
+                    },
+                    {
+                        "x": 0.5987159,
+                        "y": 0.99405587
+                    },
+                    {
+                        "x": 0.46975473,
+                        "y": 0.99405587
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.70820916,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.69311047,
+                        "y": 0.63386804
+                    },
+                    {
+                        "x": 0.86665416,
+                        "y": 0.63386804
+                    },
+                    {
+                        "x": 0.86665416,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.69311047,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.7020106,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.26299283,
+                        "y": 0.5597503
+                    },
+                    {
+                        "x": 0.43559545,
+                        "y": 0.5597503
+                    },
+                    {
+                        "x": 0.43559545,
+                        "y": 0.992485
+                    },
+                    {
+                        "x": 0.26299283,
+                        "y": 0.992485
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6957112,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.10238699,
+                        "y": 0.811935
+                    },
+                    {
+                        "x": 0.26273996,
+                        "y": 0.811935
+                    },
+                    {
+                        "x": 0.26273996,
+                        "y": 0.99864084
+                    },
+                    {
+                        "x": 0.10238699,
+                        "y": 0.99864084
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03bt1vf",
+            "name": "Woman",
+            "score": 0.6287404,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.69311047,
+                        "y": 0.63386804
+                    },
+                    {
+                        "x": 0.86665416,
+                        "y": 0.63386804
+                    },
+                    {
+                        "x": 0.86665416,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.69311047,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.59954697,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.46975473,
+                        "y": 0.5224147
+                    },
+                    {
+                        "x": 0.5987159,
+                        "y": 0.5224147
+                    },
+                    {
+                        "x": 0.5987159,
+                        "y": 0.99405587
+                    },
+                    {
+                        "x": 0.46975473,
+                        "y": 0.99405587
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.56660384,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.26299283,
+                        "y": 0.5597503
+                    },
+                    {
+                        "x": 0.43559545,
+                        "y": 0.5597503
+                    },
+                    {
+                        "x": 0.43559545,
+                        "y": 0.992485
+                    },
+                    {
+                        "x": 0.26299283,
+                        "y": 0.992485
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5253849,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.005519435,
+                        "y": 0.53135586
+                    },
+                    {
+                        "x": 0.11283351,
+                        "y": 0.53135586
+                    },
+                    {
+                        "x": 0.11283351,
+                        "y": 0.9935853
+                    },
+                    {
+                        "x": 0.005519435,
+                        "y": 0.9935853
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.51170516,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5234018,
+                        "y": 0.3913559
+                    },
+                    {
+                        "x": 0.6471864,
+                        "y": 0.3913559
+                    },
+                    {
+                        "x": 0.6471864,
+                        "y": 0.94064415
+                    },
+                    {
+                        "x": 0.5234018,
+                        "y": 0.94064415
+                    }
+                ]
+            }
+        }
+    ]
+}

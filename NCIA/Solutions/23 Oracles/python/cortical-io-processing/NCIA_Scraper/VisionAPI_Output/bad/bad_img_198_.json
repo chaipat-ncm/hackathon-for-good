@@ -1,0 +1,2436 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0215n",
+            "description": "cartoon",
+            "score": 0.95846725,
+            "topicality": 0.95846725
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "description": "fictional character",
+            "score": 0.7764731,
+            "topicality": 0.7764731
+        },
+        {
+            "mid": "/m/03c31",
+            "description": "graphic design",
+            "score": 0.6695477,
+            "topicality": 0.6695477
+        },
+        {
+            "mid": "/m/01kr8f",
+            "description": "illustration",
+            "score": 0.6383848,
+            "topicality": 0.6383848
+        },
+        {
+            "mid": "/m/02xlf",
+            "description": "fiction",
+            "score": 0.636466,
+            "topicality": 0.636466
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.55830926,
+            "topicality": 0.55830926
+        },
+        {
+            "mid": "/m/03w43x",
+            "description": "computer wallpaper",
+            "score": 0.555732,
+            "topicality": 0.555732
+        },
+        {
+            "mid": "/m/02qd0r",
+            "description": "human behavior",
+            "score": 0.55483854,
+            "topicality": 0.55483854
+        },
+        {
+            "mid": "/m/01jwgf",
+            "description": "product",
+            "score": 0.51543355,
+            "topicality": 0.51543355
+        },
+        {
+            "mid": "/m/0jjw",
+            "description": "art",
+            "score": 0.50129366,
+            "topicality": 0.50129366
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "id",
+            "description": "UK\nUSA\nFrance\nTerrorists\nRRT\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 179,
+                        "y": 79
+                    },
+                    {
+                        "x": 732,
+                        "y": 79
+                    },
+                    {
+                        "x": 732,
+                        "y": 398
+                    },
+                    {
+                        "x": 179,
+                        "y": 398
+                    }
+                ]
+            }
+        },
+        {
+            "description": "UK",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 269,
+                        "y": 79
+                    },
+                    {
+                        "x": 299,
+                        "y": 82
+                    },
+                    {
+                        "x": 297,
+                        "y": 102
+                    },
+                    {
+                        "x": 267,
+                        "y": 99
+                    }
+                ]
+            }
+        },
+        {
+            "description": "USA",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 369,
+                        "y": 87
+                    },
+                    {
+                        "x": 400,
+                        "y": 86
+                    },
+                    {
+                        "x": 400,
+                        "y": 98
+                    },
+                    {
+                        "x": 370,
+                        "y": 99
+                    }
+                ]
+            }
+        },
+        {
+            "description": "France",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 360,
+                        "y": 104
+                    },
+                    {
+                        "x": 409,
+                        "y": 103
+                    },
+                    {
+                        "x": 409,
+                        "y": 114
+                    },
+                    {
+                        "x": 360,
+                        "y": 115
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Terrorists",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 179,
+                        "y": 202
+                    },
+                    {
+                        "x": 258,
+                        "y": 202
+                    },
+                    {
+                        "x": 258,
+                        "y": 213
+                    },
+                    {
+                        "x": 179,
+                        "y": 213
+                    }
+                ]
+            }
+        },
+        {
+            "description": "RRT",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 708,
+                        "y": 387
+                    },
+                    {
+                        "x": 732,
+                        "y": 387
+                    },
+                    {
+                        "x": 732,
+                        "y": 398
+                    },
+                    {
+                        "x": 708,
+                        "y": 398
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 10,
+                        "green": 11,
+                        "blue": 14
+                    },
+                    "score": 0.16259515,
+                    "pixelFraction": 0.11877188
+                },
+                {
+                    "color": {
+                        "red": 42,
+                        "green": 51,
+                        "blue": 69
+                    },
+                    "score": 0.04741368,
+                    "pixelFraction": 0.033216625
+                },
+                {
+                    "color": {
+                        "red": 248,
+                        "green": 248,
+                        "blue": 174
+                    },
+                    "score": 0.0409536,
+                    "pixelFraction": 0.106562525
+                },
+                {
+                    "color": {
+                        "red": 200,
+                        "green": 66,
+                        "blue": 62
+                    },
+                    "score": 0.04065896,
+                    "pixelFraction": 0.0033216625
+                },
+                {
+                    "color": {
+                        "red": 245,
+                        "green": 241,
+                        "blue": 205
+                    },
+                    "score": 0.03064851,
+                    "pixelFraction": 0.025316456
+                },
+                {
+                    "color": {
+                        "red": 243,
+                        "green": 199,
+                        "blue": 66
+                    },
+                    "score": 0.022032056,
+                    "pixelFraction": 0.030343836
+                },
+                {
+                    "color": {
+                        "red": 178,
+                        "green": 197,
+                        "blue": 225
+                    },
+                    "score": 0.020930104,
+                    "pixelFraction": 0.014543496
+                },
+                {
+                    "color": {
+                        "red": 143,
+                        "green": 58,
+                        "blue": 64
+                    },
+                    "score": 0.007277916,
+                    "pixelFraction": 0.000807972
+                },
+                {
+                    "color": {
+                        "red": 239,
+                        "green": 150,
+                        "blue": 61
+                    },
+                    "score": 0.00087094854,
+                    "pixelFraction": 0.0017057187
+                },
+                {
+                    "color": {
+                        "red": 16,
+                        "green": 22,
+                        "blue": 38
+                    },
+                    "score": 0.046427846,
+                    "pixelFraction": 0.021097047
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 748
+                        },
+                        {
+                            "x": 748,
+                            "y": 420
+                        },
+                        {
+                            "y": 420
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "id"
+                        }
+                    ]
+                },
+                "width": 749,
+                "height": 421,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 267,
+                                    "y": 79
+                                },
+                                {
+                                    "x": 299,
+                                    "y": 79
+                                },
+                                {
+                                    "x": 299,
+                                    "y": 102
+                                },
+                                {
+                                    "x": 267,
+                                    "y": 102
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 267,
+                                            "y": 79
+                                        },
+                                        {
+                                            "x": 299,
+                                            "y": 79
+                                        },
+                                        {
+                                            "x": 299,
+                                            "y": 102
+                                        },
+                                        {
+                                            "x": 267,
+                                            "y": 102
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 269,
+                                                    "y": 79
+                                                },
+                                                {
+                                                    "x": 299,
+                                                    "y": 82
+                                                },
+                                                {
+                                                    "x": 297,
+                                                    "y": 102
+                                                },
+                                                {
+                                                    "x": 267,
+                                                    "y": 99
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 269,
+                                                            "y": 79
+                                                        },
+                                                        {
+                                                            "x": 282,
+                                                            "y": 80
+                                                        },
+                                                        {
+                                                            "x": 280,
+                                                            "y": 100
+                                                        },
+                                                        {
+                                                            "x": 267,
+                                                            "y": 99
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 284,
+                                                            "y": 82
+                                                        },
+                                                        {
+                                                            "x": 299,
+                                                            "y": 83
+                                                        },
+                                                        {
+                                                            "x": 297,
+                                                            "y": 100
+                                                        },
+                                                        {
+                                                            "x": 283,
+                                                            "y": 99
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "K"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "lb"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 360,
+                                    "y": 86
+                                },
+                                {
+                                    "x": 409,
+                                    "y": 86
+                                },
+                                {
+                                    "x": 409,
+                                    "y": 115
+                                },
+                                {
+                                    "x": 360,
+                                    "y": 115
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "lb"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 360,
+                                            "y": 86
+                                        },
+                                        {
+                                            "x": 409,
+                                            "y": 86
+                                        },
+                                        {
+                                            "x": 409,
+                                            "y": 115
+                                        },
+                                        {
+                                            "x": 360,
+                                            "y": 115
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "sv"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 369,
+                                                    "y": 87
+                                                },
+                                                {
+                                                    "x": 400,
+                                                    "y": 86
+                                                },
+                                                {
+                                                    "x": 400,
+                                                    "y": 98
+                                                },
+                                                {
+                                                    "x": 370,
+                                                    "y": 99
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 369,
+                                                            "y": 87
+                                                        },
+                                                        {
+                                                            "x": 378,
+                                                            "y": 87
+                                                        },
+                                                        {
+                                                            "x": 378,
+                                                            "y": 98
+                                                        },
+                                                        {
+                                                            "x": 369,
+                                                            "y": 98
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 380,
+                                                            "y": 88
+                                                        },
+                                                        {
+                                                            "x": 389,
+                                                            "y": 88
+                                                        },
+                                                        {
+                                                            "x": 389,
+                                                            "y": 99
+                                                        },
+                                                        {
+                                                            "x": 380,
+                                                            "y": 99
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 390,
+                                                            "y": 87
+                                                        },
+                                                        {
+                                                            "x": 400,
+                                                            "y": 87
+                                                        },
+                                                        {
+                                                            "x": 400,
+                                                            "y": 98
+                                                        },
+                                                        {
+                                                            "x": 390,
+                                                            "y": 98
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "eo"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 360,
+                                                    "y": 104
+                                                },
+                                                {
+                                                    "x": 409,
+                                                    "y": 103
+                                                },
+                                                {
+                                                    "x": 409,
+                                                    "y": 114
+                                                },
+                                                {
+                                                    "x": 360,
+                                                    "y": 115
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 360,
+                                                            "y": 104
+                                                        },
+                                                        {
+                                                            "x": 367,
+                                                            "y": 104
+                                                        },
+                                                        {
+                                                            "x": 367,
+                                                            "y": 114
+                                                        },
+                                                        {
+                                                            "x": 360,
+                                                            "y": 114
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "F"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 368,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 373,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 373,
+                                                            "y": 114
+                                                        },
+                                                        {
+                                                            "x": 368,
+                                                            "y": 114
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 374,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 381,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 381,
+                                                            "y": 115
+                                                        },
+                                                        {
+                                                            "x": 374,
+                                                            "y": 115
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 383,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 391,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 391,
+                                                            "y": 115
+                                                        },
+                                                        {
+                                                            "x": 383,
+                                                            "y": 115
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "n"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 392,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 399,
+                                                            "y": 107
+                                                        },
+                                                        {
+                                                            "x": 399,
+                                                            "y": 115
+                                                        },
+                                                        {
+                                                            "x": 392,
+                                                            "y": 115
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "c"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 401,
+                                                            "y": 106
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 106
+                                                        },
+                                                        {
+                                                            "x": 409,
+                                                            "y": 114
+                                                        },
+                                                        {
+                                                            "x": 401,
+                                                            "y": 114
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 179,
+                                    "y": 202
+                                },
+                                {
+                                    "x": 258,
+                                    "y": 202
+                                },
+                                {
+                                    "x": 258,
+                                    "y": 213
+                                },
+                                {
+                                    "x": 179,
+                                    "y": 213
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 179,
+                                            "y": 202
+                                        },
+                                        {
+                                            "x": 258,
+                                            "y": 202
+                                        },
+                                        {
+                                            "x": 258,
+                                            "y": 213
+                                        },
+                                        {
+                                            "x": 179,
+                                            "y": 213
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 179,
+                                                    "y": 202
+                                                },
+                                                {
+                                                    "x": 258,
+                                                    "y": 202
+                                                },
+                                                {
+                                                    "x": 258,
+                                                    "y": 213
+                                                },
+                                                {
+                                                    "x": 179,
+                                                    "y": 213
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 179,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 188,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 188,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 179,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 189,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 197,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 197,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 189,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 199,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 204,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 204,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 199,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 206,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 213,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 213,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 206,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 214,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 221,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 221,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 214,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "o"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 224,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 229,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 229,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 224,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 231,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 233,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 233,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 231,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "i"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 235,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 243,
+                                                            "y": 205
+                                                        },
+                                                        {
+                                                            "x": 243,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 235,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "s"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 245,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 251,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 251,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 245,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "t"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 252,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 258,
+                                                            "y": 202
+                                                        },
+                                                        {
+                                                            "x": 258,
+                                                            "y": 213
+                                                        },
+                                                        {
+                                                            "x": 252,
+                                                            "y": 213
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "s"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "id"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 708,
+                                    "y": 387
+                                },
+                                {
+                                    "x": 732,
+                                    "y": 387
+                                },
+                                {
+                                    "x": 732,
+                                    "y": 398
+                                },
+                                {
+                                    "x": 708,
+                                    "y": 398
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "id"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 708,
+                                            "y": 387
+                                        },
+                                        {
+                                            "x": 732,
+                                            "y": 387
+                                        },
+                                        {
+                                            "x": 732,
+                                            "y": 398
+                                        },
+                                        {
+                                            "x": 708,
+                                            "y": 398
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "id"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 708,
+                                                    "y": 387
+                                                },
+                                                {
+                                                    "x": 732,
+                                                    "y": 387
+                                                },
+                                                {
+                                                    "x": 732,
+                                                    "y": 398
+                                                },
+                                                {
+                                                    "x": 708,
+                                                    "y": 398
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 708,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 716,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 716,
+                                                            "y": 398
+                                                        },
+                                                        {
+                                                            "x": 708,
+                                                            "y": 398
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 717,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 720,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 720,
+                                                            "y": 398
+                                                        },
+                                                        {
+                                                            "x": 717,
+                                                            "y": 398
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "id"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 721,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 732,
+                                                            "y": 387
+                                                        },
+                                                        {
+                                                            "x": 732,
+                                                            "y": 398
+                                                        },
+                                                        {
+                                                            "x": 721,
+                                                            "y": 398
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "UK\nUSA\nFrance\nTerrorists\nRRT\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0gg506b",
+                "score": 1.0627501,
+                "description": "Syrian civil war"
+            },
+            {
+                "entityId": "/m/06vbd",
+                "score": 1.0596,
+                "description": "Syria"
+            },
+            {
+                "entityId": "/m/07jq_",
+                "score": 0.7223,
+                "description": "Terrorism"
+            },
+            {
+                "entityId": "/t/24ymcsd_h05cj",
+                "score": 0.7064
+            },
+            {
+                "entityId": "/m/027x630",
+                "score": 0.6133,
+                "description": "Islamic State of Iraq and the Levant"
+            },
+            {
+                "entityId": "/m/0f8l9c",
+                "score": 0.59235,
+                "description": "France"
+            },
+            {
+                "entityId": "/m/02rz7y",
+                "score": 0.5407,
+                "description": "Proxy war"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.4995,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/2clvyq28bvdgq",
+                "score": 0.4788
+            },
+            {
+                "entityId": "/m/04vpz4",
+                "score": 0.469,
+                "description": "Opinion"
+            },
+            {
+                "entityId": "/m/0h3xpcx",
+                "score": 0.4298,
+                "description": "Free Syrian Army"
+            },
+            {
+                "entityId": "/t/2559cfx2jwyf6",
+                "score": 0.3623
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.3554
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.341
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.3341
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://arabic.rt.com/media/pics/2014.12/article/549a6cc9601e9b8c768b4589.jpg"
+            },
+            {
+                "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg"
+            },
+            {
+                "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+            },
+            {
+                "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+            },
+            {
+                "url": "http://14qamar.net/wp-content/uploads/2014/12/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%8A%D9%82.jpg"
+            },
+            {
+                "url": "http://iuvmonline.com/en/wp-content/uploads/2018/03/photo_2018-03-17_21-53-52.jpg"
+            },
+            {
+                "url": "https://images1.ynet.co.il/PicServer4/2015/02/19/5888343/549a6cc9601e9b8c768b4589_b.jpg"
+            },
+            {
+                "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg?w=623&h=350"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/B8WyOZICYAA_EsN.jpg"
+            },
+            {
+                "url": "http://img.youm7.com/images/issuehtm/images/daily/daaash253/8.jpg"
+            },
+            {
+                "url": "https://shafaqna.com/persian/media/k2/items/cache/9ef8be9dc66e1dd1f0699d836a0e64c7_XL.jpg"
+            },
+            {
+                "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS-400x225.jpg"
+            },
+            {
+                "url": "http://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS-300x169.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://t1.hespress.com/cache/thumbnail/mega/2018/08/daech1_443124240.jpg"
+            },
+            {
+                "url": "https://s1.hespress.com/cache/thumbnail/mega/daechterror_770594393.jpg"
+            },
+            {
+                "url": "https://lh5.googleusercontent.com/proxy/J63IKG676Q52lbcCx473ze-eSYBRN375lG1qDmWf9g_zXLgfEERq3FfjqvutBWzZBlLHOYUXV1A919ox1Ck4_5npMhrH2Dle7U8GOp3t3Ly2KvWYDkaYnrCYLLCE0yOFLY1kv-kdrRTS7pXZ-6hI6VCAj6rLpbO5AiBnG93Jb47RQPYtrL9AUZhfHVgOGz6q5466dolgEEwWdn-ic9KSiEGm4ZYHLnAPt_Y3n3Nn-ai58boX7IsUQkN8y9fWIYNIwLaFZb2GoxTZttLhLOdANFZb8MpCXS7a4YVEGDyHWr23iYZU0YuY7RpqduffLkdd3LBTCMSep8Ksce_YDBrdUsJ5IyPBR0HHCKsv3MFViwMw7IS_njQWlNkfO_8C34v1vYuAlQl5TM3YUEE=w1200-h630-p-k-no-nu"
+            },
+            {
+                "url": "https://sahara-question.com/sites/default/files/actualite_photos/04/08/2015%20-%2010%3A21/1438646716.jpg"
+            },
+            {
+                "url": "http://alwaght.com/upload/logo/2017611_23/2017611195198.png"
+            },
+            {
+                "url": "http://s3-eu-west-1.amazonaws.com/memoriabgcom/wp-content/uploads/2018/04/12163402/epizod-2-9-9.jpg"
+            },
+            {
+                "url": "http://img.sur.ly/thumbnails/620x343/w/ww.hespress.ma.png"
+            },
+            {
+                "url": "https://t1.hespress.com/files/2018/08/daech1_443124240.jpg"
+            },
+            {
+                "url": "http://alwaght.com/upload/logo/2017611_23/L_2017611195198.png"
+            },
+            {
+                "url": "http://informe.com/img/thumbs/w/ww.hespress.ma_medium.jpg"
+            },
+            {
+                "url": "http://www.lookintoit.org/images/manufactured_terrorism_globe.jpg"
+            },
+            {
+                "url": "http://tr.abna24.com/cache/image/2015/02/03/b4e0fc047ce55c003c56446c7e47eac9.jpg"
+            },
+            {
+                "url": "http://i0.wp.com/operamundi.uol.com.br/dialogosdelsur/wp-content/uploads/2017/06/Europa-e-o-Isis.jpg?resize=750%2C350"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://syriathetruth.wordpress.com/2015/01/08/paris-shooters-just-returned-from-natos-proxy-war-in-syria/",
+                "pageTitle": "Paris Shooters Just Returned from NATO&#39;s <b>Proxy</b> War in Syria | Syria ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/challenging-the-establishment/5627012",
+                "pageTitle": "Challenging the &quot;Establishment&quot;. The West Supports <b>Terrorism</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    },
+                    {
+                        "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS-400x225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.4thmedia.org/2015/01/paris-shooters-just-returned-from-natos-proxy-war-in-syria/",
+                "pageTitle": "As Predicted, Paris Shooters JUST Returned from NATO&#39;s <b>Proxy</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/how-britain-helped-create-isis/5594119",
+                "pageTitle": "How Britain Helped Create ISIS - Global ResearchGlobal Research ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/christmas-celebrated-in-terror-ravaged-syria/5500133",
+                "pageTitle": "Christmas Celebrated in <b>Terror</b>-Ravaged Syria - Global Research",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sttpml.org/as-predicted-paris-shooters-just-returned-from-natos-proxy-war-against-assad-govt/",
+                "pageTitle": "As Predicted, Paris Shooters JUST Returned from NATO&#39;s <b>Proxy</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/barcelona-the-hypocrisy-of-sorrow/5604767",
+                "pageTitle": "Barcelona \u2013 The Hypocrisy of Sorrow - Global ResearchGlobal ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://syriathetruth.wordpress.com/2015/01/",
+                "pageTitle": "January | 2015 | Syria The Truth",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.shoah.org.uk/2017/06/page/25/",
+                "pageTitle": "SHOAH | Archive | June",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/imnotcharlieno",
+                "pageTitle": "jenesuis PAS charlie (@imnotcharlieno) | Twitter",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B7ywuNJCAAAQQQO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lookintoit.org/RAND-Corporation.html",
+                "pageTitle": "Look Into It - RAND Corporation Part 1",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lookintoit.org/images/manufactured_terrorism_globe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lookintoit.org/Intro.html",
+                "pageTitle": "Look Into It - Intro",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lookintoit.org/images/manufactured_terrorism_globe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://roadtonowhere.forumotion.org/t231-world-war-whatever",
+                "pageTitle": "World War Whatever - ROAD TO NOWHERE",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://grizzom.blogspot.com/2015/05/nato-attempt-at-interim-government-in.html",
+                "pageTitle": "Mami&#39;s Shit: NATO Attempt At &#39;Interim&#39; Government in Syria Echoes ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.4thmedia.org/wp-content/uploads/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://picjeysaer.longmusic.com/Free-Syria-from-FSAterrorists-SYRIA-Proxy-War-t-Syria.html",
+                "pageTitle": "Free Syria from FSAterrorists SYRIA <b>Proxy</b> War t Syria",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://australiannationalreview.com/2018/01/31/challenging-the-establishment-the-west-supports-terrorism/",
+                "pageTitle": "Challenging the \u201cEstablishment\u201d. The West Supports <b>Terrorism</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://australiannationalreview.com/wp-content/uploads/2018/01/1-establishment.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.writeopinions.com/list-of-proxy-wars",
+                "pageTitle": "Opinions on List of <b>proxy</b> wars",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://blowpicxs.pw/France-involvement-in-the-Syrian-conflict-number-of-French-army.html",
+                "pageTitle": "France involvement in the Syrian conflict number of French army",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://iuvmonline.com/en/wp-content/uploads/2018/03/photo_2018-03-17_21-53-52.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://apkbox.net/hespress-%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3",
+                "pageTitle": "Hespress. Latest With Hespress. Best Screenshot Image With ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.sur.ly/thumbnails/620x343/w/ww.hespress.ma.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ynet.co.il/articles/0,7340,L-4628470,00.html",
+                "pageTitle": "\u05db\u05e9\u05d8\u05d9\u05dc\u05d9\u05dd \u05d9\u05e2\u05d5\u05e4\u05d5 \u05dc\u05e1\u05d9\u05e6\u05d9\u05dc\u05d9\u05d4 - Ynet",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images1.ynet.co.il/PicServer4/2015/02/19/5888343/549a6cc9601e9b8c768b4589_b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youm7.com/story/2015/2/25/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%88%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7-%D8%AA%D9%84-%D8%A3%D8%A8%D9%8A%D8%A8-%D8%AA%D8%B6%D8%B9-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%88%D8%AE%D8%B7%D8%B7-%D9%88%D8%B5%D9%88%D9%84-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%84%D9%80/2082186",
+                "pageTitle": "\u0628\u0627\u0644\u0635\u0648\u0631 \u0648\u0627\u0644\u062e\u0631\u0627\u0626\u0637.. \u062a\u0644 \u0623\u0628\u064a\u0628 \u062a\u0636\u0639 \u0633\u064a\u0646\u0627\u0631\u064a\u0648\u0647\u0627\u062a \u0648\u062e\u0637\u0637 \u0648\u0635\u0648\u0644 &quot;\u062f\u0627\u0639\u0634&quot; \u0644\u0640 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://img.youm7.com/images/issuehtm/images/daily/daaash253/8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/terror_monitor/status/669076006490284032?lang=bn",
+                "pageTitle": "\u099f\u09c1\u0987\u099f\u09be\u09b0\u09c7 Terrormonitor.org: &quot;#BREAKING #Turkish Military Downed ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/CUpywctWEAA12_A.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://olivierdemeulenaere.wordpress.com/page/29/?app-download=blackberry",
+                "pageTitle": "Olivier Demeulenaere \u2013 Regards sur l&#39;\u00e9conomie | Blog de ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg?w=623&h=350"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.memoriabg.com/2018/04/13/welcome-to-syria-2-0/",
+                "pageTitle": "\u201e\u0414\u043e\u0431\u0440\u0435 \u0434\u043e\u0448\u043b\u0438\u201c \u0432 \u0421\u0438\u0440\u0438\u044f 2.0! \u2013 Memoria de futuro \u2013 \u041f\u0430\u043c\u0435\u0442 \u0437\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://s3-eu-west-1.amazonaws.com/memoriabgcom/wp-content/uploads/2018/04/12163402/epizod-2-9-9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://operamundi.uol.com.br/dialogosdelsur/category/mundo/",
+                "pageTitle": "Mundo Archives - Di\u00e1logos del Sur - Opera Mundi - Uol",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i0.wp.com/operamundi.uol.com.br/dialogosdelsur/wp-content/uploads/2017/06/Europa-e-o-Isis.jpg?resize=750%2C350"
+                    }
+                ]
+            },
+            {
+                "url": "https://arabic.rt.com/photolines/768952-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%AA%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/",
+                "pageTitle": "&quot;\u062f\u0627\u0639\u0634&quot; \u0648\u0627\u0644\u0625\u0631\u0647\u0627\u0628 - RT Arabic",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rt.com/media/pics/2014.12/article/549a6cc9601e9b8c768b4589.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hespress.com/medias/404447.html",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0645\u063a\u0627\u0631\u0628\u0629 \u064a\u0637\u0648\u0631\u0648\u0646 \u0623\u0633\u0644\u062d\u0629 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u0644\u0625\u0631\u0639\u0627\u0628 \u0627\u0644\u0639\u0627\u0644\u0645 - Hespress",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s1.hespress.com/cache/thumbnail/mega/daechterror_770594393.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hespress.com/orbites/403630.html",
+                "pageTitle": "\u062a\u0648\u062c\u0651\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0627\u0644\u062a\u0646\u0638\u064a\u0645\u0627\u062a \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0641\u064a \u0625\u0641\u0631\u064a\u0642\u064a\u0627 \u064a\u0633\u062a\u0646\u0641\u0631\u064f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/08/daech1_443124240.jpg"
+                    },
+                    {
+                        "url": "https://t1.hespress.com/cache/thumbnail/mega/2018/08/daech1_443124240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sahara-question.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%88%D8%B3%D8%AA-%D9%86%D8%B4%D9%88%D8%A1-%D8%AF%D9%88%D9%84-%D9%88%D9%87%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D9%87%D9%88-%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D8%B1-%D9%88%D8%AA%D8%B1%D8%A8%D8%A9-%D8%AE%D8%B5%D8%A8%D8%A9-%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8",
+                "pageTitle": "\u0648\u0627\u0634\u0646\u0637\u0646 \u0628\u0648\u0633\u062a: \u0646\u0634\u0648\u0621 \u062f\u0648\u0644 \u0648\u0647\u0645\u064a\u0629 \u0641\u064a \u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0647\u0648 \u0627\u0646\u062a\u062d\u0627\u0631 \u0648\u062a\u0631\u0628\u0629 \u062e\u0635\u0628\u0629 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://sahara-question.com/sites/default/files/actualite_photos/04/08/2015%20-%2010%3A21/1438646716.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sahara-question.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%A8%D9%86%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D8%AA%D9%86%D8%A7%D9%82%D8%B4-%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D9%88%D8%AA%D8%B8%D9%81%D8%B1-%D8%A8%D9%85%D9%86%D8%B5%D8%A8-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA",
+                "pageTitle": "\u0627\u0628\u0646\u0629 \u0648\u0632\u064a\u0631 \u0627\u0644\u062e\u0627\u0631\u062c\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a \u062a\u0646\u0627\u0642\u0634 \u062f\u0643\u062a\u0648\u0631\u0627\u0647 \u062d\u0648\u0644 &quot;\u0627\u0644\u0628\u0648\u0644\u064a\u0633\u0627\u0631\u064a\u0648&quot; \u0648\u062a\u0638\u0641\u0631 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://sahara-question.com/sites/default/files/actualite_photos/04/08/2015%20-%2010%3A21/1438646716.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://rusvesna.su/news/1497198132",
+                "pageTitle": "\u041e\u043f\u043e\u0440\u0430 \u0420\u043e\u0441\u0441\u0438\u0438 \u2014 \u00ab\u041a\u0430\u043b\u0438\u0431\u0440\u044b\u00bb \u0438 \u0441\u043f\u0435\u0446\u0441\u043b\u0443\u0436\u0431\u044b | \u0420\u0443\u0441\u0441\u043a\u0430\u044f \u0432\u0435\u0441\u043d\u0430",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS-400x225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sahara-question.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%AE%D8%AA%D9%81%D8%A7%D8%A1-%D8%BA%D8%A7%D9%85%D8%B6-%D9%84%D8%B4%D9%82%D9%8A%D9%82-%D9%85%D8%A4%D8%B3%D8%B3-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D9%81%D9%8A-%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7",
+                "pageTitle": "\u0627\u062e\u062a\u0641\u0627\u0621 \u063a\u0627\u0645\u0636 \u0644\u0634\u0642\u064a\u0642 \u0645\u0624\u0633\u0633 \u0627\u0644\u0628\u0648\u0644\u064a\u0633\u0627\u0631\u064a\u0648 \u0641\u064a \u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627 | Sahara ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://sahara-question.com/sites/default/files/actualite_photos/04/08/2015%20-%2010%3A21/1438646716.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hespress.com/medias/380278.html",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0627\u0644\u0623\u0646\u062a\u0631\u0628\u0648\u0644 \u062a\u062d\u0630\u0631 \u0627\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 &quot;\u062f\u0648\u0627\u0639\u0634&quot; \u0628\u062c\u0648\u0632\u0627\u062a \u0645\u0632\u0648\u0631\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    },
+                    {
+                        "url": "https://t1.hespress.com/cache/thumbnail/mega/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hespress.com/medias/255375.html",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: &quot;\u062f\u0627\u0639\u0634&quot; \u062a\u0647\u062f\u0651\u062f \u0628\u0640&quot;\u0636\u0631\u0628 \u0634\u0648\u0627\u0631\u0639 \u0627\u0644\u0631\u0628\u0627\u0637&quot; - Hespress",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s1.hespress.com/cache/thumbnail/mega/daechterror_770594393.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sahara-question.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AE%D8%A8%D9%8A%D8%B1-%E2%80%9C%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%A3%D8%B7%D8%A7%D9%84-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D9%88%D9%85%D9%86%D8%A7%D9%88%D8%B1%D8%AA%D9%87%D8%A7-%D8%AF%D8%B9%D8%A7%D9%8A%D8%A9-%D9%8A%D8%A7%D8%A6%D8%B3%D8%A9%E2%80%9D",
+                "pageTitle": "\u062e\u0628\u064a\u0631: \u201c\u0648\u0642\u0641 \u0625\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0623\u0637\u0627\u0644 \u0639\u0645\u0631 \u0627\u0644\u0628\u0648\u0644\u064a\u0633\u0627\u0631\u064a\u0648 \u0648\u0645\u0646\u0627\u0648\u0631\u062a\u0647\u0627 \u062f\u0639\u0627\u064a\u0629 \u064a\u0627\u0626\u0633\u0629 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://sahara-question.com/sites/default/files/actualite_photos/04/08/2015%20-%2010%3A21/1438646716.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://old.operamundi.com.br/dialogosdelsur/europa-sus-propias-guerras/24062017/",
+                "pageTitle": "Europa: sus propias guerras - Opera Mundi",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i0.wp.com/operamundi.uol.com.br/dialogosdelsur/wp-content/uploads/2017/06/Europa-e-o-Isis.jpg?resize=750%2C350"
+                    }
+                ]
+            },
+            {
+                "url": "http://old.operamundi.com.br/dialogosdosul/category/mundo/europa/",
+                "pageTitle": "Arquivos Europa - Di\u00e1logos do Sul - Opera Mundi",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/old.operamundi.com.br/dialogosdosul/wp-content/uploads/Europa-e-o-Isis.jpg?resize=750%2C350"
+                    }
+                ]
+            },
+            {
+                "url": "https://olivierdemeulenaere.wordpress.com/2017/06/20/terrorisme-islamique-notre-allie-depuis-38-ans/",
+                "pageTitle": "Le terrorisme islamique, notre alli\u00e9 depuis 38 ans | Olivier ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg"
+                    },
+                    {
+                        "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg?w=623&h=350"
+                    }
+                ]
+            },
+            {
+                "url": "http://old.operamundi.com.br/dialogosdosul/europa-em-suas-proprias-guerras/24062017/",
+                "pageTitle": "Europa em suas pr\u00f3prias guerras - Opera Mundi",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/old.operamundi.com.br/dialogosdosul/wp-content/uploads/Europa-e-o-Isis.jpg?resize=750%2C350"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/rasfutoshi/status/558913293511712768",
+                "pageTitle": "ZIONYARD\u56fd\u738b\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8 on Twitter: &quot;\u98a8\u523a\u753b\u306b\u8fbc\u3081\u3089\u308c\u305f\u771f\u5b9f ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B-7I7n8U4AAGEyF.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://old.operamundi.com.br/dialogosdelsur/author/admin/page/3/",
+                "pageTitle": "Revista Dialogos Del Sur - Opera Mundi",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i0.wp.com/operamundi.uol.com.br/dialogosdelsur/wp-content/uploads/2017/06/Europa-e-o-Isis.jpg?resize=750%2C350"
+                    }
+                ]
+            },
+            {
+                "url": "http://tr.abna24.com/service/cartoon/5528/archive/page-6.html",
+                "pageTitle": "&#39;M\u00fcsl\u00fcman\u0131 \u00d6ld\u00fcrmek K\u00fcf\u00fcrd\u00fcr&#39; / Karikat\u00fcr - Ehlibeyt (as) Haber ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tr.abna24.com/cache/image/2015/02/03/b4e0fc047ce55c003c56446c7e47eac9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tr.abna24.com/serviec/archive/page-799.html",
+                "pageTitle": "799 - Ehlibeyt (as) Haber Ajans\u0131 - ABNA - \u015eia Haberleri",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tr.abna24.com/cache/image/2015/02/03/b4e0fc047ce55c003c56446c7e47eac9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://alwaght.com/ar/Workgroup/491//151",
+                "pageTitle": "\u0648\u0627\u0634\u0646\u0637\u0646 \u062a\u0642\u0635\u0641 \u0627\u0644\u0631\u0642\u0629 \u0628\u0642\u0646\u0627\u0628\u0644 \u0627\u0644\u0641\u0648\u0633\u0641\u0648\u0631\u060c \u0648\u0633\u0642\u0648\u0637 \u0639\u0634\u0631\u0627\u062a \u0627\u0644\u0636\u062d\u0627\u064a\u0627",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://alwaght.com/upload/logo/2017611_23/2017611195198.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://betterplace.ynet.co.il/Article.aspx?guid=4628470&mainGuid=6",
+                "pageTitle": "\u05db\u05e9\u05d8\u05d9\u05dc\u05d9\u05dd \u05d9\u05e2\u05d5\u05e4\u05d5 \u05dc\u05e1\u05d9\u05e6\u05d9\u05dc\u05d9\u05d4 - Ynet",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images1.ynet.co.il/PicServer4/2015/02/19/5888343/549a6cc9601e9b8c768b4589_b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://navalbrasil.com/como-o-gra-bretanha-ajudou-a-criar-isis/",
+                "pageTitle": "Como a Gr\u00e3-Bretanha ajudou a criar o ISIS | NavalBrasil.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://avancerquandmeme.centerblog.net/3160-LES-HUMANISTES-A-GEOMETRIE-VARIABLE",
+                "pageTitle": "LES HUMANISTES A GEOMETRIE VARIABLE - philodecomptoir",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://olivierdemeulenaere.files.wordpress.com/2017/06/terrorisme-proxy-wars.jpg?w=623&h=350"
+                    }
+                ]
+            },
+            {
+                "url": "http://alwaght.com/ar/Keywords/%D8%A7%D9%84%D8%B4%D8%B1%D8%AE%20%D9%81%D9%8A%2014%20%D8%A2%D8%B0%D8%A7%D8%B1//908",
+                "pageTitle": "\u062a\u0631\u0627\u0645\u0628 \u064a\u0647\u0627\u062c\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0645\u0646 \u062c\u062f\u064a\u062f: \u0644\u0646 \u062a\u0628\u0642\u0649 \u0623\u0633\u0628\u0648\u0639\u0627\u064b \u0644\u0648\u0644\u0627 \u0627\u0644\u062d\u0645\u0627\u064a\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://alwaght.com/upload/logo/2017611_23/2017611195198.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://alwaght.com/ar/News/100455/%D8%BA%D9%84%D9%88%D8%A8%D8%A7%D9%84-%D8%B1%D9%8A%D8%B3%D9%8A%D8%B1%D8%B4-%D9%83%D9%8A%D9%81-%D8%B3%D8%A7%D8%B9%D8%AF%D8%AA-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D9%8A",
+                "pageTitle": "\u063a\u0644\u0648\u0628\u0627\u0644 \u0631\u064a\u0633\u064a\u0631\u0634: \u0643\u064a\u0641 \u0633\u0627\u0639\u062f\u062a \u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0627 \u0628\u0625\u0646\u0634\u0627\u0621 \u062a\u0646\u0638\u064a\u0645 &quot;\u062f\u0627\u0639\u0634&quot; \u0627\u0644\u0627\u0631\u0647\u0627\u0628\u064a",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://alwaght.com/upload/logo/2017611_23/2017611195198.png"
+                    },
+                    {
+                        "url": "http://alwaght.com/upload/logo/2017611_23/L_2017611195198.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://alwaght.com/ar/Workgroup/491//159",
+                "pageTitle": "\u0622\u0633\u064a\u0627 \u0627\u0644\u0648\u0633\u0637\u0649 \u0648 \u0627\u0644\u0642\u0648\u0642\u0627\u0632 - \u0645\u0648\u0642\u0639 \u0627\u0644\u0648\u0642\u062a \u0627\u0644\u062a\u062d\u0644\u064a\u0644\u064a \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a | Alwaght ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://alwaght.com/upload/logo/2017611_23/2017611195198.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.presshes.com/articles/16207",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0627\u0644\u0623\u0646\u062a\u0631\u0628\u0648\u0644 \u062a\u062d\u0630\u0631 \u0627\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 &quot;\u062f\u0648\u0627\u0639\u0634&quot; \u0628\u062c\u0648\u0632\u0627\u062a \u0645\u0632\u0648\u0631\u0629 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.presshes.com/authors/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3%20%D9%80%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%B5%D8%AF%D9%88%D8%B1?page=14",
+                "pageTitle": "\u0647\u0633\u0628\u0631\u064a\u0633    \u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621 \u0635\u062f\u0648\u0631 - PressHes - \u0628\u0631\u064a\u0633\u0647\u064a\u0633",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://lapress.ma/hesspress/%D8%B1%D8%B5%D9%8A%D9%81-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%A8%D9%8A%D9%88%D9%84/",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0645\u063a\u0627\u0631\u0628\u0629 \u064a\u0637\u0648\u0631\u0648\u0646 \u0623\u0633\u0644\u062d\u0629 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u0644\u0625\u0631\u0639\u0627\u0628 \u0627\u0644\u0639\u0627\u0644\u0645 | \u0644\u0628\u0631\u064a\u0633",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lapress.ma/wp-content/uploads/2018/09/fef83552601c01633240bb51bbc2f5b3.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hesspress.com/medias/404447.html",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0645\u063a\u0627\u0631\u0628\u0629 \u064a\u0637\u0648\u0631\u0648\u0646 \u0623\u0633\u0644\u062d\u0629 \u0628\u064a\u0648\u0644\u0648\u062c\u064a\u0629 \u0644\u0625\u0631\u0639\u0627\u0628 \u0627\u0644\u0639\u0627\u0644\u0645",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://s1.hespress.com/cache/thumbnail/mega/daechterror_770594393.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://14qamar.net/2014/12/31/%D9%83%D8%A7%D8%B1%D8%AB%D8%A9-%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D8%A3%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B1%D8%A7%D8%AD-%D8%B6%D8%AD%D9%8A%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A2%D9%81-2/",
+                "pageTitle": "\u0643\u0627\u0631\u062b\u0629 \u062c\u0633\u0631 \u0627\u0644\u0623\u0626\u0645\u0629 \u0627\u0644\u062a\u064a \u0631\u0627\u062d \u0636\u062d\u064a\u062a\u0647\u0627 \u0627\u0644\u0622\u0641 \u0627\u0644\u0627\u0628\u0631\u064a\u0627\u0621 \u0628\u0645\u062e\u0637\u0637 \u062a\u0643\u0641\u064a\u0631\u064a \u0627\u0631\u0647\u0627\u0628\u064a ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://14qamar.net/wp-content/uploads/2014/12/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%8A%D9%82.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/proxy-war",
+                "pageTitle": "<b>Proxy</b> War \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://syriathetruth.files.wordpress.com/2015/01/img_3428.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://14qamar.net/category/%D8%B5%D9%88%D8%B1/%D9%82%D8%B6%D9%8A%D8%A9/",
+                "pageTitle": "\u0642\u0636\u0627\u064a\u0627 \u0648\u0627\u062d\u062f\u0627\u062b | \u0634\u0628\u0643\u0629 \u0627\u0644\u0627\u0642\u0645\u0627\u0631 \u0627\u0644\u0648\u062b\u0627\u0626\u0642\u064a\u0629",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://14qamar.net/wp-content/uploads/2014/12/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%8A%D9%82.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.presshes.com/authors/%D9%87%D8%B3%D8%A8%D8%B1%D9%8A%D8%B3%20%D9%80%20%D9%81%D8%A7%D8%B7%D9%85%D8%A9%20%D8%A7%D9%84%D8%B2%D9%87%D8%B1%D8%A7%D8%A1%20%D8%B5%D8%AF%D9%88%D8%B1?page=15",
+                "pageTitle": "\u0647\u0633\u0628\u0631\u064a\u0633    \u0641\u0627\u0637\u0645\u0629 \u0627\u0644\u0632\u0647\u0631\u0627\u0621 \u0635\u062f\u0648\u0631 - PressHes - \u0628\u0631\u064a\u0633\u0647\u064a\u0633",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://14qamar.net/category/%D8%B5%D9%88%D8%B1/",
+                "pageTitle": "\u0635\u0648\u0631 \u0648\u0644\u0648\u062d\u0627\u062a | \u0634\u0628\u0643\u0629 \u0627\u0644\u0627\u0642\u0645\u0627\u0631 \u0627\u0644\u0648\u062b\u0627\u0626\u0642\u064a\u0629",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://14qamar.net/wp-content/uploads/2014/12/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%8A%D9%82.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/hopi_domingo/status/557458647605723136",
+                "pageTitle": "\u307f\u3048\u306a\u3044\u3070\u304f\u3060\u3093 on Twitter: &quot;\u6e6f\u5ddd\u9059\u5948\u3055\u3093\u3068\u5f8c\u85e4\u5065\u4e8c\u3055\u3093\u306e\u6bba\u5bb3\u3092\u8b66\u544a ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B79jTp2CUAAYDM_.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://14qamar.net/2014/12/26/%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8/",
+                "pageTitle": "\u0627\u0644\u0627\u0631\u0647\u0627\u0628.. \u0635\u0646\u064a\u0639\u0629 \u0645\u0646\u061f \u0648\u0645\u0646 \u0627\u0644\u0645\u0633\u062a\u0641\u064a\u062f\u061f | \u0634\u0628\u0643\u0629 \u0627\u0644\u0627\u0642\u0645\u0627\u0631 \u0627\u0644\u0648\u062b\u0627\u0626\u0642\u064a\u0629",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://14qamar.net/wp-content/uploads/2014/12/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D8%B9%D9%84%D9%8A%D9%82.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://well-advertised29.rssing.com/chan-15691898/all_p45.html",
+                "pageTitle": "\u30a4\u30b9\u30e9\u30e0\u56fd - \u55b6\u696d\u305b\u304d\u3084\u3093\u306e\u6182\u9b31\u30d6\u30ed\u30b0 - RSSing.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B8WyOZICYAA_EsN.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tv.bestcours.net/%D8%AA%D9%88%D8%AC%D9%91%D8%B3-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%81/",
+                "pageTitle": "\u062a\u0648\u062c\u0651\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0627\u0644\u062a\u0646\u0638\u064a\u0645\u0627\u062a \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0641\u064a \u0625\u0641\u0631\u064a\u0642\u064a\u0627 \u064a\u0633\u062a\u0646\u0641\u0631\u064f \u0627\u0644\u0645\u0645\u0644\u0643\u0629 | Tv ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/cache/thumbnail/mega/2018/08/daech1_443124240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://shafaqna.com/persian/video-a-photo/caricature/item/100022-%DA%A9%D8%A7%D8%B1%DB%8C%DA%A9%D8%A7%D8%AA%D9%88%D8%B1-%D8%AF%D8%A7%D8%B9%D8%B4-%D9%88-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A8%D8%B0%D8%B1-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D9%85%E2%80%8E",
+                "pageTitle": "\u06a9\u0627\u0631\u06cc\u06a9\u0627\u062a\u0648\u0631: \u062f\u0627\u0639\u0634 \u0648 \u0627\u0646\u062a\u0634\u0627\u0631 \u0628\u0630\u0631 \u062a\u0631\u0648\u0631\u06cc\u0633\u0645\u200e - \u0634\u0641\u0642\u0646\u0627",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://shafaqna.com/persian/media/k2/items/cache/9ef8be9dc66e1dd1f0699d836a0e64c7_XL.jpg"
+                    },
+                    {
+                        "url": "x-raw-image:///7a9590dde506770836aebcc86b8f6ba5b7ba5c1e4b2091b8a029fa1e10860e8e"
+                    }
+                ]
+            },
+            {
+                "url": "http://shafaqna.com/persian/services/quran/itemlist/tag/%D8%AF%D8%A7%D8%B9%D8%B4?tid=42931&start=2790",
+                "pageTitle": "\u0642\u0631\u0622\u0646\u060c \u0646\u0647\u062c \u0627\u0644\u0628\u0644\u0627\u063a\u0647\u060c \u062d\u062f\u06cc\u062b - \u0634\u0641\u0642\u0646\u0627",
+                "fullMatchingImages": [
+                    {
+                        "url": "x-raw-image:///7a9590dde506770836aebcc86b8f6ba5b7ba5c1e4b2091b8a029fa1e10860e8e"
+                    }
+                ]
+            },
+            {
+                "url": "https://lapress.ma/hesspress/%D8%AA%D9%88%D8%AC%D9%91%D8%B3-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9-%D9%81/",
+                "pageTitle": "\u062a\u0648\u062c\u0651\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0627\u0644\u062a\u0646\u0638\u064a\u0645\u0627\u062a \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0641\u064a \u0625\u0641\u0631\u064a\u0642\u064a\u0627 \u064a\u0633\u062a\u0646\u0641\u0631\u064f \u0627\u0644\u0645\u0645\u0644\u0643\u0629 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lapress.ma/wp-content/uploads/2018/08/5f3efca5caa471efdee75b7c85739113.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sahebnews.ir/465299/%D9%88%D9%87%D8%A7%D8%A8%DB%8C%D8%AA-%D8%AF%D8%B1-%D9%88%D8%A7%D9%82%D8%B9-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%B1%D8%A7-%D8%AA%D8%AD%D8%B1%DB%8C%DA%A9-%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D8%AF.htm",
+                "pageTitle": "\u0648\u0647\u0627\u0628\u06cc\u062a \u062f\u0631 \u0648\u0627\u0642\u0639 \u00ab\u062f\u0627\u0639\u0634\u00bb \u0631\u0627 \u062a\u062d\u0631\u06cc\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u062f - \u0635\u0627\u062d\u0628 \u0646\u06cc\u0648\u0632",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://sahebnews.ir/files/uploads/2016/05/9ef8be9dc66e1dd1f0699d836a0e64c7_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://wow-kred.ga/vagiz/hespress-getu.php",
+                "pageTitle": "Hespress : Overnight Shipping",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://informe.com/img/thumbs/w/ww.hespress.ma_medium.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.arabchurch.com/forums/archive/index.php/t-257072.html",
+                "pageTitle": "\u0627\u0644\u0645\u0644\u064a\u0648\u0646 \u0631\u062f [\u0627\u0644\u0623\u0631\u0634\u064a\u0641] - \u0645\u0646\u062a\u062f\u064a\u0627\u062a \u0627\u0644\u0643\u0646\u064a\u0633\u0629 - \u0634\u0628\u0643\u0629 \u0627\u0644\u0643\u0646\u064a\u0633\u0629",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://arabic.rt.com/media/pics/2014.12/article/549a6cc9601e9b8c768b4589.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://marcorubio.trendolizer.com/cgi-bin/mt/mt-search.fcgi?search=&IncludeBlogs=126&archive_type=Index&template_id=12867&limit=30&page=404",
+                "pageTitle": "Instagram post by Jess O. Rubio \u2022 Nov 23, 2017 at 5 ... - Marco Rubio",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://counterinformation.files.wordpress.com/2017/11/proxy-war-isis-400x225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://marcorubio.trendolizer.com/cgi-bin/mt/mt-search.fcgi?search=&IncludeBlogs=126&archive_type=Index&template_id=12867&limit=30&page=332",
+                "pageTitle": "The most trending Marco Rubio news as collected by Trendolizer",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://counterinformation.files.wordpress.com/2017/11/proxy-war-isis-400x225.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hellojeronimy.tk/basu/hespress-xon.php",
+                "pageTitle": "Hespress - Nolvadex during cycle hinder gains",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://informe.com/img/thumbs/w/ww.hespress.ma_medium.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.marokino.info/article/29525",
+                "pageTitle": "\u0631\u0635\u064a\u0641 \u0627\u0644\u0635\u062d\u0627\u0641\u0629: \u0627\u0644\u0623\u0646\u062a\u0631\u0628\u0648\u0644 \u062a\u062d\u0630\u0631 \u0627\u0644\u0645\u063a\u0631\u0628 \u0645\u0646 &quot;\u062f\u0648\u0627\u0639\u0634&quot; \u0628\u062c\u0648\u0632\u0627\u062a \u0645\u0632\u0648\u0631\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.marokino.info/article/55294",
+                "pageTitle": "\u062a\u0648\u062c\u0651\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0627\u0644\u062a\u0646\u0638\u064a\u0645\u0627\u062a \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\u0629 \u0641\u064a \u0625\u0641\u0631\u064a\u0642\u064a\u0627 \u064a\u0633\u062a\u0646\u0641\u0631\u064f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/08/daech1_443124240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.marokino.info/article/29478",
+                "pageTitle": "\u0627\u0644\u0628\u0627\u0628\u0627 \u064a\u062f\u0639\u0648 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0635\u0644\u0627\u0629 \u0648\u0627\u0644\u0635\u0648\u0645 \u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u064a\u0648\u0645",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.marokino.info/article/29466",
+                "pageTitle": "\u0627\u0646\u0641\u0631\u0627\u062f.. \u0645\u0633\u0624\u0648\u0644\u0648 \u0641\u0631\u064a\u0642 \u0627\u0644\u062d\u0633\u0646 \u0627\u0644\u062b\u0627\u0646\u064a \u0641\u064a \u201c\u0648\u0631\u0637\u0629\u201d \u0628\u0633\u0628\u0628 \u0627\u0644\u0646\u0634\u064a\u062f \u0627\u0644\u0631\u0633\u0645\u064a",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.hespress.com/files/2018/02/daech1_628442470.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://rajeelkp.blogspot.com/2015/08/",
+                "pageTitle": "\u0623\u063a\u0633\u0637\u0633 - \u0623\u062e\u0628\u0627\u0631",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lh5.googleusercontent.com/proxy/J63IKG676Q52lbcCx473ze-eSYBRN375lG1qDmWf9g_zXLgfEERq3FfjqvutBWzZBlLHOYUXV1A919ox1Ck4_5npMhrH2Dle7U8GOp3t3Ly2KvWYDkaYnrCYLLCE0yOFLY1kv-kdrRTS7pXZ-6hI6VCAj6rLpbO5AiBnG93Jb47RQPYtrL9AUZhfHVgOGz6q5466dolgEEwWdn-ic9KSiEGm4ZYHLnAPt_Y3n3Nn-ai58boX7IsUQkN8y9fWIYNIwLaFZb2GoxTZttLhLOdANFZb8MpCXS7a4YVEGDyHWr23iYZU0YuY7RpqduffLkdd3LBTCMSep8Ksce_YDBrdUsJ5IyPBR0HHCKsv3MFViwMw7IS_njQWlNkfO_8C34v1vYuAlQl5TM3YUEE=w1200-h630-p-k-no-nu"
+                    }
+                ]
+            },
+            {
+                "url": "http://bloodlive-kgzg02ge.cf/kycov/hespress-1057.php",
+                "pageTitle": "Hespress - Drinking 1 week after antabuse",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://informe.com/img/thumbs/w/ww.hespress.ma_medium.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ixxin.ml/jidam/hespress-2485.php",
+                "pageTitle": "Hespress : Youtube cialis video - Via: ixxin.ml",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://informe.com/img/thumbs/w/ww.hespress.ma_medium.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://www.globalresearch.ca/wp-content/uploads/2017/06/proxy-war-ISIS.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/TQBw3uE18pY/mqdefault.jpg"
+            },
+            {
+                "url": "https://novosti.re/img/v_nOieYUdcckeUco/how_terrorism_really_works_learn_how_goldman_sachs_banksters_conquered_by_proxy_explained_by_a_child.jpg"
+            },
+            {
+                "url": "http://1.bp.blogspot.com/-x7Lb7N5442A/VhED3I2TgYI/AAAAAAAAZes/fj-5w0RfsA0/s1600/Terrorism_IDN_1.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/gHGmcYlzyXY/hqdefault.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/3MaWzjXO1PY/mqdefault.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/DK5vikq4A4E/mqdefault.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/NQtas5wGlUw/mqdefault.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "proxy terrorism",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.90768665,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22786796,
+                        "y": 0.05997119
+                    },
+                    {
+                        "x": 0.77213204,
+                        "y": 0.05997119
+                    },
+                    {
+                        "x": 0.77213204,
+                        "y": 0.98426414
+                    },
+                    {
+                        "x": 0.22786796,
+                        "y": 0.98426414
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2323 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/04_5hy",
+            "description": "stage",
+            "score": 0.8985812,
+            "topicality": 0.8985812
+        },
+        {
+            "mid": "/m/09cynt",
+            "description": "convention",
+            "score": 0.8635666,
+            "topicality": 0.8635666
+        },
+        {
+            "mid": "/m/033lpr",
+            "description": "audience",
+            "score": 0.7717531,
+            "topicality": 0.7717531
+        },
+        {
+            "mid": "/m/03qtwd",
+            "description": "crowd",
+            "score": 0.72263193,
+            "topicality": 0.72263193
+        },
+        {
+            "mid": "/m/01gq53",
+            "description": "performance",
+            "score": 0.64203537,
+            "topicality": 0.64203537
+        },
+        {
+            "mid": "/m/039l3v",
+            "description": "auditorium",
+            "score": 0.6204861,
+            "topicality": 0.6204861
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.5218417,
+            "topicality": 0.5218417
+        },
+        {
+            "mid": "/m/081pkj",
+            "description": "event",
+            "score": 0.5042434,
+            "topicality": 0.5042434
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "pl",
+            "description": "Warszawa\nNATO\nOTAN\nAN\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 4,
+                        "y": 342
+                    },
+                    {
+                        "x": 1001,
+                        "y": 342
+                    },
+                    {
+                        "x": 1001,
+                        "y": 375
+                    },
+                    {
+                        "x": 4,
+                        "y": 375
+                    }
+                ]
+            }
+        },
+        {
+            "description": "Warszawa",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 864,
+                        "y": 356
+                    },
+                    {
+                        "x": 944,
+                        "y": 356
+                    },
+                    {
+                        "x": 944,
+                        "y": 368
+                    },
+                    {
+                        "x": 864,
+                        "y": 368
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 4,
+                        "y": 342
+                    },
+                    {
+                        "x": 30,
+                        "y": 342
+                    },
+                    {
+                        "x": 30,
+                        "y": 351
+                    },
+                    {
+                        "x": 4,
+                        "y": 351
+                    }
+                ]
+            }
+        },
+        {
+            "description": "OTAN",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 5,
+                        "y": 359
+                    },
+                    {
+                        "x": 33,
+                        "y": 361
+                    },
+                    {
+                        "x": 32,
+                        "y": 369
+                    },
+                    {
+                        "x": 4,
+                        "y": 367
+                    }
+                ]
+            }
+        },
+        {
+            "description": "AN",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 990,
+                        "y": 370
+                    },
+                    {
+                        "x": 1001,
+                        "y": 370
+                    },
+                    {
+                        "x": 1001,
+                        "y": 375
+                    },
+                    {
+                        "x": 990,
+                        "y": 375
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 241,
+                        "green": 244,
+                        "blue": 245
+                    },
+                    "score": 0.116674535,
+                    "pixelFraction": 0.059583332
+                },
+                {
+                    "color": {
+                        "red": 49,
+                        "green": 56,
+                        "blue": 81
+                    },
+                    "score": 0.11285057,
+                    "pixelFraction": 0.032083333
+                },
+                {
+                    "color": {
+                        "red": 57,
+                        "green": 83,
+                        "blue": 133
+                    },
+                    "score": 0.10170101,
+                    "pixelFraction": 0.005520833
+                },
+                {
+                    "color": {
+                        "red": 90,
+                        "green": 99,
+                        "blue": 218
+                    },
+                    "score": 0.0025002575,
+                    "pixelFraction": 0.0021875
+                },
+                {
+                    "color": {
+                        "green": 7,
+                        "blue": 89
+                    },
+                    "score": 0.0016441566,
+                    "pixelFraction": 0.0003125
+                },
+                {
+                    "color": {
+                        "red": 72,
+                        "green": 81,
+                        "blue": 108
+                    },
+                    "score": 0.094888344,
+                    "pixelFraction": 0.020520834
+                },
+                {
+                    "color": {
+                        "red": 58,
+                        "green": 78,
+                        "blue": 141
+                    },
+                    "score": 0.06847537,
+                    "pixelFraction": 0.006458333
+                },
+                {
+                    "color": {
+                        "red": 38,
+                        "green": 52,
+                        "blue": 105
+                    },
+                    "score": 0.059142753,
+                    "pixelFraction": 0.0073958333
+                },
+                {
+                    "color": {
+                        "red": 51,
+                        "green": 83,
+                        "blue": 163
+                    },
+                    "score": 0.04894198,
+                    "pixelFraction": 0.0032291666
+                },
+                {
+                    "color": {
+                        "red": 107,
+                        "green": 117,
+                        "blue": 145
+                    },
+                    "score": 0.0455862,
+                    "pixelFraction": 0.01125
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1399
+                        },
+                        {
+                            "x": 1399,
+                            "y": 599
+                        },
+                        {
+                            "y": 599
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "pl"
+                        }
+                    ]
+                },
+                "width": 1400,
+                "height": 600,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "pl"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 864,
+                                    "y": 356
+                                },
+                                {
+                                    "x": 944,
+                                    "y": 356
+                                },
+                                {
+                                    "x": 944,
+                                    "y": 368
+                                },
+                                {
+                                    "x": 864,
+                                    "y": 368
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "pl"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 864,
+                                            "y": 356
+                                        },
+                                        {
+                                            "x": 944,
+                                            "y": 356
+                                        },
+                                        {
+                                            "x": 944,
+                                            "y": 368
+                                        },
+                                        {
+                                            "x": 864,
+                                            "y": 368
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "pl"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 864,
+                                                    "y": 356
+                                                },
+                                                {
+                                                    "x": 944,
+                                                    "y": 356
+                                                },
+                                                {
+                                                    "x": 944,
+                                                    "y": 368
+                                                },
+                                                {
+                                                    "x": 864,
+                                                    "y": 368
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 864,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 879,
+                                                            "y": 356
+                                                        },
+                                                        {
+                                                            "x": 879,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 864,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "W"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 880,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 888,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 888,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 880,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 890,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 896,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 896,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 890,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "r"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 897,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 904,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 904,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 897,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "s"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 905,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 913,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 913,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 905,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "z"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 914,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 921,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 921,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 914,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 923,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 935,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 935,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 923,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "w"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 936,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 944,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 944,
+                                                            "y": 367
+                                                        },
+                                                        {
+                                                            "x": 936,
+                                                            "y": 367
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "a"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "gl"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 4,
+                                    "y": 342
+                                },
+                                {
+                                    "x": 33,
+                                    "y": 342
+                                },
+                                {
+                                    "x": 33,
+                                    "y": 369
+                                },
+                                {
+                                    "x": 4,
+                                    "y": 369
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "gl"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 4,
+                                            "y": 342
+                                        },
+                                        {
+                                            "x": 33,
+                                            "y": 342
+                                        },
+                                        {
+                                            "x": 33,
+                                            "y": 369
+                                        },
+                                        {
+                                            "x": 4,
+                                            "y": 369
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 4,
+                                                    "y": 342
+                                                },
+                                                {
+                                                    "x": 30,
+                                                    "y": 342
+                                                },
+                                                {
+                                                    "x": 30,
+                                                    "y": 351
+                                                },
+                                                {
+                                                    "x": 4,
+                                                    "y": 351
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 4,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 10,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 10,
+                                                            "y": 351
+                                                        },
+                                                        {
+                                                            "x": 4,
+                                                            "y": 351
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 11,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 17,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 17,
+                                                            "y": 351
+                                                        },
+                                                        {
+                                                            "x": 11,
+                                                            "y": 351
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 18,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 24,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 24,
+                                                            "y": 351
+                                                        },
+                                                        {
+                                                            "x": 18,
+                                                            "y": 351
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 25,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 30,
+                                                            "y": 342
+                                                        },
+                                                        {
+                                                            "x": 30,
+                                                            "y": 351
+                                                        },
+                                                        {
+                                                            "x": 25,
+                                                            "y": 351
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "oc"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 5,
+                                                    "y": 359
+                                                },
+                                                {
+                                                    "x": 33,
+                                                    "y": 361
+                                                },
+                                                {
+                                                    "x": 32,
+                                                    "y": 369
+                                                },
+                                                {
+                                                    "x": 4,
+                                                    "y": 367
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 5,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 10,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 9,
+                                                            "y": 367
+                                                        },
+                                                        {
+                                                            "x": 4,
+                                                            "y": 367
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 11,
+                                                            "y": 360
+                                                        },
+                                                        {
+                                                            "x": 18,
+                                                            "y": 361
+                                                        },
+                                                        {
+                                                            "x": 17,
+                                                            "y": 369
+                                                        },
+                                                        {
+                                                            "x": 10,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 18,
+                                                            "y": 360
+                                                        },
+                                                        {
+                                                            "x": 25,
+                                                            "y": 361
+                                                        },
+                                                        {
+                                                            "x": 24,
+                                                            "y": 368
+                                                        },
+                                                        {
+                                                            "x": 17,
+                                                            "y": 367
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 26,
+                                                            "y": 361
+                                                        },
+                                                        {
+                                                            "x": 33,
+                                                            "y": 362
+                                                        },
+                                                        {
+                                                            "x": 32,
+                                                            "y": 369
+                                                        },
+                                                        {
+                                                            "x": 25,
+                                                            "y": 368
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 990,
+                                    "y": 370
+                                },
+                                {
+                                    "x": 1001,
+                                    "y": 370
+                                },
+                                {
+                                    "x": 1001,
+                                    "y": 375
+                                },
+                                {
+                                    "x": 990,
+                                    "y": 375
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 990,
+                                            "y": 370
+                                        },
+                                        {
+                                            "x": 1001,
+                                            "y": 370
+                                        },
+                                        {
+                                            "x": 1001,
+                                            "y": 375
+                                        },
+                                        {
+                                            "x": 990,
+                                            "y": 375
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 990,
+                                                    "y": 370
+                                                },
+                                                {
+                                                    "x": 1001,
+                                                    "y": 370
+                                                },
+                                                {
+                                                    "x": 1001,
+                                                    "y": 375
+                                                },
+                                                {
+                                                    "x": 990,
+                                                    "y": 375
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 990,
+                                                            "y": 370
+                                                        },
+                                                        {
+                                                            "x": 997,
+                                                            "y": 370
+                                                        },
+                                                        {
+                                                            "x": 997,
+                                                            "y": 375
+                                                        },
+                                                        {
+                                                            "x": 990,
+                                                            "y": 375
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 998,
+                                                            "y": 370
+                                                        },
+                                                        {
+                                                            "x": 1001,
+                                                            "y": 370
+                                                        },
+                                                        {
+                                                            "x": 1001,
+                                                            "y": 375
+                                                        },
+                                                        {
+                                                            "x": 998,
+                                                            "y": 375
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "Warszawa\nNATO\nOTAN\nAN\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/g/11g0wgl3b7",
+                "score": 1.1781,
+                "description": "2018 Brussels summit"
+            },
+            {
+                "entityId": "/g/11bvt4sxv0",
+                "score": 1.1551651,
+                "description": "2016 Warsaw summit"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.78150004,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7181
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7181,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/092j7k",
+                "score": 0.705,
+                "description": "Summit"
+            },
+            {
+                "entityId": "/m/05qbbhd",
+                "score": 0.6135,
+                "description": "Secretary General of NATO"
+            },
+            {
+                "entityId": "/m/060d2",
+                "score": 0.5606,
+                "description": "President of the United States"
+            },
+            {
+                "entityId": "/m/04cw8h9",
+                "score": 0.5553,
+                "description": "Ukraine\u2013NATO relations"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5431
+            },
+            {
+                "entityId": "/m/03hm3",
+                "score": 0.4878,
+                "description": "Head of state"
+            },
+            {
+                "entityId": "/m/05mzqld",
+                "score": 0.4504,
+                "description": "Montenegro\u2013NATO relations"
+            },
+            {
+                "entityId": "/m/0cqt90",
+                "score": 0.102825,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/m/01b8g6",
+                "score": 0.09777,
+                "description": "Jens Stoltenberg"
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 0.044010002,
+                "description": "NATO summit"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+            },
+            {
+                "url": "https://www.infoapollonia.ro/wp-content/uploads/2018/07/nato-1024x439.jpg"
+            },
+            {
+                "url": "https://siamrath.co.th/files/styles/750/public/img/20180713/4a217a0cab472d8f93629e5d15ef4170f1a504e2ccdda31e7fbc3f3d7c06b21a.jpg?itok=G8vea5qs"
+            },
+            {
+                "url": "https://vecer.mk/files/styles/article/public/article/2018/07/10/602555-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg?itok=hWowfEYF"
+            },
+            {
+                "url": "https://echo24.cz/img/5926ef09e4b0f0f06d0aa518/500/260?_sig=6JyNfC6QI7HsWnaj2KFh1QEkNsP4DeSIJ0XJbhauoXM"
+            },
+            {
+                "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758&auto=format&dpr=1&crop=center&fit=crop&w=500&h=255"
+            },
+            {
+                "url": "https://siamrath.co.th/files/img/20180713/4a217a0cab472d8f93629e5d15ef4170f1a504e2ccdda31e7fbc3f3d7c06b21a.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://archive.transatlanticrelations.org/wp-content/uploads/2016/08/shutterstock_450828169.jpg"
+            },
+            {
+                "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758"
+            },
+            {
+                "url": "https://ria.ru/images/146380/39/1463803976.jpg"
+            },
+            {
+                "url": "https://crowdmedia.pl/wp-content/uploads/2018/07/shutterstock_450828169-990x618.jpg"
+            },
+            {
+                "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+            },
+            {
+                "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758&auto=format&dpr=1&crop=center&fit=crop&w=770&h=513"
+            },
+            {
+                "url": "https://cdn.img.inosmi.ru/images/23714/51/237145193.jpg"
+            },
+            {
+                "url": "https://bipartisanpolicy.org/wp-content/uploads/2018/07/shutterstock_450828169.png"
+            },
+            {
+                "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485027.jpg"
+            },
+            {
+                "url": "https://mtdata.ru/u30/photo5AC6/20328983144-0/original.jpg"
+            },
+            {
+                "url": "https://www.albawaba.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/shutterstock_450828169.jpg"
+            },
+            {
+                "url": "https://meduza.io/image/attachments/images/000/040/652/small/0cTjVs0yWmKB4DtAH2g-vQ.jpg"
+            },
+            {
+                "url": "https://novorosinform.org/wp-content/uploads/2018/05/1527334392_0ctjvs0ywmkb4dtah2g-vq.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-photo/warsaw-poland-jul-9-2016-260nw-450828169.jpg"
+            },
+            {
+                "url": "https://nato-engages.org/wp-content/uploads/2018/06/NATO-summit.jpg"
+            },
+            {
+                "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/07/In-the-event-of-hybrid-threat-NATO-would-also-trigger-the-collective-defense-400x240.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/www.drugpatentwatch.com/blog/wp-content/uploads/2017/10/global-regulatory-agencies-300x187.jpg?resize=300%2C187&ssl=1"
+            },
+            {
+                "url": "https://www.rubaltic.ru/upload/resize_cache/iblock/a01/230_145_140cd750bba9870f18aada2478b24840a/a019161f5e2f19918a39f8ca4b787292.jpg"
+            },
+            {
+                "url": "https://www.infoapollonia.ro/wp-content/uploads/2018/07/nato-160x160.jpg"
+            },
+            {
+                "url": "https://r.mtdata.ru/r203x-/u30/photo5AC6/20328983144-0/original.jpg"
+            },
+            {
+                "url": "https://www.president.gov.ua/storage/j-image-storage/02/59/87/c12fed336993872a87bf72163318d87a_1468071488_extra_small.jpeg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.gmfus.org/blog/2018/01/11/nato-summit-2018-implementation-summit",
+                "pageTitle": "<b>NATO Summit</b> 2018 \u2013 An Implementation Summit? | The German ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "https://bipartisanpolicy.org/an-urgent-bipartisan-request-for-the-2018-nato-summit/",
+                "pageTitle": "An Urgent Bipartisan Request for the 2018 <b>NATO Summit</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bipartisanpolicy.org/wp-content/uploads/2018/07/shutterstock_450828169.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.albawaba.com/news/nato-summit-meets-brussels-next-week-amidst-transatlantic-doom-and-gloom-1154650",
+                "pageTitle": "<b>NATO Summit</b> Meets in Brussels Next Week Amidst Transatlantic ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.albawaba.com/sites/default/files/imagecache/article_headline_node_big//sites/default/files/im/shutterstock_450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://nato-engages.org/2018/06/01/nato-summit-2018-an-implementation-summit/",
+                "pageTitle": "<b>NATO Summit</b> 2018 \u2013 An Implementation Summit? \u2013 NATO Engages",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nato-engages.org/wp-content/uploads/2018/06/NATO-summit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.president.gov.ua/en/news/prezident-rozpochav-vizit-do-polshi-dlya-uchasti-u-samiti-na-37587",
+                "pageTitle": "President started visit to Poland to take part in <b>NATO Summit</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.president.gov.ua/storage/j-image-storage/02/59/87/c12fed336993872a87bf72163318d87a_1468071488_extra_small.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://nato-engages.org/media/page/4/",
+                "pageTitle": "ARTICLES/VIDEOS \u2013 Page 4 \u2013 <b>NATO</b> Engages",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nato-engages.org/wp-content/uploads/2018/06/NATO-summit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://nato-engages.org/category/allgemein/page/4/",
+                "pageTitle": "Allgemein \u2013 Page 4 \u2013 <b>NATO</b> Engages",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nato-engages.org/wp-content/uploads/2018/06/NATO-summit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/search/nato",
+                "pageTitle": "<b>Nato</b> Images, Stock Photos &amp; Vectors | Shutterstock",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-photo/warsaw-poland-jul-9-2016-260nw-450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.president.gov.ua/en/news/komisiya-ukrayina-nato-ukrayina-ta-alyans-pogliblyuyut-spivp-37607",
+                "pageTitle": "Ukraine-<b>NATO</b> Commission: Ukraine and <b>NATO</b> enhance ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.president.gov.ua/storage/j-image-storage/02/59/87/c12fed336993872a87bf72163318d87a_1468071488_extra_small.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gmfus.org/profiles/olesya-brodin",
+                "pageTitle": "Olesya Brodin | The German Marshall Fund of the United States",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.president.gov.ua/en/news/prezident-ukrayini-vzyav-uchast-u-ceremoniyi-privitannya-gen-37591",
+                "pageTitle": "President took part in ceremony of official welcoming by <b>NATO</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.president.gov.ua/storage/j-image-storage/02/59/87/c12fed336993872a87bf72163318d87a_1468071488_extra_small.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.president.gov.ua/en/news/mi-duzhe-chitko-skoordinuvali-nashi-zusillya-dlya-vikonannya-37617",
+                "pageTitle": "President following G5+Ukraine meeting: We coordinated our efforts ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.president.gov.ua/storage/j-image-storage/02/59/87/c12fed336993872a87bf72163318d87a_1468071488_extra_small.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/search/north+atlantic+treaty+organization",
+                "pageTitle": "North Atlantic Treaty Organization Images, Stock Photos &amp; Vectors ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-photo/warsaw-poland-jul-9-2016-260nw-450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thirdway.org/primer/2018-country-brief-russia",
+                "pageTitle": "2018 Country Brief: Russia \u2013 Third Way",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-summit-b2.html",
+                "pageTitle": "<b>Nato Summit</b> | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-summitt-d3.html",
+                "pageTitle": "<b>Nato</b> Summitt | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-meeting-97.html",
+                "pageTitle": "<b>Nato</b> Meeting | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thirdway.org/primer/2018-country-brief-afghanistan",
+                "pageTitle": "2018 Country Brief: Afghanistan \u2013 Third Way",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.transatlanticrelations.org/topic/nato-and-security/alliance-revitalized-2016/",
+                "pageTitle": "<b>NATO</b> Alliance Experts | Center for Transatlantic Relations",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://archive.transatlanticrelations.org/wp-content/uploads/2016/08/shutterstock_450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/brussels-nato-meeting-room-6f.html",
+                "pageTitle": "Brussels <b>Nato</b> Meeting Room | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://clubrecepata.info/i/natos-july-11-12-summit",
+                "pageTitle": "Natos July 11 12 <b>Summit</b> \u2013 Club Receipts",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/todays-nato-meeting",
+                "pageTitle": "Todays <b>Nato</b> Meeting - DBSecurity",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/tag/nato/",
+                "pageTitle": "<b>NATO</b> - Bulgarian Military",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/07/In-the-event-of-hybrid-threat-NATO-would-also-trigger-the-collective-defense-400x240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thirdway.org/primer/2018-country-brief-north-korea",
+                "pageTitle": "2018 Country Brief: North Korea \u2013 Third Way",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758"
+                    }
+                ]
+            },
+            {
+                "url": "http://mynextcar.info/pics/natos-july-11-12-summit",
+                "pageTitle": "Natos July 11 12 <b>Summit</b> - Mynextcar",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.n1cekino.info/nato-meeting-in.php",
+                "pageTitle": "<b>Nato</b> Meeting In \u2014 N1Cekino",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/author/bg-military/",
+                "pageTitle": "News Wires - Bulgarian Military",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/07/In-the-event-of-hybrid-threat-NATO-would-also-trigger-the-collective-defense-400x240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/bulgarias-former-defense-minister-put-on-trial-amid-procurement-irregularity-allegations/",
+                "pageTitle": "Bulgaria&#39;s former defense minister put on trial amid procurement ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/07/In-the-event-of-hybrid-threat-NATO-would-also-trigger-the-collective-defense-400x240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thirdway.org/issue/national-security?issueID=67",
+                "pageTitle": "National Security \u2013 Third Way",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758"
+                    },
+                    {
+                        "url": "https://thirdway.imgix.net/products/world-leaders-a-pronunciation-guide/world-leaders.png?mtime=20180302163758&auto=format&dpr=1&crop=center&fit=crop&w=770&h=513"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/tag/russia/",
+                "pageTitle": "Russia - Bulgarian Military",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/07/In-the-event-of-hybrid-threat-NATO-would-also-trigger-the-collective-defense-400x240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.drugpatentwatch.com/blog/international-pharmaceutical-distribution/",
+                "pageTitle": "Addressing the Challenges of Pharmaceutical Distribution in ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.drugpatentwatch.com/blog/wp-content/uploads/2017/10/global-regulatory-agencies-300x187.jpg?resize=300%2C187&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://echo24.cz/a/ipuTv/v-bruselu-zacina-summit-nato",
+                "pageTitle": "V Bruselu za\u010d\u00edn\u00e1 <b>summit NATO</b> - Echo24.cz",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://echo24.cz/img/5926ef09e4b0f0f06d0aa518/500/260?_sig=6JyNfC6QI7HsWnaj2KFh1QEkNsP4DeSIJ0XJbhauoXM"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/es/search/nato",
+                "pageTitle": "<b>Nato</b> Im\u00e1genes, fotos y vectores de stock | Shutterstock",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-photo/warsaw-poland-jul-9-2016-260nw-450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/tr/search/nato",
+                "pageTitle": "<b>Nato</b> G\u00f6rseller, Stok Foto\u011fraflar ve Vekt\u00f6rler | Shutterstock",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-photo/warsaw-poland-jul-9-2016-260nw-450828169.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://echo24.cz/s/svet/239",
+                "pageTitle": "V Bruselu za\u010d\u00edn\u00e1 <b>summit NATO</b> - Echo24.cz - N\u00e1zorov\u00fd den\u00edk",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://echo24.cz/img/5926ef09e4b0f0f06d0aa518/500/260?_sig=6JyNfC6QI7HsWnaj2KFh1QEkNsP4DeSIJ0XJbhauoXM"
+                    }
+                ]
+            },
+            {
+                "url": "https://echo24.cz/s/svet/206",
+                "pageTitle": "\u010cesk\u00e1 m\u00e9dia v sev\u0159en\u00ed oligarch\u016f. Hrozba demokracie - Echo24.cz ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://echo24.cz/img/5926ef09e4b0f0f06d0aa518/500/260?_sig=6JyNfC6QI7HsWnaj2KFh1QEkNsP4DeSIJ0XJbhauoXM"
+                    }
+                ]
+            },
+            {
+                "url": "https://crowdmedia.pl/rozpoczyna-sie-szczyt-nato-wielkie-nadzieje-rzadu-i-wstydliwy-efekt-macierewicza/",
+                "pageTitle": "Rozpoczyna si\u0119 szczyt <b>NATO</b>. Wielkie nadzieje rz\u0105du i wstydliwy ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://crowdmedia.pl/wp-content/uploads/2018/07/shutterstock_450828169-990x618.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://meduza.io/feature/2016/11/30/stydnye-voprosy-pro-nato",
+                "pageTitle": "\u0421\u0442\u044b\u0434\u043d\u044b\u0435 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043f\u0440\u043e \u041d\u0410\u0422\u041e \u0414\u043b\u044f \u0447\u0435\u0433\u043e \u043d\u0443\u0436\u0435\u043d \u0430\u043b\u044c\u044f\u043d\u0441? \u0415\u0441\u0442\u044c \u043b\u0438 \u0443 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://meduza.io/image/attachments/images/000/040/652/small/0cTjVs0yWmKB4DtAH2g-vQ.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ria.ru/analytics/20160711/1463796523.html",
+                "pageTitle": "\u0421\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f \u041d\u0410\u0422\u041e: \u043e\u0442 \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0448\u043e\u0443 \u043a \u043c\u0438\u0440\u043e\u0432\u043e\u0439 \u043a\u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444\u0435 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ria.ru/images/146380/39/1463803976.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://grid.mk/c/hVzchmQBKbq5uwD7852g/2018-07-10/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vecer.mk/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://grid.mk/c/t1z9hmQBKbq5uwD7N6YH/2018-07-10/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vecer.mk/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://grid.mk/c/XVzqhmQBKbq5uwD70KHa/2018-07-10/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vecer.mk/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://grid.mk/c/xFz8hWQBKbq5uwD79VY3/2018-07-10/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vecer.mk/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vecer.mk/makedonija/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ... - vecer",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vecer.mk/files/styles/article/public/article/2018/07/10/602555-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg?itok=hWowfEYF"
+                    },
+                    {
+                        "url": "https://vecer.mk/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pressingtv.mk/ekonomija/shto-moze-makedonija-da-mu-prodade-na-nato/",
+                "pageTitle": "\u0428\u0442\u043e \u043c\u043e\u0436\u0435 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430 \u0434\u0430 \u043c\u0443 \u043f\u0440\u043e\u0434\u0430\u0434\u0435 \u043d\u0430 \u041d\u0410\u0422\u041e? - Pressing TV",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pressingtv.mk/wp-content/uploads/2018/09/nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vesti.mk/c/OFz_hWQBKbq5uwD7wlgc/2018-07-10/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vesnik.com/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vesnik.com/makedonija/eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija",
+                "pageTitle": "\u0415\u0432\u0435 \u0433\u043e \u0434\u043d\u0435\u0432\u043d\u0438\u043e\u0442 \u0440\u0435\u0434 \u0437\u0430 \u0421\u0430\u043c\u0438\u0442\u043e\u0442 \u043d\u0430 \u041d\u0410\u0422\u041e \u0438 \u0444\u0438\u043d\u0430\u043b\u0435\u0442\u043e \u0437\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://vesnik.com/files/article/2018/07/10/602554-eve-go-dnevniot-red-za-samitot-na-nato-i-finaleto-za-makedonija.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://inosmi.ru/politic/20160716/237202624.html",
+                "pageTitle": "\u0414\u043b\u044f \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438 | \u041f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 | \u0418\u043d\u043e\u0421\u041c\u0418 - \u0412\u0441\u0435, \u0447\u0442\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    },
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145193.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://inosmi.ru/politic/20181001/243352146.html",
+                "pageTitle": "\u041a\u0430\u043a \u041f\u043e\u043b\u044c\u0448\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 \u0432\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0432 \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442 \u0441 ... - \u0418\u043d\u043e\u0421\u041c\u0418",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    },
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145193.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://siamrath.co.th/n/39473",
+                "pageTitle": "\u201c\u0e19\u0e32\u0e42\u0e15\u201d\u0e16\u0e01\u0e40\u0e14\u0e37\u0e2d\u0e14 | \u0e2a\u0e22\u0e32\u0e21\u0e23\u0e31\u0e10",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://siamrath.co.th/files/img/20180713/4a217a0cab472d8f93629e5d15ef4170f1a504e2ccdda31e7fbc3f3d7c06b21a.jpg"
+                    },
+                    {
+                        "url": "https://siamrath.co.th/files/styles/750/public/img/20180713/4a217a0cab472d8f93629e5d15ef4170f1a504e2ccdda31e7fbc3f3d7c06b21a.jpg?itok=G8vea5qs"
+                    }
+                ]
+            },
+            {
+                "url": "https://ria.ru/analytics/20160713/1465312823.html",
+                "pageTitle": "\u0420\u043e\u0441\u0441\u0438\u044f \u0432 \u0437\u0435\u0440\u043a\u0430\u043b\u0435 \u043c\u0438\u0440\u043e\u0432\u044b\u0445 \u0421\u041c\u0418: \u0431\u0430\u0442\u0430\u043b\u044c\u043e\u043d\u044b \u043f\u0440\u043e\u0441\u044f\u0442 \u0432\u0440\u0430\u0433\u0430 - \u0420\u0418\u0410 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ria.ru/images/146380/39/1463803976.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://inosmi.ru/politic/20160711/237144919.html",
+                "pageTitle": "\u0428\u0443\u043b\u044c\u0446: \u00ab\u041d\u0410\u0422\u041e \u0434\u043e\u043b\u0436\u043d\u043e \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0442\u044c \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b \u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    },
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145193.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ria.ru/defense_safety/20161215/1483680100.html",
+                "pageTitle": "\u0413\u043b\u0430\u0432\u0430 \u0413\u0435\u043d\u0448\u0442\u0430\u0431\u0430 \u0420\u043e\u0441\u0441\u0438\u0438 \u043e\u0446\u0435\u043d\u0438\u043b \u0443\u0440\u043e\u0432\u0435\u043d\u044c \u0434\u043e\u0432\u0435\u0440\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u0420\u043e\u0441\u0441\u0438\u0435\u0439 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ria.ru/images/146380/39/1463803976.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://arabic.sputniknews.com/worldcup-2018-archive/201807121033735531-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%83%D8%B1%D9%88%D8%A7%D8%AA%D9%8A%D8%A7-%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%87%D8%A7%D8%AA%D9%81-%D8%B0%D9%83%D9%8A/",
+                "pageTitle": "\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648...\u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u0648\u0627\u062a\u064a\u0627 \u0648\u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u062a\u0648\u062d\u062f \u0642\u0627\u062f\u0629 \u0627\u0644\u0646\u0627\u062a\u0648 \u062d\u0648\u0644 \u0647\u0627\u062a\u0641 \u0630\u0643\u064a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485027.jpg"
+                    },
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ria.ru/world/20160712/1464691029.html",
+                "pageTitle": "\u041f\u0443\u0448\u043a\u043e\u0432 \u0438 \u0443\u043f\u043e\u043b\u043d\u043e\u043c\u043e\u0447\u0435\u043d\u043d\u044b\u0439 \u0424\u0420\u0413 \u043f\u043e \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u0441 \u0420\u0424 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ria.ru/images/146380/39/1463803976.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://arabic.sputniknews.com/military/201703031022605637-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
+                "pageTitle": "\u0627\u0644\u0646\u0627\u062a\u0648 \u0648\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a \u0645\u062f\u0639\u0648\u0627\u0646 \u0644\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064a \u0645\u0646\u062a\u062f\u0649 \u0645\u0648\u0633\u0643\u0648 \u0644\u0645\u0646\u0627\u0642\u0634\u0629 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rubaltic.ru/article/politika-i-obshchestvo/27062018-pochemu-glava-litovskogo-mid-razbushevalsya/",
+                "pageTitle": "\u041f\u043e\u0447\u0435\u043c\u0443 \u0433\u043b\u0430\u0432\u0430 \u043b\u0438\u0442\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u041c\u0418\u0414 \u0440\u0430\u0437\u0431\u0443\u0448\u0435\u0432\u0430\u043b\u0441\u044f? - RuBaltic.ru",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.rubaltic.ru/upload/resize_cache/iblock/a01/230_145_140cd750bba9870f18aada2478b24840a/a019161f5e2f19918a39f8ca4b787292.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://arabic.sputniknews.com/world/201607091019484759/",
+                "pageTitle": "\u0642\u0645\u0629 \u062d\u0644\u0641 \u0634\u0645\u0627\u0644 \u0627\u0644\u0623\u0637\u0644\u0633\u064a \u062a\u062d\u0648\u0644\u062a \u0625\u0644\u0649 \u0645\u0633\u0631\u062d \u0639\u0628\u062b - Sputnik Arabic",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485027.jpg"
+                    },
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://arabic.sputniknews.com/world/201703031022596715-%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D8%AC%D9%88%D8%B1%D8%AC%D9%8A%D8%A7/",
+                "pageTitle": "\u062c\u0644\u0633\u0629 \u0645\u063a\u0644\u0642\u0629 \u0644\u0644\u062c\u0646\u0629 \u0627\u0644\u0639\u0633\u0643\u0631\u064a\u0629 \u0644\u062d\u0644\u0641 &quot;\u0627\u0644\u0646\u0627\u062a\u0648&quot; \u0641\u064a \u062c\u0648\u0631\u062c\u064a\u0627 - Sputnik Arabic",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485027.jpg"
+                    },
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rubaltic.ru/article/politika-i-obshchestvo/27062018-shlyakhtichi-v-sovetskikh-tankakh-na-strazhe-polshi/",
+                "pageTitle": "\u0428\u043b\u044f\u0445\u0442\u0438\u0447\u0438 \u0432 \u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0445 \u0442\u0430\u043d\u043a\u0430\u0445 \u043d\u0430 \u0441\u0442\u0440\u0430\u0436\u0435 \u041f\u043e\u043b\u044c\u0448\u0438 - RuBaltic.ru",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.rubaltic.ru/upload/resize_cache/iblock/a01/230_145_140cd750bba9870f18aada2478b24840a/a019161f5e2f19918a39f8ca4b787292.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rubaltic.ru/article/politika-i-obshchestvo/29062018-migranty-razvalivayut-evrosoyuz/",
+                "pageTitle": "\u041c\u0438\u0433\u0440\u0430\u043d\u0442\u044b \u0440\u0430\u0437\u0432\u0430\u043b\u0438\u0432\u0430\u044e\u0442 \u0415\u0432\u0440\u043e\u0441\u043e\u044e\u0437 - RuBaltic.ru",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.rubaltic.ru/upload/resize_cache/iblock/a01/230_145_140cd750bba9870f18aada2478b24840a/a019161f5e2f19918a39f8ca4b787292.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://diana-mihailova.livejournal.com/2720256.html",
+                "pageTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0435\u0442\u0441\u044f: \u0437\u0430\u0447\u0435\u043c \u043e\u043d\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cont.ws/@conrat/1080679",
+                "pageTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0435\u0442\u0441\u044f: \u0437\u0430\u0447\u0435\u043c \u043e\u043d\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 ... - \u041a\u043e\u043d\u0442",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shantnews.am/news/view/95331.html",
+                "pageTitle": "\u0546\u0531\u054f\u0555-\u0576 \u056f\u0578\u0579 \u0567 \u0561\u0576\u0578\u0582\u0574 \u0540\u0561\u0580\u0561\u057e\u0561\u0575\u056b\u0576 \u053f\u0578\u057e\u056f\u0561\u057d\u0578\u0582\u0574 ... - SHANTNEWS.am",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.shantnews.am/wp-content/uploads/2018/07/nato_meeting001.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.infoapollonia.ro/externe/summitul-aliantei-nord-atlantice/",
+                "pageTitle": "SUMMITUL ALIAN\u0162EI NORD-ATLANTICE | InfoApollonia \u2013 Agentie ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.infoapollonia.ro/wp-content/uploads/2018/07/nato.jpg"
+                    },
+                    {
+                        "url": "https://www.infoapollonia.ro/wp-content/uploads/2018/07/nato-1024x439.jpg"
+                    },
+                    {
+                        "url": "https://www.infoapollonia.ro/wp-content/uploads/2018/07/nato-160x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rubaltic.ru/news/28062018-putin-sygral-s-glavoy-fifa-v-futbol-na-krasnoy-ploshchadi/",
+                "pageTitle": "\u041f\u0443\u0442\u0438\u043d \u0441\u044b\u0433\u0440\u0430\u043b \u0441 \u0433\u043b\u0430\u0432\u043e\u0439 \u0424\u0418\u0424\u0410 \u0432 \u0444\u0443\u0442\u0431\u043e\u043b \u043d\u0430 \u041a\u0440\u0430\u0441\u043d\u043e\u0439 \u043f\u043b\u043e\u0449\u0430\u0434\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.rubaltic.ru/upload/resize_cache/iblock/a01/230_145_140cd750bba9870f18aada2478b24840a/a019161f5e2f19918a39f8ca4b787292.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://novorosinform.org/723783",
+                "pageTitle": "\u041d\u0410\u0422\u041e: \u043f\u0440\u0435\u0434\u043f\u043e\u0441\u044b\u043b\u043a\u0438 \u043a \u043b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u0438 | \u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0441\u0438\u044f",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://novorosinform.org/wp-content/uploads/2018/05/1527334392_0ctjvs0ywmkb4dtah2g-vq.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ursa-tm.ru/forum/index.php?/topic/289210-istoricheskaya-tragediya-polshi-kak-ona-snova-risknula-vvyazatsya-v-konflikt-s-rossiey-guancha-kitay/",
+                "pageTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438: \u043a\u0430\u043a \u043e\u043d\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.img.inosmi.ru/images/23714/51/237145116.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mt-smi.ru/blog?t=%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0",
+                "pageTitle": "\u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438. \u0421\u043e\u0431\u044b\u0442\u0438\u044f. \u0424\u0430\u043a\u0442\u044b",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u30/photo5AC6/20328983144-0/original.jpg"
+                    },
+                    {
+                        "url": "https://r.mtdata.ru/r203x-/u30/photo5AC6/20328983144-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bazaistoria.ru/blog/latest?t=%D0%B3%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%2C%20%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%2C%20%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0&wf=1&page=34",
+                "pageTitle": "\u0411\u043b\u043e\u0433 \u0441\u0430\u0439\u0442\u0430 \u00ab\u0411\u0410\u0417\u0410 211- \u0412\u041e\u0415\u041d\u041d\u0410\u042f \u0418\u0421\u0422\u041e\u0420\u0418\u042f\u00bb",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u16/photoA9E7/20864357035-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mt-smi.ru/blog/43089461311/Istoricheskaya-tragediya-Polshi:-kak-ona-snova-risknula-vvyazats",
+                "pageTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0442\u0440\u0430\u0433\u0435\u0434\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438: \u043a\u0430\u043a \u043e\u043d\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u30/photo5AC6/20328983144-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mt-smi.ru/blog/?t=%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0",
+                "pageTitle": "\u041f\u043e\u043b\u044c\u0448\u0430 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438. \u0421\u043e\u0431\u044b\u0442\u0438\u044f. \u0424\u0430\u043a\u0442\u044b",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u30/photo5AC6/20328983144-0/original.jpg"
+                    },
+                    {
+                        "url": "https://r.mtdata.ru/r203x-/u30/photo5AC6/20328983144-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sahafah24.net/w1580633.html",
+                "pageTitle": "\u0635\u062d\u0627\u0641\u0629 24 \u0646\u062a : \u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648...\u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u0648\u0627\u062a\u064a\u0627 \u0648\u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u062a\u0648\u062d\u062f \u0642\u0627\u062f\u0629 \u0627\u0644\u0646\u0627\u062a\u0648 \u062d\u0648\u0644 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://glavnajadoroga.ru/blog/43264001033/Istoriya-Polshi-povtoryaetsya:-zachem-ona-snova-risknula-vvyazat",
+                "pageTitle": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u041f\u043e\u043b\u044c\u0448\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u044f\u0435\u0442\u0441\u044f: \u0437\u0430\u0447\u0435\u043c \u043e\u043d\u0430 \u0441\u043d\u043e\u0432\u0430 \u0440\u0438\u0441\u043a\u043d\u0443\u043b\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u20/photoF8ED/20667998737-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nashaplaneta.su/?page336",
+                "pageTitle": "336 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u041d\u0430\u0448\u0435\u0439 \u041f\u043b\u0430\u043d\u0435\u0442\u044b - \u041d\u0430\u0448\u0430 \u041f\u043b\u0430\u043d\u0435\u0442\u0430",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://nashaplaneta.su/_nw/378/95361917.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://informburo.dn.ua/cgi-bin/iburo/start.cgi?info52=50526&page=169&lang=",
+                "pageTitle": "\u041d\u0410\u0422\u041e: \u043f\u0440\u0435\u0434\u043f\u043e\u0441\u044b\u043b\u043a\u0438 \u043a \u043b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u0438 | \u0418\u043d\u0444\u043e\u0440\u043c\u0411\u044e\u0440\u043e",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://novorosinform.org/wp-content/uploads/2018/05/1527334392_0ctjvs0ywmkb4dtah2g-vq.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://informburo.dn.ua/cgi-bin/iburo/start.cgi?info52=50526&lang=",
+                "pageTitle": "\u041d\u0410\u0422\u041e: \u043f\u0440\u0435\u0434\u043f\u043e\u0441\u044b\u043b\u043a\u0438 \u043a \u043b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u0438 | \u0418\u043d\u0444\u043e\u0440\u043c\u0411\u044e\u0440\u043e",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://novorosinform.org/wp-content/uploads/2018/05/1527334392_0ctjvs0ywmkb4dtah2g-vq.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.press24.ye/search?q=%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87%D8%A7&page=7",
+                "pageTitle": "\u0635\u062d\u0627\u0641\u0629 \u0646\u062a 24 \u0627\u0644\u064a\u0645\u0646 \u0627\u0644\u0622\u0646 | \u0646\u062a\u0627\u0626\u062c \u0627\u0644\u0628\u062d\u062b \u0639\u0646 : \u062a\u0627\u0631\u064a\u062e\u0647\u0627 | \u0627\u0644\u0635\u0641\u062d\u0629 7",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://123ru.net/various/63061280/",
+                "pageTitle": "\u0421\u0430\u043c\u0430\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0443\u0433\u0440\u043e\u0437\u0430 \u0415\u0432\u0440\u043e\u043f\u0435 \u2014 \u043d\u0435 \u041f\u0443\u0442\u0438\u043d, \u0430 \u043c\u044b \u0441\u0430\u043c\u0438. \u0420\u0430\u0437\u043d\u043e\u0435 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u1/photoBFD1/20684562052-0/original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nashaplaneta.su/news/nato_gudbaj_strakhi_vojak_aljansa_i_predposylki_k_likvidacii_sojuza/2018-05-27-37828",
+                "pageTitle": "\u041d\u0410\u0422\u041e, \u0433\u0443\u0434\u0431\u0430\u0439! \u0421\u0442\u0440\u0430\u0445\u0438 \u0432\u043e\u044f\u043a \u0430\u043b\u044c\u044f\u043d\u0441\u0430 \u0438 \u043f\u0440\u0435\u0434\u043f\u043e\u0441\u044b\u043b\u043a\u0438 \u043a \u043b\u0438\u043a\u0432\u0438\u0434\u0430\u0446\u0438\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://nashaplaneta.su/_nw/378/95361917.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sahafah24.com/news1580633.html",
+                "pageTitle": "\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648...\u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u0648\u0627\u062a\u064a\u0627 \u0648\u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u062a\u0648\u062d\u062f \u0642\u0627\u062f\u0629 \u0627\u0644\u0646\u0627\u062a\u0648 \u062d\u0648\u0644 \u0647\u0627\u062a\u0641 \u0630\u0643\u064a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sahafah24.com/show1580633.html",
+                "pageTitle": "\u0635\u062d\u0627\u0641\u0629 24 : \u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648...\u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u0648\u0627\u062a\u064a\u0627 \u0648\u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u062a\u0648\u062d\u062f \u0642\u0627\u062f\u0629 \u0627\u0644\u0646\u0627\u062a\u0648 \u062d\u0648\u0644 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://feedlb.com/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%83%D8%B1%D9%88%D8%A7%D8%AA%D9%8A%D8%A7-%D9%88%D8%A5%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7-%D8%AA%D9%88%D8%AD",
+                "pageTitle": "\u0628\u0627\u0644\u0641\u064a\u062f\u064a\u0648\u2026\u0645\u0628\u0627\u0631\u0627\u0629 \u0643\u0631\u0648\u0627\u062a\u064a\u0627 \u0648\u0625\u0646\u062c\u0644\u062a\u0631\u0627 \u062a\u0648\u062d\u062f \u0642\u0627\u062f\u0629 \u0627\u0644\u0646\u0627\u062a\u0648 \u062d\u0648\u0644 \u0647\u0627\u062a\u0641 \u0630\u0643\u064a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnarabic2.img.sputniknews.com/images/101948/50/1019485019.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.jepe.info/blog/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D1%80%D1%83%D0%B1%D0%B5%D0%B6%D0%B8-%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%B0",
+                "pageTitle": "\u041d\u043e\u0432\u044b\u0435 \u0420\u0443\u0431\u0435\u0436\u0438 \u0410\u043b\u044c\u044f\u043d\u0441\u0430 \u2013 Jepe",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://meduza.io/image/attachments/images/000/040/652/small/0cTjVs0yWmKB4DtAH2g-vQ.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://www.gmfus.org/sites/default/files/styles/hero_header/public/images/nato_meeting001.jpg?itok=Kg40TGtz"
+            },
+            {
+                "url": "http://barrisol.com/Images/news/2016/le-sommet-de-l-otan-en-barrisol/IMG_0168.jpg"
+            },
+            {
+                "url": "https://www.uscpublicdiplomacy.org/sites/uscpublicdiplomacy.org/files/styles/blog-785x482/public/uploads/Assistant_Secretary_Nuland_Participates_in_the_NATO-Georgia_Commission_Foreign_Ministers_Meeting_%2828071842412%29.jpg?itok=EYjdX0LP"
+            },
+            {
+                "url": "http://media.ws.irib.ir/image/4bk7037bb47b53a1eg_800C450.jpg"
+            },
+            {
+                "url": "https://dailynewshungary.com/wp-content/uploads/2016/07/K_EPA20160708091.jpg"
+            },
+            {
+                "url": "http://www.nato.int/docu/review/2016/Also-in-2016/nato-deterrence-defence-alliance/files/3402.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/general-view-from-thopening-session-of-the-nato-summit-in-warsaw-08-picture-id545519816?s=612x612"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/general-view-from-thopening-session-of-the-nato-summit-in-warsaw-08-picture-id545519818?k=6&m=545519818&s=612x612&w=0&h=MTV1ioAEXjTmQzFXLCAfS4rAgLnGbfbx3mnrVNxf4Js="
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "NATO summit"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9312421,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6624345,
+                        "y": 0.81192774
+                    },
+                    {
+                        "x": 0.7303828,
+                        "y": 0.81192774
+                    },
+                    {
+                        "x": 0.7303828,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.6624345,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8089442,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.58917135,
+                        "y": 0.81381017
+                    },
+                    {
+                        "x": 0.6566491,
+                        "y": 0.81381017
+                    },
+                    {
+                        "x": 0.6566491,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.58917135,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.62511265,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.110310644,
+                        "y": 0.81192774
+                    },
+                    {
+                        "x": 0.18155316,
+                        "y": 0.81192774
+                    },
+                    {
+                        "x": 0.18155316,
+                        "y": 0.99958926
+                    },
+                    {
+                        "x": 0.110310644,
+                        "y": 0.99958926
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/07c52",
+            "name": "Television",
+            "score": 0.57858765,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.19157381,
+                        "y": 0.5046089
+                    },
+                    {
+                        "x": 0.31222805,
+                        "y": 0.5046089
+                    },
+                    {
+                        "x": 0.31222805,
+                        "y": 0.69791746
+                    },
+                    {
+                        "x": 0.19157381,
+                        "y": 0.69791746
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.55307907,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.30154282,
+                        "y": 0.7880021
+                    },
+                    {
+                        "x": 0.3647853,
+                        "y": 0.7880021
+                    },
+                    {
+                        "x": 0.3647853,
+                        "y": 0.98460484
+                    },
+                    {
+                        "x": 0.30154282,
+                        "y": 0.98460484
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/07c52",
+            "name": "Television",
+            "score": 0.5113858,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8406409,
+                        "y": 0.49010223
+                    },
+                    {
+                        "x": 0.9600526,
+                        "y": 0.49010223
+                    },
+                    {
+                        "x": 0.9600526,
+                        "y": 0.65421987
+                    },
+                    {
+                        "x": 0.8406409,
+                        "y": 0.65421987
+                    }
+                ]
+            }
+        }
+    ]
+}

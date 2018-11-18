@@ -1,0 +1,479 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0215n",
+            "description": "cartoon",
+            "score": 0.9353306,
+            "topicality": 0.9353306
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "description": "fictional character",
+            "score": 0.8791513,
+            "topicality": 0.8791513
+        },
+        {
+            "mid": "/m/02xlf",
+            "description": "fiction",
+            "score": 0.7534237,
+            "topicality": 0.7534237
+        },
+        {
+            "mid": "/m/01jwgf",
+            "description": "product",
+            "score": 0.7166302,
+            "topicality": 0.7166302
+        },
+        {
+            "mid": "/m/01kr8f",
+            "description": "illustration",
+            "score": 0.6201333,
+            "topicality": 0.6201333
+        },
+        {
+            "mid": "/m/012h24",
+            "description": "comics",
+            "score": 0.57700217,
+            "topicality": 0.57700217
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.53958267,
+            "topicality": 0.53958267
+        },
+        {
+            "mid": "/m/0jjw",
+            "description": "art",
+            "score": 0.52513963,
+            "topicality": 0.52513963
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 67,
+                        "green": 81,
+                        "blue": 198
+                    },
+                    "score": 0.4390737,
+                    "pixelFraction": 0.10699904
+                },
+                {
+                    "color": {
+                        "red": 125,
+                        "green": 71,
+                        "blue": 27
+                    },
+                    "score": 0.007962801,
+                    "pixelFraction": 0.005305209
+                },
+                {
+                    "color": {
+                        "red": 184,
+                        "green": 205,
+                        "blue": 237
+                    },
+                    "score": 0.0061621103,
+                    "pixelFraction": 0.038862254
+                },
+                {
+                    "color": {
+                        "red": 74,
+                        "green": 33,
+                        "blue": 16
+                    },
+                    "score": 0.004243086,
+                    "pixelFraction": 0.004154682
+                },
+                {
+                    "color": {
+                        "red": 85,
+                        "green": 98,
+                        "blue": 222
+                    },
+                    "score": 0.1736329,
+                    "pixelFraction": 0.10757431
+                },
+                {
+                    "color": {
+                        "red": 234,
+                        "green": 188,
+                        "blue": 167
+                    },
+                    "score": 0.0015021814,
+                    "pixelFraction": 0.005433046
+                },
+                {
+                    "color": {
+                        "red": 16,
+                        "green": 11,
+                        "blue": 13
+                    },
+                    "score": 0.0010971039,
+                    "pixelFraction": 0.04825823
+                },
+                {
+                    "color": {
+                        "red": 67,
+                        "green": 81,
+                        "blue": 186
+                    },
+                    "score": 0.09929839,
+                    "pixelFraction": 0.036752958
+                },
+                {
+                    "color": {
+                        "red": 65,
+                        "green": 83,
+                        "blue": 173
+                    },
+                    "score": 0.048620723,
+                    "pixelFraction": 0.020517737
+                },
+                {
+                    "color": {
+                        "red": 92,
+                        "green": 108,
+                        "blue": 203
+                    },
+                    "score": 0.037773583,
+                    "pixelFraction": 0.021284755
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 999
+                        },
+                        {
+                            "x": 999,
+                            "y": 703
+                        },
+                        {
+                            "y": 703
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/06bnz",
+                "score": 1.059,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.727
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.727,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.7209,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.7068
+            },
+            {
+                "entityId": "/m/04jd6y6",
+                "score": 0.6891,
+                "description": "Russia\u2013NATO relations"
+            },
+            {
+                "entityId": "/m/0ddbyvg",
+                "score": 0.5964,
+                "description": "Hybrid warfare"
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 0.5724,
+                "description": "NATO summit"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5661
+            },
+            {
+                "entityId": "/t/2c8vqxxn379fl",
+                "score": 0.4577
+            },
+            {
+                "entityId": "/m/0215n",
+                "score": 0.40542966,
+                "description": "Cartoon"
+            },
+            {
+                "entityId": "/m/012h24",
+                "score": 0.37569204,
+                "description": "Comics"
+            },
+            {
+                "entityId": "/t/22hhhj7k9yc4w",
+                "score": 0.3413
+            },
+            {
+                "entityId": "/m/02csf",
+                "score": 0.3282,
+                "description": "Drawing"
+            },
+            {
+                "entityId": "/t/2bvzk6fhjt4gf",
+                "score": 0.3208
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdn.rbth.com/468x312/1x1/999x666/all/2016/05/10/bear2_1000.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.rbth.com/international/2016/05/16/is-natos-antimissile-defense-system-in-europe-a-threat-to-russia_593499",
+                "pageTitle": "Is NATO&#39;s antimissile defense system in Europe a threat to <b>Russia</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.rbth.com/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rbth.com/international/2016/06/10/how-finland-became-a-battleground-in-the-russia-nato-information-war_602129",
+                "pageTitle": "How Finland became a battleground in the <b>Russia</b>-NATO ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.rbth.com/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rbth.com/opinion/2016/05/11/why-is-nato-once-again-talking-of-deterring-resurgent-russia_592213",
+                "pageTitle": "Why is NATO once again talking of deterring &#39;resurgent <b>Russia</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.rbth.com/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://imgcop.com/img/Otan-78335499/",
+                "pageTitle": "Otan - ImgCop.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://imgcop.com/img/Otan-78335489/",
+                "pageTitle": "Otan - ImgCop.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://imgcop.com/img/Otan-78335486/",
+                "pageTitle": "Otan - ImgCop.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://imgcop.com/img/Otan-78335485/",
+                "pageTitle": "Otan - ImgCop.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://br.rbth.com/opiniao/2016/05/12/otan-e-o-receio-do-abraco-de-urso_592485",
+                "pageTitle": "Otan e o receio do &#39;abra\u00e7o de <b>urso</b>&#39; - <b>Russia</b> Beyond BR",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://riedelcasting.com/otan.php",
+                "pageTitle": "Otan | Riedelcasting",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdni.rbth.com/rbthmedia/images/all/2016/05/10/bear2_1000.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://www.planobrazil.com/wp-content/uploads/2015/10/russianasiria.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comppt/mcpg03/cartoon-urso-com-bola-de-futebol-vestindo-um-chapeu-russoearflaps-bandeira-russa-no-fundo-vetor-mcpg03.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/aRY2L7B1uVI/maxresdefault.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comppt/hh414r/bolhas-charge-politica-mostra-o-urso-russo-soprando-bolhas-de-sabao-rotulado-promessas-atraves-de-um-tubo-de-sucino-com-um-rosto-chines-utilizando-liquido-de-uma-tigela-rotulado-manchurian-sabao-suave-1903-hh414r.jpg"
+            },
+            {
+                "url": "https://cdn.rbth.com/468x312/0x43/999x666/web/br-rbth/images/2016-04/big/bogatyr.jpg"
+            },
+            {
+                "url": "https://conteudo.imguol.com.br/c/bol/fotos/2014/06/30/30jun2014---um-urso-do-zoologico-da-russia-fez-a-alegria-das-pessoas-ao-cocar-as-costas-na-parede-ele-parecia-satisfeito-ao-aliviar-a-coceira-enquanto-quem-estava-presente-ria-e-o-apelidava-1404151802091_550x500.png"
+            },
+            {
+                "url": "http://blogdomenon.blogosfera.uol.com.br/files/2014/06/faustobelgicarussia.jpg"
+            },
+            {
+                "url": "https://st3.depositphotos.com/3838569/16163/i/1600/depositphotos_161639580-stock-photo-sochi-russia-july-2016-leopard.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comppt/d3c838/mascotes-olimpicos-leopard-urso-polar-e-hare-sao-exibidos-em-uma-loja-de-recordacoes-em-moscou-russia-06-de-fevereiro-de-2013-os-jogos-olimpicos-de-2014-realizada-em-sochi-foto-jan-woitas-d3c838.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-photo/abrau-durso-russia-august-27-260nw-1155287014.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "russia urso",
+                "languageCode": "pt"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.83999115,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.75593406,
+                        "y": 0.25598562
+                    },
+                    {
+                        "x": 0.92618364,
+                        "y": 0.25598562
+                    },
+                    {
+                        "x": 0.92618364,
+                        "y": 0.65624964
+                    },
+                    {
+                        "x": 0.75593406,
+                        "y": 0.65624964
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.83999115,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.03540179,
+                        "y": 0.47912058
+                    },
+                    {
+                        "x": 0.24859823,
+                        "y": 0.47912058
+                    },
+                    {
+                        "x": 0.24859823,
+                        "y": 0.99076176
+                    },
+                    {
+                        "x": 0.03540179,
+                        "y": 0.99076176
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.81693935,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.36400002,
+                        "y": 0.039999995
+                    },
+                    {
+                        "x": 0.69741184,
+                        "y": 0.039999995
+                    },
+                    {
+                        "x": 0.69741184,
+                        "y": 0.40352944
+                    },
+                    {
+                        "x": 0.36400002,
+                        "y": 0.40352944
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.7388155,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.15048417,
+                        "y": 0.25753242
+                    },
+                    {
+                        "x": 0.30390593,
+                        "y": 0.25753242
+                    },
+                    {
+                        "x": 0.30390593,
+                        "y": 0.5446471
+                    },
+                    {
+                        "x": 0.15048417,
+                        "y": 0.5446471
+                    }
+                ]
+            }
+        }
+    ]
+}

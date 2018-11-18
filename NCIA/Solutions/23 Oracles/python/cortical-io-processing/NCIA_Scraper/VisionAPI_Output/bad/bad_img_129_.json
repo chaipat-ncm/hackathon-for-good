@@ -1,0 +1,883 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0dx1j",
+            "description": "town",
+            "score": 0.9531721,
+            "topicality": 0.9531721
+        },
+        {
+            "mid": "/m/0180xr",
+            "description": "neighbourhood",
+            "score": 0.9349287,
+            "topicality": 0.9349287
+        },
+        {
+            "mid": "/m/01c8br",
+            "description": "street",
+            "score": 0.80662286,
+            "topicality": 0.80662286
+        },
+        {
+            "mid": "/m/02nfxt",
+            "description": "residential area",
+            "score": 0.7735483,
+            "topicality": 0.7735483
+        },
+        {
+            "mid": "/m/03jm5",
+            "description": "house",
+            "score": 0.7680504,
+            "topicality": 0.7680504
+        },
+        {
+            "mid": "/m/01x314",
+            "description": "facade",
+            "score": 0.6589645,
+            "topicality": 0.6589645
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.63185894,
+            "topicality": 0.63185894
+        },
+        {
+            "mid": "/m/01l7t2",
+            "description": "downtown",
+            "score": 0.6285857,
+            "topicality": 0.6285857
+        },
+        {
+            "mid": "/m/01n32",
+            "description": "city",
+            "score": 0.62796474,
+            "topicality": 0.62796474
+        },
+        {
+            "mid": "/m/0cgh4",
+            "description": "building",
+            "score": 0.6161165,
+            "topicality": 0.6161165
+        },
+        {
+            "mid": "/m/06gfj",
+            "description": "road",
+            "score": 0.55106646,
+            "topicality": 0.55106646
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 140,
+                        "green": 106,
+                        "blue": 87
+                    },
+                    "score": 0.17641482,
+                    "pixelFraction": 0.05967852
+                },
+                {
+                    "color": {
+                        "red": 209,
+                        "green": 197,
+                        "blue": 193
+                    },
+                    "score": 0.0847678,
+                    "pixelFraction": 0.109182626
+                },
+                {
+                    "color": {
+                        "red": 171,
+                        "green": 148,
+                        "blue": 128
+                    },
+                    "score": 0.081012644,
+                    "pixelFraction": 0.049504105
+                },
+                {
+                    "color": {
+                        "red": 92,
+                        "green": 30,
+                        "blue": 3
+                    },
+                    "score": 0.004899832,
+                    "pixelFraction": 0.00068399456
+                },
+                {
+                    "color": {
+                        "red": 232,
+                        "green": 226,
+                        "blue": 226
+                    },
+                    "score": 0.083871916,
+                    "pixelFraction": 0.1370554
+                },
+                {
+                    "color": {
+                        "red": 116,
+                        "green": 80,
+                        "blue": 63
+                    },
+                    "score": 0.08028176,
+                    "pixelFraction": 0.03984268
+                },
+                {
+                    "color": {
+                        "red": 139,
+                        "green": 116,
+                        "blue": 100
+                    },
+                    "score": 0.065678075,
+                    "pixelFraction": 0.047366623
+                },
+                {
+                    "color": {
+                        "red": 77,
+                        "green": 43,
+                        "blue": 28
+                    },
+                    "score": 0.065435536,
+                    "pixelFraction": 0.03531122
+                },
+                {
+                    "color": {
+                        "red": 128,
+                        "green": 113,
+                        "blue": 110
+                    },
+                    "score": 0.053532463,
+                    "pixelFraction": 0.09097127
+                },
+                {
+                    "color": {
+                        "red": 176,
+                        "green": 142,
+                        "blue": 126
+                    },
+                    "score": 0.047963742,
+                    "pixelFraction": 0.018895349
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 609
+                        },
+                        {
+                            "x": 609,
+                            "y": 384
+                        },
+                        {
+                            "y": 384
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/g/11g0g4v6jn",
+                "score": 1.0906501,
+                "description": "Combined Resolve"
+            },
+            {
+                "entityId": "/m/04k01b",
+                "score": 0.7199,
+                "description": "Military exercise"
+            },
+            {
+                "entityId": "/m/0w1d32m",
+                "score": 0.7007,
+                "description": "Armed Forces of Ukraine"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.641,
+                "description": "Military"
+            },
+            {
+                "entityId": "/g/1216fv8b",
+                "score": 0.5616,
+                "description": "defense"
+            },
+            {
+                "entityId": "/m/0byj4",
+                "score": 0.5291,
+                "description": "Combat"
+            },
+            {
+                "entityId": "/m/02mqgv",
+                "score": 0.4947,
+                "description": "T-84"
+            },
+            {
+                "entityId": "/g/122ntxgp",
+                "score": 0.4843,
+                "description": "\u0422-84\u0423"
+            },
+            {
+                "entityId": "/m/011bpbnh",
+                "score": 0.4706,
+                "description": "military personnel"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.4368,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/03rjdn",
+                "score": 0.3919,
+                "description": "Opposing force"
+            },
+            {
+                "entityId": "/m/07cmd",
+                "score": 0.3853,
+                "description": "Tank"
+            },
+            {
+                "entityId": "/g/121y9vh0",
+                "score": 0.3673,
+                "description": "Angkatan bersenjata"
+            },
+            {
+                "entityId": "/t/213kwpc2n5k6v",
+                "score": 0.3592
+            },
+            {
+                "entityId": "/m/04zm7_",
+                "score": 0.3406,
+                "description": "Staff"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://kor.ill.in.ua/m/610x385/2149272.jpg"
+            },
+            {
+                "url": "https://kor.ill.in.ua/m/190x120/2149272.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://www.mil.gov.ua/assets/images/resources/40489/10b8ace9d50992c80779cc04f47707c0a2d0c456.jpg"
+            },
+            {
+                "url": "https://uatodaynews.files.wordpress.com/2018/05/32207768_978752838960640_5368153510145687552_o.jpg"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+            },
+            {
+                "url": "https://images.unian.net/photos/2018_05/1525953646-2796.jpg"
+            },
+            {
+                "url": "https://inshe.tv/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-1024x683.jpg"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+            },
+            {
+                "url": "https://imagecdn1.luxnet.ua/radio24/uploads/640_DIR/media_news/2018/05/32889cde793d5e2f01cf513821a91c17931c3b7f.jpg"
+            },
+            {
+                "url": "https://zik.ua/gallery/photo/1/5/1525953646_2796.jpg"
+            },
+            {
+                "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-800x520.jpg"
+            },
+            {
+                "url": "https://www.ponomaroleg.com/wp-content/uploads/2018/05/1-compressor-8.jpg"
+            },
+            {
+                "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486.jpg"
+            },
+            {
+                "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-ZlM98SYQdNA/Wvawqa5veII/AAAAAAAAHUM/sDcE0GxvSOo5-dYU6xAmAZDyAyGZf_f7QCLcBGAs/s320/T-84%2BOplot%2BStrong%2BEurope%2BTank%2BChallenge_37.jpg"
+            },
+            {
+                "url": "https://inshe.tv/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-300x200.jpg"
+            },
+            {
+                "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893-300x199.jpg"
+            },
+            {
+                "url": "https://2ch.hk/wm/thumb/3011877/15259487195051s.jpg"
+            },
+            {
+                "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893-150x150.jpg"
+            },
+            {
+                "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486-150x150.jpg"
+            },
+            {
+                "url": "https://news.liga.net/images/general/2018/05/10/20180510082744-1054.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/ukrainian-troops-complete-combined-resolve-x-maneuvers-nato-forces.html",
+                "pageTitle": "Ukrainian troops complete <b>Combined Resolve</b> X maneuvers with ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-800x520.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mil.gov.ua/en/news/2018/05/10/combined-resolve-x-final-battle-defence-of-ubensdorf/",
+                "pageTitle": "<b>Combined Resolve</b> X: Final battle \u2014Defence of Ubensdorf ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mil.gov.ua/assets/images/resources/40489/10b8ace9d50992c80779cc04f47707c0a2d0c456.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/ukrainian-troops-complete-combined-resolve-x-maneuvers-nato-forces.html/attachment/31950237_976669025835688_8143618551425531904_o",
+                "pageTitle": "31950237_976669025835688_8143618551425531904_o | KyivPost",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-800x520.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/ukrainian-troops-complete-combined-resolve-x-maneuvers-nato-forces.html/attachment/32222455_978753508960573_1901730695974223872_o",
+                "pageTitle": "32222455_978753508960573_1901730695974223872_o | KyivPost",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-800x520.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kyivpost.com/ukraine-politics/ukrainian-troops-complete-combined-resolve-x-maneuvers-nato-forces.html/attachment/32149318_978753042293953_5285861502962630656_o-2",
+                "pageTitle": "32149318_978753042293953_5285861502962630656_o | KyivPost",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-800x520.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.unian.info/multimedia/photo/10001684-finalnyy-boy-ukrainskih-voennyh-na-ucheniyah-v-germanii.html",
+                "pageTitle": "Ukraine&#39;s final drills at Germany&#39;s <b>Combined Resolve</b> X Photoreport",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.unian.net/photos/2018_05/1525953646-2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.ukrmilitary.com/2018/05/ubensdorf.html",
+                "pageTitle": "<b>Combined Resolve</b> X: Final Battle - Ubensdorf&#39;s defense (VIDEO)",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/",
+                "pageTitle": "Index of /wp-content/uploads/2018/05",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    },
+                    {
+                        "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893-150x150.jpg"
+                    },
+                    {
+                        "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893-300x199.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sturgeonshouse.ipbhost.com/topic/61-ukrainian-armor-oplot-m-t-64m-bulat-and-other/?page=37",
+                "pageTitle": "Ukrainian armor - Oplot-M, T-64M Bulat and other. - Page 37 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.militaryimages.net/threads/ukrainian-military-photos.5930/page-19",
+                "pageTitle": "Photos - Ukrainian Military Photos | Page 19 | MilitaryImages.Net",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.militaryimages.net/attachments/1-jpg.151620/"
+                    }
+                ]
+            },
+            {
+                "url": "http://sturgeonshouse.ipbhost.com/profile/15-loooser/content/?type=forums_topic_post&page=96",
+                "pageTitle": "LoooSeR&#39;s Content - Page 96 - Sturgeon&#39;s House",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://censor.net.ua/photo_news/3065680/mnogonatsionalnye_voennye_ucheniya_combined_resolve_h_na_kotoryh_nashi_voennoslujaschie_poluchili_vysokuyu",
+                "pageTitle": "\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0443\u0447\u0435\u043d\u0438\u044f <b>Combined Resolve</b> \u0425, \u043d\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.facebook.com/GeneralStaff.ua/posts/combinedresolve-x-day-13-%D1%84%D1%96%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D0%B1%D1%96%D0%B9-%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%B4%D0%BE%D1%80%D1%84%D0%B0-final-battle-ubensdorf/978753635627227/",
+                "pageTitle": "#CombinedResolve X \u2013 Day 13: \u0444\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439... - \u0413\u0435\u043d\u0435\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0448\u0442\u0430\u0431 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+                    }
+                ]
+            },
+            {
+                "url": "https://ua.censor.net.ua/photo_news/3065680/bagatonatsionalni_viyiskovi_navchannya_combined_resolve_h_na_yakyh_nashi_viyiskovoslujbovtsi_otrymaly",
+                "pageTitle": "\u0411\u0430\u0433\u0430\u0442\u043e\u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0456 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f <b>Combined Resolve</b> \u0425, \u043d\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://milnavigator.tv/aktyvna-faza-navchan-combined-resolve-x-oborona-ubensdorfa-video-foto/",
+                "pageTitle": "\u0410\u043a\u0442\u0438\u0432\u043d\u0430 \u0444\u0430\u0437\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u044c \u00ab<b>Combined Resolve</b> X\u00bb: \u043e\u0431\u043e\u0440\u043e\u043d\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ukrmilitary.com/2018/05/ubensdorf.html",
+                "pageTitle": "\u0410\u043a\u0442\u0438\u0432\u043d\u0430 \u0444\u0430\u0437\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u044c \u00ab<b>Combined Resolve</b> X\u00bb: \u043e\u0431\u043e\u0440\u043e\u043d\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/--GUGAWe7cxQ/WvNsoNFoLeI/AAAAAAAAdag/frCmjg8co6owCLrBj_CkhjPiwjbE5WXwACLcBGAs/s1600/1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://vgolos.com.ua/news/ukrainski_viyskovi_vlashtuvaly_oblogu_mista_na_navchannyah_nato_opublikovano_foto_i_video_315242.html",
+                "pageTitle": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0456 \u0432\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043b\u0438 \u043e\u0431\u043b\u043e\u0433\u0443 \u043c\u0456\u0441\u0442\u0430 \u043d\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f\u0445 \u041d\u0410\u0422\u041e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+                    }
+                ]
+            },
+            {
+                "url": "http://glavcom.blogspot.com/2018/04/strong-europe-tank-challenge-setc-2018.html",
+                "pageTitle": "Glavcom: \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u044b\u0435 \u0442\u0430\u043d\u043a\u043e\u0432\u044b\u0435 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u044f Strong ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://1.bp.blogspot.com/-ZlM98SYQdNA/Wvawqa5veII/AAAAAAAAHUM/sDcE0GxvSOo5-dYU6xAmAZDyAyGZf_f7QCLcBGAs/s320/T-84%2BOplot%2BStrong%2BEurope%2BTank%2BChallenge_37.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://volynua.com/2018/05/12/news/volodimirski-tankisti-14-ombr-vrazili-vsix-na-combined-resolve-x-foto-video/",
+                "pageTitle": "<b>Combined Resolve</b> X\u00bb (\u0424\u041e\u0422\u041e, \u0412\u0406\u0414\u0415\u041e) - \u0412\u043e\u043b\u0438\u043d\u044cUA",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mil.gov.ua/assets/images/resources/40489/10b8ace9d50992c80779cc04f47707c0a2d0c456.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zik.ua/news/2018/05/10/ostanniy_biy_ukrainski_viyskovi_uspishno_zavershyly_navchannya_v_ubensdorfi_1321407",
+                "pageTitle": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0431\u0456\u0439: \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0456 \u0443\u0441\u043f\u0456\u0448\u043d\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0432 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://zik.ua/gallery/photo/1/5/1525953646_2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://apostrophe.ua/news/society/2018-05-12/boytsyi-vsu-porazili-svoim-podhodom-k-oborone-goroda-na-mejdunarodnyih-voennyih-ucheniyah-yarkie-foto/129723",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0423\u043a\u0440\u0430\u0438\u043d\u044b - \u0411\u043e\u0439\u0446\u044b \u0412\u0421\u0423 \u043f\u043e\u0440\u0430\u0437\u0438\u043b\u0438 \u0441\u0432\u043e\u0438\u043c \u043f\u043e\u0434\u0445\u043e\u0434\u043e\u043c \u043a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://apostrophe.ua/uploads/11052018/c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://apostrophe.ua/ua/news/society/2018-05-12/boytsyi-vsu-porazili-svoim-podhodom-k-oborone-goroda-na-mejdunarodnyih-voennyih-ucheniyah-yarkie-foto/129723",
+                "pageTitle": "\u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438 - \u0411\u0456\u0439\u0446\u0456 \u0417\u0421\u0423 \u0432\u0440\u0430\u0437\u0438\u043b\u0438 \u0441\u0432\u043e\u0457\u043c \u043f\u0456\u0434\u0445\u043e\u0434\u043e\u043c \u0434\u043e \u043e\u0431\u043e\u0440\u043e\u043d\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://apostrophe.ua/uploads/11052018/c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.unian.ua/society/10111553-oborona-ubensdorfa-ukrajinski-viyskovi-dali-finalniy-biy-na-navchannyah-u-nimechchini-foto-video.html",
+                "pageTitle": "\u041e\u0431\u043e\u0440\u043e\u043d\u0430 \u0423\u0431\u0435\u043d\u0441\u0434\u043e\u0440\u0444\u0430: \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0456 \u0434\u0430\u043b\u0438 \u0444\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0431\u0456\u0439 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.unian.net/photos/2018_05/1525953646-2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://headnews.net/news-ukraine-europe-world/today-news-5675",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0423\u043a\u0440\u0430\u0438\u043d\u044b. <b>Combined Resolve</b> X: \u0443\u043a\u0440\u0430\u0438\u043d\u0446\u0435\u0432 \u043d\u0438\u043a\u0442\u043e \u043d\u0435 \u0441\u043c\u043e\u0433 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://uatodaynews.files.wordpress.com/2018/05/32207768_978752838960640_5368153510145687552_o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ua.korrespondent.net/ukraine/3969470-zsu-na-navchanniakh-nato-zihraly-rol-pohanykh",
+                "pageTitle": "\u0417\u0421\u0423 \u043d\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f\u0445 \u041d\u0410\u0422\u041e \u0437\u0456\u0433\u0440\u0430\u043b\u0438 \u0440\u043e\u043b\u044c &quot;\u043f\u043e\u0433\u0430\u043d\u0438\u0445&quot; - Korrespondent.net",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://kor.ill.in.ua/m/610x385/2149272.jpg"
+                    },
+                    {
+                        "url": "https://kor.ill.in.ua/m/190x120/2149272.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://zik.ua/ru/news/2018/05/10/poslednyy_boy_ukraynskye_voennie_uspeshno_zavershyly_obuchenye_v_ubensdorfe_1321507",
+                "pageTitle": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0431\u043e\u0439: \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u043b\u0438 ... - Zik",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://zik.ua/gallery/photo/1/5/1525953646_2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://korrespondent.net/ukraine/3969470-vsu-na-uchenyiakh-nato-syhraly-rol-plokhykh",
+                "pageTitle": "\u0412\u0421\u0423 \u043d\u0430 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 \u041d\u0410\u0422\u041e \u0441\u044b\u0433\u0440\u0430\u043b\u0438 \u0440\u043e\u043b\u044c &quot;\u043f\u043b\u043e\u0445\u0438\u0445&quot;: \u0432\u0438\u0434\u0435\u043e, \u0444\u043e\u0442\u043e ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://kor.ill.in.ua/m/610x385/2149272.jpg"
+                    },
+                    {
+                        "url": "https://kor.ill.in.ua/m/190x120/2149272.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://maximum.fm/rota-spartanciv-yak-zsu-zmusili-kapitulyuvati-vijskovih-nato_n141247",
+                "pageTitle": "\u0420\u043e\u0442\u0430 \u0441\u043f\u0430\u0440\u0442\u0430\u043d\u0446\u0456\u0432: \u044f\u043a \u0417\u0421\u0423 \u0437\u043c\u0443\u0441\u0438\u043b\u0438 \u043a\u0430\u043f\u0456\u0442\u0443\u043b\u044e\u0432\u0430\u0442\u0438 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0438\u0445 \u041d\u0410\u0422\u041e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://imagecdn1.luxnet.ua/radio24/uploads/640_DIR/media_news/2018/05/32889cde793d5e2f01cf513821a91c17931c3b7f.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sq-al.facebook.com/79AMBUA/posts",
+                "pageTitle": "79 \u0434\u0435\u0441\u0430\u043d\u0442\u043d\u043e-\u0448\u0442\u0443\u0440\u043c\u043e\u0432\u0430 \u0431\u0440\u0438\u0433\u0430\u0434\u0430 \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432 - Postimet | Facebook",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+                    }
+                ]
+            },
+            {
+                "url": "http://adverman.com/news/1216",
+                "pageTitle": "<b>Combined Resolve</b> X. \u042f\u043a \u0443\u043a\u0440\u0430\u0457\u043d\u0446\u0456 \u0437\u0434\u0438\u0432\u0443\u0432\u0430\u043b\u0438 \u041d\u0410\u0422\u041e - \u041d\u043e\u0432\u0438\u043d\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://uatodaynews.files.wordpress.com/2018/05/32207768_978752838960640_5368153510145687552_o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://inshe.tv/nikolaev/2018-05-10/332243/",
+                "pageTitle": "\u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0438\u0435 \u0434\u0435\u0441\u0430\u043d\u0442\u043d\u0438\u043a\u0438 \u043d\u0430 \u043c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://inshe.tv/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-1024x683.jpg"
+                    },
+                    {
+                        "url": "https://inshe.tv/wp-content/uploads/2018/05/32207768_978752838960640_5368153510145687552_o-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tanki-v-boju.ru/ukrainskie-bojcy-uspeshno-otrazhali-ataki-uslovnogo-protivnika-v-mezhdunarodnyx-ucheniyax-v-germanii/",
+                "pageTitle": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u043e\u0439\u0446\u044b \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043e\u0442\u0440\u0430\u0436\u0430\u043b\u0438 \u0430\u0442\u0430\u043a\u0438 \u0443\u0441\u043b\u043e\u0432\u043d\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ponomaroleg.com/%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%B4%D0%BE%D1%80%D1%84%D0%B0.html",
+                "pageTitle": "\u041e\u0431\u043e\u0440\u043e\u043d\u0430 \u0423\u0431\u0435\u043d\u0441\u0434\u043e\u0440\u0444\u0430. | | ponomaroleg.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ponomaroleg.com/wp-content/uploads/2018/05/1-compressor-8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://glavcom.blogspot.com/2018/04/",
+                "pageTitle": "Glavcom: \u0430\u043f\u0440\u0435\u043b\u044f 2018",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://1.bp.blogspot.com/-ZlM98SYQdNA/Wvawqa5veII/AAAAAAAAHUM/sDcE0GxvSOo5-dYU6xAmAZDyAyGZf_f7QCLcBGAs/s320/T-84%2BOplot%2BStrong%2BEurope%2BTank%2BChallenge_37.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://cossackland.org.ua/2018/05/12/ukrajinski-veterany-donbasu-vcherhove-vrazyly-vijskovyh-nato-na-spilnyh-navchannyah-u-nimechchyni/",
+                "pageTitle": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0432\u0435\u0442\u0435\u0440\u0430\u043d\u0438 \u0414\u043e\u043d\u0431\u0430\u0441\u0443 \u0432\u0447\u0435\u0440\u0433\u043e\u0432\u0435 \u0432\u0440\u0430\u0437\u0438\u043b\u0438 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0438\u0445 \u041d\u0410\u0422\u041e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cossackland.org.ua/wp-content/uploads/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.unian.ua/multimedia/photo/10001684-finalnyy-boy-ukrainskih-voennyh-na-ucheniyah-v-germanii.html",
+                "pageTitle": "\u0424\u0456\u043d\u0430\u043b\u044c\u043d\u0438\u0439 \u0431\u0456\u0439 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0445 \u0432\u0456\u0439\u0441\u044c\u043a\u043e\u0432\u0438\u0445 \u043d\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f\u0445 \u0443 \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0456 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.unian.net/photos/2018_05/1525953646-2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.unian.net/multimedia/photo/10001684-finalnyy-boy-ukrainskih-voennyh-na-ucheniyah-v-germanii.html",
+                "pageTitle": "\u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u043e\u0439 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0445 \u0432\u043e\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 \u0432 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.unian.net/photos/2018_05/1525953646-2796.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://patrioty.org.ua/politic/khity-tyzhnia-ukrainskyi-stalinhrad-biitsi-zsu-na-manevrakh-nato-znov-zdyvuvaly-koleh-kreatyvom-ta-maisternoiu-oboronoiu-230378.html",
+                "pageTitle": "\u0425\u0456\u0442\u0438 \u0442\u0438\u0436\u043d\u044f. &quot;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0421\u0442\u0430\u043b\u0456\u043d\u0433\u0440\u0430\u0434&quot;: \u0411\u0456\u0439\u0446\u0456 \u0417\u0421\u0423 \u043d\u0430 \u043c\u0430\u043d\u0435\u0432\u0440\u0430\u0445 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://patrioty.org.ua/images/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ua.news.liga.net/cryminal/video/yak-ukrainski-biytsi-na-navchannyah-nato-oboronyalisya-v-misti-video",
+                "pageTitle": "\u042f\u043a \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0431\u0456\u0439\u0446\u0456 \u043d\u0430 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f\u0445 \u041d\u0410\u0422\u041e \u043e\u0431\u043e\u0440\u043e\u043d\u044f\u043b\u0438\u0441\u044f \u0432 \u043c\u0456\u0441\u0442\u0456: \u0432\u0456\u0434\u0435\u043e",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ua.news.liga.net/images/general/2018/05/10/20180510082744-1054.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://merezha.co/ukrayinskyj-stalingrad-bijtsi-zsu-na-manevrah-nato-znov-zdyvuvaly-koleg-kreatyvom-ta-majsternoyu-oboronoyu/",
+                "pageTitle": "&quot;\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u0421\u0442\u0430\u043b\u0456\u043d\u0433\u0440\u0430\u0434&quot;: \u0411\u0456\u0439\u0446\u0456 \u0417\u0421\u0423 \u043d\u0430 \u043c\u0430\u043d\u0435\u0432\u0440\u0430\u0445 \u041d\u0410\u0422\u041e \u0437\u043d\u043e\u0432 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://patrioty.org.ua/images/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://apkforum.com/showthread.php/268-%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8-%D0%BE%D0%B4%D0%BD%D0%B8%D0%BC-%D1%80%D1%8F%D0%B4%D0%BA%D0%BE%D0%BC/page1046",
+                "pageTitle": "\u041d\u043e\u0432\u0438\u043d\u0438 \u043e\u0434\u043d\u0438\u043c \u0440\u044f\u0434\u043a\u043e\u043c - \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 1046 - \u0410\u041f\u041a \u0424\u043e\u0440\u0443\u043c",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://patrioty.org.ua/images/2018/05/12111037_c47449fbe5a39c4396d9ce2cc5527893.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://2ch.hk/wm/arch/2018-07-28/res/3011877.html",
+                "pageTitle": "/wm/ - \u0412\u041f\u041a \u0423\u043a\u0440\u0430\u0438\u043d\u044b \u211675 - 2ch",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://2ch.hk/wm/thumb/3011877/15259487195051s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.liga.net/incidents/video/kak-ukrainskie-boytsy-na-ucheniyah-nato-oboronyalis-v-gorode-video",
+                "pageTitle": "\u041a\u0430\u043a \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0431\u043e\u0439\u0446\u044b \u043d\u0430 \u0443\u0447\u0435\u043d\u0438\u044f\u0445 \u041d\u0410\u0422\u041e \u043e\u0431\u043e\u0440\u043e\u043d\u044f\u043b\u0438\u0441\u044c \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://news.liga.net/images/general/2018/05/10/20180510082744-1054.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ponomaroleg.com/%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0-%D1%83%D0%B1%D0%B5%D0%BD%D1%81%D0%B4%D0%BE%D1%80%D1%84%D0%B0.html/1-compressor-308",
+                "pageTitle": "1-compressor \u2014 ponomaroleg.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ponomaroleg.com/wp-content/uploads/2018/05/1-compressor-8.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.facebook.com/tokens.com.ua/posts",
+                "pageTitle": "\u0412\u043e\u0435\u043d\u043d\u044b\u0439 \u0436\u0435\u0442\u043e\u043d \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 - Dog Tag - Posts ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+                    }
+                ]
+            },
+            {
+                "url": "http://tanki-v-boju.ru/patria-predlozhila-principialno-novyj-tip-koles-dlya-bronetexniki/",
+                "pageTitle": "Patria \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u043b\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0438\u0430\u043b\u044c\u043d\u043e \u043d\u043e\u0432\u044b\u0439 \u0442\u0438\u043f \u043a\u043e\u043b\u0435\u0441 \u0434\u043b\u044f ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pt-br.facebook.com/tokens.com.ua/",
+                "pageTitle": "\u0412\u043e\u0435\u043d\u043d\u044b\u0439 \u0436\u0435\u0442\u043e\u043d \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u0430 - Dog Tag - P\u00e1gina ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=978752835627307"
+                    }
+                ]
+            },
+            {
+                "url": "http://tanki-v-boju.ru/ukrainskie-voennye-unichtozhili-i-zaxvatili-ostanki-eshhe-odnoj-rossijskaya-bpm-97-vystrel/",
+                "pageTitle": "\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0435 \u0432\u043e\u0435\u043d\u043d\u044b\u0435 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0438\u043b\u0438 \u0438 \u0437\u0430\u0445\u0432\u0430\u0442\u0438\u043b\u0438 \u043e\u0441\u0442\u0430\u043d\u043a\u0438 \u0435\u0449\u0435 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tanki-v-boju.ru/ssha-perebrosili-v-estoniyu-ubijcy-tankov-shturmoviki-a-10/",
+                "pageTitle": "\u0421\u0428\u0410 \u043f\u0435\u0440\u0435\u0431\u0440\u043e\u0441\u0438\u043b\u0438 \u0432 \u042d\u0441\u0442\u043e\u043d\u0438\u044e &quot;\u0443\u0431\u0438\u0439\u0446\u044b \u0442\u0430\u043d\u043a\u043e\u0432&quot; - \u0448\u0442\u0443\u0440\u043c\u043e\u0432\u0438\u043a\u0438 A ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tanki-v-boju.ru/wp-content/uploads/2018/05/869835693465345695486-150x150.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://c8.alamy.com/comp/PR3YDP/an-infantry-team-with-chaos-company-1st-battalion-68th-armor-regiment-3rd-armored-brigade-combat-team-4th-infantry-division-moves-to-clear-a-building-during-a-platoon-live-fire-exercise-at-the-grafenwoehr-training-area-germany-july-28-2017-1st-bn-68th-armor-regt-is-testing-company-readiness-while-training-toward-the-battalions-participation-in-34-abcts-live-fire-exercise-during-combined-resolve-ix-in-august-PR3YDP.jpg"
+            },
+            {
+                "url": "https://www.super-hobby.com/zdjecia/6/4/4/25814_combined-resolve-us-forces-6.jpg"
+            },
+            {
+                "url": "http://www.arm.mil.mk/images/vesti/pso/2018/05/comb_resolve/3.JPG"
+            },
+            {
+                "url": "https://cdn.dvidshub.net/media/thumbs/photos/1311/1054954/1000w_q95.jpg"
+            },
+            {
+                "url": "https://www.kyivpost.com/wp-content/uploads/2018/05/32191476_978753412293916_9027087203884335104_o-800x520.jpg"
+            },
+            {
+                "url": "https://cdn.dvidshub.net/media/thumbs/photos/1705/3435597/1000w_q95.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DcyZ19eW4AAcAAu.jpg"
+            },
+            {
+                "url": "http://www.mil.gov.ua/assets/images/resources/40111/0e2141ac385f4b7d2ed890ab203e4993d03b57ac.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "combined resolve 3",
+                "languageCode": "uk"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03jm5",
+            "name": "House",
+            "score": 0.7193447,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 1,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 1,
+                        "y": 0.8642641
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.8642641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/07cmd",
+            "name": "Tank",
+            "score": 0.58827984,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.046823528,
+                        "y": 0.5468235
+                    },
+                    {
+                        "x": 0.29411766,
+                        "y": 0.5468235
+                    },
+                    {
+                        "x": 0.29411766,
+                        "y": 0.8101177
+                    },
+                    {
+                        "x": 0.046823528,
+                        "y": 0.8101177
+                    }
+                ]
+            }
+        }
+    ]
+}

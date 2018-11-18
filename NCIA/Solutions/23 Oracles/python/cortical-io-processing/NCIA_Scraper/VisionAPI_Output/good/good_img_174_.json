@@ -1,0 +1,864 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.95509136,
+            "topicality": 0.95509136
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.93355715,
+            "topicality": 0.93355715
+        },
+        {
+            "mid": "/m/07cmd",
+            "description": "tank",
+            "score": 0.9140073,
+            "topicality": 0.9140073
+        },
+        {
+            "mid": "/m/0g54v5d",
+            "description": "military vehicle",
+            "score": 0.89869255,
+            "topicality": 0.89869255
+        },
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.8919028,
+            "topicality": 0.8919028
+        },
+        {
+            "mid": "/m/079bkr",
+            "description": "mode of transport",
+            "score": 0.8752267,
+            "topicality": 0.8752267
+        },
+        {
+            "mid": "/m/012f08",
+            "description": "motor vehicle",
+            "score": 0.8337959,
+            "topicality": 0.8337959
+        },
+        {
+            "mid": "/m/0728h",
+            "description": "self propelled artillery",
+            "score": 0.8206512,
+            "topicality": 0.8206512
+        },
+        {
+            "mid": "/m/05t_pq",
+            "description": "gun turret",
+            "score": 0.80600053,
+            "topicality": 0.80600053
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.7946687,
+            "topicality": 0.7946687
+        },
+        {
+            "mid": "/m/0y8r",
+            "description": "armored car",
+            "score": 0.72714514,
+            "topicality": 0.72714514
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.72143286,
+            "topicality": 0.72143286
+        },
+        {
+            "mid": "/m/0gvss07",
+            "description": "combat vehicle",
+            "score": 0.60345227,
+            "topicality": 0.60345227
+        },
+        {
+            "mid": "/m/029vvt",
+            "description": "m113 armored personnel carrier",
+            "score": 0.5670834,
+            "topicality": 0.5670834
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "sk",
+            "description": "SPUTNIK\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 8,
+                        "y": 25
+                    },
+                    {
+                        "x": 124,
+                        "y": 25
+                    },
+                    {
+                        "x": 124,
+                        "y": 83
+                    },
+                    {
+                        "x": 8,
+                        "y": 83
+                    }
+                ]
+            }
+        },
+        {
+            "description": "SPUTNIK",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 8,
+                        "y": 65
+                    },
+                    {
+                        "x": 118,
+                        "y": 25
+                    },
+                    {
+                        "x": 124,
+                        "y": 43
+                    },
+                    {
+                        "x": 14,
+                        "y": 83
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 137,
+                        "green": 119,
+                        "blue": 105
+                    },
+                    "score": 0.23544219,
+                    "pixelFraction": 0.06484127
+                },
+                {
+                    "color": {
+                        "red": 221,
+                        "green": 219,
+                        "blue": 227
+                    },
+                    "score": 0.10544033,
+                    "pixelFraction": 0.21238095
+                },
+                {
+                    "color": {
+                        "red": 171,
+                        "green": 153,
+                        "blue": 138
+                    },
+                    "score": 0.18840332,
+                    "pixelFraction": 0.07611111
+                },
+                {
+                    "color": {
+                        "red": 131,
+                        "green": 118,
+                        "blue": 112
+                    },
+                    "score": 0.11436579,
+                    "pixelFraction": 0.1602381
+                },
+                {
+                    "color": {
+                        "red": 100,
+                        "green": 84,
+                        "blue": 70
+                    },
+                    "score": 0.06903947,
+                    "pixelFraction": 0.047301587
+                },
+                {
+                    "color": {
+                        "red": 166,
+                        "green": 152,
+                        "blue": 146
+                    },
+                    "score": 0.06543475,
+                    "pixelFraction": 0.062222224
+                },
+                {
+                    "color": {
+                        "red": 205,
+                        "green": 197,
+                        "blue": 198
+                    },
+                    "score": 0.056594823,
+                    "pixelFraction": 0.0702381
+                },
+                {
+                    "color": {
+                        "red": 96,
+                        "green": 84,
+                        "blue": 78
+                    },
+                    "score": 0.051294446,
+                    "pixelFraction": 0.0815873
+                },
+                {
+                    "color": {
+                        "red": 195,
+                        "green": 178,
+                        "blue": 163
+                    },
+                    "score": 0.037998956,
+                    "pixelFraction": 0.010555555
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 50,
+                        "blue": 44
+                    },
+                    "score": 0.02916096,
+                    "pixelFraction": 0.06936508
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1279
+                        },
+                        {
+                            "x": 1279,
+                            "y": 719
+                        },
+                        {
+                            "y": 719
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "sk"
+                        }
+                    ]
+                },
+                "width": 1280,
+                "height": 720,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "sk"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 8,
+                                    "y": 25
+                                },
+                                {
+                                    "x": 124,
+                                    "y": 25
+                                },
+                                {
+                                    "x": 124,
+                                    "y": 83
+                                },
+                                {
+                                    "x": 8,
+                                    "y": 83
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "sk"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 8,
+                                            "y": 25
+                                        },
+                                        {
+                                            "x": 124,
+                                            "y": 25
+                                        },
+                                        {
+                                            "x": 124,
+                                            "y": 83
+                                        },
+                                        {
+                                            "x": 8,
+                                            "y": 83
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "sk"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 8,
+                                                    "y": 65
+                                                },
+                                                {
+                                                    "x": 118,
+                                                    "y": 25
+                                                },
+                                                {
+                                                    "x": 124,
+                                                    "y": 43
+                                                },
+                                                {
+                                                    "x": 14,
+                                                    "y": 83
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 8,
+                                                            "y": 65
+                                                        },
+                                                        {
+                                                            "x": 23,
+                                                            "y": 60
+                                                        },
+                                                        {
+                                                            "x": 30,
+                                                            "y": 77
+                                                        },
+                                                        {
+                                                            "x": 14,
+                                                            "y": 83
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 25,
+                                                            "y": 59
+                                                        },
+                                                        {
+                                                            "x": 41,
+                                                            "y": 53
+                                                        },
+                                                        {
+                                                            "x": 47,
+                                                            "y": 70
+                                                        },
+                                                        {
+                                                            "x": 31,
+                                                            "y": 76
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "P"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 44,
+                                                            "y": 52
+                                                        },
+                                                        {
+                                                            "x": 60,
+                                                            "y": 46
+                                                        },
+                                                        {
+                                                            "x": 66,
+                                                            "y": 64
+                                                        },
+                                                        {
+                                                            "x": 50,
+                                                            "y": 70
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 61,
+                                                            "y": 46
+                                                        },
+                                                        {
+                                                            "x": 76,
+                                                            "y": 41
+                                                        },
+                                                        {
+                                                            "x": 82,
+                                                            "y": 57
+                                                        },
+                                                        {
+                                                            "x": 67,
+                                                            "y": 63
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 78,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 93,
+                                                            "y": 35
+                                                        },
+                                                        {
+                                                            "x": 99,
+                                                            "y": 51
+                                                        },
+                                                        {
+                                                            "x": 84,
+                                                            "y": 57
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 95,
+                                                            "y": 33
+                                                        },
+                                                        {
+                                                            "x": 105,
+                                                            "y": 29
+                                                        },
+                                                        {
+                                                            "x": 111,
+                                                            "y": 46
+                                                        },
+                                                        {
+                                                            "x": 101,
+                                                            "y": 50
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "I"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "sk"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 107,
+                                                            "y": 29
+                                                        },
+                                                        {
+                                                            "x": 118,
+                                                            "y": 25
+                                                        },
+                                                        {
+                                                            "x": 124,
+                                                            "y": 42
+                                                        },
+                                                        {
+                                                            "x": 113,
+                                                            "y": 46
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "K"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "SPUTNIK\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/07cmd",
+                "score": 2.0642571,
+                "description": "Tank"
+            },
+            {
+                "entityId": "/m/0345h",
+                "score": 1.272315,
+                "description": "Germany"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 1.0623,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/05qhw",
+                "score": 0.7831725,
+                "description": "Poland"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.7103
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.7019
+            },
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.6204,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.5981376,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.5807
+            },
+            {
+                "entityId": "/t/2c90vgpvlzj1s",
+                "score": 0.5428
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.5215
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.5215,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/2bvzk6fhjt4gf",
+                "score": 0.5091
+            },
+            {
+                "entityId": "/m/01bq8v",
+                "score": 0.50329727,
+                "description": "Troop"
+            },
+            {
+                "entityId": "/m/02j9z",
+                "score": 0.0015194402,
+                "description": "Europe"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://i.ytimg.com/vi/Qj5Wwnf-D_Y/maxresdefault.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/maxresdefault.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/QAiRwIslVxk/maxresdefault.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaabmS9CCfCV_2TChYznQOPDyWTQ"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://i.ytimg.com/vi/QAiRwIslVxk/sddefault.jpg#404_is_fine"
+            },
+            {
+                "url": "http://img.youtube.com/vi/d_xt_5ezUW0/1.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.youtube.com/watch?v=aHRBvBB4zT0",
+                "pageTitle": "Hundreds of US Tanks Arrive in Germany for NATO Mission in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=eQI5jTbNPQw",
+                "pageTitle": "Turkish Cargo Plane Crash in Kyrgystan: Footage From the Crash ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaabmS9CCfCV_2TChYznQOPDyWTQ"
+                    }
+                ]
+            },
+            {
+                "url": "http://mp3silver.ga/post/us-tanks-arrive-in-europe-to-keep-peace-freedom-at-russian-borders.html",
+                "pageTitle": "Us Tanks Arrive In Europe To Keep Peace Freedom At Russian ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mp3cpanel.ga/cpanel/us-tanks-arrive-in-europe-to-keep-peace-freedom-at-russian-borders.html",
+                "pageTitle": "Us Tanks Arrive In Europe To Keep Peace Freedom At Russian ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/aHRBvBB4zT0/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=QAiRwIslVxk",
+                "pageTitle": "<b>Tanques de EE.UU</b>. llegan a Alemania para participar en los ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://actualidad.rt.com/actualidad/227903-centenares-tanques-eeuu-llegar-fronteras-rusas",
+                "pageTitle": "Centenares de <b>tanques de EE.UU</b>. se despliegan en la frontera rusa ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/sddefault.jpg#404_is_fine"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=6BKqv2cZUDM",
+                "pageTitle": "Desembarcan los primeros <b>tanques de EEUU</b> para reforzar a la ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=gQu2hgg8GJs",
+                "pageTitle": "Polonia: Tropas y veh\u00edculos de <b>EE.UU</b>. preparados para la ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=yoZcNB2zTe8",
+                "pageTitle": "Los Patriot llegan a Polonia - YouTube",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=XwM4pdTGi38",
+                "pageTitle": "Dos afortunadas ni\u00f1as sobreviven tras ser atropelladas por un ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=0b5z0iq5f7c",
+                "pageTitle": "LA INCONFORMIDAD DE LA BASE MILITAR COLOMBIANA CON ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLADTBx5dmOiQrhVJBHrOa09G6DXnA"
+                    }
+                ]
+            },
+            {
+                "url": "http://ros-pc.ga/search-result/tanques-de-ee-uu-llegan-a-alemania-para-participar-en-los-ejercicios-de-la-otan-en-europa-oriental.html",
+                "pageTitle": "<b>Tanques De Ee Uu</b> Llegan A Alemania Para Participar En Los ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ros-pc.ga/search-result/estados-unidos-ha-comenzado-a-amasar-tropas-en-la-frontera-rusa.html",
+                "pageTitle": "<b>Estados Unidos</b> Ha Comenzado A Amasar Tropas En La Frontera ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/QAiRwIslVxk/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.vietatoparlare.it/tag/%D0%BD%D0%B0%D1%82%D0%BE/?wpamp",
+                "pageTitle": "\u041d\u0430\u0442\u043e Archivi - VIETATO PARLARE",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.vietatoparlare.it/wp-content/uploads/2017/01/Qj5Wwnf-D_Ymaxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=Qj5Wwnf-D_Y",
+                "pageTitle": "Des chars am\u00e9ricains en route pour les pays baltes - YouTube",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/Qj5Wwnf-D_Y/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.diskusneforum.sk/tema/posledny-pokus-usa-rozputat-vojnu-s-ruskom",
+                "pageTitle": "Posledn\u00fd pokus USA rozp\u00fata\u0165 vojnu s Ruskom",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.youtube.com/vi/d_xt_5ezUW0/1.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://i.ytimg.com/vi/QAiRwIslVxk/mqdefault.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160916/22033426_xl.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/www.enlacejudio.com/wp-content/uploads/2017/10/ws_Merkava_IV_Israeli_Tank_1920x1200-678x381.jpg?fit=678%2C381&ssl=1&resize=350%2C200"
+            },
+            {
+                "url": "https://c8.alamy.com/compes/c8nrft/un-cuerpo-de-marines-de-eeuu-m1a1-abrams-deposito-con-tanque-de-2-peloton-compania-delta-1er-batallon-de-tanques-adscrito-al-batallon-de-equipo-de-aterrizaje-38-26-unidad-expedicionaria-de-los-infantes-de-marina-equipo-de-combate-regimental-2-se-prepara-para-salir-combatir-outpost-ouellette-provincia-de-helmand-afganistan-jan-30-2011-compania-delta-1er-batallon-de-tanques-fue-el-primer-tanque-de-eeuu-compania-para-el-despliegue-en-afganistan-de-los-elementos-de-la-26-unidad-expedicionaria-de-marines-desplegados-en-afganistan-para-brindar-la-seguridad-regional-en-la-provincia-de-helmand-en-apoyo-de-la-fuerza-internacional-de-asistencia-para-la-seguridad-c8nrft.jpg"
+            },
+            {
+                "url": "http://kaosenlared.net/wp-content/uploads/2017/01/tank.jpg"
+            },
+            {
+                "url": "http://217.218.67.233/hispanmedia/files/Images/thumbnail/20151015/05331454_xl.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/actualidad/public_images/2016.10/article/57f4e5bdc46188744b8b45dc.jpg"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/t/el-tanque-abrams-m-de-los-e-e-u-u-64728839.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "tanques de eeuu",
+                "languageCode": "es"
+            }
+        ]
+    }
+}

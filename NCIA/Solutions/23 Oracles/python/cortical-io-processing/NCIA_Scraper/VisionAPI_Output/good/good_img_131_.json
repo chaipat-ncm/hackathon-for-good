@@ -1,0 +1,1600 @@
+{
+    "logoAnnotations": [
+        {
+            "mid": "/g/1thfdrgg",
+            "description": "Amec Foster Wheeler",
+            "score": 0.6490641,
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 150,
+                        "y": 59
+                    },
+                    {
+                        "x": 1129,
+                        "y": 59
+                    },
+                    {
+                        "x": 1129,
+                        "y": 452
+                    },
+                    {
+                        "x": 150,
+                        "y": 452
+                    }
+                ]
+            }
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/04_tb",
+            "description": "map",
+            "score": 0.93288404,
+            "topicality": 0.93288404
+        },
+        {
+            "mid": "/m/09nm_",
+            "description": "world",
+            "score": 0.72536045,
+            "topicality": 0.72536045
+        },
+        {
+            "mid": "/m/07j7r",
+            "description": "tree",
+            "score": 0.6304337,
+            "topicality": 0.6304337
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 243,
+                        "green": 103,
+                        "blue": 33
+                    },
+                    "score": 0.27787542,
+                    "pixelFraction": 0.048333332
+                },
+                {
+                    "color": {
+                        "red": 188,
+                        "green": 189,
+                        "blue": 187
+                    },
+                    "score": 0.061182816,
+                    "pixelFraction": 0.10622222
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 95,
+                        "blue": 59
+                    },
+                    "score": 0.041844334,
+                    "pixelFraction": 0.04422222
+                },
+                {
+                    "color": {
+                        "red": 172,
+                        "green": 203,
+                        "blue": 169
+                    },
+                    "score": 0.02630388,
+                    "pixelFraction": 0.012
+                },
+                {
+                    "color": {
+                        "red": 247,
+                        "green": 178,
+                        "blue": 132
+                    },
+                    "score": 0.015837723,
+                    "pixelFraction": 0.0046666665
+                },
+                {
+                    "color": {
+                        "red": 239,
+                        "green": 105,
+                        "blue": 47
+                    },
+                    "score": 0.19036362,
+                    "pixelFraction": 0.029666666
+                },
+                {
+                    "color": {
+                        "red": 228,
+                        "green": 120,
+                        "blue": 59
+                    },
+                    "score": 0.066907205,
+                    "pixelFraction": 0.010111111
+                },
+                {
+                    "color": {
+                        "red": 52,
+                        "green": 100,
+                        "blue": 51
+                    },
+                    "score": 0.034057993,
+                    "pixelFraction": 0.042
+                },
+                {
+                    "color": {
+                        "red": 225,
+                        "green": 131,
+                        "blue": 92
+                    },
+                    "score": 0.031156018,
+                    "pixelFraction": 0.007777778
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 127,
+                        "blue": 93
+                    },
+                    "score": 0.026960386,
+                    "pixelFraction": 0.018444445
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1199
+                        },
+                        {
+                            "x": 1199,
+                            "y": 478
+                        },
+                        {
+                            "y": 478
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01q_cy",
+                "score": 0.88155,
+                "description": "Globe"
+            },
+            {
+                "entityId": "/m/09nm_",
+                "score": 0.86399996,
+                "description": "World"
+            },
+            {
+                "entityId": "/m/03b6pb",
+                "score": 0.8346,
+                "description": "World map"
+            },
+            {
+                "entityId": "/m/04_tb",
+                "score": 0.7,
+                "description": "Map"
+            },
+            {
+                "entityId": "/m/056z2",
+                "score": 0.6932,
+                "description": "Mercator projection"
+            },
+            {
+                "entityId": "/m/01_k38",
+                "score": 0.5925,
+                "description": "Robinson projection"
+            },
+            {
+                "entityId": "/m/0ch409s",
+                "score": 0.5124,
+                "description": "Blank map"
+            },
+            {
+                "entityId": "/m/02j71",
+                "score": 0.5028,
+                "description": "Earth"
+            },
+            {
+                "entityId": "/g/12323pxvy",
+                "score": 0.4782,
+                "description": "\u0414\u04af\u043d\u0438\u0435 \u0436\u04af\u0437\u0456\u043d\u0456\u04a3 \u0441\u0430\u044f\u0441\u0438 \u043a\u0430\u0440\u0442\u0430\u0441\u044b"
+            },
+            {
+                "entityId": "/m/0jg24",
+                "score": 0.4468,
+                "description": "Image"
+            },
+            {
+                "entityId": "/m/07znj",
+                "score": 0.4074,
+                "description": "Vector graphics"
+            },
+            {
+                "entityId": "/m/03y39",
+                "score": 0.406,
+                "description": "Information"
+            },
+            {
+                "entityId": "/m/01kr8f",
+                "score": 0.3664,
+                "description": "Illustration"
+            },
+            {
+                "entityId": "/m/027kqh1",
+                "score": 0.3637,
+                "description": "Stock illustration"
+            },
+            {
+                "entityId": "/m/087sj_",
+                "score": 0.3627,
+                "description": "Early world maps"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/2000px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "http://www.bisconia.com/wp-content/uploads/2015/11/Russia-NATO.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/1280px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://aktivisterforfred.files.wordpress.com/2017/09/natoryssland.png"
+            },
+            {
+                "url": "x-raw-image:///8deb3986ab05c49ee490f7946bbac8931aef0084b2f8a57155b4cdb38ec3f9b9"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/1200px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/1024px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/1000px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://docplayer.ru/docs-images/66/54850956/images/12-0.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Location_NATO_Russia.svg"
+            },
+            {
+                "url": "https://www.sbs.com.au/yourlanguage/sites/sbs.com.au.yourlanguage/files/styles/full/public/podcast_images/nato_-_russia-svg-_patrickneil-cc_by_30_wikipedia.jpg?itok=bU-5WLhc?itok=N5AeG35k"
+            },
+            {
+                "url": "http://themls.co/attachment/full/us-china-map/usfacebook-uschina-trade-war-us-midterm-elex-natorussia-peace-97.jpg"
+            },
+            {
+                "url": "https://www.sbs.com.au/yourlanguage/sites/sbs.com.au.yourlanguage/files/podcast_images/nato_-_russia-svg-_patrickneil-cc_by_30_wikipedia.jpg"
+            },
+            {
+                "url": "http://www.alfredvierling.com/wp-content/uploads/2012/10/kaart-nato-russia.png"
+            },
+            {
+                "url": "https://e-politik.de/wp-content/uploads/2016/10/Location_NATO_Russia.svg_.png"
+            },
+            {
+                "url": "http://b1.vestifinance.ru/c/134251.640xp.jpg"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-934eb58bc5fafc2c7eab7008036f2ab7"
+            },
+            {
+                "url": "https://aktivisterforfred.files.wordpress.com/2017/09/natoryssland.png?w=550&h=219"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/500px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/400px-Location_NATO_Russia.svg.png"
+            },
+            {
+                "url": "http://www.cogwriter.com/NATO_Russia.svg.png"
+            },
+            {
+                "url": "https://gordonhahn.files.wordpress.com/2017/02/photo-security-dilemma.jpg?w=1400"
+            },
+            {
+                "url": "https://gordonhahn.files.wordpress.com/2017/02/photo-security-dilemma.jpg"
+            },
+            {
+                "url": "http://www.cwipperfuerth.de/wp-content/uploads/sites/5/2016/10/Location_NATO_Russia.svg_-300x120.png"
+            },
+            {
+                "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/69/38d369ccce24eb3a5f1782c4470fbe65.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/250px-Location_NATO_Russia.svg.png"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://dievolkswirtschaft.ch/content/uploads/2017/06/Siegenthaler_Kunze_Meier_FR_7_17.png"
+            },
+            {
+                "url": "http://anyhomedecor.net/wp-content/uploads/2018/08/sensational-map-of-the-world-poster-ikea-7-2000x2000.jpg"
+            },
+            {
+                "url": "http://www.mikea-galerie.com/wp-content/uploads/2018/07/sur-mur-salon-au-dessus-canape-murs-de-cadre-pinterest-cadre-photo-mappemonde-cadre-photo-mappemonde.jpg"
+            },
+            {
+                "url": "http://www.vernipoll.it/cartina.png"
+            },
+            {
+                "url": "http://international.gc.ca/gac-amc/assets/images/publications/odaaa-lrmado/odaaa-1718-map.png"
+            },
+            {
+                "url": "http://imagenesde.co/wp-content/uploads/2018/07/major-us-city-rail-system-maps-tumblr-m0hgisq0dn1r54c4oo1-1280-new-chile-a-map-chile-court-offside-of-major-us-city-rail-system-maps-tumblr-m0hgisq0dn1r54c4oo1-1280.png"
+            },
+            {
+                "url": "http://freedomenterprise.org/wp-content/uploads/where-is-guatemala-located-on-a-world-map-sauravmoni-me-fine-the.jpg"
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/wp-content/uploads/world-map-near-haiti-new-road-of-and-haitian-maps-save-in-the-location-throughout-madriver-me-within-on.png"
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/wp-content/uploads/israel-in-the-world-map-within.png"
+            },
+            {
+                "url": "http://furlongs.me/media/blank-world-map-with-rainforests-best-chile-political-new-on.png"
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-new-like-on.png"
+            },
+            {
+                "url": "https://mrket.me/wp-content/uploads/2018/05/israel-world-map-5b094546dca65.png"
+            },
+            {
+                "url": "https://image.shutterstock.com/z/stock-vector-world-map-isolated-on-a-transparent-background-highly-detailed-vector-illustration-all-elements-710843620.jpg"
+            },
+            {
+                "url": "http://taiwanziyouxingqianzheng.info/wp-content/uploads/2018/09/file-world-map-flat-mercator-png-wikimedia-commons-best-of-within-world-flat-map.png"
+            },
+            {
+                "url": "https://static1.squarespace.com/static/524d3fdee4b0f37df6bbd149/t/5995f77fbe659428068cf830/1503000451712/VisitedWorld.jpg?format=1500w"
+            },
+            {
+                "url": "https://www.viscover-online.de/images/gallery/viscover/content-seiten/worldmap@2x.png"
+            },
+            {
+                "url": "https://crossroad.com/img/items/30/27/43/default.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/EU28_as_a_single_entity_in_the_world.svg/1280px-EU28_as_a_single_entity_in_the_world.svg.png"
+            },
+            {
+                "url": "https://mh-2-bildagentur.panthermedia.net/media/previews/0014000000/14841000/~welt-karte-grau-mit-l%C3%A4nder-grenzen_14841923_high.jpg"
+            },
+            {
+                "url": "https://d31eg7vyu9l0qx.cloudfront.net/app/uploads/2018/05/map-2.jpg"
+            },
+            {
+                "url": "https://mrket.me/wp-content/uploads/2018/05/israel-in-the-world-map-1024x792.png"
+            },
+            {
+                "url": "https://mrket.me/wp-content/uploads/2018/05/israel-world-map-5b094546dca65-1024x792.png"
+            },
+            {
+                "url": "https://cf.ppt-online.org/files1/slide/7/7YtZiXAVPrHNuy9Uoa2Egv3qpkJmIO8zn15DGfdMsh/slide-81.jpg"
+            },
+            {
+                "url": "http://valcap.fr/wp-content/uploads/2016/08/carte_valcap_1200x651_acf_cropped.jpeg"
+            },
+            {
+                "url": "https://i2.wp.com/mpower365.com/wp-content/uploads/2018/04/1515205.png?fit=1024%2C724"
+            },
+            {
+                "url": "http://classicwoodworks.us/wp-content/uploads/2018/06/flat-world-map-flat-world-map-stock-vector-realvector-169560808-1024-x-715-with-pixels.jpg"
+            },
+            {
+                "url": "http://hiltonmaps.com/wp-content/uploads/2018/05/israel-map-blank-political-with-cities-in-the-world-pictures-symbols-high-resolution-physical-of-black-and-white-word-full-hd-printable-central-america-names-countries-labelled-simple-972x751.jpg"
+            },
+            {
+                "url": "http://www.herbarium-yves-rocher.com/wp-content/themes/yrplantes/img/fond-carte-ameriquenord.jpg"
+            },
+            {
+                "url": "http://luxgardenagency.ro/content/themes/lga/assets/images/maps/world.png"
+            },
+            {
+                "url": "https://kathleenhalme.com/images/adventure-transparent-world-map-2.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/EU28_as_a_single_entity_in_the_world.svg/1024px-EU28_as_a_single_entity_in_the_world.svg.png"
+            },
+            {
+                "url": "https://st4.depositphotos.com/4603773/19820/v/950/depositphotos_198203400-stock-illustration-world-map-mercator-projection-boundary.jpg"
+            },
+            {
+                "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2015/02/country-map-889x668.png"
+            },
+            {
+                "url": "https://image.ibb.co/nncZUe/servers_map.png"
+            },
+            {
+                "url": "http://arch.be.washington.edu/wp-content/uploads/2016/07/MS-HT-Faculty-Geography_Prakash-1024x562.png"
+            },
+            {
+                "url": "http://flow-well.com/wp-content/uploads/2013/05/Screen-Shot-2013-03-29-at-10.47.50-AM.png"
+            },
+            {
+                "url": "http://www.vanmanen.biz/World%20Map%20Complete.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/EU28_as_a_single_entity_in_the_world.svg/951px-EU28_as_a_single_entity_in_the_world.svg.png"
+            },
+            {
+                "url": "http://www.alfa.com.mx/nuevo/images/nc/map-companies-alpek.png"
+            },
+            {
+                "url": "http://www.alfa.com.mx/nuevo/images/nc/map-companies-alestra.png"
+            },
+            {
+                "url": "https://news.tulane.edu/sites/news/files/100818-international-education600.jpg"
+            },
+            {
+                "url": "https://banner2.kisspng.com/20180608/tes/kisspng-royalty-free-earth-vector-map-5b1ac9da8b8248.4468899115284822665714.jpg"
+            },
+            {
+                "url": "http://eurotvnews.com/images/karttamusta.png"
+            },
+            {
+                "url": "https://www.pciglobal.org/wp-content/uploads/mapsvg/global-impact-map.svg"
+            },
+            {
+                "url": "http://gthr.pl/wp-content/themes/gthr/assets/images/header-bg.svg"
+            },
+            {
+                "url": "https://cdn3.geckoandfly.com/wp-content/uploads/2013/03/MC-EUR-734842_comp_3.jpg"
+            },
+            {
+                "url": "https://img.shmbk.pl/rimgspr/13518388_pad_720_540_dla-domu-dekoracje-plakaty-wspolczesna-mapa-swiata-podzial-polityczny-plakat.jpg?scale=canvas"
+            },
+            {
+                "url": "https://static1.squarespace.com/static/5b4ca4ee0dbda30f4f359c7e/t/5b6a49a21ae6cfd40106b5aa/1533737833203/amCharts+%282%29.jpg"
+            },
+            {
+                "url": "https://livegraft.files.wordpress.com/2017/10/livegraft_contact.jpg?w=768"
+            },
+            {
+                "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/5/51/Den%C3%A9-Yeniseian.svg/800px-Den%C3%A9-Yeniseian.svg.png"
+            },
+            {
+                "url": "https://i.redd.it/8vc58pp31tb11.png"
+            },
+            {
+                "url": "http://www.ankemed.ru/UploadFiles/News/20131223153474557455.jpg"
+            },
+            {
+                "url": "https://www.termometropolitico.it/media/2016/08/Atei.png"
+            },
+            {
+                "url": "https://www.fair-1.de/tl_files/images/globe_weiss.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/CIa9N1XUsAEFCCS.jpg"
+            },
+            {
+                "url": "https://ds04.infourok.ru/uploads/ex/015e/000fb8cd-7f870811/640/img44.jpg"
+            },
+            {
+                "url": "https://www.stepmap.de/landkarte/Weltkarte-SW-1157562.png"
+            },
+            {
+                "url": "https://image.slidesharecdn.com/bevanmaher-greatchangeagentpm-160412111443/95/rocking-the-boat-but-staying-in-it-how-to-be-a-great-change-agent-5-638.jpg?cb=1460459786"
+            },
+            {
+                "url": "https://www.travelideology.com/wp-content/uploads/2016/02/map2.jpg"
+            },
+            {
+                "url": "https://cdn.thinglink.me/api/image/898146652001402880/640/10/scaletowidth"
+            },
+            {
+                "url": "http://www.techug.com/wordpress/wp-content/uploads/2017/10/7484141-7dad9ce1b3aeb5bb.png"
+            },
+            {
+                "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2015/02/country-map-706x369.png"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-d34f166f2899a7d3f9a761e70a974be7"
+            },
+            {
+                "url": "https://m2.ikea.com/PIAimages/0633632_PE695986_S5.JPG?f=xs"
+            },
+            {
+                "url": "https://media.istockphoto.com/photos/map-of-the-world-in-red-on-white-background-3d-illustration-picture-id690518328?k=6&m=690518328&s=612x612&w=0&h=qiTbYLS4pEoeyHyEn7nbLXOK1ZaYfHhJUCUU7vjS8s0="
+            },
+            {
+                "url": "http://img.europapress.es/fotoweb/fotonoticia_20170216191321_644.jpg"
+            },
+            {
+                "url": "https://media.istockphoto.com/vectors/vector-detailed-mercatore-world-map-vector-id893395144?s=612x612"
+            },
+            {
+                "url": "https://vignette.wikia.nocookie.net/althistory/images/2/2d/World_Map_2.png/revision/latest/scale-to-width-down/601?cb=20110514174934"
+            },
+            {
+                "url": "http://img2.3png.com/b6663a596ebd1fa4b6d140ee9e8e6e7d6706.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/EU28_as_a_single_entity_in_the_world.svg/640px-EU28_as_a_single_entity_in_the_world.svg.png"
+            },
+            {
+                "url": "https://assets.thebodyshop.com/medias/Map-countries-v2.png?context=content-images/h2c/h25/28245007663134/Map-countries-v2.png"
+            },
+            {
+                "url": "http://www.blueshape.net/components/com_blueshape/images/cartina/mondo.png"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/--UjoJiFn1sk/WFGqut1_7RI/AAAAAAAAc2g/dgCIfY6FBLI_o3uBYSu-wq3KQMXwNPwtwCLcB/s1600/R%25C3%25BAssia%2B-%2BMapa.jpg"
+            },
+            {
+                "url": "http://mblogthumb4.phinf.naver.net/20120318_239/yoondaengs_1332077659995SUYTA_JPEG/socail_bak_2.JPG?type=w2"
+            },
+            {
+                "url": "https://www.naturgy.com/Publicacion/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1478094921050&ssbinary=true"
+            },
+            {
+                "url": "http://blog.xuite.net/rose_hohoba/blog/523780737/cover600.jpg?d=600.png"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/mjIkGVB0pZA/hqdefault.jpg"
+            },
+            {
+                "url": "https://www.city.sabae.fukui.jp/technology/_shared/images/companies/charmant.com.png"
+            },
+            {
+                "url": "http://bdstrading.com/wp-content/uploads/2015/02/global-trade.png"
+            },
+            {
+                "url": "https://t3.ftcdn.net/jpg/02/07/48/70/500_F_207487095_Tkx4O2juSRGZAcbMlfZPttSPQnLh7cLQ.jpg"
+            },
+            {
+                "url": "https://st3.depositphotos.com/7921108/18217/v/450/depositphotos_182174194-stock-illustration-isolated-world-map-vector.jpg"
+            },
+            {
+                "url": "https://despiertacordoba.files.wordpress.com/2015/08/mercator1.jpg?w=604"
+            },
+            {
+                "url": "https://crossroad.com/img/items/30/27/43/370x370.jpg"
+            },
+            {
+                "url": "https://st3.depositphotos.com/5473534/14999/v/450/depositphotos_149995406-stockillustratie-politieke-wereld-kaart-gesoleerd-op.jpg"
+            },
+            {
+                "url": "https://st3.depositphotos.com/5473534/14999/v/450/depositphotos_149995406-stock-illustration-political-world-map-isolated-on.jpg"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/klerik78/klerik781704/klerik78170400299/76097881-gepunktete-weltkarte-der-quadratische-punkte-auf-wei%C3%9Fem-hintergrund-vektor-illustration-.jpg?ver=6"
+            },
+            {
+                "url": "http://www.vyletnik.info/wp-content/uploads/2018/08/world-map-png-transparent-world-map-6-continents-vector-on-image-vectorielle-de-stock-de-479-x-280-pixels.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-illustration/world-map-all-continents-nations-260nw-344337032.jpg"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/nete/nete1003/nete100300016/6559905-global-map-isolated-on-a-white-vector-illustration.jpg?ver=6"
+            },
+            {
+                "url": "https://static3.depositphotos.com/1006438/241/v/450/depositphotos_2419331-stockillustratie-kaart-van-de-wereld.jpg"
+            },
+            {
+                "url": "https://static3.depositphotos.com/1006438/241/v/450/depositphotos_2419331-stock-illustration-world-map.jpg"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/nete/nete1002/nete100200037/6450022-global-map-isolated-on-a-white-illustration.jpg?ver=6"
+            },
+            {
+                "url": "https://i0.wp.com/www.officespacekenya.com/wp-content/uploads/2015/06/GlobalMap.gif?resize=500%2C262"
+            },
+            {
+                "url": "https://dms.licdn.com/video-thumbs/C5605AQEoZZ79q8VBog/902bf784d5894e88b1428c87b94d0926/feedshare-videocover_low-captions-thumbnails/480x270-00001.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-illustration/world-map-all-continents-nations-450w-344337032.jpg"
+            },
+            {
+                "url": "https://st4.depositphotos.com/4603773/19820/v/450/depositphotos_198203400-stock-illustration-world-map-mercator-projection-boundary.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-vector/world-map-isolated-on-white-260nw-683953126.jpg"
+            },
+            {
+                "url": "https://image.shutterstock.com/image-vector/continents-blue-map-vector-260nw-594047375.jpg"
+            },
+            {
+                "url": "http://www.xportsales.com/wp-content/themes/responsive.1.5.0/responsive/images/featured-image.png"
+            },
+            {
+                "url": "https://mineralesdelmundo.com/wp-content/uploads/2018/07/ojodetigre-mapa-yacimientos.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://taiwanziyouxingqianzheng.info/world-flat-map/8601-for-world-flat-map/",
+                "pageTitle": "8601 For World <b>Flat Map</b> - World Maps Collection",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://taiwanziyouxingqianzheng.info/wp-content/uploads/2018/09/file-world-map-flat-mercator-png-wikimedia-commons-best-of-within-world-flat-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://theendivechronicles.com/world-flat-map.html",
+                "pageTitle": "World <b>Flat Map</b>. flat world map image and travel information ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://taiwanziyouxingqianzheng.info/world-flat-map/",
+                "pageTitle": "World <b>Flat Map</b> - World Maps Collection",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://taiwanziyouxingqianzheng.info/wp-content/uploads/2018/09/file-world-map-flat-mercator-png-wikimedia-commons-best-of-within-world-flat-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://taiwanziyouxingqianzheng.info/world-flat-map/world-flat-map-soloway-me-new-within-world-flat-map/",
+                "pageTitle": "World <b>Flat Map</b> Soloway Me New Within World <b>Flat Map</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://taiwanziyouxingqianzheng.info/wp-content/uploads/2018/09/file-world-map-flat-mercator-png-wikimedia-commons-best-of-within-world-flat-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://taiwanziyouxingqianzheng.info/world-flat-map/texutre-world-map-flat-polar-green-blue-within-world-flat-map/",
+                "pageTitle": "Texutre World Map Flat Polar Green Blue Within World <b>Flat Map</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://taiwanziyouxingqianzheng.info/wp-content/uploads/2018/09/file-world-map-flat-mercator-png-wikimedia-commons-best-of-within-world-flat-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://lakodosajta.info/flat-map-of-the-world.html/flat-map-of-the-world-maps-collection-and-2",
+                "pageTitle": "<b>Flat Map</b> Of The World Maps Collection And - lakodosajta.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://lakodosajta.info/wp-content/uploads/flat-map-of-the-world-awesomebryner-com-within-5bbfe907391bf.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://lakodosajta.info/flat-map-of-the-world.html/world-map-flat-wapsi-info-best-of-the",
+                "pageTitle": "World <b>Map Flat</b> Wapsi Info Best Of The - lakodosajta.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://lakodosajta.info/wp-content/uploads/flat-map-of-the-world-awesomebryner-com-within-5bbfe907391bf.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/world-flat-map/",
+                "pageTitle": "World <b>Flat Map</b> - cloudbreakevents.co.uk",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cloudbreakevents.co.uk/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-best-of-like.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/flat-map-of-the-world/",
+                "pageTitle": "<b>Flat Map</b> Of The World - cloudbreakevents.co.uk",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cloudbreakevents.co.uk/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-in-of-the.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/world-flat-map/maxresdefault-or-world-flat-map/",
+                "pageTitle": "Maxresdefault Or World <b>Flat Map</b> - cloudbreakevents.co.uk",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cloudbreakevents.co.uk/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-best-of-like.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://lakodosajta.info/world-flat-map.html/flat-map-of-the-world-awesomebryner-com-within",
+                "pageTitle": "<b>Flat Map</b> Of The World Awesomebryner Com Within - lakodosajta.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lakodosajta.info/wp-content/uploads/flat-map-of-the-world-awesomebryner-com-within.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/search/similar/1017144973",
+                "pageTitle": "Similar Images, Stock Photos &amp; Vectors of Political World <b>Map</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-illustration/world-map-all-continents-nations-260nw-344337032.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://lakodosajta.info/world-flat-map.html/flat-map-of-the-world-earth-addict-02-youtube-in-world-flat-map",
+                "pageTitle": "<b>FLAT MAP</b> OF THE WORLD EARTH ADDICT 02 YouTube In World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://lakodosajta.info/wp-content/uploads/flat-map-of-the-world-awesomebryner-com-within.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://cloudbreakevents.co.uk/world-flat-map/random-world-flat-map/",
+                "pageTitle": "Random World <b>Flat Map</b> - cloudbreakevents.co.uk",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cloudbreakevents.co.uk/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-best-of-like.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://oil-rig-explosions.com/flat-map-of-world.html/flat-map-of-world-stylish-decoration-world-map-in-robinson-projection",
+                "pageTitle": "<b>Flat Map</b> Of World Stylish Decoration World Map In Robinson ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://oil-rig-explosions.com/wp-content/uploads/2018/09/flat-map-of-world-stylish-decoration-flat-map-of-world-awesomebrynercom.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/image-vector/world-map-vector-illustration-195086213",
+                "pageTitle": "World <b>Map</b> Vector Illustration Stock Vector (Royalty Free ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-vector/world-map-isolated-on-white-260nw-683953126.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oil-rig-explosions.com/flat-map-of-the-world.html/flat-map-of-the-world-remarkable-ideas-flat-map-of-world-awesomebrynercom",
+                "pageTitle": "<b>Flat Map</b> Of The World Remarkable Ideas <b>Flat Map</b> Of World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://oil-rig-explosions.com/wp-content/uploads/2018/09/flat-map-of-the-world-remarkable-ideas-flat-map-of-world-awesomebrynercom.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/image-vector/world-map-isolated-on-white-background-683953126",
+                "pageTitle": "World <b>Map</b> Isolated On White Background Stock Vector (Royalty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-vector/world-map-isolated-on-white-260nw-683953126.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://awesomebryner.com/flat-map-of-the-world/",
+                "pageTitle": "<b>Flat Map</b> Of The World - awesomebryner.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://awesomebryner.com/flat-map-of-world/",
+                "pageTitle": "<b>Flat Map</b> Of World - awesomebryner.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dreamstime.com/illustration/world-map-mercator-projection.html",
+                "pageTitle": "World <b>Map</b> Mercator Projection Stock Illustrations \u2013 147 World <b>Map</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thumbs.dreamstime.com/t/world-map-mercator-projection-boundary-line-world-map-mercator-projection-boundary-line-color-118042283.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://awesomebryner.com/flat-map-of-world/800px-blankmap-flatworld6-svg-flat-map-of-world/",
+                "pageTitle": "800px BlankMap FlatWorld6 Svg <b>Flat Map</b> Of World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.123rf.com/clipart-vector/south_africa_infographics.html",
+                "pageTitle": "2,031 South Africa Infographics Stock Vector Illustration And Royalty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://us.123rf.com/450wm/klerik78/klerik781704/klerik78170400299/76097881-stock-vector-dotted-world-map-of-square-dots-on-white-background-vector-illustration-.jpg?ver=6"
+                    }
+                ]
+            },
+            {
+                "url": "http://awesomebryner.com/flat-map-of-the-world/robinson-projection-sw-flat-map-of-the-world/",
+                "pageTitle": "Robinson Projection Sw <b>Flat Map</b> Of The World - awesomebryner.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of-the.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.shutterstock.com/image-vector/template-world-map-planet-earth-silhouettes-675813268",
+                "pageTitle": "Template World <b>Map</b> Planet Earth Silhouettes Stock Vector (Royalty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://image.shutterstock.com/image-vector/world-map-isolated-on-white-260nw-683953126.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dreamstime.com/illustration/mercator-projection.html",
+                "pageTitle": "Mercator Projection Stock Illustrations \u2013 505 Mercator Projection ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thumbs.dreamstime.com/t/world-map-mercator-projection-boundary-line-world-map-mercator-projection-boundary-line-color-118042283.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://depositphotos.com/vector-images/global-map.html",
+                "pageTitle": "Global <b>map</b> Stock Vectors, Royalty Free Global <b>map</b> Illustrations ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.depositphotos.com/1006438/241/v/450/depositphotos_2419331-stock-illustration-world-map.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.istockphoto.com/vector/high-detailed-japan-road-map-with-labeling-gm686569002-126366845",
+                "pageTitle": "High Detailed Japan Road <b>Map</b> With Labeling Stock Vector Art ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.istockphoto.com/vectors/black-world-map-and-navigation-icons-isolated-on-white-vector-id842031666?s=170x170"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.istockphoto.com/photos/world-map-outline",
+                "pageTitle": "Royalty Free World <b>Map</b> Outline Pictures, Images and Stock Photos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.istockphoto.com/photos/map-of-the-world-in-red-on-white-background-3d-illustration-picture-id690518328?k=6&m=690518328&s=612x612&w=0&h=qiTbYLS4pEoeyHyEn7nbLXOK1ZaYfHhJUCUU7vjS8s0="
+                    }
+                ]
+            },
+            {
+                "url": "https://www.istockphoto.com/vector/minimalistic-new-york-city-map-poster-design-gm913260608-251396163",
+                "pageTitle": "Minimalistic New York City <b>Map</b> Poster Design Stock Vector Art ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.istockphoto.com/vectors/black-world-map-and-navigation-icons-isolated-on-white-vector-id842031666?s=170x170"
+                    }
+                ]
+            },
+            {
+                "url": "http://oil-rig-explosions.com/flat-map-of-world.html",
+                "pageTitle": "<b>Flat Map</b> Of World - World Maps",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://oil-rig-explosions.com/wp-content/uploads/2018/09/flat-map-of-world-stylish-decoration-flat-map-of-world-awesomebrynercom.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oil-rig-explosions.com/world-map-flat.html/world-map",
+                "pageTitle": "World Map Flat Stylish Decoration <b>Flat Map</b> Of The World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://oil-rig-explosions.com/wp-content/uploads/2018/09/world-map-flat-contemporary-design-flat-map-of-world-awesomebrynercom.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.123rf.com/clipart-vector/australia_infographics.html",
+                "pageTitle": "2,418 Australia Infographics Stock Illustrations, Cliparts And Royalty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://us.123rf.com/450wm/klerik78/klerik781704/klerik78170400299/76097881-stock-vector-dotted-world-map-of-square-dots-on-white-background-vector-illustration-.jpg?ver=6"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hooperswar.com/world-flat-map.html",
+                "pageTitle": "World <b>Flat Map</b> - www.hooperswar.com - Exaple Resume And Cover ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://awesomebryner.com/wp-content/uploads/file-world-map-flat-mercator-png-wikimedia-commons-and-of.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.123rf.com/clipart-vector/green_world_map.html",
+                "pageTitle": "27,890 Green World <b>Map</b> Stock Illustrations, Cliparts And Royalty ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://us.123rf.com/450wm/nete/nete1002/nete100200037/6450022-global-map-isolated-on-a-white-illustration.jpg?ver=6"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/letour/status/486242027512680451?lang=en",
+                "pageTitle": "Tour de France on Twitter: &quot;Here&#39;s the 1st Heat <b>Map</b> of @letour ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Br96OWVCcAAtEL4.png:large"
+                    }
+                ]
+            },
+            {
+                "url": "https://pixers.uk/wall-murals/green-and-white-flat-world-map-illustration-vector-56134559",
+                "pageTitle": "Green and white <b>flat</b> world <b>map</b> illustration, vector Wall Mural ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.pixers.pics/img-1fb6f67c/aluminium-prints-dibond-green-and-white-flat-world-map-illustration-vector.jpg?H4sIAAAAAAAAA3WOS27DMAxEryMDskl9KNk-QLY5guHIcqrGH0Fy26Cnj4ygy4ILcgYYvoGvLY-zB-e3wydYwzQtHuawFJX75HP49Qy5srLqi7swRKz6_dsnl_bIatK8Flpxg4aTsFX_M5bkOqYH-ziOmHuArJoYnuVdWS6DWzNIFC1gC3Sz8mbQofHtNMTFP3KoFT4lNnG7czyn-muhEbk-6UcKKyt19sI52Ge8V_AP631DScHlCmRAKNAE1J3WcLmSEUoTdcOkCdF0SgpEMu3YoR2VcFb6jvRsVVMoL1B_6C0rAQAA"
+                    }
+                ]
+            },
+            {
+                "url": "https://pixers.uk/posters/green-and-white-flat-world-map-illustration-vector-56134559",
+                "pageTitle": "Green and white <b>flat</b> world <b>map</b> illustration, vector Poster \u2022 Pixers ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.pixers.pics/img-1fb6f67c/aluminium-prints-dibond-green-and-white-flat-world-map-illustration-vector.jpg?H4sIAAAAAAAAA3WOS27DMAxEryMDskl9KNk-QLY5guHIcqrGH0Fy26Cnj4ygy4ILcgYYvoGvLY-zB-e3wydYwzQtHuawFJX75HP49Qy5srLqi7swRKz6_dsnl_bIatK8Flpxg4aTsFX_M5bkOqYH-ziOmHuArJoYnuVdWS6DWzNIFC1gC3Sz8mbQofHtNMTFP3KoFT4lNnG7czyn-muhEbk-6UcKKyt19sI52Ge8V_AP631DScHlCmRAKNAE1J3WcLmSEUoTdcOkCdF0SgpEMu3YoR2VcFb6jvRsVVMoL1B_6C0rAQAA"
+                    }
+                ]
+            },
+            {
+                "url": "https://clipart.me/regional/europe-country-outline-map-vectors-free-28699",
+                "pageTitle": "Free Europe Country Outline <b>Map</b> Vectors (Free) Clipart and Vector ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/vectors/world-map-countries-gray-vector-vector-id487720770?b=1&k=6&m=487720770&s=170x170&h=_rWsXmFwsNJBJlP6s4YtJBY-x0OIMb8BYfI2hR4nY4I="
+                    }
+                ]
+            },
+            {
+                "url": "https://www.istockphoto.com/vector/australia-and-new-zealand-map-gm862649376-143099817",
+                "pageTitle": "Australia And New Zealand <b>Map</b> Stock Vector Art &amp; More Images of ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.istockphoto.com/vectors/black-world-map-and-navigation-icons-isolated-on-white-vector-id842031666?s=170x170"
+                    }
+                ]
+            },
+            {
+                "url": "http://classicwoodworks.us/flat-world-map/",
+                "pageTitle": "<b>Flat</b> World <b>Map</b> | Free Printable <b>Maps</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://classicwoodworks.us/wp-content/uploads/2018/06/flat-world-map-flat-world-map-stock-vector-realvector-169560808-1024-x-715-with-pixels.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pixers.uk/posters/green-and-white-flat-world-map-illustration-vector-FO56134559",
+                "pageTitle": "Green and white <b>flat</b> world <b>map</b> illustration, vector Poster \u2022 Pixers ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://t1.pixers.pics/img-1fb6f67c/aluminium-prints-dibond-green-and-white-flat-world-map-illustration-vector.jpg?H4sIAAAAAAAAA3WOS27DMAxEryMDskl9KNk-QLY5guHIcqrGH0Fy26Cnj4ygy4ILcgYYvoGvLY-zB-e3wydYwzQtHuawFJX75HP49Qy5srLqi7swRKz6_dsnl_bIatK8Flpxg4aTsFX_M5bkOqYH-ziOmHuArJoYnuVdWS6DWzNIFC1gC3Sz8mbQofHtNMTFP3KoFT4lNnG7czyn-muhEbk-6UcKKyt19sI52Ge8V_AP631DScHlCmRAKNAE1J3WcLmSEUoTdcOkCdF0SgpEMu3YoR2VcFb6jvRsVVMoL1B_6C0rAQAA"
+                    }
+                ]
+            },
+            {
+                "url": "https://depositphotos.com/vector-images/global.html",
+                "pageTitle": "Global Stock Vectors, Royalty Free Global Illustrations ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.depositphotos.com/1006438/241/v/450/depositphotos_2419331-stock-illustration-world-map.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://iconswebsite.com/index.php?str=2&search=atlantic%20ocean&sort=5&flow=2&stock=depositphotos",
+                "pageTitle": "iconswebsite.com icons website Search over +28444869 icons ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st4.depositphotos.com/4603773/19820/v/950/depositphotos_198203400-stock-illustration-world-map-mercator-projection-boundary.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Czech_Republic%E2%80%93Russia_relations",
+                "pageTitle": "Czech Republic\u2013Russia relations - Wikipedia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/220px-Location_NATO_Russia.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://classicwoodworks.us/flat-world-map/flat-world-map-flat-world-map-stock-vector-realvector-169560808-1024-x-715-with-pixels/",
+                "pageTitle": "<b>Flat</b> World <b>Map flat</b> world <b>map</b> stock vector realvector 169560808 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://classicwoodworks.us/wp-content/uploads/2018/06/flat-world-map-flat-world-map-stock-vector-realvector-169560808-1024-x-715-with-pixels.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dreamstime.com/royalty-free-stock-photos-world-map-mercator-projection-image7741048",
+                "pageTitle": "World <b>Map</b> - Mercator Projection Stock Vector - Illustration of latitude ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thumbs.dreamstime.com/t/world-map-mercator-projection-boundary-line-world-map-mercator-projection-boundary-line-color-118042283.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.freeimages.com/premium/detailed-vector-map-of-china-320249",
+                "pageTitle": "Detailed Vector <b>Map</b> of China Stock Vector - FreeImages.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/vectors/world-map-countries-gray-vector-vector-id487720770?b=1&k=6&m=487720770&s=170x170&h=_rWsXmFwsNJBJlP6s4YtJBY-x0OIMb8BYfI2hR4nY4I="
+                    }
+                ]
+            },
+            {
+                "url": "https://international.gc.ca/gac-amc/publications/odaaa-lrmado/country-pays.aspx?lang=eng",
+                "pageTitle": "Results around the world - Global Affairs Canada",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://international.gc.ca/gac-amc/assets/images/publications/odaaa-lrmado/odaaa-1718-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dreamstime.com/world-map-mercator-projection-blank-map-boundary-line-world-map-mercator-projection-blank-map-boundary-line-black-image118042277",
+                "pageTitle": "World <b>Map</b>, Mercator Projection Blank <b>Map</b> With Boundary Line ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thumbs.dreamstime.com/t/world-map-mercator-projection-boundary-line-world-map-mercator-projection-boundary-line-color-118042283.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/israel-asia-map-3f.html",
+                "pageTitle": "Israel Asia <b>Map</b> | www.topsimages.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://mrket.me/wp-content/uploads/2018/05/israel-world-map-5b094546dca65-1024x792.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.freeimages.com/search/red-world",
+                "pageTitle": "Free red world Images, Pictures, and Royalty-Free Stock Photos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/map-of-the-world-in-red-on-white-background-3d-illustration-picture-id690518328?b=1&k=6&m=690518328&s=612x612&w=0&h=HX3X6mSii2_Q3ygsvGf9cxu56JkFSBSKs-PxLoat_zQ="
+                    }
+                ]
+            },
+            {
+                "url": "http://iconswebsite.com/index.php?str=2&search=pacific%20ocean&sort=5&stock=depositphotos",
+                "pageTitle": "iconswebsite.com icons website Search over +28444869 icons ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st4.depositphotos.com/4603773/19820/v/950/depositphotos_198203400-stock-illustration-world-map-mercator-projection-boundary.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://depositphotos.com/115054580/stock-illustration-isolated-world-map-vector-graphic.html",
+                "pageTitle": "isolated world <b>map</b>, vector graphic \u2014 Stock Vector \u00a9 yupiramos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st3.depositphotos.com/7921108/18217/v/450/depositphotos_182174194-stock-illustration-isolated-world-map-vector.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pciglobal.org/our-impact/",
+                "pageTitle": "PCI&#39;s Global Impact - Project Concern International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.pciglobal.org/wp-content/uploads/mapsvg/global-impact-map.svg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ksec.me/world-map-chile.html",
+                "pageTitle": "World <b>Map</b> Chile \u2013 ksec.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ksec.me/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-for.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://kathleenhalme.com/explore/adventure-transparent-world-map/",
+                "pageTitle": "Adventure transparent world <b>map</b> ~ Frames ~ Illustrations ~ HD ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://kathleenhalme.com/images/adventure-transparent-world-map-2.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://freedomenterprise.org/where-is-guatemala-located-on-the-world-map/guatemala-location-on-the-world-map-within-scrapsofme-me-extraordinary-where-is-located/",
+                "pageTitle": "Guatemala Location On The World <b>Map</b> Within Scrapsofme Me ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://freedomenterprise.org/wp-content/uploads/where-is-guatemala-located-on-a-world-map-sauravmoni-me-fine-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Russia%E2%80%93NATO_relations",
+                "pageTitle": "Russia\u2013NATO relations - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/1200px-Location_NATO_Russia.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Location_NATO_Russia.svg/300px-Location_NATO_Russia.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://liberalarts.tulane.edu/news-events/news",
+                "pageTitle": "SLA News Archive | School of Liberal Arts",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://news.tulane.edu/sites/news/files/100818-international-education600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.viscover-online.de/info/sales-support/",
+                "pageTitle": "Sales &amp; Support - Viscover",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.viscover-online.de/images/gallery/viscover/content-seiten/worldmap@2x.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://petproducts.me/chile-world-map.html",
+                "pageTitle": "Chile World <b>Map</b> - petproducts.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://petproducts.me/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-in.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://readby.me/tag/chile-world-map-location",
+                "pageTitle": "Chile World <b>Map</b> Location - readby.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://readby.me/files/blank-world-map-with-rainforests-best-chile-political-and.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.theatlantic.com/international/archive/2017/12/global-conflicts-to-watch-in-2018/547913/",
+                "pageTitle": "Global Conflicts to Watch in 2018 - The Atlantic",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2017/12/CFR_CPA_Preventive_Priorities_Survey_Maps_2018_edit_12152017_jpgs_01/lead_720_405.png?mod=1533691916"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.city.sabae.fukui.jp/technology/en/watch/tTYnhslWj8M/",
+                "pageTitle": "Surface treatments | SABAE TECHNOLOGY",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.city.sabae.fukui.jp/technology/_shared/images/companies/charmant.com.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://readby.me/israel-on-a-world-map.html/israel-location-map-within-on-world-maps-collection-at-a",
+                "pageTitle": "Israel Location <b>Map</b> Within On World <b>Maps</b> Collection At A - readby.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://readby.me/files/logo-quiz-world-map-refrence-israel-blank-political-inside-on-a.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.city.sabae.fukui.jp/technology/en/watch/Lsc9OkhuaDc/",
+                "pageTitle": "Joining(Laser micro welding) | SABAE TECHNOLOGY",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.city.sabae.fukui.jp/technology/_shared/images/companies/charmant.com.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.city.sabae.fukui.jp/technology/en/watch/8sfthTApvn4/",
+                "pageTitle": "The history of eyeglasses | SABAE TECHNOLOGY",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.city.sabae.fukui.jp/technology/_shared/images/companies/charmant.com.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.city.sabae.fukui.jp/technology/en/watch/ImqF7F7De1o/",
+                "pageTitle": "Swaging | SABAE TECHNOLOGY",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.city.sabae.fukui.jp/technology/_shared/images/companies/charmant.com.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://betinhell.me/chile-world-map.html/chile-world-map-roundtripticket-me-best-of-scrapsofme-and",
+                "pageTitle": "Chile World <b>Map</b> Roundtripticket Me Best Of Scrapsofme And ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://betinhell.me/media/blank-world-map-with-rainforests-best-chile-political-new-furlongs-me-in.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kisspng.com/png-royalty-free-earth-vector-map-3115083/",
+                "pageTitle": "Royalty-free Earth Vector <b>Map</b> - earth png download - 4467*2502 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://banner2.kisspng.com/20180608/tes/kisspng-royalty-free-earth-vector-map-5b1ac9da8b8248.4468899115284822665714.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://gthr.pl/en/",
+                "pageTitle": "Start - GTHR",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://gthr.pl/wp-content/themes/gthr/assets/images/header-bg.svg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vectorhq.com/vector/europe-country-outline-map-vectors-free-116711",
+                "pageTitle": "Free Europe Country Outline <b>Map</b> Vectors (Free) Vector Graphic ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/vectors/world-map-countries-gray-vector-vector-id487720770?b=1&k=6&m=487720770&s=170x170&h=_rWsXmFwsNJBJlP6s4YtJBY-x0OIMb8BYfI2hR4nY4I="
+                    }
+                ]
+            },
+            {
+                "url": "https://geostar.info/us-china-map.html",
+                "pageTitle": "<b>Maps</b> Of American And Chinese International Trade USChina ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://geostar.info/attachment/full/us-china-map/usfacebook-uschina-trade-war-us-midterm-elex-natorussia-peace-97.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://shoppersmart.info/tag/world-map-chile-valdivia",
+                "pageTitle": "World <b>Map</b> Chile Valdivia - shoppersmart.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://shoppersmart.info/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-and.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://freedomenterprise.org/where-is-guatemala-located-on-the-world-map/guatemala-location-map-11-where-is-located-on-the-world-sauravmoni-me-amazing/",
+                "pageTitle": "Guatemala Location <b>Map</b> 11 Where Is Located On The World ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://freedomenterprise.org/wp-content/uploads/where-is-guatemala-located-on-a-world-map-sauravmoni-me-fine-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://freedomenterprise.org/where-is-guatemala-located-on-the-world-map/iceland-location-on-the-world-map-for-guatemala-besttabletfor-me-at-in-where-is-located/",
+                "pageTitle": "Iceland Location On The World <b>Map</b> For Guatemala Besttabletfor Me ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://freedomenterprise.org/wp-content/uploads/where-is-guatemala-located-on-a-world-map-sauravmoni-me-fine-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://freedomenterprise.org/where-is-guatemala-located-on-the-world-map/guatemala-location-on-the-world-map-simple-where-is-located-of-13-a-incredible/",
+                "pageTitle": "Guatemala Location On The World <b>Map</b> Simple Where Is Located Of ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://freedomenterprise.org/wp-content/uploads/where-is-guatemala-located-on-a-world-map-sauravmoni-me-fine-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://wapsi.info/world-map-chile.html/nicaragua-location-on-the-world-map-with-chile-madriver-me-and",
+                "pageTitle": "Nicaragua Location On The World <b>Map</b> With Chile Madriver Me And ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://wapsi.info/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-throughout.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://petproducts.me/chile-world-map.html/chile-location-on-the-world-map-in",
+                "pageTitle": "Chile Location On The World <b>Map</b> In - petproducts.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://petproducts.me/wp-content/uploads/blank-world-map-with-rainforests-best-chile-political-in.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://anyhomedecor.net/gallery/cool-map-of-the-world-poster-ikea-9-1772x1772/",
+                "pageTitle": "Cool <b>Map</b> Of The World Poster Ikea 9 1772x1772 on Home Ideas ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://anyhomedecor.net/wp-content/uploads/2018/08/incridible-map-of-the-world-poster-ikea-6-2000x2000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://geostar.info/major-us-city-rail-system-maps.html",
+                "pageTitle": "Major Us City Rail System <b>Maps</b> Cdoovisioncom. Rail. US High ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://geostar.info/attachment/full/major-us-city-rail-system-maps/major-us-city-rail-system-maps-tumblr-m0hgisq0dn1r54c4oo1-1280-new-57.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://anyhomedecor.net/gallery/unbelievable-map-of-the-world-poster-ikea-7-1024x768/",
+                "pageTitle": "Unbelievable <b>Map</b> Of The World Poster Ikea 7 1024x768 on Home ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://anyhomedecor.net/wp-content/uploads/2018/08/incridible-map-of-the-world-poster-ikea-6-2000x2000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://anyhomedecor.net/gallery/top-map-of-the-world-poster-ikea-16-4032x3024/",
+                "pageTitle": "Top <b>Map</b> Of The World Poster Ikea 16 4032x3024 on Home Ideas ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://anyhomedecor.net/wp-content/uploads/2018/08/incridible-map-of-the-world-poster-ikea-6-2000x2000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://anyhomedecor.net/gallery/modern-map-of-the-world-poster-ikea-11-1280x720/",
+                "pageTitle": "Modern <b>Map</b> Of The World Poster Ikea 11 1280x720 on Home Ideas ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://anyhomedecor.net/wp-content/uploads/2018/08/incridible-map-of-the-world-poster-ikea-6-2000x2000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://readby.me/israel-on-a-world-map.html/file-israel-in-the-world-w3-svg-wikimedia-commons-with-on-a-map-throughout",
+                "pageTitle": "File Israel In The World W3 Svg Wikimedia Commons With On A ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://readby.me/files/logo-quiz-world-map-refrence-israel-blank-political-inside-on-a.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.worldanimalprotection.org/press-centre/press-releases?page=4",
+                "pageTitle": "Press releases | World Animal Protection International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://d31j74p4lpxrfp.cloudfront.net/sites/default/files/styles/mobile_landscape_driver_block/public/int_files/globe-map-converted.png?itok=0WtQIYO8"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.worldanimalprotection.org/press-centre/press-releases?page=10",
+                "pageTitle": "Press releases | World Animal Protection International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://d31j74p4lpxrfp.cloudfront.net/sites/default/files/styles/mobile_landscape_driver_block/public/int_files/globe-map-converted.png?itok=0WtQIYO8"
+                    }
+                ]
+            },
+            {
+                "url": "http://international.gc.ca/gac-amc/publications/odaaa-lrmado/report-rapport-17-18.aspx?lang=eng",
+                "pageTitle": "Report to Parliament on the Government of Canada&#39;s Official ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://international.gc.ca/gac-amc/assets/images/publications/odaaa-lrmado/odaaa-1718-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thebodyshop.com/en-gb/about-us/delivery-and-returns-information",
+                "pageTitle": "The Body Shop Delivery &amp; Returns | The Body Shop\u00ae",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.thebodyshop.com/medias/Map-countries-v2.png?context=content-images/h2c/h25/28245007663134/Map-countries-v2.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.worldanimalprotection.org/press-centre/press-releases?page=1",
+                "pageTitle": "Press releases | World Animal Protection International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://d31j74p4lpxrfp.cloudfront.net/sites/default/files/styles/mobile_landscape_driver_block/public/int_files/globe-map-converted.png?itok=0WtQIYO8"
+                    }
+                ]
+            },
+            {
+                "url": "https://e-politik.de/?p=256935",
+                "pageTitle": "NATO, the Black Sea and the Baltic Sea: a disequilibrium? \u2013 e ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://e-politik.de/wp-content/uploads/2016/10/Location_NATO_Russia.svg_.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://international.gc.ca/gac-amc/publications/odaaa-lrmado/toc_report-tdm_rapport-17-18.aspx?lang=eng",
+                "pageTitle": "Report to parliament on the Government of Canada&#39;s official ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://international.gc.ca/gac-amc/assets/images/publications/odaaa-lrmado/odaaa-1718-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.worldanimalprotection.org/press-centre/press-releases?page=2",
+                "pageTitle": "Press releases | World Animal Protection International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://d31j74p4lpxrfp.cloudfront.net/sites/default/files/styles/mobile_landscape_driver_block/public/int_files/globe-map-converted.png?itok=0WtQIYO8"
+                    }
+                ]
+            },
+            {
+                "url": "http://link-italia.org/chile-world-map.html/top-chile-world-map-13",
+                "pageTitle": "Top Chile World <b>Map</b> 13 - link-italia.org",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://link-italia.org/images/top-chile-world-map-7.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://link-italia.org/chile-world-map.html",
+                "pageTitle": "Chile World <b>Map</b> - link-italia.org",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://link-italia.org/images/top-chile-world-map-7.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.revolvy.com/page/Enlargement-of-NATO",
+                "pageTitle": "Enlargement of NATO | Revolvy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/69/38d369ccce24eb3a5f1782c4470fbe65.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.canstockphoto.com/blue-and-white-illustrated-world-map-8291729.html",
+                "pageTitle": "Blue and white illustrated world <b>map</b> with white background.",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.xl.thumbs.canstockphoto.com/silver-illustrated-world-map-with-white-background-blue-and-white-illustrated-world-map-with-white-stock-illustration_csp8255446.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://yuehu.me/israel-in-the-world-map/",
+                "pageTitle": "Israel In The World <b>Map</b> - yuehu.me",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://yuehu.me/wp-content/uploads/2018/05/israel-in-the-world-map.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/tumbr-map-bc.html",
+                "pageTitle": "Tumbr <b>Map</b> | www.topsimages.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://imagenesde.co/wp-content/uploads/2018/07/major-us-city-rail-system-maps-tumblr-m0hgisq0dn1r54c4oo1-1280-new-chile-a-map-chile-court-offside-of-major-us-city-rail-system-maps-tumblr-m0hgisq0dn1r54c4oo1-1280.png"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://askthebirds.org/wp-content/uploads/2018/09/world-map-flat-fresh-earth-flat-map-clipart-clipartxtras-kleoachfix-of-world-map-flat.jpg"
+            },
+            {
+                "url": "http://www.subdude-site.com/WebPages_Local/RefInfo/Computer/WebDev/WebGraphics_Decopics/StillImgs/NonLivingThings/Maps/mapFlat_world_553x335_transp.gif"
+            },
+            {
+                "url": "https://media.istockphoto.com/vectors/detailed-vector-world-map-with-colorful-continents-and-flat-map-vector-id538595360"
+            },
+            {
+                "url": "http://oil-rig-explosions.com/wp-content/uploads/2018/09/flat-map-of-the-world-with-countries-fresh-design-political-map-of-the-world-gray-countries-flat-design-cute-simple.jpg"
+            },
+            {
+                "url": "http://www.windmobile.ca/images/default-source/Flags/world-map.png"
+            },
+            {
+                "url": "http://www.vyletnik.info/wp-content/uploads/2018/08/flat-map-of-world-printable-flat-map-of-world-awesomebryner-500-x-246-pixels.jpg"
+            },
+            {
+                "url": "https://encykorea.com/wp-content/uploads/2018/07/Vector-World-Map-Continent-Different-Color-Flat-Design-Superb-World-Map-Flat.jpg"
+            },
+            {
+                "url": "http://gbcwoodstock.com/wp-content/uploads/2018/09/Stock-Vector-Flat-Designs-World-Map-With-Country-Name-Vector-Illustration-Trend-Flat-Map-Of-The-World-With-Countries.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "flat map",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/07bgp",
+            "name": "Sheep",
+            "score": 0.5157164,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5924046,
+                        "y": 0.51692677
+                    },
+                    {
+                        "x": 0.8619484,
+                        "y": 0.51692677
+                    },
+                    {
+                        "x": 0.8619484,
+                        "y": 0.9774262
+                    },
+                    {
+                        "x": 0.5924046,
+                        "y": 0.9774262
+                    }
+                ]
+            }
+        }
+    ]
+}

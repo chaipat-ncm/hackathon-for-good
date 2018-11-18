@@ -1,0 +1,1760 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 507,
+                        "y": 174
+                    },
+                    {
+                        "x": 582,
+                        "y": 174
+                    },
+                    {
+                        "x": 582,
+                        "y": 261
+                    },
+                    {
+                        "x": 507,
+                        "y": 261
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 512,
+                        "y": 187
+                    },
+                    {
+                        "x": 576,
+                        "y": 187
+                    },
+                    {
+                        "x": 576,
+                        "y": 251
+                    },
+                    {
+                        "x": 512,
+                        "y": 251
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 520.88513,
+                        "y": 223.36967,
+                        "z": 0.00023893734
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 536.14465,
+                        "y": 211.25337,
+                        "z": -10.915192
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 514.17834,
+                        "y": 222.93835,
+                        "z": 6.833579
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 519.7,
+                        "y": 215.85963,
+                        "z": -5.132737
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 527.17395,
+                        "y": 209.67332,
+                        "z": -10.478184
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 539.8966,
+                        "y": 201.86795,
+                        "z": -11.546141
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 525.6059,
+                        "y": 216.7385,
+                        "z": -9.295358
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 528.25714,
+                        "y": 227.96326,
+                        "z": -18.202677
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 535.6869,
+                        "y": 234.64539,
+                        "z": -15.853081
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 540.4236,
+                        "y": 240.84824,
+                        "z": -16.422865
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 534.5198,
+                        "y": 241.89206,
+                        "z": -7.2491093
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 546.4593,
+                        "y": 233.27155,
+                        "z": -16.060335
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 538.33563,
+                        "y": 237.25226,
+                        "z": -15.315614
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 537.72076,
+                        "y": 225.49559,
+                        "z": -14.251966
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 529.91846,
+                        "y": 232.31923,
+                        "z": -8.309849
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 532.90405,
+                        "y": 230.37537,
+                        "z": -14.68209
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 519.2689,
+                        "y": 222.15222,
+                        "z": -0.84680146
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 524.09045,
+                        "y": 220.9415,
+                        "z": -2.146539
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 521.54614,
+                        "y": 224.62057,
+                        "z": -0.52030873
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 518.9952,
+                        "y": 225.75478,
+                        "z": 3.9492273
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 520.3343,
+                        "y": 223.55981,
+                        "z": -0.23626214
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 534.6767,
+                        "y": 209.53041,
+                        "z": -11.86686
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 540.5185,
+                        "y": 208.13197,
+                        "z": -11.437217
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 537.14557,
+                        "y": 212.29202,
+                        "z": -11.571312
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 533.46954,
+                        "y": 212.96605,
+                        "z": -8.766766
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 536.1417,
+                        "y": 210.62196,
+                        "z": -11.564856
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 514.6854,
+                        "y": 217.257,
+                        "z": 0.36277795
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 531.40155,
+                        "y": 203.56189,
+                        "z": -11.595732
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 531.8704,
+                        "y": 238.66026,
+                        "z": 27.72393
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 566.87415,
+                        "y": 209.97064,
+                        "z": 2.7232761
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 522.836,
+                        "y": 212.62268,
+                        "z": -8.442022
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 547.7449,
+                        "y": 249.26266,
+                        "z": -16.195692
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 535.80676,
+                        "y": 250.0513,
+                        "z": 15.057995
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 567.43225,
+                        "y": 224.1222,
+                        "z": -7.55845
+                    }
+                }
+            ],
+            "rollAngle": -31.001575,
+            "panAngle": -30.021507,
+            "tiltAngle": 14.718737,
+            "detectionConfidence": 0.67496836,
+            "landmarkingConfidence": 0.35399294,
+            "joyLikelihood": "UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 625,
+                        "y": 206
+                    },
+                    {
+                        "x": 740,
+                        "y": 206
+                    },
+                    {
+                        "x": 740,
+                        "y": 339
+                    },
+                    {
+                        "x": 625,
+                        "y": 339
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 627,
+                        "y": 247
+                    },
+                    {
+                        "x": 710,
+                        "y": 247
+                    },
+                    {
+                        "x": 710,
+                        "y": 329
+                    },
+                    {
+                        "x": 627,
+                        "y": 329
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 645.8838,
+                        "y": 271.63092,
+                        "z": 2.1539952e-6
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 655.1447,
+                        "y": 275.4955,
+                        "z": -33.278202
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 644.46045,
+                        "y": 261.61087,
+                        "z": 10.655171
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 640.4336,
+                        "y": 265.74997,
+                        "z": -11.529322
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 644.9401,
+                        "y": 267.62375,
+                        "z": -27.720371
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 659.9767,
+                        "y": 268.01474,
+                        "z": -45.033
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 643.44824,
+                        "y": 274.0006,
+                        "z": -18.574543
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 637.0154,
+                        "y": 295.52438,
+                        "z": -17.896667
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 646.8547,
+                        "y": 306.1644,
+                        "z": -13.939645
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 651.02515,
+                        "y": 316.98328,
+                        "z": -11.483564
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 652.91223,
+                        "y": 307.70782,
+                        "z": 2.2127886
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 660.0898,
+                        "y": 310.88995,
+                        "z": -23.90064
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 650.26025,
+                        "y": 311.09656,
+                        "z": -12.422024
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 652.35144,
+                        "y": 296.11362,
+                        "z": -23.287132
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 647.6019,
+                        "y": 294.23636,
+                        "z": -5.1506205
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 645.99567,
+                        "y": 298.92014,
+                        "z": -15.104878
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 643.2595,
+                        "y": 269.68906,
+                        "z": -0.93080807
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 647.90015,
+                        "y": 272.5729,
+                        "z": -6.598775
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 645.9806,
+                        "y": 273.91013,
+                        "z": 0.29218513
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 647.0852,
+                        "y": 270.26248,
+                        "z": 7.419824
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 644.92676,
+                        "y": 271.6449,
+                        "z": 0.33337384
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 652.54834,
+                        "y": 273.5292,
+                        "z": -34.28152
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 660.0617,
+                        "y": 275.63107,
+                        "z": -39.165836
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 655.24646,
+                        "y": 277.78915,
+                        "z": -33.013752
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 653.46857,
+                        "y": 274.8726,
+                        "z": -26.572157
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 654.4203,
+                        "y": 275.6032,
+                        "z": -33.899895
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 639.5373,
+                        "y": 259.98187,
+                        "z": -1.5417974
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 649.61395,
+                        "y": 264.14804,
+                        "z": -37.718643
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 683.6222,
+                        "y": 277.1787,
+                        "z": 34.297466
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 704.7039,
+                        "y": 285.83176,
+                        "z": -41.4648
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 641.3837,
+                        "y": 266.51865,
+                        "z": -20.004831
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 658.4146,
+                        "y": 332.17047,
+                        "z": -7.7300944
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 674.8618,
+                        "y": 302.19177,
+                        "z": 30.781342
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 693.9465,
+                        "y": 310.01483,
+                        "z": -37.751686
+                    }
+                }
+            ],
+            "rollAngle": -9.555526,
+            "panAngle": -75.83613,
+            "tiltAngle": -9.063566,
+            "detectionConfidence": 0.5566674,
+            "landmarkingConfidence": 0.11968276,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "POSSIBLE"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9886566,
+            "topicality": 0.9886566
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9680512,
+            "topicality": 0.9680512
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.96352637,
+            "topicality": 0.96352637
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.91728866,
+            "topicality": 0.91728866
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.8581113,
+            "topicality": 0.8581113
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.8496709,
+            "topicality": 0.8496709
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.81155896,
+            "topicality": 0.81155896
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.779217,
+            "topicality": 0.779217
+        },
+        {
+            "mid": "/m/03w1r4",
+            "description": "military uniform",
+            "score": 0.7290395,
+            "topicality": 0.7290395
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.67952716,
+            "topicality": 0.67952716
+        },
+        {
+            "mid": "/m/09l63h",
+            "description": "military camouflage",
+            "score": 0.63301206,
+            "topicality": 0.63301206
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.55028737,
+            "topicality": 0.55028737
+        },
+        {
+            "mid": "/m/0167s5",
+            "description": "non commissioned officer",
+            "score": 0.54710174,
+            "topicality": 0.54710174
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.53920716,
+            "topicality": 0.53920716
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.53362006,
+            "topicality": 0.53362006
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 180,
+                        "green": 158,
+                        "blue": 126
+                    },
+                    "score": 0.2597929,
+                    "pixelFraction": 0.31908193
+                },
+                {
+                    "color": {
+                        "red": 212,
+                        "green": 187,
+                        "blue": 152
+                    },
+                    "score": 0.19000871,
+                    "pixelFraction": 0.18634517
+                },
+                {
+                    "color": {
+                        "red": 132,
+                        "green": 118,
+                        "blue": 87
+                    },
+                    "score": 0.11651163,
+                    "pixelFraction": 0.08849118
+                },
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 83,
+                        "blue": 53
+                    },
+                    "score": 0.111855485,
+                    "pixelFraction": 0.07349408
+                },
+                {
+                    "color": {
+                        "red": 62,
+                        "green": 51,
+                        "blue": 25
+                    },
+                    "score": 0.07827475,
+                    "pixelFraction": 0.047559865
+                },
+                {
+                    "color": {
+                        "red": 38,
+                        "green": 28,
+                        "blue": 6
+                    },
+                    "score": 0.025673462,
+                    "pixelFraction": 0.017234236
+                },
+                {
+                    "color": {
+                        "red": 179,
+                        "green": 151,
+                        "blue": 105
+                    },
+                    "score": 0.02521109,
+                    "pixelFraction": 0.06131411
+                },
+                {
+                    "color": {
+                        "red": 141,
+                        "green": 116,
+                        "blue": 72
+                    },
+                    "score": 0.021719264,
+                    "pixelFraction": 0.024939928
+                },
+                {
+                    "color": {
+                        "red": 60,
+                        "green": 86,
+                        "blue": 53
+                    },
+                    "score": 0.021108866,
+                    "pixelFraction": 0.009694258
+                },
+                {
+                    "color": {
+                        "red": 218,
+                        "green": 189,
+                        "blue": 142
+                    },
+                    "score": 0.020124216,
+                    "pixelFraction": 0.026928494
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 999
+                        },
+                        {
+                            "x": 999,
+                            "y": 540
+                        },
+                        {
+                            "y": 540
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.5
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0jdd",
+                "score": 1.2088499,
+                "description": "Afghanistan"
+            },
+            {
+                "entityId": "/m/07ssc",
+                "score": 0.96885,
+                "description": "United Kingdom"
+            },
+            {
+                "entityId": "/m/0d_fsc",
+                "score": 0.6777,
+                "description": "War in Afghanistan"
+            },
+            {
+                "entityId": "/t/2559cfx2jwyf6",
+                "score": 0.675
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.5913
+            },
+            {
+                "entityId": "/m/082cb",
+                "score": 0.5913,
+                "description": "War"
+            },
+            {
+                "entityId": "/m/05sb1",
+                "score": 0.531,
+                "description": "Pakistan"
+            },
+            {
+                "entityId": "/m/02hwl5z",
+                "score": 0.5206,
+                "description": "Dari language"
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.4515497,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.4511,
+                "description": "News"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.4483,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.3954,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/027x630",
+                "score": 0.3804,
+                "description": "Islamic State of Iraq and the Levant"
+            },
+            {
+                "entityId": "/t/29ch49gnv32tm",
+                "score": 0.354
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.3455
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://img.over-blog-kiwi.com/0/78/07/19/20170604/ob_5bc8ec_armee-britannique3.jpg"
+            },
+            {
+                "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas.jpg"
+            },
+            {
+                "url": "https://cdn3.img.sputniknews.com/images/105008/87/1050088794.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://cdn1.img.sputniknews.com/images/105668/36/1056683642.jpg"
+            },
+            {
+                "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+            },
+            {
+                "url": "https://defesa.com.br/wp-content/uploads/2018/08/11946204-326x245.jpg"
+            },
+            {
+                "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas-150x150.jpg"
+            },
+            {
+                "url": "https://french.almanar.com.lb/framework/includes/uploads/2017/07/manar-07102560014990047516-757x354.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://special-ops.org/43665/uk-to-double-number-of-troops-deployed-in-afghanistan/",
+                "pageTitle": "UK to Double Number of Troops Deployed in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://special-ops.org/wp-content/uploads/2018/05/uk-troops-in-afghanistan-may-double-to-send-message-to-allies-reports.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sodrugestvo.info/?p=778955&lang=en",
+                "pageTitle": "Okay, Trump! UK to Almost Double Number of Troops Deployed in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://sodrugestvo.info/wp-content/uploads/2018/07/1050088794.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://special-ops.org/44242/sniper-reportedly-kills-isis-commander-from-over-a-mile-away/",
+                "pageTitle": "Sniper Reportedly Kills ISIS Commander From Over a Mile Away",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://special-ops.org/wp-content/uploads/2018/05/uk-troops-in-afghanistan-may-double-to-send-message-to-allies-reports.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://balticword.eu/tag/kill/",
+                "pageTitle": "kill Archives - The Baltic Word",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://balticword.eu/wp-content/uploads/2018/08/12-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://balticword.eu/right-on-target-sniper-reportedly-kills-daesh-commander-from-over-a-mile-away/",
+                "pageTitle": "Right on Target: Sniper Reportedly Kills Daesh Commander From ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://balticword.eu/wp-content/uploads/2018/08/12-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://special-ops.org/page/50/?wordfence_lh=1&hid=8E2804ECA51DBEE78EFE4FF8A9F47EED",
+                "pageTitle": "Spec Ops Magazine | Page 50 of 460 | Still alive, still fight",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://special-ops.org/wp-content/uploads/2018/05/uk-troops-in-afghanistan-may-double-to-send-message-to-allies-reports.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://special-ops.org/32604/london-terror-attack-known-far/",
+                "pageTitle": "London terror attack: What is known so far - Spec Ops Magazine",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://special-ops.org/wp-content/uploads/2018/05/uk-troops-in-afghanistan-may-double-to-send-message-to-allies-reports.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sodrugestvo.info/?p=811785&lang=en",
+                "pageTitle": "Right on Target: Sniper Reportedly Kills Daesh Commander From ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://sodrugestvo.info/wp-content/uploads/2018/08/1050088794.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://balticword.eu/tag/permission/",
+                "pageTitle": "permission Archives - The Baltic Word",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://balticword.eu/wp-content/uploads/2018/08/12-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://balticword.eu/tag/military-vehicle/",
+                "pageTitle": "military vehicle Archives - The Baltic Word",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://balticword.eu/wp-content/uploads/2018/08/12-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://img2018nice.pw/belgian-omlt-afghanistan.html",
+                "pageTitle": "Belgian omlt <b>afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/105008/87/1050088794.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fr.sputniknews.com/international/201707061032126966-gb-afghanistan-crimes/",
+                "pageTitle": "Crimes de <b>guerre en Afghanistan</b>: Moscou accuse Londres de ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689720.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fr.sputniknews.com/international/201707021032067719-afghanistan-uk-crimes-de-guerre/",
+                "pageTitle": "La D\u00e9fense britannique a cach\u00e9 des crimes de <b>guerre</b> contre les ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689720.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fr.sputniknews.com/defense/201706041031689813-afghanistan-uk-85-militaires/",
+                "pageTitle": "Le Royaume-Uni entend envoyer 85 militaires suppl\u00e9mentaires en ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689720.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fr.sputniknews.com/defense/201712241034470092-noel-militaires-britanniques-afghanistan/",
+                "pageTitle": "Ce No\u00ebl o\u00f9 les militaires britanniques en <b>Afghanistan</b> devront se ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689720.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://le-blog-sam-la-touch.over-blog.com/2017/06/le-royaume-uni-entend-envoyer-85-militaires-supplementaires-en-afghanistan-sputniknews.html",
+                "pageTitle": "Le Royaume-Uni entend envoyer 85 militaires suppl\u00e9mentaires en ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://img.over-blog-kiwi.com/0/78/07/19/20170604/ob_5bc8ec_armee-britannique3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://french.almanar.com.lb/473339",
+                "pageTitle": "La D\u00e9fense britannique a cach\u00e9 des crimes de <b>guerre</b> contre les ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://french.almanar.com.lb/framework/includes/uploads/2017/07/manar-07102560014990047516.jpg"
+                    },
+                    {
+                        "url": "https://french.almanar.com.lb/framework/includes/uploads/2017/07/manar-07102560014990047516-757x354.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.afrikmag.com/soldats-britanniques-afghanistan-recoivent-1-livre-celebrer-noel/",
+                "pageTitle": "<b>Afghanistan</b>: le montant ridicule re\u00e7u par chaque soldat britannique ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689720.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsupdatesaf.com/search?q=shadab",
+                "pageTitle": "Search For shadab - NEWS Update about <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://newsupdatesaf.com/upload/news/image_1530040830_78533257.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsupdatesaf.com/search?q=hakemi",
+                "pageTitle": "Search For hakemi - NEWS Update about <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://newsupdatesaf.com/upload/news/image_1530040830_78533257.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsupdatesaf.com/search?q=%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA",
+                "pageTitle": "Search For \u0627\u0633\u062a\u062e\u0628\u0627\u0631\u0627\u062a - NEWS Update about <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://newsupdatesaf.com/upload/news/image_1539003913_65307892.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://calto.info/topics/afghanistan-militaire-ironie-vice.html",
+                "pageTitle": "Images of <b>Afghanistan</b> Militaire Ironie Vice - #CALTO",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://img.over-blog-kiwi.com/0/78/07/19/20170604/ob_5bc8ec_armee-britannique3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.soynadie.net/2018/10/08/internacional/as-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A8%D8%A7/",
+                "pageTitle": "AS: \u062a\u0645\u0631\u06cc\u0646\u0627\u062a \u06af\u0633\u062a\u0631\u062f\u0647 \u0627\u0646\u06af\u0644\u06cc\u0633 \u0628\u0631\u0627\u06cc \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0627\u0633\u062a\u062e\u0628\u0627\u0631\u0627\u062a \u0631\u0648\u0633\u06cc\u0647 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/10/AS-%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%DA%AF%D8%B3%D8%AA%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radiobiguacu.com.br/noticia-10374",
+                "pageTitle": "Bigua\u00e7u FM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radiobiguacu.com.br/noticia-10162",
+                "pageTitle": "Bigua\u00e7u FM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsupdatesaf.com/news/9-weird-ways-to-sneak-food-into-class-summer-pranks?uid=140587",
+                "pageTitle": "9 Weird Ways To Sneak Food Into Class / Summer Pranks!",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://newsupdatesaf.com/upload/news/image_1530040830_78533257.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lantoukui.com/eppgnna/UK-Sends-100-Troops-to-Support-NATO-Mission-in-Afghanistan/index.html",
+                "pageTitle": "\u82f1\u56fd\u6d3e\u9063100\u540d\u58eb\u5175\u652f\u6301\u5317\u7ea6\u5728\u963f\u5bcc\u6c57\u7684\u4efb\u52a1- \u84dd\u5934\u76d4",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://htimg.lantoukui.com/hctimg/2018/1050088794.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radiocidaders.fm.br/promocao",
+                "pageTitle": "Fa\u00e7a login em seu painel. - R\u00e1dio Cidade FM - Promo\u00e7\u00f5es",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.jejaktapak.com/2018/08/14/gunakan-senapan-mesin-sniper-sas-tembak-komandan-isis-dari-jarak-16-km/",
+                "pageTitle": "Gunakan Senapan Mesin, Sniper SAS Tembak Komandan ISIS dari ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radioivoti.com.br/noticia-10729",
+                "pageTitle": "R\u00e1dio Ivoti FM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://radioeducadorafb.com.br/noticia-11058",
+                "pageTitle": "R\u00e1dio Educadora AM - Not\u00edcia",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.jejaktapak.com/2018/01/18/evolusi-senapan-sniper/",
+                "pageTitle": "Evolusi Senapan Sniper - JejakTapak",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.jejaktapak.com/2017/06/24/kecil-bagaimana-militer-kanada-melahirkan-banyak-sniper-hebat/2/",
+                "pageTitle": "Kecil, Bagaimana Militer Kanada Melahirkan Banyak Sniper Hebat ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radioivoti.com.br/noticia-11005",
+                "pageTitle": "R\u00e1dio Ivoti FM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radioivoti.com.br/noticia-11012",
+                "pageTitle": "R\u00e1dio Ivoti FM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kblnews.com/news/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7-%D8%AF%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86?uid=138022",
+                "pageTitle": "\u0627\u062d\u062a\u0645\u0627\u0644 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kblnews.com/upload/news/image_1530040838_28383628.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.radiosaojoao.com.br/noticia-11058",
+                "pageTitle": "R\u00e1dio S\u00e3o Jo\u00e3o AM - Not\u00edcias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kblnews.com/news/%D8%AE%D9%88%D8%B4%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%DA%AF%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%DB%8C%DA%A9%D9%86%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%DB%B2%DB%B0%DB%B1%DB%B8-%D8%B1%D9%88%D8%B3%DB%8C%D9%87?uid=138442",
+                "pageTitle": "\u062e\u0648\u0634\u06cc \u067e\u0633 \u0627\u0632 \u06af\u0648\u0644 \u0628\u0627\u0632\u06cc\u06a9\u0646\u0627\u0646 \u062f\u0631 \u062c\u0627\u0645 \u062c\u0647\u0627\u0646\u06cc \u06f2\u06f0\u06f1\u06f8 \u0631\u0648\u0633\u06cc\u0647",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kblnews.com/upload/news/image_1539003670_93818737.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://defesa.com.br/6894/o-que-realmente-pretendia-otan-com-manobras-na-noruega/",
+                "pageTitle": "O que realmente pretendia OTAN com manobras na Noruega ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://defesa.com.br/wp-content/uploads/2018/08/11946204-326x245.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.semprerci.com.br/noticia-11058",
+                "pageTitle": "Rede Comunicadora Iguassu RCI - Not\u00edcias - R\u00e1dio Sempre RCI",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.splug.com.br/fotos/th_1534249033.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kblnews.com/news/%D9%84%D9%88%D8%A8%DB%90-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AF-%D9%86%DA%93%DB%8C%D9%88%D8%A7%D9%84-%D8%AC%D8%A7%D9%85-%DA%A9%D9%88%D8%B1%D8%A8%D9%87-%D8%AA%D9%88%D8%A8-%DA%85%D9%88%D9%85%D8%B1%D9%87-%D8%A8%D8%AF%D9%84%D9%87-%DA%A9%DA%93%DB%90-%D8%AF%D9%87?uid=141761",
+                "pageTitle": "\u0644\u0648\u0628\u06d0: \u0631\u0648\u0633\u06cc\u0647 \u062f \u0646\u0693\u06cc\u0648\u0627\u0644 \u062c\u0627\u0645 \u06a9\u0648\u0631\u0628\u0647 \u062a\u0648\u0628 \u0685\u0648\u0645\u0631\u0647 \u0628\u062f\u0644\u0647 \u06a9\u0693\u06d0 \u062f\u0647\u061f",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kblnews.com/upload/news/image_1539003670_93818737.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kblnews.com/news/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87?uid=161119",
+                "pageTitle": "\u062a\u0645\u0631\u06cc\u0646\u0627\u062a \u06af\u0633\u0631\u062f\u0647 \u0627\u0646\u06af\u0644\u06cc\u0633 \u0628\u0631\u0627\u06cc \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0627\u0633\u062a\u062e\u0628\u0627\u0631\u0627\u062a \u0631\u0648\u0633\u06cc\u0647",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kblnews.com/upload/news/image_1539003670_93818737.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://defesa.com.br/category/terrorismo/",
+                "pageTitle": "Arquivos Terrorismo - Defesa",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://defesa.com.br/wp-content/uploads/2018/08/11946204-326x245.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://eomundo.com.br/2018/08/14/bem-no-alvo-atirador-de-elite-supostamente-mata-lider-do-daesh-no-afeganistao/",
+                "pageTitle": "Bem no alvo: atirador de elite supostamente mata l\u00edder do Daesh no ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://eomundo.com.br/wp-content/uploads/2018/08/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ghatreh.com/news/tag/33403-%DA%A9%D8%A7%D8%A8%D9%84/1/20",
+                "pageTitle": "\u0627\u062e\u0628\u0627\u0631 \u06a9\u0627\u0628\u0644 - \u0635\u0641\u062d\u0647 \u062f\u0648\u0645 - \u0642\u0637\u0631\u0647",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.af.sputniknews.com/images/149/06/1490665.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.jejaktapak.com/2017/09/20/buru-terduga-teroris-sas-gelar-operasi-penyamaran-di-london/",
+                "pageTitle": "Buru Terduga Teroris, SAS Gelar Operasi Penyamaran di London",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.jejaktapak.com/wp-content/uploads/2018/08/sas-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ghatreh.com/news/nn44642201/%D8%AA%D9%85%D8%B1%DB%8C%D9%86%D8%A7%D8%AA-%DA%AF%D8%B3%D8%B1%D8%AF%D9%87-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%85%D8%A8%D8%A7%D8%B1%D8%B2%D9%87-%D8%A7%D8%B3%D8%AA%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87",
+                "pageTitle": "\u062a\u0645\u0631\u06cc\u0646\u0627\u062a \u06af\u0633\u0631\u062f\u0647 \u0627\u0646\u06af\u0644\u06cc\u0633 \u0628\u0631\u0627\u06cc \u0645\u0628\u0627\u0631\u0632\u0647 \u0628\u0627 \u0627\u0633\u062a\u062e\u0628\u0627\u0631\u0627\u062a \u0631\u0648\u0633\u06cc\u0647 | \u0627\u0631\u062a\u0634 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.af.sputniknews.com/images/149/06/1490665.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ghatreh.com/news/nn43186010/%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AD%D8%B6%D9%88%D8%B1-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+                "pageTitle": "\u0627\u062d\u062a\u0645\u0627\u0644 \u0627\u0641\u0632\u0627\u06cc\u0634 \u062d\u0636\u0648\u0631 \u0646\u0638\u0627\u0645\u06cc \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 - \u0642\u0637\u0631\u0647",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn2.img.af.sputniknews.com/images/149/06/1490665.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://defesa.com.br/tag/atirador-de-elite/",
+                "pageTitle": "Arquivos atirador de elite - Defesa",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://defesa.com.br/wp-content/uploads/2018/08/11946204-326x245.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ghatreh.com/news/nn38235026/%D9%84%D9%86%D8%AF%D9%86-%D8%AA%D9%84%D8%A7%D8%B4-%D9%86%D9%81%D9%88%D8%B0-%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%AC%D8%B1%D8%A7%DB%8C%D9%85-%D8%AC%D9%86%DA%AF%DB%8C-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86",
+                "pageTitle": "\u0644\u0646\u062f\u0646 \u062f\u0631 \u062a\u0644\u0627\u0634 \u0646\u0641\u0648\u0630 \u0628\u0631\u0631\u0633\u06cc \u062c\u0631\u0627\u06cc\u0645 \u062c\u0646\u06af\u06cc \u062f\u0631 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 | \u0645\u0627\u0631\u06cc\u0627 \u0632\u0627\u062e\u0627\u0631\u0648\u0648\u0627 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://af.sputniknews.com/images/149/06/1490665.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lantoukui.com/eetgacl/Right-on-Target:-Sniper-Reportedly-Kills-Daesh-Commander-From-Over-a-Mile-Away/index.html",
+                "pageTitle": "\u7784\u51c6\u76ee\u6807\uff1a\u636e\u62a5\u9053\u72d9\u51fb\u624b\u5728\u4e00\u82f1\u91cc\u5916\u6740\u6b7b\u4e86\u4ee3\u4ec0\u6307\u6325\u5b98- \u84dd\u5934\u76d4",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://htimg.lantoukui.com/hctimg/2018/1050088794.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://diamond.bapala.org/o-que-significa-metralhadora-em-ingles/",
+                "pageTitle": "O Que Significa Metralhadora Em Ingles Diamond Paradise",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://mitsubishi.lastri.co/o-que-significa-metralhadora-em-ingles/",
+                "pageTitle": "O Que Significa Metralhadora Em Ingles Mitsubishi Car",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://blouse.bahuma.org/o-que-significa-metralhadora-em-ingles/",
+                "pageTitle": "O Que Significa Metralhadora Em Ingles The Blouse",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ww3.rongdat.info/o-que-significa-sniper-em-ingles/",
+                "pageTitle": "O Que Significa Sniper Em Ingles Database of Emoji",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://considi.festa-de-casamento.info/br/significado-de-elite-en-ingles.aspx",
+                "pageTitle": "Tag; Significado De Elite En Ingles - festa de casamento",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://considi.festa-de-casamento.info/br/como-se-diz-alvo-atingido-em-ingl%C3%AAs.aspx",
+                "pageTitle": "Tag; Como Se Diz Alvo Atingido Em Ingl\u00eas - festa-de-casamento",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://considi.festa-de-casamento.info/br/como-dizer-alvo-atingido-em-ingles.aspx",
+                "pageTitle": "Tag; Como Dizer Alvo Atingido Em Ingles - festa-de-casamento",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://considi.festa-de-casamento.info/br/significado-de-elite-em-ingles.aspx",
+                "pageTitle": "Tag; Significado De Elite Em Ingles - festa-de-casamento",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tshirt.tunder.org/o-significado-de-sniper-em-ingles/",
+                "pageTitle": "O Significado De Sniper Em Ingles T Shirt Design 2018",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdnbr1.img.sputniknews.com/images/1194/62/11946204.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdnfr1.img.sputniknews.com/images/103168/97/1031689734.jpg"
+            },
+            {
+                "url": "https://reseauinternational.net/wp-content/uploads/2018/09/afghanistan_heros_us-1728x800_c.jpg"
+            },
+            {
+                "url": "http://www.alterinfo.net/photo/art/default/17101907-21634944.jpg?v=1505136246"
+            },
+            {
+                "url": "https://media1.woopic.com/api/v1/images/165%2F7liy%2Fdes-francais-en-afghanistan-pour-faire-la-police-pas-la-guerre%7Cx240-E8-.jpg?facedetect=1&quality=85"
+            },
+            {
+                "url": "http://www.informazionelibera.net/wp-content/uploads/2017/04/afghanistan.jpg"
+            },
+            {
+                "url": "https://www.lexpress.fr/pictures/102/52345.jpg"
+            },
+            {
+                "url": "http://www.tsr.ch/xobix_media/images/tsr/2009/swisstxt20090713_10948848_5.jpg"
+            },
+            {
+                "url": "https://www.upr.fr/wp-content/uploads/2012/06/afghanistan_france.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "guerre en afghanistan",
+                "languageCode": "fr"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8755002,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.59619516,
+                        "y": 0.35991964
+                    },
+                    {
+                        "x": 0.919099,
+                        "y": 0.35991964
+                    },
+                    {
+                        "x": 0.919099,
+                        "y": 0.99349225
+                    },
+                    {
+                        "x": 0.59619516,
+                        "y": 0.99349225
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.69183236,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.59619516,
+                        "y": 0.35991964
+                    },
+                    {
+                        "x": 0.919099,
+                        "y": 0.35991964
+                    },
+                    {
+                        "x": 0.919099,
+                        "y": 0.99349225
+                    },
+                    {
+                        "x": 0.59619516,
+                        "y": 0.99349225
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.67444724,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.90222543,
+                        "y": 0.0045323307
+                    },
+                    {
+                        "x": 0.9973041,
+                        "y": 0.0045323307
+                    },
+                    {
+                        "x": 0.9973041,
+                        "y": 0.4771147
+                    },
+                    {
+                        "x": 0.90222543,
+                        "y": 0.4771147
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/02dl1y",
+            "name": "Hat",
+            "score": 0.65092427,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.60901237,
+                        "y": 0.36554483
+                    },
+                    {
+                        "x": 0.74913,
+                        "y": 0.36554483
+                    },
+                    {
+                        "x": 0.74913,
+                        "y": 0.5320155
+                    },
+                    {
+                        "x": 0.60901237,
+                        "y": 0.5320155
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.61710066,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.303934,
+                        "y": 0.15739739
+                    },
+                    {
+                        "x": 0.44406605,
+                        "y": 0.15739739
+                    },
+                    {
+                        "x": 0.44406605,
+                        "y": 0.56283796
+                    },
+                    {
+                        "x": 0.303934,
+                        "y": 0.56283796
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.583846,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.44951946,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.65189236,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.65189236,
+                        "y": 0.810056
+                    },
+                    {
+                        "x": 0.44951946,
+                        "y": 0.810056
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.56646276,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.81304884,
+                        "y": 0.011591151
+                    },
+                    {
+                        "x": 0.90436304,
+                        "y": 0.011591151
+                    },
+                    {
+                        "x": 0.90436304,
+                        "y": 0.46817353
+                    },
+                    {
+                        "x": 0.81304884,
+                        "y": 0.46817353
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0h9mv",
+            "name": "Tire",
+            "score": 0.5631547,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.096193,
+                        "y": 0.12442314
+                    },
+                    {
+                        "x": 0.16367078,
+                        "y": 0.12442314
+                    },
+                    {
+                        "x": 0.16367078,
+                        "y": 0.33137873
+                    },
+                    {
+                        "x": 0.096193,
+                        "y": 0.33137873
+                    }
+                ]
+            }
+        }
+    ]
+}

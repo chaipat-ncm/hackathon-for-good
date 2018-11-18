@@ -1,0 +1,737 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.97888416,
+            "topicality": 0.97888416
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.9634635,
+            "topicality": 0.9634635
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9505907,
+            "topicality": 0.9505907
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.9130861,
+            "topicality": 0.9130861
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.7661665,
+            "topicality": 0.7661665
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.7477779,
+            "topicality": 0.7477779
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.67421144,
+            "topicality": 0.67421144
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.5687381,
+            "topicality": 0.5687381
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.53872275,
+            "topicality": 0.53872275
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 68,
+                        "green": 50,
+                        "blue": 35
+                    },
+                    "score": 0.20588027,
+                    "pixelFraction": 0.08846154
+                },
+                {
+                    "color": {
+                        "red": 209,
+                        "green": 189,
+                        "blue": 168
+                    },
+                    "score": 0.05256632,
+                    "pixelFraction": 0.20463286
+                },
+                {
+                    "color": {
+                        "red": 95,
+                        "green": 76,
+                        "blue": 60
+                    },
+                    "score": 0.18005422,
+                    "pixelFraction": 0.11048951
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 51,
+                        "blue": 47
+                    },
+                    "score": 0.15611444,
+                    "pixelFraction": 0.08479021
+                },
+                {
+                    "color": {
+                        "red": 89,
+                        "green": 77,
+                        "blue": 71
+                    },
+                    "score": 0.072152846,
+                    "pixelFraction": 0.035227273
+                },
+                {
+                    "color": {
+                        "red": 135,
+                        "green": 115,
+                        "blue": 96
+                    },
+                    "score": 0.06938914,
+                    "pixelFraction": 0.07587413
+                },
+                {
+                    "color": {
+                        "red": 30,
+                        "green": 20,
+                        "blue": 15
+                    },
+                    "score": 0.055627905,
+                    "pixelFraction": 0.033916082
+                },
+                {
+                    "color": {
+                        "red": 175,
+                        "green": 153,
+                        "blue": 132
+                    },
+                    "score": 0.047840364,
+                    "pixelFraction": 0.19291958
+                },
+                {
+                    "color": {
+                        "red": 43,
+                        "green": 27,
+                        "blue": 15
+                    },
+                    "score": 0.043268014,
+                    "pixelFraction": 0.013636364
+                },
+                {
+                    "color": {
+                        "red": 68,
+                        "green": 42,
+                        "blue": 26
+                    },
+                    "score": 0.04192522,
+                    "pixelFraction": 0.020804197
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 780
+                        },
+                        {
+                            "x": 780,
+                            "y": 438
+                        },
+                        {
+                            "y": 438
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0d060g",
+                "score": 1.0761,
+                "description": "Canada"
+            },
+            {
+                "entityId": "/m/0d05q4",
+                "score": 0.7161,
+                "description": "Iraq"
+            },
+            {
+                "entityId": "/m/018zqj",
+                "score": 0.7149,
+                "description": "Canadian Armed Forces"
+            },
+            {
+                "entityId": "/t/2b4djy293j0wd",
+                "score": 0.7149
+            },
+            {
+                "entityId": "/g/1q62kktmp",
+                "score": 0.7085,
+                "description": "Canadian Forces Recruiting"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7068,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/02v9ns",
+                "score": 0.702,
+                "description": "Department of National Defence"
+            },
+            {
+                "entityId": "/m/0125sb2v",
+                "score": 0.6873,
+                "description": "Operation Impact"
+            },
+            {
+                "entityId": "/m/04211cz",
+                "score": 0.6809,
+                "description": "NATO Training Mission \u2013 Iraq"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.6302,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6302
+            },
+            {
+                "entityId": "/g/11f0ylzb4z",
+                "score": 0.6161
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.5031,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0bwgs3w",
+                "score": 0.492,
+                "description": "Iraqi Armed Forces"
+            },
+            {
+                "entityId": "/m/03_3w_",
+                "score": 0.461,
+                "description": "Military education and training"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/files/2018/08/WladCanada.jpg"
+            },
+            {
+                "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/normals/2018/08/WladCanada.jpg"
+            },
+            {
+                "url": "https://img.govserv.org/2/safe_image.php?d=AQDq0HNhtwzZdWkS&url=http%3A%2F%2Fwww.nato.int%2Fnato_static_fl2014%2Fassets%2Fpictures%2Fstock_2018%2F20180822_180822-IRAQ_CANADA.jpg&_nc_hash=AQBOaRKJRfIx9CED"
+            },
+            {
+                "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=e%2FMjCr6KLxqPSGHVvNeLEhrDoAk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrWksgUbfCgBhlI_IfnwEXO5H-24LYuPaN4D7vCNX5e3dVUNag0xp2BJ4v4KGjoB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvjSA80r2p1v-H1Y6xPpypfTMygkwrT4PxudIkRtGnHFGcV-jv2s-wGLvGDdk1zK9r-7V6GGQ6gS0k6D_fDwJCjVjkNP5ksY9BEf39JiBibSmP8PwW-eZpI-civfuPjAbiG0_ZE23Swbk8-oPT-QFVduqRM"
+            },
+            {
+                "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/stock_2018/20180321_180320-iraq-training_rdax_775x440.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DlNgPAGW0AA9uwX.jpg"
+            },
+            {
+                "url": "https://www.sofmag.com/wp-content/uploads/2018/04/IMG_0413.jpg"
+            },
+            {
+                "url": "https://www.sofmag.com/wp-content/uploads/2018/08/DDB46293-9529-4700-A75C-30F9BD6A8CB6-555x315.jpeg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.sofmag.com/wp-content/uploads/2018/04/IMG_0413-660x330.jpg"
+            },
+            {
+                "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-360x245.jpg"
+            },
+            {
+                "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-150x150.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.nato.int/cps/en/natohq/news_153122.htm?selectedLocale=en",
+                "pageTitle": "NATO - News: Canadian <b>Armed Forces</b> contribute to strengthen Iraqi ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/stock_2018/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.sofmag.com/canadian-armed-forces-training-iraqi-forces/",
+                "pageTitle": "Canadian <b>Armed Forces</b> Training Iraqi forces \u2013 Soldier of Fortune ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.sofmag.com/wp-content/uploads/2018/04/IMG_0413.jpg"
+                    },
+                    {
+                        "url": "https://www.sofmag.com/wp-content/uploads/2018/04/IMG_0413-660x330.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nato.int/cps/fr/natohq/news_153122.htm?selectedLocale=en",
+                "pageTitle": "Canadian <b>Armed Forces</b> contribute to strengthen Iraqi forces ... - NATO",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/stock_2018/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.sofmag.com/nato-names-canadian-general-to-head-alliances-iraq-mission/",
+                "pageTitle": "NATO Names <b>Canadian</b> General to Head Alliance&#39;s Iraq Mission ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.sofmag.com/wp-content/uploads/2018/08/DDB46293-9529-4700-A75C-30F9BD6A8CB6-555x315.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://iraq.liveuamap.com/en/2018/21-march-the-canadianforces-are-training-the-iraqi-security",
+                "pageTitle": "The @<b>CanadianForces</b> are training the Iraqi Security Forces to ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iraq.liveuamap.com/pics/2018/03/21/21633393_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/dylanpwhite/status/976378440092913664",
+                "pageTitle": "Dylan P. White on Twitter: &quot;The @<b>CanadianForces</b> are training the ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DYzKBsKXcAA68_v.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://iraq.liveuamap.com/hr/time/22.03.2018",
+                "pageTitle": "Day of news on the map - O\u017eujak, 22 <b>2018</b> - Najnovije vijesti iz Iraka ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iraq.liveuamap.com/pics/2018/03/21/21633393_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.analisidifesa.it/2018/07/elettronica-group-al-salone-aerospaziale-di-farnborough/",
+                "pageTitle": "Elettronica Group al Salone aerospaziale di Farnborough \u2013 Analisi ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://en.azeridefence.com/canadian-armed-forces-contribute-to-strengthen-iraqi-forces-capabilities-in-dealing-with-explosive-hazards/",
+                "pageTitle": "Canadian <b>Armed Forces</b> contribute to strengthen Iraqi forces ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://en.azeridefence.com/wp-content/uploads/2018/03/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.kurdistan24.net/en/news/c6506b5e-4679-4d3b-80ec-b28b8e2789cb",
+                "pageTitle": "<b>Canada</b> appoints head of new NATO mission in Iraq - Kurdistan24.net",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/normals/2018/08/WladCanada.jpg"
+                    },
+                    {
+                        "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/files/2018/08/WladCanada.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ca.linkedin.com/in/andrea-v-41517ab2",
+                "pageTitle": "Andrea V. - Reservist - Canadian <b>Armed Forces</b> | Forces arm\u00e9es ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=e%2FMjCr6KLxqPSGHVvNeLEhrDoAk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrWksgUbfCgBhlI_IfnwEXO5H-24LYuPaN4D7vCNX5e3dVUNag0xp2BJ4v4KGjoB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvjSA80r2p1v-H1Y6xPpypfTMygkwrT4PxudIkRtGnHFGcV-jv2s-wGLvGDdk1zK9r-7V6GGQ6gS0k6D_fDwJCjVjkNP5ksY9BEf39JiBibSmP8PwW-eZpI-civfuPjAbiG0_ZE23Swbk8-oPT-QFVduqRM"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/natopress/status/1032276172648972289",
+                "pageTitle": "Oana Lungescu on Twitter: &quot;BREAKING: #<b>Canada</b> appoints ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DlNgPAGW0AA9uwX.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ca.linkedin.com/in/ghislain-letourneau-cd-mba-bb2a072",
+                "pageTitle": "Ghislain Letourneau, CD, MBA | LinkedIn",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=e%2FMjCr6KLxqPSGHVvNeLEhrDoAk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrWksgUbfCgBhlI_IfnwEXO5H-24LYuPaN4D7vCNX5e3dVUNag0xp2BJ4v4KGjoB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvjSA80r2p1v-H1Y6xPpypfTMygkwrT4PxudIkRtGnHFGcV-jv2s-wGLvGDdk1zK9r-7V6GGQ6gS0k6D_fDwJCjVjkNP5ksY9BEf39JiBibSmP8PwW-eZpI-civfuPjAbiG0_ZE23Swbk8-oPT-QFVduqRM"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.govserv.org/BE/Mons/247006175368288/NATO-Non-Commissioned-Officers",
+                "pageTitle": "NATO Non-Commissioned Officers, Mons <b>2018</b> - GovServ",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://img.govserv.org/2/safe_image.php?d=AQDq0HNhtwzZdWkS&url=http%3A%2F%2Fwww.nato.int%2Fnato_static_fl2014%2Fassets%2Fpictures%2Fstock_2018%2F20180822_180822-IRAQ_CANADA.jpg&_nc_hash=AQBOaRKJRfIx9CED"
+                    }
+                ]
+            },
+            {
+                "url": "https://ra.linkedin.com/pub/alexandra-maria-friede/ab/996/233?trk=biz_employee_pub",
+                "pageTitle": "Alexandra Maria Friede - Researcher - Helmut Schmidt Universit\u00e4t ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=e%2FMjCr6KLxqPSGHVvNeLEhrDoAk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrWksgUbfCgBhlI_IfnwEXO5H-24LYuPaN4D7vCNX5e3dVUNag0xp2BJ4v4KGjoB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvjSA80r2p1v-H1Y6xPpypfTMygkwrT4PxudIkRtGnHFGcV-jv2s-wGLvGDdk1zK9r-7V6GGQ6gS0k6D_fDwJCjVjkNP5ksY9BEf39JiBibSmP8PwW-eZpI-civfuPjAbiG0_ZE23Swbk8-oPT-QFVduqRM"
+                    }
+                ]
+            },
+            {
+                "url": "http://oror.info/i/lead-nato-military-training-mission-brussels",
+                "pageTitle": "Lead Nato <b>Military</b> Training Mission Brussels | OROR",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/files/2018/08/WladCanada.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.linkedin.com/in/tammy-audet-2a729a36",
+                "pageTitle": "Tammy Audet - Public Affairs Officer - Department of National ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=e%2FMjCr6KLxqPSGHVvNeLEhrDoAk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISIfYC2G8G2f1spyfNT-tdoDSfrWksgUbfCgBhlI_IfnwEXO5H-24LYuPaN4D7vCNX5e3dVUNag0xp2BJ4v4KGjoB8MeCQ-TiYXMfl757bAmfEI3RY1kNBzUQ0b6FO7btD38h6BPebsDAL9hEB5JwoLRbmlZzkvjSA80r2p1v-H1Y6xPpypfTMygkwrT4PxudIkRtGnHFGcV-jv2s-wGLvGDdk1zK9r-7V6GGQ6gS0k6D_fDwJCjVjkNP5ksY9BEf39JiBibSmP8PwW-eZpI-civfuPjAbiG0_ZE23Swbk8-oPT-QFVduqRM"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/nato-mission-92.html",
+                "pageTitle": "Nato Mission | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/files/2018/08/WladCanada.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/oirdcom/status/1033333135579197440?lang=en",
+                "pageTitle": "Maj Gen Christopher Ghika CJTF-OIR Dep Cmdr on Twitter: &quot;Great ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DlNgPAGW0AA9uwX.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/shahrapan/status/1033515481918046210",
+                "pageTitle": "AHMED ALTIMIMI on Twitter: &quot;Can i work with them here in Iraq ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DlNgPAGW0AA9uwX.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/alan-mohtadi-ed.html",
+                "pageTitle": "Alan Mohtadi | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://kurdistan24.blob.core.windows.net/filemanager/resources/files/2018/08/WladCanada.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.scoopnest.com/user/NATOpress/",
+                "pageTitle": "Oana Lungescu - @NATOpress Brussels, Belgium : Latest news ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DlNgPAGW0AA9uwX.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nato.int/cps/em/natohq/news_153122.htm?selectedLocale=ru",
+                "pageTitle": "NATO - News: Canadian <b>Armed Forces</b> contribute to strengthen Iraqi ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/stock_2018/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nato.int/cps/en/natohq/news_153122.htm?selectedLocale=uk",
+                "pageTitle": "NATO - News: Canadian <b>Armed Forces</b> contribute to strengthen Iraqi ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.nato.int/nato_static_fl2014/assets/pictures/stock_2018/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://iraq.liveuamap.com/de/2018/21-march-the-canadianforces-are-training-the-iraqi-security",
+                "pageTitle": "Die @<b>CanadianForces</b> schulen die irakischen Sicherheitskr\u00e4fte, um ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iraq.liveuamap.com/pics/2018/03/21/21633393_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.analisidifesa.it/2018/07/il-canada-guidera-la-missione-nato-in-iraq-isis-allo-stremo-in-siria/",
+                "pageTitle": "Il <b>Canada</b> guider\u00e0 la missione NATO in Iraq, Isis allo stremo in Siria ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-360x245.jpg"
+                    },
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://iraq.liveuamap.com/es/2018/21-march-the-canadianforces-are-training-the-iraqi-security",
+                "pageTitle": "Las Fuerzas Canadienses est\u00e1n entrenando a las Fuerzas de ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://iraq.liveuamap.com/pics/2018/03/21/21633393_0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.analisidifesa.it/2018/07/page/4/",
+                "pageTitle": "luglio <b>2018</b> \u2013 Pagina 4 \u2013 Analisi Difesa",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-360x245.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.analisidifesa.it/2018/07/page/6/",
+                "pageTitle": "luglio <b>2018</b> \u2013 Pagina 6 \u2013 Analisi Difesa",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440-360x245.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://heavy-square.download/benvenuti-nellultima-missione-di.htm",
+                "pageTitle": "Benvenuti Nellultima Missione Di - Heavy Square",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.analisidifesa.it/wp-content/uploads/2018/07/20180321_180320-iraq-training_rdax_775x440.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://www.janes.com/images/assets/857/76857/p1703983.jpg"
+            },
+            {
+                "url": "https://www.armytimes.com/resizer/cHhAL2nRqQpjcqGvj1kAaCgzdzY=/1200x0/filters:quality(100)/arc-anglerfish-arc2-prod-mco.s3.amazonaws.com/public/R27JXARWJBGFFHGMZV7VTBV4YQ.jpg"
+            },
+            {
+                "url": "https://www.thewhig.com/wp-content/uploads/2018/10/KI.TW20181019EF01-1.jpg?quality=60&strip=all"
+            },
+            {
+                "url": "https://ml-fd.caf-fac.ca/wp-content/uploads/2018/09/tm01-2018-0068-027-1180x785.jpg"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-CFZzHLG9U7Q/WpvvruPovjI/AAAAAAACstM/WPKV-GWmHlkQN8ClsiF0G88_b_OVnQ_fgCLcBGAs/s1600/janos2.jpg"
+            },
+            {
+                "url": "http://static4.uk.businessinsider.com/image/560fd17add0895e6558b461e/ranked-the-worlds-20-strongest-militaries.jpg"
+            },
+            {
+                "url": "http://bearcf.com/wp-content/uploads/2018/08/Erin.jpg"
+            },
+            {
+                "url": "https://i.cbc.ca/1.4108405.1494435174!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_780/wea-cda-flooding-20170509.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "canadian forces 2018",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8994105,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.2641077,
+                        "y": 0.2341794
+                    },
+                    {
+                        "x": 0.3935394,
+                        "y": 0.2341794
+                    },
+                    {
+                        "x": 0.3935394,
+                        "y": 0.71099716
+                    },
+                    {
+                        "x": 0.2641077,
+                        "y": 0.71099716
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.88658214,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6429605,
+                        "y": 0.0149470195
+                    },
+                    {
+                        "x": 0.9465298,
+                        "y": 0.0149470195
+                    },
+                    {
+                        "x": 0.9465298,
+                        "y": 0.9864647
+                    },
+                    {
+                        "x": 0.6429605,
+                        "y": 0.9864647
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.85936356,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.10393399,
+                        "y": 0.029632656
+                    },
+                    {
+                        "x": 0.20688957,
+                        "y": 0.029632656
+                    },
+                    {
+                        "x": 0.20688957,
+                        "y": 0.444485
+                    },
+                    {
+                        "x": 0.10393399,
+                        "y": 0.444485
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.81568366,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.60610276,
+                        "y": 0.0502691
+                    },
+                    {
+                        "x": 0.8484855,
+                        "y": 0.0502691
+                    },
+                    {
+                        "x": 0.8484855,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.60610276,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.76347417,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.1226959,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.3005982,
+                        "y": 0.2301794
+                    },
+                    {
+                        "x": 0.3005982,
+                        "y": 0.7841736
+                    },
+                    {
+                        "x": 0.1226959,
+                        "y": 0.7841736
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,868 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2366,
+                        "y": 543
+                    },
+                    {
+                        "x": 2669,
+                        "y": 543
+                    },
+                    {
+                        "x": 2669,
+                        "y": 894
+                    },
+                    {
+                        "x": 2366,
+                        "y": 894
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2377,
+                        "y": 625
+                    },
+                    {
+                        "x": 2586,
+                        "y": 625
+                    },
+                    {
+                        "x": 2586,
+                        "y": 834
+                    },
+                    {
+                        "x": 2377,
+                        "y": 834
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 2422.2712,
+                        "y": 702.60645,
+                        "z": 0.00016174247
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 2462.6208,
+                        "y": 693.86633,
+                        "z": -80.94102
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 2416.1584,
+                        "y": 684.11255,
+                        "z": 33.328217
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 2416.7974,
+                        "y": 677.7484,
+                        "z": -26.572405
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2436.547,
+                        "y": 673.94226,
+                        "z": -66.122696
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2484.3284,
+                        "y": 670.5121,
+                        "z": -102.72845
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 2425.632,
+                        "y": 695.1464,
+                        "z": -48.869408
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 2403.0264,
+                        "y": 746.141,
+                        "z": -65.8919
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 2420.5144,
+                        "y": 780.0657,
+                        "z": -59.89052
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 2426.6033,
+                        "y": 811.70917,
+                        "z": -60.062923
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 2426.6462,
+                        "y": 797.476,
+                        "z": -18.234632
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 2458.5896,
+                        "y": 791.4579,
+                        "z": -82.2197
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 2426.7305,
+                        "y": 794.9048,
+                        "z": -58.297295
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 2442.6396,
+                        "y": 753.4414,
+                        "z": -73.00191
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 2421.7,
+                        "y": 756.5884,
+                        "z": -28.785147
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 2419.75,
+                        "y": 761.78107,
+                        "z": -58.1921
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 2416.7551,
+                        "y": 695.9448,
+                        "z": -1.9966415
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2430.7493,
+                        "y": 701.5672,
+                        "z": -16.115852
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 2421.586,
+                        "y": 708.53534,
+                        "z": -0.88419414
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 2421.6558,
+                        "y": 704.77655,
+                        "z": 20.002426
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 2419.6533,
+                        "y": 702.4912,
+                        "z": 0.43788308
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 2457.5842,
+                        "y": 687.7699,
+                        "z": -83.459
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2479.22,
+                        "y": 693.0895,
+                        "z": -93.93677
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 2462.452,
+                        "y": 699.9799,
+                        "z": -82.2618
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 2454.9783,
+                        "y": 696.4572,
+                        "z": -64.86416
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 2461.4329,
+                        "y": 694.10767,
+                        "z": -83.21523
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 2410.9463,
+                        "y": 669.58527,
+                        "z": 2.098649
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 2455.2346,
+                        "y": 660.7413,
+                        "z": -86.285034
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 2497.4954,
+                        "y": 757.41626,
+                        "z": 97.817604
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 2592.613,
+                        "y": 738.9566,
+                        "z": -87.95873
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 2423.6506,
+                        "y": 674.5061,
+                        "z": -47.75921
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 2437.6863,
+                        "y": 851.72455,
+                        "z": -58.437984
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 2468.6526,
+                        "y": 813.1227,
+                        "z": 66.46484
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 2552.5095,
+                        "y": 796.34827,
+                        "z": -100.982346
+                    }
+                }
+            ],
+            "rollAngle": 0.059182975,
+            "panAngle": -63.49686,
+            "tiltAngle": 5.760555,
+            "detectionConfidence": 0.9505818,
+            "landmarkingConfidence": 0.34611145,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "POSSIBLE"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.954359,
+            "topicality": 0.954359
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9320515,
+            "topicality": 0.9320515
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.9272133,
+            "topicality": 0.9272133
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.9077467,
+            "topicality": 0.9077467
+        },
+        {
+            "mid": "/m/079bkr",
+            "description": "mode of transport",
+            "score": 0.87521064,
+            "topicality": 0.87521064
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.87418187,
+            "topicality": 0.87418187
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.8605322,
+            "topicality": 0.8605322
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.85157704,
+            "topicality": 0.85157704
+        },
+        {
+            "mid": "/m/07cmd",
+            "description": "tank",
+            "score": 0.75767285,
+            "topicality": 0.75767285
+        },
+        {
+            "mid": "/m/0728h",
+            "description": "self propelled artillery",
+            "score": 0.6600427,
+            "topicality": 0.6600427
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.64925724,
+            "topicality": 0.64925724
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.5929072,
+            "topicality": 0.5929072
+        },
+        {
+            "mid": "/m/0gvss07",
+            "description": "combat vehicle",
+            "score": 0.57431173,
+            "topicality": 0.57431173
+        },
+        {
+            "mid": "/m/083kb",
+            "description": "weapon",
+            "score": 0.5626444,
+            "topicality": 0.5626444
+        },
+        {
+            "mid": "/m/0g54v5d",
+            "description": "military vehicle",
+            "score": 0.54611886,
+            "topicality": 0.54611886
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 111,
+                        "green": 127,
+                        "blue": 91
+                    },
+                    "score": 0.20443197,
+                    "pixelFraction": 0.022333333
+                },
+                {
+                    "color": {
+                        "red": 129,
+                        "green": 117,
+                        "blue": 93
+                    },
+                    "score": 0.16842593,
+                    "pixelFraction": 0.04
+                },
+                {
+                    "color": {
+                        "red": 91,
+                        "green": 85,
+                        "blue": 63
+                    },
+                    "score": 0.12442471,
+                    "pixelFraction": 0.064
+                },
+                {
+                    "color": {
+                        "red": 78,
+                        "green": 92,
+                        "blue": 60
+                    },
+                    "score": 0.08079099,
+                    "pixelFraction": 0.028333334
+                },
+                {
+                    "color": {
+                        "red": 83,
+                        "green": 84,
+                        "blue": 77
+                    },
+                    "score": 0.07254711,
+                    "pixelFraction": 0.07106667
+                },
+                {
+                    "color": {
+                        "red": 136,
+                        "green": 154,
+                        "blue": 118
+                    },
+                    "score": 0.058197778,
+                    "pixelFraction": 0.0071333335
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 54,
+                        "blue": 34
+                    },
+                    "score": 0.045880705,
+                    "pixelFraction": 0.036733333
+                },
+                {
+                    "color": {
+                        "red": 161,
+                        "green": 150,
+                        "blue": 129
+                    },
+                    "score": 0.04398942,
+                    "pixelFraction": 0.019666666
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 53,
+                        "blue": 47
+                    },
+                    "score": 0.037477948,
+                    "pixelFraction": 0.049666665
+                },
+                {
+                    "color": {
+                        "red": 116,
+                        "green": 116,
+                        "blue": 109
+                    },
+                    "score": 0.037073866,
+                    "pixelFraction": 0.0386
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 3499
+                        },
+                        {
+                            "x": 3499,
+                            "y": 2329
+                        },
+                        {
+                            "y": 2329
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.42
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/07cmd",
+                "score": 2.222467,
+                "description": "Tank"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.84926945,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.8001,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7001
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7001,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.6918,
+                "description": "Army"
+            },
+            {
+                "entityId": "/t/2c_bgpmls_g6p",
+                "score": 0.5786
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.54805946,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/0j9pg53",
+                "score": 0.5299,
+                "description": "French Armed Forces"
+            },
+            {
+                "entityId": "/m/04c6s3",
+                "score": 0.5221,
+                "description": "Military budget"
+            },
+            {
+                "entityId": "/m/02wf01",
+                "score": 0.519,
+                "description": "French Army"
+            },
+            {
+                "entityId": "/t/23g_qz69qf_1g",
+                "score": 0.5135
+            },
+            {
+                "entityId": "/g/120jff5c",
+                "score": 0.477,
+                "description": "\u0160arvuotis"
+            },
+            {
+                "entityId": "/m/0_1c",
+                "score": 0.4574,
+                "description": "Artillery"
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.4435,
+                "description": "Member states of NATO"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://s.yimg.com/uu/api/res/1.2/Nuj2x8ug_wNUcuCK8M_Ffg--~B/aD0yMzMwO3c9MzUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/time_72/6b9ef9b510c00a73c704da6941f9ca86"
+            },
+            {
+                "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg?quality=85"
+            },
+            {
+                "url": "http://www.diena.lt/sites/default/files/afp_n31qs.jpg"
+            },
+            {
+                "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+            },
+            {
+                "url": "http://img5.diena.lt/sites/default/files/styles/940x000/public/afp_n31qs.jpg?itok=THdHN8Oj"
+            },
+            {
+                "url": "https://s.yimg.com/ny/api/res/1.2/zDa71OxkuDBwMvVCLRvDCg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/time_72/6b9ef9b510c00a73c704da6941f9ca86"
+            },
+            {
+                "url": "https://statik.tempo.co/?id=594389&width=620"
+            },
+            {
+                "url": "https://s1.15min.lt/static/cache/MjM2eDE2MiwsNjE2NjUzLG9yaWdpbmFsLCxpZD0yOTE2NTIwJmRhdGU9MjAxNyUyRjAzJTJGMjksMzUyOTAyMDIxOA==/prancuzijos-karine-technika-estijoje-58dbb8007e9a4.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.topsimages.com/images/camouflage-military-float-ideas-1f.html",
+                "pageTitle": "Camouflage Military Float Ideas | www.topsimages.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-military-cc.html",
+                "pageTitle": "Nato Military | www.topsimages.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.postmetro.info/info/budget-boost-french-troops-march",
+                "pageTitle": "Budget Boost French Troops March - PostMetro",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://wallpaper.labzada.com/how-to-tell-military-time-in-french/",
+                "pageTitle": "How To Tell Military Time In French Labzada Wallpaper",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://time.com/5330128/trump-nato-military-spending-summit",
+                "pageTitle": "NATO Allies Defend Military Spending After Trump Criticism | Time",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    },
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg?quality=85"
+                    }
+                ]
+            },
+            {
+                "url": "http://ruediger-will.com/i/move-nato-military-equipment",
+                "pageTitle": "Move Nato Military Equipment | Ruediger Will",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.yahoo.com/news/nato-allies-defend-military-spending-035250177.html",
+                "pageTitle": "NATO Allies Defend Their Military Spending In the Face of President ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.yimg.com/ny/api/res/1.2/zDa71OxkuDBwMvVCLRvDCg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/time_72/6b9ef9b510c00a73c704da6941f9ca86"
+                    },
+                    {
+                        "url": "https://s.yimg.com/uu/api/res/1.2/Nuj2x8ug_wNUcuCK8M_Ffg--~B/aD0yMzMwO3c9MzUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/time_72/6b9ef9b510c00a73c704da6941f9ca86"
+                    }
+                ]
+            },
+            {
+                "url": "http://dragfepic.pw/10-countries-spending-the-most-on-the-military-Interesting.html",
+                "pageTitle": "10 countries spending the most on the military Interesting",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://netpics.pw/How-much-of-their-GDP-countries-spend-on-their-military-How-much.html",
+                "pageTitle": "How much of their GDP countries spend on their military How much",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://address-db.info/says-national-defence-critic",
+                "pageTitle": "Says National Defence Critic - Address DB",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg?quality=85"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/estija-pasieke-nato-prancuzu-kontingento-tankai-57-776036",
+                "pageTitle": "Estij\u0105 pasiek\u0117 NATO pranc\u016bz\u0173 kontingento tankai | 15min.lt",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s1.15min.lt/static/cache/MjM2eDE2MiwsNjE2NjUzLG9yaWdpbmFsLCxpZD0yOTE2NTIwJmRhdGU9MjAxNyUyRjAzJTJGMjksMzUyOTAyMDIxOA==/prancuzijos-karine-technika-estijoje-58dbb8007e9a4.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kauno.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/estija-pasieke-nato-prancuzu-kontingento-tankai-804624",
+                "pageTitle": "Estij\u0105 pasiek\u0117 NATO pranc\u016bz\u0173 kontingento tankai | KaunoDiena.lt",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.diena.lt/sites/default/files/afp_n31qs.jpg"
+                    },
+                    {
+                        "url": "http://img5.diena.lt/sites/default/files/styles/940x000/public/afp_n31qs.jpg?itok=THdHN8Oj"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/estija-pasieke-nato-prancuzu-kontingento-tankai-804624",
+                "pageTitle": "Estij\u0105 pasiek\u0117 NATO pranc\u016bz\u0173 kontingento tankai | Diena.lt",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.diena.lt/sites/default/files/afp_n31qs.jpg"
+                    },
+                    {
+                        "url": "http://img5.diena.lt/sites/default/files/styles/940x000/public/afp_n31qs.jpg?itok=THdHN8Oj"
+                    }
+                ]
+            },
+            {
+                "url": "http://klaipeda.diena.lt/naujienos/pasaulis/ekonomika-ir-politika/estija-pasieke-nato-prancuzu-kontingento-tankai-804624",
+                "pageTitle": "Estij\u0105 pasiek\u0117 NATO pranc\u016bz\u0173 kontingento tankai | kl.lt",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img5.diena.lt/sites/default/files/styles/940x000/public/afp_n31qs.jpg?itok=THdHN8Oj"
+                    }
+                ]
+            },
+            {
+                "url": "http://cupuma.blogspot.com/2017/03/pasukan-prancis-tiba-di-estonia.html",
+                "pageTitle": "CUPUMA: Pasukan Prancis Tiba di Estonia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://statik.tempo.co/?id=594389&width=620"
+                    }
+                ]
+            },
+            {
+                "url": "http://cupuma.blogspot.com/2017/03/",
+                "pageTitle": "CUPUMA: Maret 2017",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://statik.tempo.co/?id=594389&width=620"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://timedotcom.files.wordpress.com/2018/07/gettyimages-660036156.jpg"
+            },
+            {
+                "url": "http://www.thaifighterclub.org/images/answer2013/A0515435513062693747.jpg"
+            },
+            {
+                "url": "http://2.bp.blogspot.com/-DyVTD6qEqLs/Uc6uBxZw_4I/AAAAAAAAass/Yrt17WiQCUE/s320/T-84+OPLOT+M+main+battle+tank+%2528MBT%2529+of+Royal+Thai+Army+%25286%2529.jpg"
+            },
+            {
+                "url": "http://www.panzer-modell.de/specials/ontour/setc16/026g.jpg"
+            },
+            {
+                "url": "http://eng.mil.ru/images/upload/2015/IMG_2216-900.jpg"
+            },
+            {
+                "url": "https://mideast.liveuamap.com/pics/2015/09/07/21270885_0.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/2K12_Kub_VS_01.jpg"
+            },
+            {
+                "url": "https://media.defense.gov/2016/Jun/20/2001556140/655/438/0/160610-A-TO648-235A.JPG"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "army"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9894649,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.63010275,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.8706032,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.8706032,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.63010275,
+                        "y": 1
+                    }
+                ]
+            }
+        }
+    ]
+}

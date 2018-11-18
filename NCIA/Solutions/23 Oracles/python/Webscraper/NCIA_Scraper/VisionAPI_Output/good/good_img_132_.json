@@ -1,0 +1,964 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/05dlb",
+            "description": "navy",
+            "score": 0.7425173,
+            "topicality": 0.7425173
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.7313759,
+            "topicality": 0.7313759
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.7233929,
+            "topicality": 0.7233929
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.63862514,
+            "topicality": 0.63862514
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.5825205,
+            "topicality": 0.5825205
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.5540753,
+            "topicality": 0.5540753
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "to",
+            "description": "ko eWees\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 33,
+                        "y": 779
+                    },
+                    {
+                        "x": 142,
+                        "y": 779
+                    },
+                    {
+                        "x": 142,
+                        "y": 794
+                    },
+                    {
+                        "x": 33,
+                        "y": 794
+                    }
+                ]
+            }
+        },
+        {
+            "description": "ko",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 33,
+                        "y": 779
+                    },
+                    {
+                        "x": 53,
+                        "y": 779
+                    },
+                    {
+                        "x": 53,
+                        "y": 794
+                    },
+                    {
+                        "x": 33,
+                        "y": 794
+                    }
+                ]
+            }
+        },
+        {
+            "description": "eWees",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 67,
+                        "y": 779
+                    },
+                    {
+                        "x": 142,
+                        "y": 779
+                    },
+                    {
+                        "x": 142,
+                        "y": 793
+                    },
+                    {
+                        "x": 67,
+                        "y": 793
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 204,
+                        "green": 208,
+                        "blue": 215
+                    },
+                    "score": 0.6771756,
+                    "pixelFraction": 0.2136
+                },
+                {
+                    "color": {
+                        "red": 216,
+                        "green": 219,
+                        "blue": 225
+                    },
+                    "score": 0.2430198,
+                    "pixelFraction": 0.18973333
+                },
+                {
+                    "color": {
+                        "red": 156,
+                        "green": 158,
+                        "blue": 162
+                    },
+                    "score": 0.026401699,
+                    "pixelFraction": 0.17733334
+                },
+                {
+                    "color": {
+                        "red": 118,
+                        "green": 118,
+                        "blue": 120
+                    },
+                    "score": 0.023283914,
+                    "pixelFraction": 0.13406667
+                },
+                {
+                    "color": {
+                        "red": 60,
+                        "green": 19,
+                        "blue": 19
+                    },
+                    "score": 0.00014572761,
+                    "pixelFraction": 0.0004
+                },
+                {
+                    "color": {
+                        "red": 91,
+                        "green": 89,
+                        "blue": 91
+                    },
+                    "score": 0.010797639,
+                    "pixelFraction": 0.1122
+                },
+                {
+                    "color": {
+                        "red": 140,
+                        "green": 109,
+                        "blue": 115
+                    },
+                    "score": 0.004133234,
+                    "pixelFraction": 0.010933333
+                },
+                {
+                    "color": {
+                        "red": 180,
+                        "green": 155,
+                        "blue": 162
+                    },
+                    "score": 0.0031726211,
+                    "pixelFraction": 0.0054
+                },
+                {
+                    "color": {
+                        "red": 206,
+                        "green": 175,
+                        "blue": 179
+                    },
+                    "score": 0.0023685643,
+                    "pixelFraction": 0.0012666667
+                },
+                {
+                    "color": {
+                        "red": 59,
+                        "green": 53,
+                        "blue": 53
+                    },
+                    "score": 0.0020176114,
+                    "pixelFraction": 0.055733334
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1199
+                        },
+                        {
+                            "x": 1199,
+                            "y": 799
+                        },
+                        {
+                            "y": 799
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "tog"
+                        }
+                    ]
+                },
+                "width": 1200,
+                "height": 800,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "tog"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 33,
+                                    "y": 779
+                                },
+                                {
+                                    "x": 142,
+                                    "y": 779
+                                },
+                                {
+                                    "x": 142,
+                                    "y": 794
+                                },
+                                {
+                                    "x": 33,
+                                    "y": 794
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "tog"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 33,
+                                            "y": 779
+                                        },
+                                        {
+                                            "x": 142,
+                                            "y": 779
+                                        },
+                                        {
+                                            "x": 142,
+                                            "y": 794
+                                        },
+                                        {
+                                            "x": 33,
+                                            "y": 794
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "tog"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 33,
+                                                    "y": 779
+                                                },
+                                                {
+                                                    "x": 53,
+                                                    "y": 779
+                                                },
+                                                {
+                                                    "x": 53,
+                                                    "y": 794
+                                                },
+                                                {
+                                                    "x": 33,
+                                                    "y": 794
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 33,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 43,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 43,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 33,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "k"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 44,
+                                                            "y": 782
+                                                        },
+                                                        {
+                                                            "x": 53,
+                                                            "y": 782
+                                                        },
+                                                        {
+                                                            "x": 53,
+                                                            "y": 794
+                                                        },
+                                                        {
+                                                            "x": 44,
+                                                            "y": 794
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "o"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "nl"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 67,
+                                                    "y": 779
+                                                },
+                                                {
+                                                    "x": 142,
+                                                    "y": 779
+                                                },
+                                                {
+                                                    "x": 142,
+                                                    "y": 793
+                                                },
+                                                {
+                                                    "x": 67,
+                                                    "y": 793
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 67,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 87,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 87,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 67,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 88,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 105,
+                                                            "y": 779
+                                                        },
+                                                        {
+                                                            "x": 105,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 88,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "W"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 108,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 118,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 118,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 108,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 120,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 130,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 130,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 120,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "e"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "tog"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 131,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 142,
+                                                            "y": 783
+                                                        },
+                                                        {
+                                                            "x": 142,
+                                                            "y": 793
+                                                        },
+                                                        {
+                                                            "x": 131,
+                                                            "y": 793
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "s"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "ko eWees\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/g/11fb0655xs",
+                "score": 0.9714,
+                "description": "Virginia International Music Festival"
+            },
+            {
+                "entityId": "/g/11c58pdzk7",
+                "score": 0.9339627,
+                "description": "Norfolk NATO Festival"
+            },
+            {
+                "entityId": "/g/11cn945sch",
+                "score": 0.74722344,
+                "description": "Virginia International Tattoo Hullabaloo"
+            },
+            {
+                "entityId": "/g/11g07_6tf2",
+                "score": 0.70983005,
+                "description": "2019 Virginia International Tattoo"
+            },
+            {
+                "entityId": "/g/11f6cztlvq",
+                "score": 0.6471,
+                "description": "Norfolk NATO Festival Flag Raising"
+            },
+            {
+                "entityId": "/g/119v6203b",
+                "score": 0.57644403,
+                "description": "NATO Allied Command Transformation"
+            },
+            {
+                "entityId": "/m/07pm4y",
+                "score": 0.5512,
+                "description": "Military tattoo"
+            },
+            {
+                "entityId": "/m/05p74xp",
+                "score": 0.5158,
+                "description": "Virginia Arts Festival"
+            },
+            {
+                "entityId": "/m/0hr5k",
+                "score": 0.5081,
+                "description": "Festival"
+            },
+            {
+                "entityId": "/g/1tg5_jpd",
+                "score": 0.49233693,
+                "description": "Virginia Arts Festival"
+            },
+            {
+                "entityId": "/m/063r3",
+                "score": 0.4074,
+                "description": "Parade"
+            },
+            {
+                "entityId": "/m/03c9q4m",
+                "score": 0.19872001,
+                "description": "Virginia International Tattoo"
+            },
+            {
+                "entityId": "/m/02qw7gn",
+                "score": 0.010143818,
+                "description": "Downtown Norfolk"
+            },
+            {
+                "entityId": "/m/0fwc0",
+                "score": 0.00042137044,
+                "description": "Norfolk"
+            },
+            {
+                "entityId": "/m/07z1m",
+                "score": 2.5186564e-6,
+                "description": "Virginia"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://www.micr.marching.com/events/virginia-international-music-festival/norfolk-montage.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.vafest.org/norfolk-nato-festival/events/",
+                "pageTitle": "Events - The <b>Virginia</b> Arts Festival",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vafest.org/tattoo/tattoo-weekend-events/",
+                "pageTitle": "Tattoo Weekend Events - The <b>Virginia</b> Arts Festival",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/96704/tattoo_4parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://secure.vafest.org/single/eventDetail.aspx?p=562",
+                "pageTitle": "<b>Virginia</b> Arts Festival | Parade of Nations",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.marching.com/events/virginia-international-music-festival/",
+                "pageTitle": "<b>Virginia</b> International Music Festival and <b>Norfolk</b> NATO Festival ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.marching.com/events/virginia-international-music-festival/norfolk-montage.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.micr.marching.com/events/virginia-international-music-festival/",
+                "pageTitle": "<b>Virginia</b> International Music Festival and <b>Norfolk</b> NATO Festival ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.micr.marching.com/events/virginia-international-music-festival/norfolk-montage.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/nato-norfolk-virginia-30.html",
+                "pageTitle": "Nato <b>Norfolk Virginia</b> | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://elektryk24h.info/downtown-norfolk-tattoos.html",
+                "pageTitle": "<b>Downtown Norfolk</b> Tattoos - Elektryk24h",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://itravelpages.com/annual-south-norfolk-parade.aspx",
+                "pageTitle": "Annual South <b>Norfolk</b> Parade - Itravelpages",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.marching.com/events/virginia-international-music-festival/norfolk-montage.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nemetas.aufgegabelt.info/nemetas/out-of-the-box-festival-norfolk.php",
+                "pageTitle": "Out Of The Box Festival <b>Norfolk</b> -|- nemetas.aufgegabelt.info",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://parallel-welten.info/live/suggestions/hullabaloos-uva/",
+                "pageTitle": "Hullabaloos Uva - parallel-welten.info",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/96704/tattoo_4parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://damocle.fatradio.club/no/norfolk-va-nato.do",
+                "pageTitle": "<b>Norfolk Va</b> Nato archive - 104.5 fat radio",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://damocle.fatradio.club/no/norfolk-virginia-nato.do",
+                "pageTitle": "<b>Norfolk Virginia</b> Nato archive - 104.5 fat radio",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://phryxum.echium.info/directory/virginia-military-tattoo-2019.xhtml",
+                "pageTitle": "<b>Virginia</b> Military Tattoo 2019 - Phryxum",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.vafest.org/media/96704/tattoo_4parade.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.vafest.org/media/113998/event_parade.jpg"
+            },
+            {
+                "url": "https://bloximages.newyork1.vip.townnews.com/pilotonline.com/content/tncms/assets/v3/editorial/f/46/f469f332-442e-5214-b13e-bce527b77596/563d6eb22ca80.image.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/MJCAHH/us-marines-with-the-us-marine-corps-base-quantico-band-perform-during-the-virginia-international-tattoo-at-scope-arena-norfolk-virginia-april-27-2018-the-tattoo-showcases-over-1000-performers-from-seven-different-nations-celebrating-military-and-musical-heritage-from-all-over-the-world-us-marine-corps-photo-by-cpl-cristian-l-ricardo-MJCAHH.jpg"
+            },
+            {
+                "url": "http://www.haxball.co/wp-content/uploads/2018/02/norfolk-va-tourist-attractions-norfolks-downtown-waterfront-one-of-the-special-places-in-241x150.png"
+            },
+            {
+                "url": "http://www.hamptonroadspride.org/wp-content/uploads/2016/06/Downtown-Norfolk-Photo.jpg"
+            },
+            {
+                "url": "https://www.downtownnorfolk.org/_files/images/commercial-realestate.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/PR581J/the-colombian-navys-arc-gloria-docked-at-the-city-of-norfolks-otter-berth-in-downtown-norfolk-under-a-cloudy-and-overcast-sky-on-monday-september-17-2018-crew-members-from-the-uss-oscar-austin-ddg-79-were-on-hand-to-assist-with-line-handling-and-safely-docking-the-sailing-vessel-PR581J.jpg"
+            },
+            {
+                "url": "https://www.opednews.com/populum/cachedimages/s_700_opednews_com_0_screen-shot-2018-01-21-at-11-47-44-pm-png_1820_20180122-954.gif"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "norfolk va downtown 2018",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.93868273,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.33284947,
+                        "y": 0.6748204
+                    },
+                    {
+                        "x": 0.4232124,
+                        "y": 0.6748204
+                    },
+                    {
+                        "x": 0.4232124,
+                        "y": 0.9600528
+                    },
+                    {
+                        "x": 0.33284947,
+                        "y": 0.9600528
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9177299,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22758634,
+                        "y": 0.66258514
+                    },
+                    {
+                        "x": 0.31465515,
+                        "y": 0.66258514
+                    },
+                    {
+                        "x": 0.31465515,
+                        "y": 0.9656998
+                    },
+                    {
+                        "x": 0.22758634,
+                        "y": 0.9656998
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9137524,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.46070093,
+                        "y": 0.6258792
+                    },
+                    {
+                        "x": 0.5505932,
+                        "y": 0.6258792
+                    },
+                    {
+                        "x": 0.5505932,
+                        "y": 0.98452336
+                    },
+                    {
+                        "x": 0.46070093,
+                        "y": 0.98452336
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.85221803,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.071573965,
+                        "y": 0.6531733
+                    },
+                    {
+                        "x": 0.15864277,
+                        "y": 0.6531733
+                    },
+                    {
+                        "x": 0.15864277,
+                        "y": 0.96805274
+                    },
+                    {
+                        "x": 0.071573965,
+                        "y": 0.96805274
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5795487,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7271529,
+                        "y": 0.6663498
+                    },
+                    {
+                        "x": 0.8085747,
+                        "y": 0.6663498
+                    },
+                    {
+                        "x": 0.8085747,
+                        "y": 0.95628804
+                    },
+                    {
+                        "x": 0.7271529,
+                        "y": 0.95628804
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,916 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0dwx7",
+            "description": "logo",
+            "score": 0.6799155,
+            "topicality": 0.6799155
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.6170236,
+            "topicality": 0.6170236
+        },
+        {
+            "mid": "/m/021sdg",
+            "description": "graphics",
+            "score": 0.61512166,
+            "topicality": 0.61512166
+        },
+        {
+            "mid": "/m/01wk9c",
+            "description": "emblem",
+            "score": 0.6066554,
+            "topicality": 0.6066554
+        },
+        {
+            "mid": "/m/09ddf",
+            "description": "symbol",
+            "score": 0.56211925,
+            "topicality": 0.56211925
+        },
+        {
+            "mid": "/m/01cd9",
+            "description": "brand",
+            "score": 0.5585114,
+            "topicality": 0.5585114
+        },
+        {
+            "mid": "/m/03w43x",
+            "description": "computer wallpaper",
+            "score": 0.5214997,
+            "topicality": 0.5214997
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "la",
+            "description": "NATO AGRESOR!\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 30,
+                        "y": 151
+                    },
+                    {
+                        "x": 268,
+                        "y": 151
+                    },
+                    {
+                        "x": 268,
+                        "y": 169
+                    },
+                    {
+                        "x": 30,
+                        "y": 169
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 30,
+                        "y": 151
+                    },
+                    {
+                        "x": 111,
+                        "y": 151
+                    },
+                    {
+                        "x": 111,
+                        "y": 169
+                    },
+                    {
+                        "x": 30,
+                        "y": 169
+                    }
+                ]
+            }
+        },
+        {
+            "description": "AGRESOR!",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 121,
+                        "y": 151
+                    },
+                    {
+                        "x": 268,
+                        "y": 151
+                    },
+                    {
+                        "x": 268,
+                        "y": 169
+                    },
+                    {
+                        "x": 121,
+                        "y": 169
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "POSSIBLE",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 201,
+                        "green": 72,
+                        "blue": 56
+                    },
+                    "score": 0.086014174,
+                    "pixelFraction": 0.003817734
+                },
+                {
+                    "color": {
+                        "red": 101,
+                        "green": 28,
+                        "blue": 26
+                    },
+                    "score": 0.054657955,
+                    "pixelFraction": 0.01958128
+                },
+                {
+                    "color": {
+                        "red": 229,
+                        "green": 124,
+                        "blue": 66
+                    },
+                    "score": 0.035775285,
+                    "pixelFraction": 0.0014778326
+                },
+                {
+                    "color": {
+                        "red": 247,
+                        "green": 244,
+                        "blue": 243
+                    },
+                    "score": 0.030562127,
+                    "pixelFraction": 0.047413792
+                },
+                {
+                    "color": {
+                        "red": 233,
+                        "green": 181,
+                        "blue": 165
+                    },
+                    "score": 0.02312823,
+                    "pixelFraction": 0.0032019704
+                },
+                {
+                    "color": {
+                        "red": 222,
+                        "green": 191,
+                        "blue": 130
+                    },
+                    "score": 0.012559629,
+                    "pixelFraction": 0.0013546798
+                },
+                {
+                    "color": {
+                        "red": 218,
+                        "green": 83,
+                        "blue": 50
+                    },
+                    "score": 0.069912285,
+                    "pixelFraction": 0.0022167487
+                },
+                {
+                    "color": {
+                        "red": 157,
+                        "green": 42,
+                        "blue": 35
+                    },
+                    "score": 0.06711034,
+                    "pixelFraction": 0.007142857
+                },
+                {
+                    "color": {
+                        "red": 135,
+                        "green": 54,
+                        "blue": 51
+                    },
+                    "score": 0.05457636,
+                    "pixelFraction": 0.007881774
+                },
+                {
+                    "color": {
+                        "red": 148,
+                        "green": 56,
+                        "blue": 40
+                    },
+                    "score": 0.04849928,
+                    "pixelFraction": 0.005172414
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {
+                            "x": 20
+                        },
+                        {
+                            "x": 278
+                        },
+                        {
+                            "x": 278,
+                            "y": 179
+                        },
+                        {
+                            "x": 20,
+                            "y": 179
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 0.98999995
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "la"
+                        }
+                    ]
+                },
+                "width": 300,
+                "height": 180,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "la"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 30,
+                                    "y": 151
+                                },
+                                {
+                                    "x": 268,
+                                    "y": 151
+                                },
+                                {
+                                    "x": 268,
+                                    "y": 169
+                                },
+                                {
+                                    "x": 30,
+                                    "y": 169
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "la"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 30,
+                                            "y": 151
+                                        },
+                                        {
+                                            "x": 268,
+                                            "y": 151
+                                        },
+                                        {
+                                            "x": 268,
+                                            "y": 169
+                                        },
+                                        {
+                                            "x": 30,
+                                            "y": 169
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 30,
+                                                    "y": 151
+                                                },
+                                                {
+                                                    "x": 111,
+                                                    "y": 151
+                                                },
+                                                {
+                                                    "x": 111,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 30,
+                                                    "y": 169
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 30,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 50,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 50,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 30,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 53,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 73,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 73,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 53,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 73,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 87,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 87,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 73,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 89,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 111,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 111,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 89,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "la"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 121,
+                                                    "y": 151
+                                                },
+                                                {
+                                                    "x": 268,
+                                                    "y": 151
+                                                },
+                                                {
+                                                    "x": 268,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 121,
+                                                    "y": 169
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 121,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 140,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 140,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 121,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 143,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 163,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 163,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 143,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "G"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 167,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 182,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 182,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 167,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 186,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 200,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 200,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 186,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 201,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 214,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 214,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 201,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 218,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 240,
+                                                            "y": 151
+                                                        },
+                                                        {
+                                                            "x": 240,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 218,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 243,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 243,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "la"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 256,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 268,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 268,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 256,
+                                                            "y": 169
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "!"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "NATO AGRESOR!\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01vpl9",
+                "score": 0.75825,
+                "description": "NATO bombing of Yugoslavia"
+            },
+            {
+                "entityId": "/m/077qn",
+                "score": 0.6594,
+                "description": "Serbia"
+            },
+            {
+                "entityId": "/t/2fxgty247grjc",
+                "score": 0.6541
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6392
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.5197,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/04fh3",
+                "score": 0.49484998,
+                "description": "Kosovo"
+            },
+            {
+                "entityId": "/t/2gvt2p6g8xbyy",
+                "score": 0.45
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.4432
+            },
+            {
+                "entityId": "/m/0bh9507",
+                "score": 0.4151,
+                "description": "Propaganda during the Yugoslav Wars"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.3325
+            },
+            {
+                "entityId": "/m/0g0vg",
+                "score": 0.3242,
+                "description": "Aggression"
+            },
+            {
+                "entityId": "/m/082cb",
+                "score": 0.3091,
+                "description": "War"
+            },
+            {
+                "entityId": "/m/05s0v",
+                "score": 0.303,
+                "description": "Propaganda"
+            },
+            {
+                "entityId": "/t/21w2d5n3l63mb",
+                "score": 0.2735
+            },
+            {
+                "entityId": "/m/02w11t",
+                "score": 0.2601,
+                "description": "War of aggression"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://news.bbc.co.uk/olmedia/590000/images/_591916_300.jpg"
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/28479/420-420/Mortal+Kombat+(Europe)+(Rev+1)-image.jpg"
+            },
+            {
+                "url": "https://media.classicgames.me/snes/19317/mortal-kombat-ii-europe-rev-a_x.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/28488/420-420/Mortal+Kombat+II+(Europe)+(Rev+1)-image.jpg"
+            },
+            {
+                "url": "https://edgeemu.net/screenshots/n64/Named_Titles/Tony%20Hawk's%20Pro%20Skater%202%20(Europe).png"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/28457/420-420/Mighty+Morphin+Power+Rangers+-+The+Movie+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/30/24465/420-420/Fighters+Destiny+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://images.pokerfirma.com/2018/09/wsop-europe-LOGO-NEW.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/29934/420-420/Top+Gear+2+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/30/24709/420-420/Mortal+Kombat+Trilogy+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/27135/420-420/Brawl+Brothers+-+Rival+Turf!+2+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://edgeemu.net/screenshots/n64/Named_Titles/Donkey%20Kong%2064%20(Europe)%20(En,Fr,De,Es).png"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/27634/420-420/Flashback+(Europe)+(En,Fr,De)-image.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/27347/420-420/Demolition+Man+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://photos.wowroms.com/emulators-roms-logo/48/27212/420-420/Chaos+Engine,+The+(Europe)-image.jpg"
+            },
+            {
+                "url": "https://r.mprd.se/fup/up/182400-Hellgate_(Europe)-1497288877.jpg"
+            },
+            {
+                "url": "http://www.wildandaway.com/wp-content/uploads/2017/03/best-party-places-in-europe-th.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Europe"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/018xm",
+            "name": "Ball",
+            "score": 0.6854772,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.28984216,
+                        "y": 0.14862548
+                    },
+                    {
+                        "x": 0.7172166,
+                        "y": 0.14862548
+                    },
+                    {
+                        "x": 0.7172166,
+                        "y": 0.75819814
+                    },
+                    {
+                        "x": 0.28984216,
+                        "y": 0.75819814
+                    }
+                ]
+            }
+        }
+    ]
+}

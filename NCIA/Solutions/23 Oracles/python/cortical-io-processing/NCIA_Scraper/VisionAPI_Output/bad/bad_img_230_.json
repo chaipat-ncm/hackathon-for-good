@@ -1,0 +1,1378 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 579,
+                        "y": 64
+                    },
+                    {
+                        "x": 863,
+                        "y": 64
+                    },
+                    {
+                        "x": 863,
+                        "y": 395
+                    },
+                    {
+                        "x": 579,
+                        "y": 395
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 613,
+                        "y": 163
+                    },
+                    {
+                        "x": 821,
+                        "y": 163
+                    },
+                    {
+                        "x": 821,
+                        "y": 372
+                    },
+                    {
+                        "x": 613,
+                        "y": 372
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 679.6744,
+                        "y": 234.5393,
+                        "z": 0.0008978571
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 763.41205,
+                        "y": 218.85336,
+                        "z": 4.6429954
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 647.5532,
+                        "y": 218.74026,
+                        "z": 2.8099916
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 699.6803,
+                        "y": 213.41724,
+                        "z": -18.815367
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 740.7925,
+                        "y": 206.15317,
+                        "z": -16.475595
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 788.9175,
+                        "y": 193.70549,
+                        "z": 10.79155
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 723.3807,
+                        "y": 228.05199,
+                        "z": -15.7100525
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 733.49384,
+                        "y": 279.3921,
+                        "z": -32.281284
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 738.0341,
+                        "y": 310.14966,
+                        "z": -6.722897
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 740.41077,
+                        "y": 330.42297,
+                        "z": 3.1717823
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 700.08325,
+                        "y": 320.93997,
+                        "z": 16.623896
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 770.8935,
+                        "y": 311.14322,
+                        "z": 19.667633
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 738.6267,
+                        "y": 317.81494,
+                        "z": 1.3460488
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 755.3271,
+                        "y": 277.0813,
+                        "z": 2.8604991
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 709.1498,
+                        "y": 285.5542,
+                        "z": 0.13448845
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 733.6253,
+                        "y": 291.5362,
+                        "z": -10.325232
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 679.38477,
+                        "y": 229.82791,
+                        "z": -6.675484
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 697.8365,
+                        "y": 232.58646,
+                        "z": 1.44482
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 680.9285,
+                        "y": 239.94833,
+                        "z": 0.24697037
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 662.45605,
+                        "y": 236.68765,
+                        "z": 6.9111447
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 678.72656,
+                        "y": 235.23575,
+                        "z": -2.1576533
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 764.0089,
+                        "y": 214.81158,
+                        "z": -1.8960993
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 780.72235,
+                        "y": 215.70236,
+                        "z": 13.565519
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 765.4824,
+                        "y": 224.04987,
+                        "z": 4.9533763
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 747.6031,
+                        "y": 223.20926,
+                        "z": 4.2769637
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 765.6,
+                        "y": 219.84734,
+                        "z": 2.6776485
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 672.0647,
+                        "y": 206.83263,
+                        "z": -15.418219
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 763.89404,
+                        "y": 190.58109,
+                        "z": -10.239056
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 624.119,
+                        "y": 268.6791,
+                        "z": 108.698586
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 816.3219,
+                        "y": 234.65585,
+                        "z": 119.554535
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 720.325,
+                        "y": 209.28142,
+                        "z": -21.030787
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 746.4844,
+                        "y": 370.27643,
+                        "z": 22.539309
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 645.80475,
+                        "y": 326.53244,
+                        "z": 83.92258
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 818.8829,
+                        "y": 295.49774,
+                        "z": 93.68452
+                    }
+                }
+            ],
+            "rollAngle": -9.518837,
+            "panAngle": 3.2248843,
+            "tiltAngle": -9.697075,
+            "detectionConfidence": 0.96900535,
+            "landmarkingConfidence": 0.48023906,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/04stdlw",
+            "description": "competition event",
+            "score": 0.5881283,
+            "topicality": 0.5881283
+        },
+        {
+            "mid": "/m/0b4_rz",
+            "description": "championship",
+            "score": 0.5678157,
+            "topicality": 0.5678157
+        },
+        {
+            "mid": "/m/06bm2",
+            "description": "recreation",
+            "score": 0.53358215,
+            "topicality": 0.53358215
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.53328794,
+            "topicality": 0.53328794
+        },
+        {
+            "mid": "/m/01jwgf",
+            "description": "product",
+            "score": 0.50565404,
+            "topicality": 0.50565404
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "af",
+            "description": "NVLO\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 607,
+                        "y": 506
+                    },
+                    {
+                        "x": 683,
+                        "y": 506
+                    },
+                    {
+                        "x": 683,
+                        "y": 540
+                    },
+                    {
+                        "x": 607,
+                        "y": 540
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NVLO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 607,
+                        "y": 516
+                    },
+                    {
+                        "x": 679,
+                        "y": 506
+                    },
+                    {
+                        "x": 683,
+                        "y": 530
+                    },
+                    {
+                        "x": 610,
+                        "y": 540
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 4,
+                        "green": 18,
+                        "blue": 68
+                    },
+                    "score": 0.08564878,
+                    "pixelFraction": 0.036042754
+                },
+                {
+                    "color": {
+                        "red": 20,
+                        "green": 18,
+                        "blue": 19
+                    },
+                    "score": 0.0614556,
+                    "pixelFraction": 0.112022534
+                },
+                {
+                    "color": {
+                        "red": 77,
+                        "green": 42,
+                        "blue": 27
+                    },
+                    "score": 0.04815067,
+                    "pixelFraction": 0.042422734
+                },
+                {
+                    "color": {
+                        "red": 49,
+                        "green": 78,
+                        "blue": 166
+                    },
+                    "score": 0.048078235,
+                    "pixelFraction": 0.013008534
+                },
+                {
+                    "color": {
+                        "red": 229,
+                        "green": 236,
+                        "blue": 238
+                    },
+                    "score": 0.026237598,
+                    "pixelFraction": 0.044328444
+                },
+                {
+                    "color": {
+                        "red": 38,
+                        "green": 73,
+                        "blue": 186
+                    },
+                    "score": 0.0067886757,
+                    "pixelFraction": 0.0015742813
+                },
+                {
+                    "color": {
+                        "red": 29,
+                        "green": 44,
+                        "blue": 101
+                    },
+                    "score": 0.072205745,
+                    "pixelFraction": 0.026679924
+                },
+                {
+                    "color": {
+                        "red": 9,
+                        "green": 14,
+                        "blue": 37
+                    },
+                    "score": 0.05957271,
+                    "pixelFraction": 0.043417018
+                },
+                {
+                    "color": {
+                        "red": 53,
+                        "green": 51,
+                        "blue": 48
+                    },
+                    "score": 0.047273107,
+                    "pixelFraction": 0.07573121
+                },
+                {
+                    "color": {
+                        "red": 84,
+                        "green": 83,
+                        "blue": 81
+                    },
+                    "score": 0.045540117,
+                    "pixelFraction": 0.0761455
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 999
+                        },
+                        {
+                            "x": 999,
+                            "y": 540
+                        },
+                        {
+                            "y": 540
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 1.24
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "af"
+                        }
+                    ]
+                },
+                "width": 1000,
+                "height": 541,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "af"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 607,
+                                    "y": 506
+                                },
+                                {
+                                    "x": 683,
+                                    "y": 506
+                                },
+                                {
+                                    "x": 683,
+                                    "y": 540
+                                },
+                                {
+                                    "x": 607,
+                                    "y": 540
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "af"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 607,
+                                            "y": 506
+                                        },
+                                        {
+                                            "x": 683,
+                                            "y": 506
+                                        },
+                                        {
+                                            "x": 683,
+                                            "y": 540
+                                        },
+                                        {
+                                            "x": 607,
+                                            "y": 540
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "af"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 607,
+                                                    "y": 516
+                                                },
+                                                {
+                                                    "x": 679,
+                                                    "y": 506
+                                                },
+                                                {
+                                                    "x": 683,
+                                                    "y": 530
+                                                },
+                                                {
+                                                    "x": 610,
+                                                    "y": 540
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "af"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 607,
+                                                            "y": 516
+                                                        },
+                                                        {
+                                                            "x": 627,
+                                                            "y": 513
+                                                        },
+                                                        {
+                                                            "x": 630,
+                                                            "y": 536
+                                                        },
+                                                        {
+                                                            "x": 610,
+                                                            "y": 539
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "af"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 628,
+                                                            "y": 512
+                                                        },
+                                                        {
+                                                            "x": 647,
+                                                            "y": 510
+                                                        },
+                                                        {
+                                                            "x": 650,
+                                                            "y": 532
+                                                        },
+                                                        {
+                                                            "x": 631,
+                                                            "y": 535
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "V"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "af"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 647,
+                                                            "y": 512
+                                                        },
+                                                        {
+                                                            "x": 663,
+                                                            "y": 510
+                                                        },
+                                                        {
+                                                            "x": 666,
+                                                            "y": 533
+                                                        },
+                                                        {
+                                                            "x": 650,
+                                                            "y": 535
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "L"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "af"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 664,
+                                                            "y": 510
+                                                        },
+                                                        {
+                                                            "x": 680,
+                                                            "y": 508
+                                                        },
+                                                        {
+                                                            "x": 683,
+                                                            "y": 531
+                                                        },
+                                                        {
+                                                            "x": 667,
+                                                            "y": 533
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "NVLO\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0cqt90",
+                "score": 10.6365,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/g/11g0wgl3b7",
+                "score": 1.1649001,
+                "description": "2018 Brussels summit"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7155,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7155
+            },
+            {
+                "entityId": "/m/092j7k",
+                "score": 0.6891,
+                "description": "Summit"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.6639,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/02j9z",
+                "score": 0.58019996,
+                "description": "Europe"
+            },
+            {
+                "entityId": "/m/0_6t_z8",
+                "score": 0.5445,
+                "description": "European Union"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.4426
+            },
+            {
+                "entityId": "/m/060d2",
+                "score": 0.4219,
+                "description": "President of the United States"
+            },
+            {
+                "entityId": "/m/01h6cb",
+                "score": 0.4215,
+                "description": "Meeting"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.4128
+            },
+            {
+                "entityId": "/m/04jd6y6",
+                "score": 0.4125,
+                "description": "Russia\u2013NATO relations"
+            },
+            {
+                "entityId": "/m/07h93",
+                "score": 0.3387,
+                "description": "Treaty"
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 0.21585001,
+                "description": "NATO summit"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+            },
+            {
+                "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&r=LYNXMPEE680HH&w=1280"
+            },
+            {
+                "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm.jpg"
+            },
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&w=1200&r=LYNXMPEE680HH"
+            },
+            {
+                "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180709&t=2&i=1281094337&w=1200&r=LYNXMPEE680HH"
+            },
+            {
+                "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-frame-1024x1600_1rhfcD_FdIBtk.jpg"
+            },
+            {
+                "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-1024x610.jpg"
+            },
+            {
+                "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+            },
+            {
+                "url": "https://cdnpl2.img.sputniknews.com/images/850/29/8502981.jpg"
+            },
+            {
+                "url": "https://dol.ismcdn.jp/mwimgs/1/7/670m/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+            },
+            {
+                "url": "https://dol.ismcdn.jp/mwimgs/1/7/-/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+            },
+            {
+                "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-fixed-561x315_1rhfcD_6ztUro.jpg"
+            },
+            {
+                "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-504x300.jpg"
+            },
+            {
+                "url": "https://cdn-ak-scissors.b.st-hatena.com/image/square/e60e45deed84dac8fbb55190560b68d6feb16bd8/height=280;version=1;width=400/https%3A%2F%2Fdol.ismcdn.jp%2Fmwimgs%2F1%2F7%2F-%2Fimg_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://sputniknews.com/analysis/201807111066244310-donald-trump-nato-summit-burden-sharing/",
+                "pageTitle": "&#39;Bad Atmosphere&#39; Shrouds <b>2018 NATO Summit</b> As Trump, EU Tussle",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+                    },
+                    {
+                        "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/world/201807111066269707-nato-summit-money-issues/",
+                "pageTitle": "Money Issues Dominate <b>NATO Summit</b> Agenda in Brussels - Sputnik ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/tags/keyword_NATO_summit/",
+                "pageTitle": "<b>NATO summit</b> - Sputnik International",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146659.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/europe/201807081066167646-nato-summit-brussels-protests/",
+                "pageTitle": "Brussels Counter-<b>Summit</b> Delegates Want <b>NATO</b> to &quot;Make Peace ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://breakingnewsheadlines.net/bad-atmosphere-shrouds-2018-nato-summit-as-trump-eu-tussle/",
+                "pageTitle": "&#39;Bad Atmosphere&#39; Shrouds <b>2018 NATO Summit</b> As Trump, EU Tussle",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://breakingnewsheadlines.net/wp-content/uploads/2018/07/bad-atmosphere-shrouds-2018-nato-summit-as-trump-eu-tussle.jpg"
+                    },
+                    {
+                        "url": "https://breakingnewsheadlines.net/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ag.worldpronews.com/75382/5584/0/80efacd2bc00e26e283e67e8711993fdfb9e7986",
+                "pageTitle": "Viewing Russia News (EN) feeds ~ World Professional News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.worldmilitarynews.com/2018/07/07/peace-activists-say-no-to-natos-wars-expansion-military-spending-video/",
+                "pageTitle": "Peace Activists Say &quot;No&quot; to <b>NATO&#39;s</b> Wars, Expansion, Military ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://travel.kbplatinum.co.bw/2018/07/07/peace-activists-say-no-to-natos-wars-expansion-military-spending-video/",
+                "pageTitle": "Peace Activists Say &quot;No&quot; to <b>NATO&#39;s</b> Wars, Expansion, Military ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://travel.kbplatinum.co.bw/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tech2.org/austria/will-nato-survive-donald-trump/",
+                "pageTitle": "Will <b>NATO</b> survive Donald Trump? \u2013 TECH2",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-fixed-561x315_1rhfcD_6ztUro.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.4search.com/thedenverchannel.com/aclu-claims-secrecy-shrouds-colorado-ice-cases-amid-iranian-detainees-death/",
+                "pageTitle": "ACLU claims secrecy shrouds Colorado ICE cases amid Iranian ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://d.digests.nhub.news/2018/07/11/06/usa_en_mix.html.1.html",
+                "pageTitle": "DC5n United States mix in english Created at <b>2018</b>-07-11 06:19",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://morristowncab.info/post/reinforce-natos-brussels",
+                "pageTitle": "Reinforce Natos Brussels - Morristowncab",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://d.digests.nhub.news/2018/07/08/00/usa_en_mix.html.1.html",
+                "pageTitle": "DC5m United States mix in english Created at <b>2018</b>-07-08 00:09",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.img.sputniknews.com/images/106614/66/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picturesboss.com/pictures/guard-nato-salez-belgium-stand-newspictures-a3.html",
+                "pageTitle": "Guard <b>Nato</b> Salez Belgium Stand Newspictures | www.picturesboss ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nvemedia.com/info/natos-expansion",
+                "pageTitle": "Natos Expansion - NVE Media",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://nikos13galanisgmail.blogspot.com/2018/07/paris-we-wont-allow-trump-to-israel.html",
+                "pageTitle": "Paris: We Won&#39;t Allow Trump to ...........Israel Helps Militants in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://address-db.info/natos-expansion",
+                "pageTitle": "Natos Expansion - Address DB",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://alphabetofpromises.com/natos-expansion.html",
+                "pageTitle": "Natos Expansion | Alphabetofpromises",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.soynadie.net/2018/07/07/internacional/peace-activists-say-no-to-natos-wars-expansion-military-spending-video/",
+                "pageTitle": "Peace Activists Say &quot;No&quot; to <b>NATO&#39;s</b> Wars, Expansion, Military ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/07/Peace-Activists-Say-No-to-NATOs-Wars-Expansion-Military-Spending-VIDEO.jpg"
+                    },
+                    {
+                        "url": "https://www.soynadie.net/wp-content/uploads/2018/07/1066146667.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nachrichten.at/nachrichten/politik/aussenpolitik/Wird-die-NATO-Donald-Trump-ueberleben;art391,2948303",
+                "pageTitle": "Wird die <b>NATO</b> Donald Trump \u00fcberleben? | Nachrichten.at",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-fixed-561x315_1rhfcD_6ztUro.jpg"
+                    },
+                    {
+                        "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-frame-1024x1600_1rhfcD_FdIBtk.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://diamond.jp/articles/-/174574",
+                "pageTitle": "\u30c8\u30e9\u30f3\u30d7\u6c0f\u306e\u8a2a\u6b27\u306b\u8eab\u69cb\u3048\u3001\u5c90\u8def\u306b\u7acb\u3064\u6b27\u7c73\u540c\u76df\u95a2\u4fc2 | \u30ed\u30a4\u30bf\u30fc\u767a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://dol.ismcdn.jp/mwimgs/1/7/-/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    },
+                    {
+                        "url": "https://dol.ismcdn.jp/mwimgs/1/7/670m/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jp.reuters.com/article/usa-trump-europe-idJPKBN1JZ0KK",
+                "pageTitle": "\u7126\u70b9\uff1a\u30c8\u30e9\u30f3\u30d7\u6c0f\u306e\u8a2a\u6b27\u306b\u8eab\u69cb\u3048\u3001\u5c90\u8def\u306b\u7acb\u3064\u6b27\u7c73\u540c\u76df\u95a2\u4fc2 | \u30ed\u30a4\u30bf\u30fc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&r=LYNXMPEE680HH&w=1280"
+                    },
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&w=1200&r=LYNXMPEE680HH"
+                    }
+                ]
+            },
+            {
+                "url": "https://mobil.nachrichten.at/nachrichten/politik/aussenpolitik/Wird-die-NATO-Donald-Trump-ueberleben;art391,2948303",
+                "pageTitle": "Wird die <b>NATO</b> Donald Trump \u00fcberleben? | Nachrichten.at",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-frame-1024x1600_1rhfcD_FdIBtk.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jp.reuters.com/article/usa-trump-europe-idJPKBN1JZ0KK?rpc=135",
+                "pageTitle": "\u7126\u70b9\uff1a\u30c8\u30e9\u30f3\u30d7\u6c0f\u306e\u8a2a\u6b27\u306b\u8eab\u69cb\u3048\u3001\u5c90\u8def\u306b\u7acb\u3064\u6b27\u7c73\u540c\u76df\u95a2\u4fc2 | \u30ed\u30a4\u30bf\u30fc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&r=LYNXMPEE680HH&w=1280"
+                    },
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&w=1200&r=LYNXMPEE680HH"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.blog.daum.net/economicpot/7049",
+                "pageTitle": "\ud2b8\ub7fc\ud504\uc758 \uc720\ub7fd \ubc29\ubb38\uc5d0 \ubc18\uaca9\ud0dc\uc138, \uae30\ub85c\uc5d0 \uc120 \ubbf8-\uc720\ub7fd\uc758 \ub3d9\ub9f9\uad00\uacc4 <b>2018</b>\ub144 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://dol.ismcdn.jp/mwimgs/1/7/670m/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://jp.reuters.com/article/usa-trump-europe-idJPKBN1JZ0KK?rpc=122",
+                "pageTitle": "\u7126\u70b9\uff1a\u30c8\u30e9\u30f3\u30d7\u6c0f\u8a2a\u6b27\u306b\u8eab\u69cb\u3048\u3001\u5c90\u8def\u306b\u7acb\u3064\u6b27\u7c73\u540c\u76df\u95a2\u4fc2 | \u30ed\u30a4\u30bf\u30fc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180709&t=2&i=1281094337&w=1200&r=LYNXMPEE680HH"
+                    }
+                ]
+            },
+            {
+                "url": "http://b.hatena.ne.jp/binnosuke/20180710",
+                "pageTitle": "\u306f\u3066\u306a\u30d6\u30c3\u30af\u30de\u30fc\u30af - binnosuke\u306e\u30d6\u30c3\u30af\u30de\u30fc\u30af / <b>2018</b>\u5e747\u670810\u65e5",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn-ak-scissors.b.st-hatena.com/image/square/e60e45deed84dac8fbb55190560b68d6feb16bd8/height=280;version=1;width=400/https%3A%2F%2Fdol.ismcdn.jp%2Fmwimgs%2F1%2F7%2F-%2Fimg_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.protagon.gr/epikairotita/allez-les-bleus-gallia-ston-teliko-44341654582",
+                "pageTitle": "Allez les Bleus: \u03b7 \u0393\u03b1\u03bb\u03bb\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc | Protagon.gr",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-504x300.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.imagenesmy.com/imagenes/nato-bad-c3.html",
+                "pageTitle": "<b>Nato</b> Bad | www.imagenesmy.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.protagon.gr/epikairotita/44341654617-44341654617",
+                "pageTitle": "\u039f \u0391\u03bb\u03ad\u03be\u03b7\u03c2 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1\u03c2 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03c0\u03af\u03c1\u03b1 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03c4\u03bf \u0393\u03b1\u03bb\u03bb\u03af\u03b1 - \u0392\u03ad\u03bb\u03b3\u03b9\u03bf \u03c3\u03b5 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-504x300.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.protagon.gr/epikairotita/o-mitsotakis-proaniggeile-tolmiri-rythmisi-gia-to-idiwtiko-xreos-twn-epixeirisewn-44341654560",
+                "pageTitle": "\u039f \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2 \u03c0\u03c1\u03bf\u03b1\u03bd\u03ae\u03b3\u03b3\u03b5\u03b9\u03bb\u03b5 \u03c4\u03bf\u03bb\u03bc\u03b7\u03c1\u03ae \u03c1\u03cd\u03b8\u03bc\u03b9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03cc \u03c7\u03c1\u03ad\u03bf\u03c2 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-504x300.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.protagon.gr/epikairotita/44341653437-44341653437",
+                "pageTitle": "\u0398\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c8\u03b5\u03b9 \u03c4\u03bf \u039d\u0391\u03a4\u039f \u03bf \u03a4\u03c1\u03b1\u03bc\u03c0; | Protagon.gr",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-1024x610.jpg"
+                    },
+                    {
+                        "url": "https://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://diamond.jp/category/series?page=75",
+                "pageTitle": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3 \u6700\u65b0\u8a18\u4e8b | \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30aa\u30f3\u30e9\u30a4\u30f3",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://diamond.jp/mwimgs/1/7/-/img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://d.digests.nhub.news/2018/08/07/00/poland_pl_mix.html",
+                "pageTitle": "DC5m Polish mix in polish Created at <b>2018</b>-08-07 00:14",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdnpl2.img.sputniknews.com/images/850/29/8502977.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://press24.net/news/9096598/nato-gipfel-berschattet-durch-streit-mit-trump",
+                "pageTitle": "<b>NATO</b>-Gipfel \u00fcberschattet durch Streit mit Trump - Press24.net",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static3.nachrichten.at/storage/image/5/3/1/0/2030135_cms2image-frame-1024x1600_1rhfcD_FdIBtk.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://blog.goo.ne.jp/aya-fs710/e/cd230f60c25a98d34baf85c691fe9634",
+                "pageTitle": "\u30a4\u30e9\u30f3\u304c\u77f3\u6cb9\u3092\u58f2\u308b\u3053\u3068\u304c\u3067\u304d\u306a\u3051\u308c\u3070\u3001\u30da\u30eb\u30b7\u30a2\u6e7e\u304b\u3089\u8f38\u51fa\u3059\u308b\u56fd\u306f ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn3.img.sputniknews.com/images/106614/66/1066146664.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nikona.gr/l/%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%80%CF%81%CF%8C%CE%B5%CE%B4%CF%81%CE%BF-%CE%B1%CE%BD%CE%B1%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7-%CF%87%CF%81%CE%B2%CE%AC%CF%84%CF%83%CE%BA%CE%B1-%CE%B1%CE%B3%CE%B3%CE%BB%CE%AF%CE%B15dd12b92",
+                "pageTitle": "\u03a7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf \u03b7 \u03b1\u03bd\u03b1\u03bc\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 &quot;\u03a7\u03c1\u03b2\u03ac\u03c4\u03c3\u03ba\u03b1&quot; \u03bc\u03b5 \u03c4\u03b7\u03bd \u0391\u03b3\u03b3\u03bb\u03af\u03b1 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.protagon.gr/wp-content/uploads/2018/07/2018-07-07T141652Z_768900756_RC14CFD09E30_RTRMADP_3_NATO-SUMMIT-PROTESTsm-1024x610.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://d.digests.nhub.news/2018/07/09/12/japan_jp_mix.html.1.html",
+                "pageTitle": "DC5n Japan mix in japan Created at <b>2018</b>-07-09 12:20",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180709&t=2&i=1281094337&w=1200&r=LYNXMPEE680HH"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.bgfan.ir/%D8%A7%D8%AA%D9%85%D8%B3%D9%81%D8%B1-%D8%A8%D8%AF-%D9%88-039%D8%9B-%D8%AC%D8%A7%D9%85-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-2018-%D9%86%D8%A7%D8%AA%D9%88-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-tr/",
+                "pageTitle": "&#39;\u0627\u062a\u0645\u0633\u0641\u0631 \u0628\u062f \u0648 # 039\u061b \u062c\u0627\u0645 \u062c\u0647\u0627\u0646\u06cc <b>2018</b> \u0646\u0627\u062a\u0648 \u0628\u0647 \u0639\u0646\u0648\u0627\u0646 Trump\u060c \u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u0627\u0631\u0648\u067e\u0627 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vaaju.com/japan/%E7%84%A6%E7%82%B9%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E7%94%9F%E8%AE%BF%E9%97%AE%E6%AC%A7%E7%9B%9F%EF%BC%8C%E6%AC%A7%E6%B4%B2%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%81%94%E7%9B%9F%E5%9C%A8%E4%B8%80/",
+                "pageTitle": "\u7126\u70b9\uff1a\u7279\u6717\u666e\u5148\u751f\u8bbf\u95ee\u6b27\u76df\uff0c\u6b27\u6d32\u548c\u7f8e\u56fd\u8054\u76df\u5728\u4e00\u4e2a\u5341\u5b57\u8def\u53e3\u8def\u900f\u793e",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20180710&t=2&i=1281512342&w=1200&r=LYNXMPEE680HH"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.fresh.mixh.jp/archives/13714",
+                "pageTitle": "\u9f3b\u3092\u4f4e\u304f\u3001\u5c0f\u3055\u304f\u2026\u6574\u5f62\u306f\u30a4\u30e9\u30f3\u5973\u6027\u306e\u30b9\u30c6\u30fc\u30bf\u30b9 \u2013 THE NEWS",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://news.fresh.mixh.jp/rss/download/20180710105249-img_17014dcc49193d1d3ee30ab3b279cbf160347.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdn5.img.sputniknews.com/images/106614/66/1066146651.jpg"
+            },
+            {
+                "url": "https://www.commondreams.org/sites/default/files/styles/cd_large/public/headlines/nato_military_sanders_trump.png?itok=CvQpJEgR"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/P4A4JD/washington-usa-20th-june-2018-german-defence-minister-from-the-christian-democratic-union-cdu-ursula-von-der-leyen-delivering-a-statement-to-the-press-in-front-of-the-white-house-the-german-defence-minister-is-conducting-talks-on-her-two-day-visit-to-the-us-in-preparation-for-the-nato-summit-in-july-2018-credit-jens-bttnerdpa-zentralbilddpaalamy-live-news-P4A4JD.jpg"
+            },
+            {
+                "url": "https://cache.pakistantoday.com.pk/aa-14.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/the-2018-nato-summit-is-being-held-at-nato-headquarters-on-july-11-picture-id996295576?s=612x612"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/turkish-president-recep-tayyip-erdogan-attends-the-2018-nato-summit-picture-id996328810?k=6&m=996328810&s=612x612&w=0&h=5eWmJTHQZYEGeWBlOkTvENuoir7DIKpMB-NEXIBT5ow="
+            },
+            {
+                "url": "https://c8.alamy.com/comp/P8H03G/belgium-brussels-11th-july-2018-donald-trump-president-of-the-united-states-of-america-and-nato-secretary-general-jens-stoltenberg-meet-at-the-brussel-residence-of-the-american-ambassador-on-the-occasion-of-the-nato-summit-from-11-july-2018-until-12-july-2018-government-heads-of-the-29-nato-member-states-and-european-union-representatives-will-participate-in-the-summit-of-the-north-atlantic-treaty-organization-credit-bernd-von-jutrczenkadpaalamy-live-news-P8H03G.jpg"
+            },
+            {
+                "url": "http://static.atimes.com/uploads/2018/05/2018-05-17T182848Z_562700679_HP1EE5H1FBZ4X_RTRMADP_3_USA-TRUMP-NATO-630x378.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "2018 nato summit",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.8504435,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.110000014,
+                        "y": 0.013529424
+                    },
+                    {
+                        "x": 0.994,
+                        "y": 0.013529424
+                    },
+                    {
+                        "x": 0.994,
+                        "y": 0.9892941
+                    },
+                    {
+                        "x": 0.110000014,
+                        "y": 0.9892941
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.76046526,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.110000014,
+                        "y": 0.013529424
+                    },
+                    {
+                        "x": 0.994,
+                        "y": 0.013529424
+                    },
+                    {
+                        "x": 0.994,
+                        "y": 0.9892941
+                    },
+                    {
+                        "x": 0.110000014,
+                        "y": 0.9892941
+                    }
+                ]
+            }
+        }
+    ]
+}

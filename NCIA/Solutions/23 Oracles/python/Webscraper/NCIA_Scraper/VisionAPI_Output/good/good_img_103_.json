@@ -1,0 +1,472 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g5v",
+            "description": "blue",
+            "score": 0.96833885,
+            "topicality": 0.96833885
+        },
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.93748534,
+            "topicality": 0.93748534
+        },
+        {
+            "mid": "/m/03120",
+            "description": "flag",
+            "score": 0.876075,
+            "topicality": 0.876075
+        },
+        {
+            "mid": "/m/03jn2m",
+            "description": "azure",
+            "score": 0.80992043,
+            "topicality": 0.80992043
+        },
+        {
+            "mid": "/m/04f62z",
+            "description": "cobalt blue",
+            "score": 0.8076118,
+            "topicality": 0.8076118
+        },
+        {
+            "mid": "/m/02vwbzz",
+            "description": "electric blue",
+            "score": 0.6587558,
+            "topicality": 0.6587558
+        },
+        {
+            "mid": "/m/03m9d0z",
+            "description": "wind",
+            "score": 0.646786,
+            "topicality": 0.646786
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 1,
+                        "green": 22,
+                        "blue": 73
+                    },
+                    "score": 0.19107193,
+                    "pixelFraction": 0.035013698
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 121,
+                        "blue": 180
+                    },
+                    "score": 0.12766725,
+                    "pixelFraction": 0.11342466
+                },
+                {
+                    "color": {
+                        "red": 4,
+                        "green": 49,
+                        "blue": 124
+                    },
+                    "score": 0.10490002,
+                    "pixelFraction": 0.019342465
+                },
+                {
+                    "color": {
+                        "red": 2,
+                        "green": 21,
+                        "blue": 52
+                    },
+                    "score": 0.028876962,
+                    "pixelFraction": 0.0083287675
+                },
+                {
+                    "color": {
+                        "red": 26,
+                        "green": 90,
+                        "blue": 149
+                    },
+                    "score": 0.11752322,
+                    "pixelFraction": 0.22471233
+                },
+                {
+                    "color": {
+                        "red": 6,
+                        "green": 44,
+                        "blue": 103
+                    },
+                    "score": 0.09548694,
+                    "pixelFraction": 0.016383562
+                },
+                {
+                    "color": {
+                        "red": 13,
+                        "green": 74,
+                        "blue": 150
+                    },
+                    "score": 0.08187877,
+                    "pixelFraction": 0.016657535
+                },
+                {
+                    "color": {
+                        "red": 97,
+                        "green": 157,
+                        "blue": 214
+                    },
+                    "score": 0.048605263,
+                    "pixelFraction": 0.018356165
+                },
+                {
+                    "color": {
+                        "red": 14,
+                        "green": 57,
+                        "blue": 106
+                    },
+                    "score": 0.03828181,
+                    "pixelFraction": 0.009479452
+                },
+                {
+                    "color": {
+                        "red": 16,
+                        "green": 91,
+                        "blue": 162
+                    },
+                    "score": 0.034116913,
+                    "pixelFraction": 0.01879452
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 755
+                        },
+                        {
+                            "x": 755,
+                            "y": 879
+                        },
+                        {
+                            "y": 879
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/03120",
+                "score": 0.9161533,
+                "description": "Flag"
+            },
+            {
+                "entityId": "/m/03cfqp",
+                "score": 0.719,
+                "description": "Flag of NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.706
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.706,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/056vv",
+                "score": 0.59505,
+                "description": "Montenegro"
+            },
+            {
+                "entityId": "/g/12bmt3p68",
+                "score": 0.582,
+                "description": "Fahnen und Flaggen"
+            },
+            {
+                "entityId": "/m/03y39",
+                "score": 0.5081,
+                "description": "Information"
+            },
+            {
+                "entityId": "/m/0k0vt90",
+                "score": 0.4844,
+                "description": "NATO Communications and Information Agency"
+            },
+            {
+                "entityId": "/g/122nj211",
+                "score": 0.4706,
+                "description": "Fahne"
+            },
+            {
+                "entityId": "/m/0jg24",
+                "score": 0.4696,
+                "description": "Image"
+            },
+            {
+                "entityId": "/m/01009lh0",
+                "score": 0.4044,
+                "description": "Depositphotos"
+            },
+            {
+                "entityId": "/t/2fxgty247grjc",
+                "score": 0.4018
+            },
+            {
+                "entityId": "/m/07yst1",
+                "score": 0.3869,
+                "description": "Royalty-free"
+            },
+            {
+                "entityId": "/m/05wkw",
+                "score": 0.373,
+                "description": "Photography"
+            },
+            {
+                "entityId": "/m/068jd",
+                "score": 0.3727,
+                "description": "Photograph"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://st2.depositphotos.com/2735675/5248/i/950/depositphotos_52489677-stock-photo-nato-flag-waving-on-the.jpg"
+            },
+            {
+                "url": "https://i.investopedia.com/content/medium_article/the_economic_demise_/shutterstock_160372295.jpg"
+            },
+            {
+                "url": "https://www.fahnen-kreisel.de/wp-content/uploads/2014/04/flaggemasten_thumb_3.png"
+            },
+            {
+                "url": "https://zokstersomething.files.wordpress.com/2014/09/1d3bf6b2-d33d-44a6-a73d-addcbfce8206_w640_r1_s_cx0_cy8_cw0.jpg?w=350&h=200&crop=1"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://depositphotos.com/52489677/stock-photo-nato-flag-waving-on-the.html",
+                "pageTitle": "NATO flag waving on the wind \u2014 Stock Photo \u00a9 flogeljiri #52489677",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st2.depositphotos.com/2735675/5248/i/950/depositphotos_52489677-stock-photo-nato-flag-waving-on-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.investopedia.com/articles/investing/021716/why-ussr-collapsed-economically.asp",
+                "pageTitle": "Why the USSR Collapsed Economically | Investopedia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.investopedia.com/content/medium_article/the_economic_demise_/shutterstock_160372295.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/en/portfolio_category/budujemy-kompletne-niezawodne-i-sprawdzone-rozwiazania-z-naciskiem-na-przetwarzanie-i-zarzadzanie-znacznymi-ilosciami-danych-telekomunikacyjnych-en/",
+                "pageTitle": "Enigma SOI since 2017 is providing cryptographic solutions for NCI ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/en/portfolio-posts/telecommunication/",
+                "pageTitle": "NATO - Enigma - Enigma | SOI",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/portfolio_category/budujemy-kompletne-niezawodne-i-sprawdzone-rozwiazania-z-naciskiem-na-przetwarzanie-i-zarzadzanie-znacznymi-ilosciami-danych-telekomunikacyjnych/",
+                "pageTitle": "Enigma Systemy Ochrony Informacji dostarcza rozwi\u0105zania ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/portfolio-posts/nato/",
+                "pageTitle": "NATO - Enigma",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/portfolio-posts/energetyka-i-przemysl/",
+                "pageTitle": "Energetyka, telekomunikacja i przemys\u0142 - Enigma",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.enigma.com.pl/portfolio-posts/sluzby-mundurowe/",
+                "pageTitle": "S\u0142u\u017cby mundurowe - Enigma",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fr.depositphotos.com/52489677/stock-photo-nato-flag-waving-on-the.html",
+                "pageTitle": "drapeau de l&#39;OTAN en agitant sur le vent \u2014 Photographie flogeljiri ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st2.depositphotos.com/2735675/5248/i/950/depositphotos_52489677-stock-photo-nato-flag-waving-on-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.fahnen-kreisel.de/wissen/fahnen-flaggen-beudeutung/",
+                "pageTitle": "Fahnen und Flaggen - Geschichte und Bedeutung - Fahnen-Kreisel",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.fahnen-kreisel.de/wp-content/uploads/2014/04/flaggemasten_thumb_3.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://rave2.wordpress.com/2015/12/02/milo-dukanovic-izjava-povodom-poziva-crnoj-gori-za-clanstvo-u-nato/",
+                "pageTitle": "MILO \u0110UKANOVI\u0106 \u2013 Izjava povodom poziva Crnoj Gori za \u010dlanstvo ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://zokstersomething.files.wordpress.com/2014/09/1d3bf6b2-d33d-44a6-a73d-addcbfce8206_w640_r1_s_cx0_cy8_cw0.jpg?w=350&h=200&crop=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://cn.depositphotos.com/52489677/stock-photo-nato-flag-waving-on-the.html",
+                "pageTitle": "\u5317\u7ea6\u65d7\u5e1c\u968f\u98ce\u98d8\u626c\u2014 \u56fe\u5e93\u7167\u7247\u00a9flogeljiri\uff0352489677",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://st2.depositphotos.com/2735675/5248/i/950/depositphotos_52489677-stock-photo-nato-flag-waving-on-the.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://rave2.wordpress.com/2015/11/20/opusteno-poziv-u-nato-1-decembra/",
+                "pageTitle": "opu\u0161teno: Poziv u NATO 1. decembra | rave utopia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://zokstersomething.files.wordpress.com/2014/09/1d3bf6b2-d33d-44a6-a73d-addcbfce8206_w640_r1_s_cx0_cy8_cw0.jpg?w=350&h=200&crop=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://rave2.wordpress.com/2015/07/27/bizarre-news-sanda-raskovic-ivic-danas-je-predsjednica-dss-a-jedne-propale-i-bizarne-politicka-partije/",
+                "pageTitle": "Bizarre News: \u201cSanda Ra\u0161kovi\u0107 Ivi\u0107 , danas je predsjednica DSS-a ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://zokstersomething.files.wordpress.com/2014/09/1d3bf6b2-d33d-44a6-a73d-addcbfce8206_w640_r1_s_cx0_cy8_cw0.jpg?w=350&h=200&crop=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.yukle.mobi/sekil-yukle/?q=Nato+bayragi&page=5",
+                "pageTitle": "Nato bayragi sor\u011fusuna uy\u011fun \u015fekilleri pulsuz y\u00fckle, bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tr.eyeni.biz/resim-indir/?q=Nato+bayragi&page=6",
+                "pageTitle": "Nato bayragi sorgusuna uygun resimleri bedava indir",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.enigma.com.pl/wp-content/uploads/2016/07/nato-enigma-flaga-1.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://flagimages.net/wp-content/uploads/2018/05/ArubaFlagPicture.jpg"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/ryzhkovoleksandr/ryzhkovoleksandr1712/ryzhkovoleksandr171200794/92521564-greek-flag-in-the-wind-against-a-blue-summer-sky.jpg?ver=6"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/watiporn/watiporn1401/watiporn140100123/25039547-thai-flag.jpg?ver=6"
+            },
+            {
+                "url": "https://www.oxifreshfranchise.com/wp-content/uploads/2018/03/blog-us-flag.jpg"
+            },
+            {
+                "url": "https://www.hayling.co.uk/wp-content/uploads/2016/05/europeanblueflag.jpg"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/the-union-flag-waves-over-downing-street-london-on-december-18-2017-picture-id894785578?s=612x612"
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/low-angle-view-of-scottish-flag-against-clear-blue-sky-picture-id645491581?s=612x612"
+            },
+            {
+                "url": "https://www.allstarflags.com/inc/files/editor/image/halfstaff.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "sky"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.8378641,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.18533139,
+                        "y": 0.16984215
+                    },
+                    {
+                        "x": 0.8772569,
+                        "y": 0.16984215
+                    },
+                    {
+                        "x": 0.8772569,
+                        "y": 0.51909906
+                    },
+                    {
+                        "x": 0.18533139,
+                        "y": 0.51909906
+                    }
+                ]
+            }
+        }
+    ]
+}

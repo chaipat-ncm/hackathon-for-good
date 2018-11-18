@@ -1,0 +1,765 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g5v",
+            "description": "blue",
+            "score": 0.968144,
+            "topicality": 0.968144
+        },
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.9336345,
+            "topicality": 0.9336345
+        },
+        {
+            "mid": "/m/03120",
+            "description": "flag",
+            "score": 0.92665565,
+            "topicality": 0.92665565
+        },
+        {
+            "mid": "/m/03m9d0z",
+            "description": "wind",
+            "score": 0.51976657,
+            "topicality": 0.51976657
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 34,
+                        "green": 117,
+                        "blue": 229
+                    },
+                    "score": 0.21457368,
+                    "pixelFraction": 0.025
+                },
+                {
+                    "color": {
+                        "red": 62,
+                        "green": 152,
+                        "blue": 247
+                    },
+                    "score": 0.13410315,
+                    "pixelFraction": 0.01904762
+                },
+                {
+                    "color": {
+                        "red": 4,
+                        "green": 30,
+                        "blue": 125
+                    },
+                    "score": 0.049226362,
+                    "pixelFraction": 0.005873016
+                },
+                {
+                    "color": {
+                        "red": 143,
+                        "green": 196,
+                        "blue": 254
+                    },
+                    "score": 0.022078859,
+                    "pixelFraction": 0.006190476
+                },
+                {
+                    "color": {
+                        "red": 164,
+                        "green": 229,
+                        "blue": 255
+                    },
+                    "score": 0.0019885637,
+                    "pixelFraction": 0.00055555557
+                },
+                {
+                    "color": {
+                        "red": 51,
+                        "green": 119,
+                        "blue": 215
+                    },
+                    "score": 0.12853445,
+                    "pixelFraction": 0.03626984
+                },
+                {
+                    "color": {
+                        "red": 53,
+                        "green": 142,
+                        "blue": 252
+                    },
+                    "score": 0.105431706,
+                    "pixelFraction": 0.012460317
+                },
+                {
+                    "color": {
+                        "red": 57,
+                        "green": 127,
+                        "blue": 212
+                    },
+                    "score": 0.07742329,
+                    "pixelFraction": 0.24960317
+                },
+                {
+                    "color": {
+                        "red": 31,
+                        "green": 82,
+                        "blue": 174
+                    },
+                    "score": 0.049112808,
+                    "pixelFraction": 0.0092857145
+                },
+                {
+                    "color": {
+                        "red": 11,
+                        "green": 89,
+                        "blue": 199
+                    },
+                    "score": 0.039611597,
+                    "pixelFraction": 0.005
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {
+                            "x": 575
+                        },
+                        {
+                            "x": 2911
+                        },
+                        {
+                            "x": 2911,
+                            "y": 1799
+                        },
+                        {
+                            "x": 575,
+                            "y": 1799
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 0.96
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01znc_",
+                "score": 0.81105006,
+                "description": "Turkey"
+            },
+            {
+                "entityId": "/m/0345h",
+                "score": 0.76589996,
+                "description": "Germany"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7418,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7418
+            },
+            {
+                "entityId": "/m/03cfqp",
+                "score": 0.7135,
+                "description": "Flag of NATO"
+            },
+            {
+                "entityId": "/m/0jdx",
+                "score": 0.7116,
+                "description": "Albania"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.66330004,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/05qbbhd",
+                "score": 0.6628,
+                "description": "Secretary General of NATO"
+            },
+            {
+                "entityId": "/t/2bxjx5c4t6gvs",
+                "score": 0.6376
+            },
+            {
+                "entityId": "/m/060bp",
+                "score": 0.5181,
+                "description": "Prime minister"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.5106
+            },
+            {
+                "entityId": "/t/2gx80lp2qdlst",
+                "score": 0.506
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.486,
+                "description": "News"
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.4474,
+                "description": "Member states of NATO"
+            },
+            {
+                "entityId": "/m/01b8g6",
+                "score": 0.108075,
+                "description": "Jens Stoltenberg"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://newsone.ua/img/article/822/95_original.jpg"
+            },
+            {
+                "url": "https://storage.bljesak.info/image/255332/1280x880/NATO.jpg"
+            },
+            {
+                "url": "http://www.abqnews.net/wp-content/uploads/2018/06/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-768x432.jpg"
+            },
+            {
+                "url": "http://www.alghadeer.tv/media/cache/75/92/7592ff19f5398236a7889504ad8c9950.jpg"
+            },
+            {
+                "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+            },
+            {
+                "url": "https://24tv.ua/resources/photos/news/150x85_DIR/201804/948862.jpg?201809152146"
+            },
+            {
+                "url": "https://www.gercektaraf.com/files/uploads/news/thumb/nato-gorevindeki-gem-0ff5ab11a9fb54a133bf.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://steamcommunity.com/workshop/filedetails/?id=1355205901",
+                "pageTitle": "Steam Workshop :: <b>NATO</b> Forces",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://steamuserimages-a.akamaihd.net/ugc/931558048641394489/AE96562AF37BBBB341A82663109A5F65BB5C42AB/"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bmvg.de/de/themen/verteidigung/multinationale-zusammenarbeit/nato",
+                "pageTitle": "Nordatlantische Vertragsorganisation, <b>NATO</b> | BMVg.de",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bmvg.de/de/themen/dossiers/die-nato-staerke-und-dialog/aktuelle-meldungen-zur-nato",
+                "pageTitle": "Aktuelle Meldungen zur <b>Nato</b> | BMVg.de",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://turkischefakten.de/2018/01/28/nato-wertet-operation-olivenzweig-als-gerechtfertigt/b-01-03-02-nato-flagge/",
+                "pageTitle": "b-01-03-02-<b>nato</b>-<b>flagge</b> - T\u00fcrkische Fakten",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://turkischefakten.de/wp-content/uploads/2018/01/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.yenicaggazetesi.com.tr/irana-mudahale-icin-karadenizde-nato-hazirligi-49110yy.htm",
+                "pageTitle": "\u0130ran&#39;a m\u00fcdahale i\u00e7in Karadeniz&#39;de <b>NATO</b> haz\u0131rl\u0131\u011f\u0131! - Arslan BULUT",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.yenicaggazetesi.com.tr/natodan-s-400-aciklamasi-205273h.htm",
+                "pageTitle": "<b>NATO</b>&#39;dan S-400 a\u00e7\u0131klamas\u0131 - Yeni\u00e7a\u011f Gazetesi",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bljesak.info/sci-tech/obrazovanje/cetvrta-nato-ljetna-skola-zapocela-u-medugorju/243194",
+                "pageTitle": "\u010cetvrta <b>NATO</b> ljetna \u0161kola zapo\u010dela u Me\u0111ugorju / Bljesak.info | BH ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.bljesak.info/image/255332/1280x880/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bljesak.info/vijesti/svijet/nato-ce-graditi-bazu-u-albaniji/243892",
+                "pageTitle": "<b>NATO</b> \u0107e graditi bazu u Albaniji / Bljesak.info | BH Internet magazin",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.bljesak.info/image/255332/1280x880/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://toplum.tv/az/nato-teze-qerargaha-kcur/",
+                "pageTitle": "<b>NATO</b> t\u0259z\u0259 q\u0259rargaha k\u00f6\u00e7\u00fcr \u00bb Toplum.tv Az\u0259rbaycanda \u00f6z\u0259l ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://toplum.tv/file/pic/xeber/2018-03/1521443022_natooo.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://athletbook.com/%C3%BCber-nato-und-den",
+                "pageTitle": "\u00dcber <b>Nato</b> Und Den \u2013 Athletbook",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bljesak.info/vijesti/svijet/srbija-ce-biti-ljubomorno-neutralna/249554",
+                "pageTitle": "Srbija \u0107e biti ljubomorno neutralna / Bljesak.info | BH Internet magazin",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://storage.bljesak.info/image/255332/1280x880/NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=tchinese&id=1355205901",
+                "pageTitle": "Steam \u5de5\u4f5c\u574a:: <b>NATO</b> Forces",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://steamuserimages-a.akamaihd.net/ugc/931558048641394489/AE96562AF37BBBB341A82663109A5F65BB5C42AB/"
+                    }
+                ]
+            },
+            {
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=dutch&id=1355205901",
+                "pageTitle": "Steam Workshop :: <b>NATO</b> Forces",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://steamuserimages-a.akamaihd.net/ugc/931558048641394489/AE96562AF37BBBB341A82663109A5F65BB5C42AB/"
+                    }
+                ]
+            },
+            {
+                "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=schinese&id=1355205901",
+                "pageTitle": "Steam \u521b\u610f\u5de5\u574a:: <b>NATO</b> Forces",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://steamuserimages-a.akamaihd.net/ugc/931558048641394489/AE96562AF37BBBB341A82663109A5F65BB5C42AB/"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato",
+                "pageTitle": "<b>Nato</b> \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.toplumtv.org/az/nato-teze-qerargaha-kcur/",
+                "pageTitle": "<b>NATO</b> t\u0259z\u0259 q\u0259rargaha k\u00f6\u00e7\u00fcr \u00bb Toplum.tv Az\u0259rbaycanda \u00f6z\u0259l ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://toplum.tv/file/pic/xeber/2018-03/1521443022_natooo.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://turkischefakten.de/2018/01/28/nato-wertet-operation-olivenzweig-als-gerechtfertigt/",
+                "pageTitle": "<b>NATO</b> wertet Operation \u201eOlivenzweig\u201c als gerechtfertigt. - T\u00fcrkische ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://turkischefakten.de/wp-content/uploads/2018/01/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news-front.info/2018/10/24/blef-mezhdunarodnogo-masshtaba-nato-privedet-mir-k-novomu-konfliktu/",
+                "pageTitle": "\u0411\u043b\u0435\u0444 \u043c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u043e\u0433\u043e \u043c\u0430\u0441\u0448\u0442\u0430\u0431\u0430: \u041d\u0410\u0422\u041e \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u0442 \u043c\u0438\u0440 \u043a \u043d\u043e\u0432\u043e\u043c\u0443 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.news-front.info/uploads/2018/10/111563-77.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://gaypornofilmer.info/blog/%C3%BCber-nato-und-den",
+                "pageTitle": "\u00dcber <b>Nato</b> Und Den \u2014 Gaypornofilmer",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newsone.ua/news/politics/nato-ne-budet-razmeshchat-v-evrope-novye-jadernye-rakety-iz-za-raketnoho-potentsiala-rossii.html",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0440\u0430\u0437\u043c\u0435\u0449\u0430\u0442\u044c \u044f\u0434\u0435\u0440\u043d\u044b\u0435 \u0440\u0430\u043a\u0435\u0442\u044b \u0432 \u0415\u0432\u0440\u043e\u043f\u0435 \u0438\u0437-\u0437\u0430 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://newsone.ua/img/article/822/95_original.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zakopianskie.info/fl5601-02-nato/",
+                "pageTitle": "Fl5601 02 <b>Nato</b> - Zakopianskie",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://turkischefakten.de/wp-content/uploads/2018/01/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://pamfleti.net/mediat-nderkombetare-jehone-ndertimit-te-bazes-ajrore-te-natos-ne-shqiperi/",
+                "pageTitle": "Mediat nd\u00ebrkomb\u00ebtare jehon\u00eb nd\u00ebrtimit t\u00eb baz\u00ebs ajrore t\u00eb NATOS ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://pamfleti.net/wp-content/uploads/2018/08/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.yenicaggazetesi.com.tr/dunya-haberleri-43hk-p5.htm",
+                "pageTitle": "D\u00fcnya haberleri / Sayfa 5 - Yeni\u00e7a\u011f Gazetesi",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.yenicaggazetesi.com.tr/3-ilde-uyusturucu-operasyonu-173028h.htm",
+                "pageTitle": "3 ilde uyu\u015fturucu operasyonu - Yeni\u00e7a\u011f Gazetesi",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tintnwrap.com/pics/auch-mit-der-nato",
+                "pageTitle": "Auch Mit Der <b>Nato</b> \u2013 Tintnwrap",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.bmvg.de/resource/image/9588/landscape_ratio16x9/3200/1800/f4cad16b22070fea4901d4a26dc2850b/NL/b-01-03-02-nato-flagge.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://24tv.ua/yens_stoltenberg_tag4461/",
+                "pageTitle": "\u041d\u043e\u0432\u0438\u043d\u0438 \u0404\u043d\u0441 \u0421\u0442\u043e\u043b\u0442\u0435\u043d\u0431\u0435\u0440\u0433 - \u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u043d\u043e\u0432\u0438\u043d 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://24tv.ua/resources/photos/news/150x85_DIR/201804/948861.jpg?201809152146"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gercektaraf.com/haber/6526/dunya-uzerinde-193-ulkenin-kacinda-turk-vatandasi-bulunuyor.html",
+                "pageTitle": "D\u00fcnya \u00dczerinde 193 \u00dclkenin Ka\u00e7\u0131nda T\u00fcrk Vatanda\u015f\u0131 Bulunuyor?",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gercektaraf.com/files/uploads/news/thumb/nato-gorevindeki-gem-0ff5ab11a9fb54a133bf.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://24tv.ua/ru/jens_stoltenberg_tag4461/",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0419\u0435\u043d\u0441 \u0421\u0442\u043e\u043b\u0442\u0435\u043d\u0431\u0435\u0440\u0433 - \u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u043d\u043e\u0432\u0438\u043d 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://24tv.ua/resources/photos/news/150x85_DIR/201804/948862.jpg?201809152146"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gercektaraf.com/haber/6819/kuduse-ziyarete-giden-90-turk-israile-alinmadi.html",
+                "pageTitle": "Kud\u00fcs&#39;e Ziyarete Giden 90 T\u00fcrk, \u0130srail&#39;e Al\u0131nmad\u0131 - Ger\u00e7ek Taraf",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gercektaraf.com/files/uploads/news/thumb/nato-gorevindeki-gem-0ff5ab11a9fb54a133bf.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://24tv.ua/ru/archive/06_april_2018/",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0437\u0430 6 \u0430\u043f\u0440\u0435\u043b\u044f 2018 \u0433\u043e\u0434\u0430 \u2014 \u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u043d\u043e\u0432\u043e\u0441\u0442\u0435\u0439 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://24tv.ua/resources/photos/news/150x85_DIR/201804/948862.jpg?201809152146"
+                    }
+                ]
+            },
+            {
+                "url": "https://24tv.ua/archive/6_april_2018/",
+                "pageTitle": "\u041d\u043e\u0432\u0438\u043d\u0438 \u0437\u0430 6 \u043a\u0432\u0456\u0442\u043d\u044f 2018 \u0440\u043e\u043a\u0443 \u2014 \u0422\u0435\u043b\u0435\u043a\u0430\u043d\u0430\u043b \u043d\u043e\u0432\u0438\u043d 24",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://24tv.ua/resources/photos/news/150x85_DIR/201804/948861.jpg?201809152146"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sanalbasin.com/300-gazete-ve-matbaa-kapandi-27228088/",
+                "pageTitle": "&quot;300 gazete ve matbaa kapand\u0131!&quot; - SANAL BASIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gercektaraf.com/haber/7131/trafik-polisleri-ceza-kesince-ahlaksiz-teklifte-bulundu.html",
+                "pageTitle": "Trafik Polisleri Ceza Kesince Ahlaks\u0131z Teklifte Bulundu - Ger\u00e7ek Taraf",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gercektaraf.com/files/uploads/news/thumb/nato-gorevindeki-gem-0ff5ab11a9fb54a133bf.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gercektaraf.com/haber/7081/dunyanin-en-mutlu-ulkeleri-belli-oldu-turkiye-bakin-kacinci-sirada.html",
+                "pageTitle": "D\u00fcnyan\u0131n En Mutlu \u00dclkeleri Belli Oldu, T\u00fcrkiye Bak\u0131n Ka\u00e7\u0131nc\u0131 S\u0131rada?",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gercektaraf.com/files/uploads/news/thumb/nato-gorevindeki-gem-0ff5ab11a9fb54a133bf.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://abakanews.org/news/international/%D5%B6%D5%A1%D5%A9%D6%85-%D5%AB-%D5%A3%D5%AC%D5%AD%D5%A1%D6%82%D5%B8%D6%80-%D6%84%D5%A1%D6%80%D5%BF%D5%B8%D6%82%D5%B2%D5%A1%D6%80%D5%A8-%D5%BA%D5%A1%D5%BF%D6%80%D5%A1%D5%BD%D5%BF%D5%A1%D5%AF%D5%A1/",
+                "pageTitle": "\u0546\u0531\u0539\u0555-\u056b \u0563\u056c\u056d\u0561\u0582\u0578\u0580 \u0584\u0561\u0580\u057f\u0578\u0582\u0572\u0561\u0580\u0568 \u057a\u0561\u057f\u0580\u0561\u057d\u057f\u0561\u056f\u0561\u0574\u0578\u0582\u0569\u056b\u0582\u0576 \u0575\u0561\u0575\u057f\u0576\u0561\u056e ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://abakanews.org/wp-content/uploads/2018/06/Arm.-18-June-Nato.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sanalbasin.com/skandal-olayin-ardindan-chpden-soru-onergesi-26124201/",
+                "pageTitle": "Skandal olay\u0131n ard\u0131ndan CHP&#39;den soru \u00f6nergesi - SANAL BASIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sanalbasin.com/zeytin-dali-harekatinda-55-gun-53524-terorist-olduruldu-24096883/",
+                "pageTitle": "Zeytin Dal\u0131 Harekat\u0131&#39;nda 55. g\u00fcn: 53524 ter\u00f6rist \u00f6ld\u00fcr\u00fcld\u00fc! - SANAL ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sanalbasin.com/seker-fabrikalarinin-arazileri-de-satiliyor-27228207/",
+                "pageTitle": "\u015eeker fabrikalar\u0131n\u0131n arazileri de sat\u0131l\u0131yor - SANAL BASIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.yenicaggazetesi.com.tr/d/news/252588.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.alghadeer.tv/notes/791/",
+                "pageTitle": "\u062d\u0644\u0641 \u0627\u0644\u0646\u0627\u062a\u0648 \u064a\u0635\u0646\u0639 \u062e\u0635\u0645\u0647 \u0648\u064a\u062a\u0635\u062f\u0639! - \u0642\u0646\u0627\u0629 \u0627\u0644\u063a\u062f\u064a\u0631 \u0627\u0644\u0641\u0636\u0627\u0626\u064a\u0629",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.alghadeer.tv/media/cache/75/92/7592ff19f5398236a7889504ad8c9950.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rajanews.com/news/290010/%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1-%D8%B9%D8%B1%D8%A7%D9%82-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%86%D8%B8%D8%A7%D9%85%DB%8C-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF",
+                "pageTitle": "\u0646\u0627\u062a\u0648 \u062f\u0631 \u0639\u0631\u0627\u0642 \u067e\u0627\u06cc\u06af\u0627\u0647 \u0646\u0638\u0627\u0645\u06cc \u0627\u0641\u062a\u062a\u0627\u062d \u0645\u06cc \u06a9\u0646\u062f | \u067e\u0627\u06cc\u06af\u0627\u0647 \u0627\u0637\u0644\u0627\u0639 \u0631\u0633\u0627\u0646\u06cc \u0631\u062c\u0627",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.rajanews.com/sites/default/files/content/images/story/97-04/30/%D9%86%D8%A7%D8%AA%D9%88.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://snn.ir/fa/news/703618/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%DB%8C%E2%80%8C%D8%B7%D8%B1%D9%81%DB%8C-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%85%DB%8C%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647 - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u062f\u0627\u0646\u0634\u062c\u0648",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://snn.ir/files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.shahrekhabar.com/political/153422190024570",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u067e\u06cc\u0634 \u0622\u0645\u062f\u0647 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647 - \u0634\u0647\u0631\u062e\u0628\u0631",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://snn.ir/files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.abqnews.net/2018/06/06/%D8%AD%D9%84%D9%81-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%8A%D8%B3%D8%AA%D8%A8%D8%B9%D8%AF-%D8%A5%D9%85%D9%83%D8%A7%D9%86/",
+                "pageTitle": "\u062d\u0644\u0641 \u0634\u0645\u0627\u0644 \u0627\u0644\u0623\u0637\u0644\u0633\u064a &quot; \u0627\u0644\u0646\u0627\u062a\u0648 &quot; \u064a\u0633\u062a\u0628\u0639\u062f \u0625\u0645\u0643\u0627\u0646\u064a\u0629 \u0627\u0646\u0636\u0645\u0627\u0645 \u0642\u0637\u0631 \u0625\u0644\u064a\u0647 \u0628\u062d\u0633\u0628 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.abqnews.net/wp-content/uploads/2018/06/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-768x432.jpg"
+                    },
+                    {
+                        "url": "http://www.abqnews.net/wp-content/uploads/2018/06/%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://khabarone.ir/news/18324227/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%DB%8C-%D8%B7%D8%B1%D9%81%DB%8C-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%BE%DB%8C%D8%B4-%D8%A2%D9%85%D8%AF%D9%87-%D9%85%DB%8C%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u067e\u06cc\u0634 \u0622\u0645\u062f\u0647 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647 - \u062e\u0628\u0631\u0648\u0627\u0646",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.snn.ir/files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rajanews.com/node?page=201",
+                "pageTitle": "\u0631\u06cc\u06cc\u0633 \u062f\u0627\u0646\u0634\u06af\u0627\u0647 \u0634\u0631\u06cc\u0641 \u0627\u0628\u0642\u0627 \u0634\u062f - \u067e\u0627\u06cc\u06af\u0627\u0647 \u0627\u0637\u0644\u0627\u0639 \u0631\u0633\u0627\u0646\u06cc \u0631\u062c\u0627",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.rajanews.com/sites/default/files/content/images/story/97-04/30/%D9%86%D8%A7%D8%AA%D9%88.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://khabarone.ir/news/18325063/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%DB%8C-%D8%B7%D8%B1%D9%81%DB%8C-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%85%DB%8C%D8%A7%D9%86-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647 - \u062e\u0628\u0631\u0648\u0627\u0646",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.snn.ir/files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nilitarin.ir/fa/news/%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%A8%DB%8C%E2%80%8C%D8%B7%D8%B1%D9%81%DB%8C-%D9%86%D8%A7%D8%AA%D9%88-%D8%AF%D8%B1-%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81-%D9%85%DB%8C%D8%A7%D9%86-%D8%A2%D9%85%D8%B1/",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://snn.ir/files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.rooja.org/fa/content/9658261.html",
+                "pageTitle": "\u0627\u0639\u0644\u0627\u0645 \u0628\u06cc\u200c\u0637\u0631\u0641\u06cc \u0646\u0627\u062a\u0648 \u062f\u0631 \u0627\u062e\u062a\u0644\u0627\u0641 \u067e\u06cc\u0634 \u0622\u0645\u062f\u0647 \u0645\u06cc\u0627\u0646 \u0622\u0645\u0631\u06cc\u06a9\u0627 \u0648 \u062a\u0631\u06a9\u06cc\u0647 - \u0631\u0648\u062c\u0627\u0646\u06cc\u0648\u0632",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://snn.ir//files/fa/news/1397/5/23/366316_701.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.khabarejavan.ir/3393/%DA%98%D9%86%D8%B1%D8%A7%D9%84-%DA%A9%D8%A7%D9%86%D8%A7%D8%AF%D8%A7%DB%8C%DB%8C-%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D9%85%D8%A7%D9%85%D9%88%D8%B1%DB%8C%D8%AA-%D9%86%D8%A7%D8%AA%D9%88/",
+                "pageTitle": "\u0698\u0646\u0631\u0627\u0644 \u06a9\u0627\u0646\u0627\u062f\u0627\u06cc\u06cc \u0641\u0631\u0645\u0627\u0646\u062f\u0647\u06cc \u0645\u0627\u0645\u0648\u0631\u06cc\u062a \u0646\u0627\u062a\u0648 \u0631\u0627 \u062f\u0631 \u0639\u0631\u0627\u0642 \u0628\u0631 \u0639\u0647\u062f\u0647 \u0645\u06cc \u06af\u06cc\u0631\u062f",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.khabarejavan.ir/wp-content/uploads/2018/08/%D9%86%D8%A7%D8%AA%D9%88.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://steamuserimages-a.akamaihd.net/ugc/931558048641394489/AE96562AF37BBBB341A82663109A5F65BB5C42AB/"
+            },
+            {
+                "url": "https://img.myloview.de/fototapeten/nato-flagge-gehoren-beschneidungspfad-160-7712349.jpg"
+            },
+            {
+                "url": "https://www.itespresso.de/wp-content/uploads/2014/10/nato-flagge-shutterstock-shpock-800-684x513.jpg"
+            },
+            {
+                "url": "https://st2.depositphotos.com/1209048/10079/v/600/depositphotos_100792700-stock-video-nato-flag-in-slow-motion.jpg"
+            },
+            {
+                "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBNNo7d.img?h=415&w=624&m=6&q=60&o=f&l=f"
+            },
+            {
+                "url": "https://www.protokoll-inland.de/SharedDocs/Bilder/PI/DE/Beflaggung/Aussenbeflaggung/14.jpg?__blob=wide&v=2"
+            },
+            {
+                "url": "https://www.dw.com/image/19042177_303.jpg"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/t/flagge-von-nato-wellenartig-bewegend-wind-89991508.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato flagge",
+                "languageCode": "de"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.80496025,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.34113628,
+                        "y": 0.12180194
+                    },
+                    {
+                        "x": 0.7190989,
+                        "y": 0.12180194
+                    },
+                    {
+                        "x": 0.7190989,
+                        "y": 0.758198
+                    },
+                    {
+                        "x": 0.34113628,
+                        "y": 0.758198
+                    }
+                ]
+            }
+        }
+    ]
+}

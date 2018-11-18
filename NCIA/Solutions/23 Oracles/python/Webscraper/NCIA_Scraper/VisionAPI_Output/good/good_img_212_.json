@@ -1,0 +1,725 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/03120",
+            "description": "flag",
+            "score": 0.9711353,
+            "topicality": 0.9711353
+        },
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.8438952,
+            "topicality": 0.8438952
+        },
+        {
+            "mid": "/m/0317s",
+            "description": "flag of the united states",
+            "score": 0.51822054,
+            "topicality": 0.51822054
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 199,
+                        "green": 75,
+                        "blue": 83
+                    },
+                    "score": 0.26631865,
+                    "pixelFraction": 0.023729626
+                },
+                {
+                    "color": {
+                        "red": 81,
+                        "green": 119,
+                        "blue": 177
+                    },
+                    "score": 0.106143236,
+                    "pixelFraction": 0.054290507
+                },
+                {
+                    "color": {
+                        "red": 198,
+                        "green": 207,
+                        "blue": 234
+                    },
+                    "score": 0.036783278,
+                    "pixelFraction": 0.23813519
+                },
+                {
+                    "color": {
+                        "red": 226,
+                        "green": 194,
+                        "blue": 213
+                    },
+                    "score": 0.0062967804,
+                    "pixelFraction": 0.0063518696
+                },
+                {
+                    "color": {
+                        "red": 37,
+                        "green": 80,
+                        "blue": 163
+                    },
+                    "score": 0.0047125863,
+                    "pixelFraction": 0.011744967
+                },
+                {
+                    "color": {
+                        "red": 205,
+                        "green": 72,
+                        "blue": 73
+                    },
+                    "score": 0.22379601,
+                    "pixelFraction": 0.022411313
+                },
+                {
+                    "color": {
+                        "red": 161,
+                        "green": 48,
+                        "blue": 61
+                    },
+                    "score": 0.06718818,
+                    "pixelFraction": 0.0073106424
+                },
+                {
+                    "color": {
+                        "red": 175,
+                        "green": 41,
+                        "blue": 49
+                    },
+                    "score": 0.052920602,
+                    "pixelFraction": 0.0045541706
+                },
+                {
+                    "color": {
+                        "red": 147,
+                        "green": 61,
+                        "blue": 65
+                    },
+                    "score": 0.044334505,
+                    "pixelFraction": 0.0058724834
+                },
+                {
+                    "color": {
+                        "red": 175,
+                        "green": 83,
+                        "blue": 90
+                    },
+                    "score": 0.020477016,
+                    "pixelFraction": 0.0035953978
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 989
+                        },
+                        {
+                            "x": 989,
+                            "y": 368
+                        },
+                        {
+                            "y": 368
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/05qhw",
+                "score": 1.0659001,
+                "description": "Poland"
+            },
+            {
+                "entityId": "/m/0155l6",
+                "score": 0.9443,
+                "description": "Flag of Poland"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.71475,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/2bvzk6fhjt4gf",
+                "score": 0.7106
+            },
+            {
+                "entityId": "/m/0_6t_z8",
+                "score": 0.66735,
+                "description": "European Union"
+            },
+            {
+                "entityId": "/m/03120",
+                "score": 0.6378,
+                "description": "Flag"
+            },
+            {
+                "entityId": "/m/05wkw",
+                "score": 0.6141,
+                "description": "Photography"
+            },
+            {
+                "entityId": "/m/0jg24",
+                "score": 0.6006,
+                "description": "Image"
+            },
+            {
+                "entityId": "/t/26_m_1_ypvmtp",
+                "score": 0.5939
+            },
+            {
+                "entityId": "/m/068jd",
+                "score": 0.5817,
+                "description": "Photograph"
+            },
+            {
+                "entityId": "/m/036jvk",
+                "score": 0.5427,
+                "description": "Stock photography"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.4765
+            },
+            {
+                "entityId": "/m/01wxvs",
+                "score": 0.4445,
+                "description": "Getty Images"
+            },
+            {
+                "entityId": "/m/05gv9",
+                "score": 0.412,
+                "description": "National flag"
+            },
+            {
+                "entityId": "/m/05jhg",
+                "score": 0.4088,
+                "description": "News"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+            },
+            {
+                "url": "https://www.hudson.org/content/events/main/1568/current_2_20180626_main.jpg"
+            },
+            {
+                "url": "https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/it/cc/cc6b69a79b016e1ed44a80eac058295a544ba173/big.jpg"
+            },
+            {
+                "url": "https://media.breitbart.com/media/2016/09/NATO-200x150.png"
+            },
+            {
+                "url": "http://www.ilgiornale.it/sites/default/files/styles/large/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+            },
+            {
+                "url": "http://www.ilgiornale.it/sites/default/files/styles/listato_31_grande/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.gettyimages.com/photos/poland-flag",
+                "pageTitle": "Poland Flag Stock Photos and Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.com/photos/flag-of-poland",
+                "pageTitle": "Flag Of Poland Stock Photos and Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.com/photos/of-the-polish-flag",
+                "pageTitle": "Of The Polish Flag Stock Photos and Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://hudson.org/events/1299-fighting-kleptocracy122015",
+                "pageTitle": "Events - Fighting Kleptocracy - December - 2015 - Hudson Institute",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/main/1568/current_2_20180626_main.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hudson.org/events/1304-u-s-premiere-of-from-russia-with-cash-122015",
+                "pageTitle": "Events - U.S. Premiere of &quot;From Russia with Cash&quot; - December ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/main/1568/current_2_20180626_main.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hudson.org/events/1286-crime-kleptocracy-and-politics-developments-in-modern-russia102015",
+                "pageTitle": "Events - Crime, Kleptocracy, and Politics: Developments in Modern ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/main/1568/current_2_20180626_main.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hudson.org/experts/1038-walter-russell-mead/events",
+                "pageTitle": "Experts - Walter Russell Mead - Hudson Institute",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/main/1568/current_2_20180626_main.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.ie/photos/nato-scene?page=6",
+                "pageTitle": "Nato Scene Stock Photos and Pictures | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.breitbart.com/author/jayne-adye/",
+                "pageTitle": "Jayne Adye, Author at Breitbart",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.breitbart.com/media/2016/09/NATO-200x150.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.picsnaper.com/p/Nato-Flags-Gallery",
+                "pageTitle": "Snap Nato Flags Gallery photos on Pinterest",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://grendizer.info/post/hudson-institute-distinguished-scholar",
+                "pageTitle": "Hudson Institute Distinguished Scholar \u2014 Grendizer",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/thumb/1568/feature_2_20180626_featured.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ww1.rongdat.info/where-to-go-in-eastern-europe-in-june/",
+                "pageTitle": "Where To Go In Eastern Europe In June Wallpaper Directory",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/thumb/1568/feature_2_20180626_featured.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.nl/fotos/poolse-vlag",
+                "pageTitle": "Poolse Vlag Stockfoto&#39;s en -beelden | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.co.jp/%E5%86%99%E7%9C%9F/polish-flag",
+                "pageTitle": "Polish Flag \u30b9\u30c8\u30c3\u30af\u30d5\u30a9\u30c8\u3068\u753b\u50cf | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.es/fotos/poland-flag",
+                "pageTitle": "Poland Flag Fotograf\u00edas e im\u00e1genes de stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.fr/photos/poland-flag",
+                "pageTitle": "Poland Flag Photos et images de collection | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.it/immagine/flag-of-poland",
+                "pageTitle": "Flag Of Poland Foto e immagini stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.se/fotografier/polish-flag",
+                "pageTitle": "Polish Flag Bildbanksfoton och bilder | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.it/immagine/poland-flag",
+                "pageTitle": "Poland Flag Foto e immagini stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.es/fotos/polish-flag",
+                "pageTitle": "Polish Flag Fotograf\u00edas e im\u00e1genes de stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ilgiornale.it/autore/claudio-pieretti-142850.html",
+                "pageTitle": "Claudio Pieretti - Il Giornale",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/styles/listato_31_grande/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ilgiornale.it/luoghi/polonia-145912.html",
+                "pageTitle": "Polonia - Il Giornale",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/styles/listato_31_grande/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ilgiornale.it/news/mondo/polonia-boccia-carta-dei-diritti-ue-troppo-filo-lgbt-1586996.html",
+                "pageTitle": "La Polonia boccia la Carta dei diritti Ue: troppo filo-Lgbt - Il Giornale",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/styles/large/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    },
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ilgiornale.it/news/mondo/polonia-ribalta-paradigma-dell-adesione-all-unione-europea-1544968.html",
+                "pageTitle": "La Polonia ribalta il paradigma dell&#39;adesione all&#39;Unione Europea",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/styles/large/public/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    },
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://etleboro.org/g/67ac25a65ca3742c57e156b8b6e16b7fit/la-polonia-boccia-la-carta-dei-diritti-ue-troppo-filo-lgbt",
+                "pageTitle": "Etleboro.org - La Polonia boccia la Carta dei diritti Ue: troppo filo-Lgbt",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.es/fotos/nato-flag",
+                "pageTitle": "Nato Flag Fotograf\u00edas e im\u00e1genes de stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://veritas.com.al/polonia-hedh-poshte-karten-e-te-drejtave-te-se-shume-filo-lgbt/",
+                "pageTitle": "Polonia hedh posht\u00eb Kart\u00ebn e t\u00eb Drejtave t\u00eb BE-s\u00eb: BE shum\u00eb filo ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://veritas.com.al/wp-content/uploads/2018/10/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.es/fotos/bandera-de-la-otan",
+                "pageTitle": "Bandera De La Otan Fotograf\u00edas e im\u00e1genes de stock | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gettyimages.be/fotos/nato-flag",
+                "pageTitle": "Nato Flag Stockfoto&#39;s en -beelden | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://veritas.com.al/tag/be/",
+                "pageTitle": "BE Archives - Veritas",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://veritas.com.al/wp-content/uploads/2018/10/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gettyimages.nl/fotos/vlag-van-de-navo",
+                "pageTitle": "Vlag Van De Navo Stockfoto&#39;s en -beelden | Getty Images",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://media.gettyimages.com/photos/view-of-eu-polish-and-nato-flags-at-the-presidential-palace-in-warsaw-picture-id542278386?s=612x612"
+                    }
+                ]
+            },
+            {
+                "url": "http://veritas.com.al/tag/poloni/",
+                "pageTitle": "Poloni Archives - Veritas",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://veritas.com.al/wp-content/uploads/2018/10/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://giornale-oggi.blogspot.com/2018/10/la-polonia-boccia-la-carta-dei-diritti.html",
+                "pageTitle": "La Polonia boccia la Carta dei diritti Ue: troppo filo-Lgbt | Giornale oggi",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ziptirane.info/author/admin/page/16/",
+                "pageTitle": "ZIP | ZipTirana | Page 16",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ilgiornale.it/sites/default/files/foto/2018/06/26/1529972176-poland-nato-eu-getty.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.anygator.com/articolo/il-governo-cancella-le-pensioni-degli-ebrei-vittime-di-persecuzioni-razziali__10589058",
+                "pageTitle": "Il governo cancella le pensioni degli ebrei vittime di persecuzioni ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/it/cc/cc6b69a79b016e1ed44a80eac058295a544ba173/big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.anygator.com/articolo/amministrative-in-polonia-vincono-i-conservatori-ma-senza-varsavia__10557084",
+                "pageTitle": "Amministrative in Polonia: vincono i conservatori, ma senza ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/it/cc/cc6b69a79b016e1ed44a80eac058295a544ba173/big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.anygator.com/articolo/le-falsita-di-belpietro-contro-il-forum-dei-cristiani-lgbt__10299719",
+                "pageTitle": "Le falsit\u00e0 di Belpietro contro il forum dei cristiani lgbt - Cultura ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/it/cc/cc6b69a79b016e1ed44a80eac058295a544ba173/big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://it.anygator.com/articolo/gus-kenworthy-per-gay-times__9590592",
+                "pageTitle": "Gus Kenworthy per Gay Times - Cultura - Anygator.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/it/cc/cc6b69a79b016e1ed44a80eac058295a544ba173/big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://uerria.witclub.info/dir/where-to-go-in-eastern-europe-in-june.jsp",
+                "pageTitle": "Where To Go In Eastern Europe In June idea gallery",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/thumb/1568/feature_2_20180626_featured.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sogdia.blockablock.info/where-to-go-in-eastern-europe-in-june.shtml",
+                "pageTitle": "best Where To Go In Eastern Europe In June image collection",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.hudson.org/content/events/thumb/1568/feature_2_20180626_featured.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://ak7.picdn.net/shutterstock/videos/6218807/thumb/1.jpg"
+            },
+            {
+                "url": "https://ak0.picdn.net/shutterstock/videos/20273020/thumb/6.jpg"
+            },
+            {
+                "url": "https://www.maxpixel.net/static/photo/1x/Mast-Sky-Dominican-Republic-Blue-Flag-3534015.jpg"
+            },
+            {
+                "url": "https://media.istockphoto.com/photos/national-flag-of-austria-on-clear-blue-sky-picture-id668715552?k=6&m=668715552&s=612x612&w=0&h=sVtmLGYEvVQoklfkVKYiw2RcWGvRcu0DfkIPQ_bCfl4="
+            },
+            {
+                "url": "https://media.gettyimages.com/photos/national-flag-of-slovakia-on-clear-blue-sky-picture-id670954386?b=1&k=6&m=670954386&s=612x612&w=0&h=gZNrQ91Lbti0HTzkxs565jA6xHTTAXEumsVvGbfMD60="
+            },
+            {
+                "url": "https://ak2.picdn.net/shutterstock/videos/10882892/thumb/5.jpg?i10c=img.resize(height:160)"
+            },
+            {
+                "url": "https://c.pxhere.com/photos/b1/0d/wangerooge_flag_sky_mast-1343370.jpg!d"
+            },
+            {
+                "url": "https://us.123rf.com/450wm/millenius/millenius1805/millenius180500282/101935282-national-flag-of-trinidad-and-tobago-on-a-flagpole-in-front-of-blue-sky-.jpg?ver=6"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "sky"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.796906,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.31198,
+                        "y": 0.033299956
+                    },
+                    {
+                        "x": 0.6470789,
+                        "y": 0.033299956
+                    },
+                    {
+                        "x": 0.6470789,
+                        "y": 0.9925823
+                    },
+                    {
+                        "x": 0.31198,
+                        "y": 0.9925823
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.79303205,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6346131,
+                        "y": 0.04961825
+                    },
+                    {
+                        "x": 0.98546547,
+                        "y": 0.04961825
+                    },
+                    {
+                        "x": 0.98546547,
+                        "y": 0.9132053
+                    },
+                    {
+                        "x": 0.6346131,
+                        "y": 0.9132053
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/03120",
+            "name": "Flag",
+            "score": 0.7228008,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.014534634,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.35268107,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.35268107,
+                        "y": 0.984264
+                    },
+                    {
+                        "x": 0.014534634,
+                        "y": 0.984264
+                    }
+                ]
+            }
+        }
+    ]
+}

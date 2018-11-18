@@ -1,0 +1,17 @@
+	
+DROP TABLE IF EXISTS comparison;
+DROP TABLE IF EXISTS files;
+
+CREATE TABLE files (
+   id INTEGER PRIMARY KEY AUTOINCREMENT,
+   name TEXT NOT NULL
+);
+
+CREATE TABLE comparison (
+	file1_id INTEGER,
+	file2_id INTEGER,
+	output TEXT NOT NULL,
+	FOREIGN KEY(file1_id) REFERENCES files(id),
+	FOREIGN KEY(file2_id) REFERENCES files(id)
+);
+

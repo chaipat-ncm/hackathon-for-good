@@ -1,0 +1,1808 @@
+{
+    "logoAnnotations": [
+        {
+            "mid": "/m/09zj25",
+            "description": "Single Euro Payments Area",
+            "score": 0.772276,
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 67,
+                        "y": 8
+                    },
+                    {
+                        "x": 298,
+                        "y": 8
+                    },
+                    {
+                        "x": 298,
+                        "y": 298
+                    },
+                    {
+                        "x": 67,
+                        "y": 298
+                    }
+                ]
+            }
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/01bqvp",
+            "description": "sky",
+            "score": 0.7188075,
+            "topicality": 0.7188075
+        },
+        {
+            "mid": "/m/09nm_",
+            "description": "world",
+            "score": 0.68756574,
+            "topicality": 0.68756574
+        },
+        {
+            "mid": "/m/04_tb",
+            "description": "map",
+            "score": 0.65163463,
+            "topicality": 0.65163463
+        },
+        {
+            "mid": "/m/03w43x",
+            "description": "computer wallpaper",
+            "score": 0.53312814,
+            "topicality": 0.53312814
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 255,
+                        "green": 121,
+                        "blue": 39
+                    },
+                    "score": 0.48568517,
+                    "pixelFraction": 0.1943124
+                },
+                {
+                    "color": {
+                        "red": 5,
+                        "green": 129,
+                        "blue": 4
+                    },
+                    "score": 0.18690184,
+                    "pixelFraction": 0.019779287
+                },
+                {
+                    "color": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 127
+                    },
+                    "score": 0.075868845,
+                    "pixelFraction": 0.10976231
+                },
+                {
+                    "color": {
+                        "red": 253,
+                        "green": 139,
+                        "blue": 70
+                    },
+                    "score": 0.060256545,
+                    "pixelFraction": 0.015025467
+                },
+                {
+                    "color": {
+                        "red": 46,
+                        "green": 46,
+                        "blue": 150
+                    },
+                    "score": 0.017800124,
+                    "pixelFraction": 0.01196944
+                },
+                {
+                    "color": {
+                        "red": 255,
+                        "green": 184,
+                        "blue": 141
+                    },
+                    "score": 0.0067591923,
+                    "pixelFraction": 0.0031409168
+                },
+                {
+                    "color": {
+                        "red": 255,
+                        "green": 220,
+                        "blue": 10
+                    },
+                    "score": 0.006459759,
+                    "pixelFraction": 0.030390492
+                },
+                {
+                    "color": {
+                        "red": 110,
+                        "green": 110,
+                        "blue": 183
+                    },
+                    "score": 0.0049588094,
+                    "pixelFraction": 0.011035654
+                },
+                {
+                    "color": {
+                        "red": 63,
+                        "green": 158,
+                        "blue": 63
+                    },
+                    "score": 0.0047158534,
+                    "pixelFraction": 0.0007640068
+                },
+                {
+                    "color": {
+                        "red": 250,
+                        "green": 249,
+                        "blue": 248
+                    },
+                    "score": 0.004266108,
+                    "pixelFraction": 0.4476231
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 399
+                        },
+                        {
+                            "x": 399,
+                            "y": 305
+                        },
+                        {
+                            "y": 305
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/056vv",
+                "score": 1.04955,
+                "description": "Montenegro"
+            },
+            {
+                "entityId": "/m/06k9_ck",
+                "score": 0.91185004,
+                "description": "The North Atlantic Treaty Organization"
+            },
+            {
+                "entityId": "/m/0166b",
+                "score": 0.77715003,
+                "description": "Bosnia and Herzegovina"
+            },
+            {
+                "entityId": "/m/0bjv6",
+                "score": 0.75479996,
+                "description": "Macedonia (FYROM)"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7262,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7262
+            },
+            {
+                "entityId": "/m/05mzqld",
+                "score": 0.7226,
+                "description": "Montenegro\u2013NATO relations"
+            },
+            {
+                "entityId": "/m/0416p41",
+                "score": 0.7062,
+                "description": "Enlargement of NATO"
+            },
+            {
+                "entityId": "/m/026h7fx",
+                "score": 0.7029,
+                "description": "Individual Partnership Action Plan"
+            },
+            {
+                "entityId": "/t/23z99pg33z2hc",
+                "score": 0.6249
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.6196,
+                "description": "Member states of NATO"
+            },
+            {
+                "entityId": "/m/02072x",
+                "score": 0.6159,
+                "description": "Partnership for Peace"
+            },
+            {
+                "entityId": "/m/0swmlmd",
+                "score": 0.5692,
+                "description": "Foreign relations of NATO"
+            },
+            {
+                "entityId": "/m/0d0z93",
+                "score": 0.5382,
+                "description": "Adriatic Charter"
+            },
+            {
+                "entityId": "/m/0b18xw",
+                "score": 0.5314,
+                "description": "Major non-NATO ally"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/2000px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/2000px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1280px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1280px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1200px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1200px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://i1.wp.com/eestinen.fi/wp-content/uploads/2017/05/NATO.png?fit=1024%2C782&ssl=1"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1004px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1004px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1000px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1000px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://fpscdn.yam.com/world/201706/8f/e2/593635a4a8fe2.jpg"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/870px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/800px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/785px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/785px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/756px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/750px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/700px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/680px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Major_NATO_affiliations_in_Europe.svg"
+            },
+            {
+                "url": "https://4.bp.blogspot.com/-I-niiMSfuE0/WnwQebndNAI/AAAAAAABB8w/sCm_ZV8AHa0WuDLABIjYmAUMMXPgyM6-wCLcBGAs/s1600/Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/5/56/NATO_affiliations_in_Europe.svg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/680px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/674px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://snappygoat.com/b/b14e25eecdcdbcf46eb3cba9684ed511cefb0102"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9888894/imgres.png?1491786384"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/10048882/Major_NATO_affiliations_in_Europe.svg.png?1494251969"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/628px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9952076/Major_NATO_affiliations_in_Europe.svg.png?1492968595"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/628px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-845ff1d8e74c0176ca054b0dbbe95891"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/600px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://s017.radikal.ru/i411/1512/b5/f2dcf37f99db.jpg"
+            },
+            {
+                "url": "http://www.triklopodia.gr/wp-content/uploads/2017/06/7-6.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/500px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?resize=500%2C382&ssl=1"
+            },
+            {
+                "url": "http://damwest.com/wp-content/uploads/2018/06/status-of-forces-agreement-germany-fresh-nato-of-status-of-forces-agreement-germany.png"
+            },
+            {
+                "url": "https://senzanubi.files.wordpress.com/2017/03/nato_affiliations_in_europe-svg.png?w=840"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-3407eea85628ab1b648cfd2038bab4f2"
+            },
+            {
+                "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-8f00fdae0476982fccb9e7eca7011836"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/375px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NATO_relations_in_Europe_%28disputed_territories%29.svg/345px-NATO_relations_in_Europe_%28disputed_territories%29.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/337px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/332px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/320px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/314px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/314px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/300px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://www.beycan.net/img/12/80/natoya-uye-ulkelerin-listesi-300x229.jpg"
+            },
+            {
+                "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/03/ab/fe/03abfeb5f8a0a3b4c519c420de420e08.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/300px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/270px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://msp.c.yimg.jp/yjimage?q=PEP5qwQXyLHxhsggExyKM.GA6KeoVlPpp26Doo5QPD5wk7ThMeT3EsYuMKCwtS4hrEqglOa05IvEv5Sm6Apj.Dq_t_AiGo3r4Dem9G0W6k_3k6d.ccpcbX8fSmcGw5EkoxZGaEBW0lNIlvmRGQ--&sig=138l309dd&x=257&y=196"
+            },
+            {
+                "url": "http://www.global-analityk.com/wp-content/uploads/2017/09/%D0%91%D0%B5%D0%B7-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.png"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/cd/dd/24/cddd24bf6b134fa0b569beb6f9e3da0c--the-general-occupation.jpg"
+            },
+            {
+                "url": "http://tse3.mm.bing.net/th?id=OIP.V_L1L4R8hjvisJwqyVKrogHaFq&w=230&h=170&rs=1&pcl=dddddd&o=5&pid=1.1"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/222px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/220px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://holyland.c.blog.so-net.ne.jp/_images/blog/_456/holyland/m_NATO.jpg"
+            },
+            {
+                "url": "https://holyland.c.blog.so-net.ne.jp/_images/blog/_456/holyland/NATO.jpg"
+            },
+            {
+                "url": "https://userdisk.webry.biglobe.ne.jp/003/719/41/N000/000/001/t147209160375033793177.jpg"
+            },
+            {
+                "url": "https://www.marefa.org/images/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/150px-NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0b/20180720035501%21Major_NATO_affiliations_in_Europe.svg/120px-Major_NATO_affiliations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0b/20170605205747%21Major_NATO_affiliations_in_Europe.svg/120px-Major_NATO_affiliations_in_Europe.svg.png"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/2000px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/2000px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "http://www.citatom.se/wp-content/uploads/2016/07/citat-om-EG-EU.png"
+            },
+            {
+                "url": "https://www.readspeaker.com/wp-content/uploads/Europe.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EU27-further_enlargement_map.svg/2000px-EU27-further_enlargement_map.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/2000px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/2000px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://static1.fjcdn.com/comments/Probably+it+kinda+looks+like+the+eu+map+though+_03410aa2c95be6cd0177b0e237613de9.png"
+            },
+            {
+                "url": "https://www.populationdata.net/wp-content/uploads/2017/06/OTAN-partenariats.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/1280px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1280px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/1280px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/European_Organization_for_the_Safety_of_Air_Navigation_members.svg/1280px-European_Organization_for_the_Safety_of_Air_Navigation_members.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/1280px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/1280px-NATO_relations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/1200px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "http://upload.turkcewiki.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1200px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/98/Same-sex_marriage_map_Europe_2018.svg/1200px-Same-sex_marriage_map_Europe_2018.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/1200px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1200px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Same-sex_marriage_map_Europe_detailed_uaktualniona.svg/1200px-Same-sex_marriage_map_Europe_detailed_uaktualniona.svg.png"
+            },
+            {
+                "url": "https://storage.radiosarajevo.ba/image/287114/1180x732/zanimljive_mape_evropa06.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Europe-blocs-49-89x4.svg/1200px-Europe-blocs-49-89x4.svg.png"
+            },
+            {
+                "url": "http://kaiserdeutsch.weebly.com/uploads/5/2/8/1/52812691/2083780_orig.png"
+            },
+            {
+                "url": "http://bridgeforworld.org/wp-content/uploads/2018/06/Capital-Punishment-In-Europe-Map-Of-Subway-Springs-Us-States-Death-Penalty-Map-1024x783.jpg"
+            },
+            {
+                "url": "https://mrket.me/wp-content/uploads/2018/05/capital-punishment-world-map-5b094428239bd-1024x783.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/History_of_NATO_enlargement.svg/1024px-History_of_NATO_enlargement.svg.png"
+            },
+            {
+                "url": "http://radiolemberg.com/media/k2/items/cache/3bf89b27d093668ed3fc043fcde8da21_XL.jpg"
+            },
+            {
+                "url": "https://d3cdtxx03omvla.cloudfront.net/2430119_1449438947553.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/1012px-NATO_relations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1004px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/1004px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1004px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/1004px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/1003px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/1000px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Same-sex_marriage_map_Europe_%28without_bans%29.svg/1000px-Same-sex_marriage_map_Europe_%28without_bans%29.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/1000px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/1000px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://media.thebulletin.org/wp-content/uploads/2018/10/EU_and_NATO.svg-2.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/1000px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DqS2518XQAAIRoF.png"
+            },
+            {
+                "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-06/9/5/asset/buzzfeed-prod-web09/sub-buzz-1375-1465463285-2.jpg?resize=990:757"
+            },
+            {
+                "url": "https://img.theculturetrip.com/wp-content/uploads/2017/01/sub-buzz-2227-1482873014-1.jpg"
+            },
+            {
+                "url": "https://k60.kn3.net/taringa/1/0/0/9/9/5/DonpijoteDelasan/3D4.jpg"
+            },
+            {
+                "url": "http://i0.wp.com/inews.gtimg.com/newsapp_match/0/1004125637/0"
+            },
+            {
+                "url": "http://img.mp.itc.cn/upload/20170107/4219ec202cc14ef8a38faed6d3da8a94_th.jpeg"
+            },
+            {
+                "url": "https://fs00.infourok.ru/images/doc/209/237786/img13.jpg"
+            },
+            {
+                "url": "http://enacademic.com/pictures/enwiki/78/NATO_affiliations_in_Europe.svg"
+            },
+            {
+                "url": "https://u.smedata.sk/blog/article/4/46/467214/467214_article_photo_uznavanie-zvazkov-parov-rovnakeho-pohlavia-v-europe-tmavomodra-manzelstva-svetlomodra-registrovane-partnerstva-tyrkysova-uznanie-zvazkov-uzav_900x.png?r=27bp"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/897px-EU_and_NATO.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/NATO_relations_in_Europe.svg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/897px-NATO_relations_in_Europe.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/880px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Age_at_first_marriage_Europe_Average.svg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/ru/thumb/9/98/Same-sex_marriage_map_Europe_2018.svg/785px-Same-sex_marriage_map_Europe_2018.svg.png"
+            },
+            {
+                "url": "https://vignette.wikia.nocookie.net/althistory/images/8/83/Map_of_Europe_%28Venusian_Haven%29.png/revision/latest/scale-to-width-down/785?cb=20150610040506"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/785px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/785px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/785px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/784px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/779px-EU_and_NATO.svg.png"
+            },
+            {
+                "url": "https://militaryarms.ru/wp-content/uploads/2017/08/nato-2017-god.jpg"
+            },
+            {
+                "url": "https://img.theculturetrip.com/768x//wp-content/uploads/2017/01/sub-buzz-2227-1482873014-1.jpg"
+            },
+            {
+                "url": "https://ugc.kn3.net/i/760x/http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/778px-EU_and_NATO.svg.png"
+            },
+            {
+                "url": "https://img.buzzfeed.com/buzzfeed-static/static/2016-12/27/16/asset/buzzfeed-prod-fastlane-01/sub-buzz-2227-1482873014-1.jpg?downsize=700:*&output-format=auto&output-quality=auto"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/680px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://r.sinaimg.cn/large/article/cc2fe6c9bba22fe75e0ea408307a1762"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Drinking_age_Europe.svg"
+            },
+            {
+                "url": "https://www3.lernplattform.schule.at/sechshaus/pluginfile.php/1600/mod_label/intro/eu2.png"
+            },
+            {
+                "url": "https://niuerdata.g.com.cn/data/shareimg_oss/big_media_img/2018/04/11/04c916d7b3e2b150c655400363f0c0f2.JPEG"
+            },
+            {
+                "url": "https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmPwfASPPqtZnSzs93fw81vbh1yeC219zHSH1mDEfbGgYd/EU_and_NATO.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/European_Organization_for_the_Safety_of_Air_Navigation_members.svg/680px-European_Organization_for_the_Safety_of_Air_Navigation_members.svg.png"
+            },
+            {
+                "url": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1936/2017/05/31180047/qt79clmjsuc6fk6apq2d.png"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1611984109057477"
+            },
+            {
+                "url": "https://www.onlinepikairotita.com/wp-content/uploads/2018/09/Same-sex-marriage-map-Europe.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Death_Penality_in_Europe.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Death_Penalty_laws_in_Europe.svg"
+            },
+            {
+                "url": "https://saccsiv.files.wordpress.com/2018/10/680px-same-sex_marriage_map_europe_detailed-svg.png?w=720"
+            },
+            {
+                "url": "http://wx4.sinaimg.cn/large/a7b40e63gy1fdcxpqgzpej20iw0eg0we.jpg"
+            },
+            {
+                "url": "https://saccsiv.files.wordpress.com/2018/10/680px-same-sex_marriage_map_europe_detailed-svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/European_Organization_for_the_Safety_of_Air_Navigation_members.svg/660px-European_Organization_for_the_Safety_of_Air_Navigation_members.svg.png"
+            },
+            {
+                "url": "https://i1.wp.com/www.therobsalerno.com/wp-content/uploads/2018/01/680px-Same-sex_marriage_map_Europe_detailed.svg_.png?resize=644%2C492"
+            },
+            {
+                "url": "https://i2.kknews.cc/SIG=2ppkoga/ctp-vzntr/152342911240765p559ss67.jpg"
+            },
+            {
+                "url": "http://p3.pstatp.com/large/151900026e6b444c1ba6"
+            },
+            {
+                "url": "https://s.aolcdn.com/dims-shared/dims3/GLOB/crop/680x520+0+0/resize/630x482!/format/jpg/quality/85/https://s.aolcdn.com/hss/storage/midas/16d70f4ca3487e75edf60c2f4d1c02a4/205417060/Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/632px-NATO_relations_in_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/628px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Death_Penalty_laws_in_Europe.svg/628px-Death_Penalty_laws_in_Europe.svg.png"
+            },
+            {
+                "url": "https://vignette.wikia.nocookie.net/althistory/images/8/83/Map_of_Europe_%28Venusian_Haven%29.png/revision/latest/scale-to-width-down/628?cb=20150610040506"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/5282506/amplia.png?1476812084"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Drinking_age_Europe.svg/628px-Drinking_age_Europe.svg.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Age_at_first_marriage_Europe_Average.svg/627px-Age_at_first_marriage_Europe_Average.svg.png"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/620px-EU_and_NATO.svg.png"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-36b450d4a541b405b478f43234be4594"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-7204857d131feb0264c871f3bf1b5b07"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-b611a742070cd6efaa96fc70f5dc417e"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/600px-Same-sex_marriage_map_Europe_detailed.svg.png"
+            },
+            {
+                "url": "http://img1.gtimg.com/news/pics/hv1/117/153/2185/142118757.jpg"
+            },
+            {
+                "url": "https://i3.read01.com/SIG=2qrr66b/3049586d52304e7a3556.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.motherjones.com/kevin-drum/2015/12/russia-pretending-be-angry-over-montenegro-joining-nato/",
+                "pageTitle": "Russia Is Pretending to Be Angry Over <b>Montenegro Joining NATO</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.motherjones.com/wp-content/uploads/blog_nato_montenegro.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Enlargement_of_NATO",
+                "pageTitle": "Enlargement of <b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/400px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Accession_of_Bosnia_and_Herzegovina_to_NATO",
+                "pageTitle": "Accession of Bosnia and Herzegovina to <b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/NATO",
+                "pageTitle": "<b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipedia.org/wiki/Accession_of_Macedonia_to_NATO",
+                "pageTitle": "Accession of Macedonia to <b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.revolvy.com/page/Montenegro%E2%80%93NATO-relations",
+                "pageTitle": "<b>Montenegro</b>\u2013<b>NATO</b> relations | Revolvy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/03/ab/fe/03abfeb5f8a0a3b4c519c420de420e08.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.quora.com/Which-country-will-be-next-European-Union-member",
+                "pageTitle": "Which country will be next European Union member? - Quora",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://qph.fs.quoracdn.net/main-qimg-7204857d131feb0264c871f3bf1b5b07"
+                    }
+                ]
+            },
+            {
+                "url": "http://military.wikia.com/wiki/Enlargement_of_NATO",
+                "pageTitle": "Enlargement of <b>NATO</b> | Military Wiki | FANDOM powered by Wikia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikiwand.com/en/Enlargement_of_NATO",
+                "pageTitle": "Enlargement of <b>NATO</b> - Wikiwand",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/400px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/800px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/320px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Enlargement_of_NATO.html",
+                "pageTitle": "Enlargement of <b>NATO</b> - IPFS",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Accession_of_Montenegro_to_NATO.html",
+                "pageTitle": "Accession of <b>Montenegro</b> to <b>NATO</b> - IPFS",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikiwand.com/en/Foreign_relations_of_NATO",
+                "pageTitle": "Foreign relations of <b>NATO</b> - Wikiwand",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/400px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/800px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.revolvy.com/page/Georgia%E2%80%93NATO-relations",
+                "pageTitle": "Georgia\u2013<b>NATO</b> relations | Revolvy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/03/ab/fe/03abfeb5f8a0a3b4c519c420de420e08.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://wikivisually.com/wiki/Enlargement_of_NATO",
+                "pageTitle": "Enlargement of <b>NATO</b> - WikiVisually",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.revolvy.com/page/Major-non%252DNATO-ally",
+                "pageTitle": "Major non-<b>NATO</b> ally | Revolvy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/0e/71/c5/0e71c59e8011bfc1579b875cfbf48c3f.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://enacademic.com/dic.nsf/enwiki/9699967",
+                "pageTitle": "Enlargement of <b>NATO</b> - Academic Dictionaries and Encyclopedias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://enacademic.com/pictures/enwiki/78/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.bowincars.org/mediawiki-1.6.12/extensions/Fetch.php?topic=Enlargement_of_NATO",
+                "pageTitle": "Enlargement of <b>NATO</b> - Bowin Cars",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/400px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.revolvy.com/page/Albania%E2%80%93NATO-relations",
+                "pageTitle": "Albania\u2013<b>NATO</b> relations | Revolvy",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/03/ab/fe/03abfeb5f8a0a3b4c519c420de420e08.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.picsnaper.com/p/Russia-Is-Pretending-to-Be-Angry-Over-Montenegro-Joining-NATO-Mother-Jones",
+                "pageTitle": "Snap Russia Is Pretending to Be Angry Over <b>Montenegro Joining</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.motherjones.com/wp-content/uploads/blog_nato_montenegro.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://thegarrisoncenter.org/archives/tag/nato",
+                "pageTitle": "<b>NATO</b> | The William Lloyd Garrison Center for Libertarian Advocacy ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikiwand.com/en/Individual_Partnership_Action_Plan",
+                "pageTitle": "Individual Partnership Action Plan - Wikiwand",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/400px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/800px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/320px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikizero.co/wiki/en/North_Atlantic_Treaty_Organization",
+                "pageTitle": "<b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.wikizero.pro/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iLzAvMGIvTWFqb3JfTkFUT19hZmZpbGlhdGlvbnNfaW5fRXVyb3BlLnN2Zy81MDBweC1NYWpvcl9OQVRPX2FmZmlsaWF0aW9uc19pbl9FdXJvcGUuc3ZnLnBuZw"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Foreign_relations_of_NATO.html",
+                "pageTitle": "Foreign relations of <b>NATO</b> - IPFS",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikizero.co/wiki/en/NATO",
+                "pageTitle": "<b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.wikizero.pro/index.php?q=aHR0cDovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iLzAvMGIvTWFqb3JfTkFUT19hZmZpbGlhdGlvbnNfaW5fRXVyb3BlLnN2Zy81MDBweC1NYWpvcl9OQVRPX2FmZmlsaWF0aW9uc19pbl9FdXJvcGUuc3ZnLnBuZw"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Accession_of_Bosnia_and_Herzegovina_to_NATO.html",
+                "pageTitle": "Accession of Bosnia and Herzegovina to <b>NATO</b> - IPFS",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/I/m/NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.wikipediam.org/wiki/Individual_Partnership_Action_Plan",
+                "pageTitle": "Individual Partnership Action Plan - Wikipediam.org",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://file.wikipediam.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1200px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://thereaderwiki.com/en/NATO",
+                "pageTitle": "<b>NATO</b> - The Reader Wiki, Reader View of Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1000px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://g.sina.re/index.php?q=oKipp7eAc2SWr3HceeDZ26DVpsebtJ3kvteV5bW61aCEqMW8m9ve17C3pa6Zpp7fucSzz8LX",
+                "pageTitle": "Enlargement of <b>NATO</b> - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://g.sina.re/index.php?q=oKipp351c6qhrbLQr5fn2aLOrsiWvNCju-LNncO419qnqLzDl5jO3rS0tdupYanYwNLFkpaYpqlwl47DcJTGnpic1s7bn53YpaPVrZKQjLW9u8-ee7TxmGR4ZnS0qmaTdoeBpZWcrK6hoZWpoLO0t5Sar6K0wNvf4JyTtNmZgd_jsw"
+                    }
+                ]
+            },
+            {
+                "url": "https://wikivisually.com/wiki/NATO",
+                "pageTitle": "<b>NATO</b> - WikiVisually",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wrath-bearingtree.com/2016/10/the-case-against-nato/",
+                "pageTitle": "Against <b>NATO</b>: The Other Side of the Argument - Wrath-Bearing Tree",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?fit=500%2C382&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://thegarrisoncenter.org/archives/9797",
+                "pageTitle": "McCain versus Paul: The New Red Scare Masks US Foreign Policy ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://wikivisually.com/wiki/Accession_of_Bosnia_and_Herzegovina_to_NATO",
+                "pageTitle": "Accession of Bosnia and Herzegovina to <b>NATO</b> - WikiVisually",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://commons.wikimedia.org/wiki/File:NATO_affiliations_in_Europe.svg",
+                "pageTitle": "File:<b>NATO</b> affiliations in Europe.svg - Wikimedia Commons",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/314px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1004px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/680px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/NATO_affiliations_in_Europe.svg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/628px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1280px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/1000px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/2000px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/785px-NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/500px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://thegarrisoncenter.org/archives/tag/john-mccain",
+                "pageTitle": "John McCain | The William Lloyd Garrison Center for Libertarian ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://manypedia.com/#|en|NATO|zh",
+                "pageTitle": "Manypedia - &quot;<b>NATO</b>&quot; from the English Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wikiwand.com/en/Ireland%E2%80%93NATO_relations",
+                "pageTitle": "Ireland\u2013<b>NATO</b> relations - Wikiwand",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/320px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.quora.com/If-Russia-invaded-the-Baltic-States-would-NATO-invoke-Article-5-to-fight-Russia-and-defend-the-Baltic-States",
+                "pageTitle": "If Russia invaded the Baltic States would <b>NATO</b> invoke Article 5 to ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://qph.fs.quoracdn.net/main-qimg-4eff46e3b433d984762a954ea408db7a"
+                    }
+                ]
+            },
+            {
+                "url": "https://commons.wikimedia.org/wiki/File:Major_NATO_affiliations_in_Europe.svg",
+                "pageTitle": "File:Major <b>NATO</b> affiliations in Europe.svg - Wikimedia Commons",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0b/20170605205747%21Major_NATO_affiliations_in_Europe.svg/120px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/628px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/0/0b/20180720035501%21Major_NATO_affiliations_in_Europe.svg/120px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1004px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Major_NATO_affiliations_in_Europe.svg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/2000px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1280px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1000px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/314px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/680px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/785px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/200px-Major_NATO_affiliations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://commons.wikimedia.org/wiki/File:NATO_relations_in_Europe.svg",
+                "pageTitle": "File:<b>NATO</b> relations in Europe.svg - Wikimedia Commons",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/1280px-NATO_relations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/632px-NATO_relations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/897px-NATO_relations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/c/ce/20170605194810%21NATO_relations_in_Europe.svg/120px-NATO_relations_in_Europe.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/NATO_relations_in_Europe.svg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NATO_relations_in_Europe.svg/1012px-NATO_relations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.popflock.com/learn?s=NATO",
+                "pageTitle": "<b>NATO</b> Resource | Learn About, Share and Discuss <b>NATO</b> At ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://radiolemberg.com/ua-articles/ua-allarticles/nato-urgently-needs-ukraine",
+                "pageTitle": "<b>NATO</b> URGENTLY NEEDS UKRAINE - Radio Lemberg",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://radiolemberg.com/media/k2/items/cache/3bf89b27d093668ed3fc043fcde8da21_M.jpg"
+                    },
+                    {
+                        "url": "http://radiolemberg.com/media/k2/items/cache/3bf89b27d093668ed3fc043fcde8da21_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://enacademic.com/dic.nsf/enwiki/11786319",
+                "pageTitle": "Georgia\u2013<b>NATO</b> relations - Academic Dictionaries and Encyclopedias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://enacademic.com/pictures/enwiki/78/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.popflock.com/learn?s=North_Atlantic_Treaty_Organisation",
+                "pageTitle": "North Atlantic Treaty Organisation Resource | Learn About, Share ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.popflock.com/learn?s=North_Atlantic_Treaty_Organization_(NATO)",
+                "pageTitle": "North Atlantic Treaty Organization (<b>NATO</b>) Resource | Learn About ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://radiolemberg.com/en/ua-articles/ua-allarticles/nato-urgently-needs-ukraine",
+                "pageTitle": "<b>NATO</b> URGENTLY NEEDS UKRAINE - Radio Lemberg",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://radiolemberg.com/media/k2/items/cache/3bf89b27d093668ed3fc043fcde8da21_XL.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://enacademic.com/dic.nsf/enwiki/12840",
+                "pageTitle": "<b>NATO</b> - Academic Dictionaries and Encyclopedias",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://enacademic.com/pictures/enwiki/78/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "https://nationalleft.blogspot.com/2012/10/the-wrong-decision-on-nato.html",
+                "pageTitle": "National Left: The wrong decision on <b>NATO</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/756px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thegentlewaybook.com/newsletters/nl-012415.html",
+                "pageTitle": "Newsletter Jan 24, 2015 - The Gentle Way by Tom Moore",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/756px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://wikivisually.com/wiki/Ireland%E2%80%93NATO_relations",
+                "pageTitle": "Ireland\u2013<b>NATO</b> relations - WikiVisually",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/160px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wrath-bearingtree.com/tag/nato/",
+                "pageTitle": "<b>NATO</b> Archives - Wrath-Bearing Tree",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?resize=500%2C382&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.quora.com/Why-did-Putin-choose-the-path-of-confrontation-with-the-West",
+                "pageTitle": "Why did Putin choose the path of confrontation with the West? - Quora",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://qph.fs.quoracdn.net/main-qimg-b611a742070cd6efaa96fc70f5dc417e"
+                    }
+                ]
+            },
+            {
+                "url": "https://courses.lumenlearning.com/boundless-worldhistory/chapter/europe-in-the-21st-century/",
+                "pageTitle": "Europe in the 21st Century | Boundless World History",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1936/2017/05/31180047/qt79clmjsuc6fk6apq2d.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.quora.com/What-will-happen-with-Romania-if-WW3-broke-out",
+                "pageTitle": "What will happen with Romania if WW3 broke out? - Quora",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://qph.fs.quoracdn.net/main-qimg-3407eea85628ab1b648cfd2038bab4f2"
+                    }
+                ]
+            },
+            {
+                "url": "https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/europe-in-the-21st-century/",
+                "pageTitle": "Europe in the 21st Century | World Civilizations I (HIS101) \u2013 Biel",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1936/2017/05/31180047/qt79clmjsuc6fk6apq2d.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://thegarrisoncenter.org/fi/archives/author/thomas-l-knapp/page/72",
+                "pageTitle": "Thomas L. Knapp | The William Lloyd Garrison Center for Libertarian ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://thebulletin.org/2018/10/the-hope-in-europe/",
+                "pageTitle": "The hope in Europe - Bulletin of the Atomic Scientists",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.thebulletin.org/wp-content/uploads/2018/10/EU_and_NATO.svg-2.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://commons.wikimedia.org/wiki/File:EU27-further_enlargement_map.svg",
+                "pageTitle": "File:EU27-further enlargement map.svg - Wikimedia Commons",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EU27-further_enlargement_map.svg/2000px-EU27-further_enlargement_map.svg.png"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EU27-further_enlargement_map.svg/500px-EU27-further_enlargement_map.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wrath-bearingtree.com/category/adrian-bonenberger/",
+                "pageTitle": "Adrian Bonenberger Archives - Wrath-Bearing Tree",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?resize=500%2C382&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.bing.com/discover/nato-countries",
+                "pageTitle": "Best <b>NATO</b> Countries - ideas and images on Bing | Find what you&#39;ll ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://tse2.mm.bing.net/th?id=OIP.U7qgyLDNG8UfCkxrj6WpqAHaFn&w=190&h=144&c=8&o=5&pid=1.7"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wrath-bearingtree.com/2016/06/laurent-becue-renards-men-war-war-not-tragic-embarrassing/",
+                "pageTitle": "In Laurent B\u00e9cue-Renard&#39;s Of Men and War War Is Not Tragic But ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?resize=240%2C150&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.twcenter.net/forums/showthread.php?684610-Russian-amp-Eastern-Europe-Geopolitics-thread/page4",
+                "pageTitle": "Russian &amp; Eastern Europe Geopolitics thread - Page 4",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/2000px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lawyersgunsmoneyblog.com/2018/07/russian-electoral-intervention-strategic-genius-something-else",
+                "pageTitle": "Russian Electoral Intervention: Strategic Genius or Something Else ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.lawyersgunsmoneyblog.com/wp-content/uploads/2018/07/NATO.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.therobsalerno.com/?m=",
+                "pageTitle": "ROB SALERNO \u2013 Writer. Actor. Journalist.",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.therobsalerno.com/wp-content/uploads/2018/01/680px-Same-sex_marriage_map_Europe_detailed.svg_.png?resize=644%2C492"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/mihai_2_romania?lang=en",
+                "pageTitle": "Michael 2 of Romania (@Mihai_2_Romania) | Twitter",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/CWEPmL-U8AADe7o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.therobsalerno.com/",
+                "pageTitle": "ROB SALERNO \u2013 Writer. Actor. Journalist.",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.therobsalerno.com/wp-content/uploads/2018/01/680px-Same-sex_marriage_map_Europe_detailed.svg_.png?resize=644%2C492"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/markhibbsceip?lang=en",
+                "pageTitle": "Mark Hibbs (@MarkHibbsCEIP) | Twitter",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DqS2518XQAAIRoF.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://thebulletin.org/tag/inf/",
+                "pageTitle": "INF Archives - Bulletin of the Atomic Scientists",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.thebulletin.org/wp-content/uploads/2018/10/EU_and_NATO.svg-2.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://infogram.com/nato-vs-the-eu-1gk92edx13erp16",
+                "pageTitle": "<b>NATO</b> VS THE EU by bob wecwefwf - Infogram",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://d3cdtxx03omvla.cloudfront.net/2430119_1449438947553.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://forums.spacebattles.com/threads/soviet-union-1985-vs-nato-2012.229148/page-19",
+                "pageTitle": "Soviet Union 1985 vs. <b>NATO</b> 2012 | Page 19 | SpaceBattles Forums",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/756px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.therobsalerno.com/?p=785",
+                "pageTitle": "Same-sex marriage in Europe as of Jan. 1, 2018 \u2013 ROB SALERNO",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.therobsalerno.com/wp-content/uploads/2018/01/680px-Same-sex_marriage_map_Europe_detailed.svg_.png?resize=644%2C492"
+                    }
+                ]
+            },
+            {
+                "url": "https://steemkr.com/worldwar3watch/@culper/a1t7x-ww3-watch-nato-russia-situation-report",
+                "pageTitle": "WW3 Watch: <b>NATO</b>-Russia Situation Report \u2014 Steemkr",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://steemitimages.com/DQmTGqka52W1JoLGBy3E7oZYrGWd49NfB6fYNBDveTwTug9/Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.plaintruth.com/the_plain_truth/2016/06/love-it-or-leave-it-why-the-uks-brexit-vote-should-matter-to-americans.html",
+                "pageTitle": "The Plain Truth: Love it or Leave it: Why the U.K.&#39;s Brexit Vote ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/350px-EU_and_NATO.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.abovetopsecret.com/forum/thread1031471/pg1",
+                "pageTitle": "Are events leading to WWII a parallel to events leading to a WWIII ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/History_of_NATO_enlargement.svg/1024px-History_of_NATO_enlargement.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://tomatobubble.com/id680.html",
+                "pageTitle": "GEORGE WILL vs VLADIMIR PUTIN - Tomato Bubble",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/1280px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reddit.com/r/europe/comments/5wu7eb/as_of_today_samesex_is_legal_and_equal_in_finland/",
+                "pageTitle": "As of today, same-sex is legal and equal in Finland. Yay, us! : europe",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/512px-Same-sex_marriage_map_Europe_detailed.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.trekbbs.com/threads/who-is-sympathetic-to-the-klingons.290411/page-10",
+                "pageTitle": "Spoilers - Who is sympathetic to the Klingons? | Page 10 | The Trek ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/628px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.plaintruth.com/the_plain_truth/2016/06/index.html",
+                "pageTitle": "The Plain Truth: June 2016",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/EU_and_NATO.svg/350px-EU_and_NATO.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://althistory.wikia.com/wiki/File:Map_of_Europe_(Venusian_Haven).png",
+                "pageTitle": "Image - Map of Europe (Venusian Haven).png | Alternative History ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://vignette.wikia.nocookie.net/althistory/images/8/83/Map_of_Europe_%28Venusian_Haven%29.png/revision/latest/scale-to-width-down/628?cb=20150610040506"
+                    },
+                    {
+                        "url": "https://vignette.wikia.nocookie.net/althistory/images/8/83/Map_of_Europe_%28Venusian_Haven%29.png/revision/latest/scale-to-width-down/785?cb=20150610040506"
+                    }
+                ]
+            },
+            {
+                "url": "https://snappygoat.com/s/?q=bestof%3Aflag%20nato%20north%20atlantic%20treaty%20organization%20circle%20star%20blue%20alliance",
+                "pageTitle": "Free Images - SnappyGoat.com- bestof:flag <b>nato</b> north atlantic treaty ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://snappygoat.com/b/b14e25eecdcdbcf46eb3cba9684ed511cefb0102"
+                    }
+                ]
+            },
+            {
+                "url": "https://snappygoat.com/s/?q=bestof%3ACorps+Nato.svg+Standard+NATO+code+for+a+friendly+army+corps+Created+by+Lokal_Profil+based+on+the+following+two+files+SVG+base+Platoon+Nato+svg+by+HeavyD14+png",
+                "pageTitle": "Free Images - SnappyGoat.com- bestof:Corps <b>Nato</b>.svg Standard ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://snappygoat.com/b/b14e25eecdcdbcf46eb3cba9684ed511cefb0102"
+                    }
+                ]
+            },
+            {
+                "url": "https://theconservativetreehouse.com/2014/07/17/all-signs-point-to-russian-fired-missile-brought-down-mh-17-killing-295-and-now-putin-blames-ukraine-for-mistake/",
+                "pageTitle": "All Signs Point To Russian Fired Missile Brought Down MH-17 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/375px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://instinctmagazine.com/post/romanian-referendum-may-permanently-criminalize-same-sex-marriage",
+                "pageTitle": "Romanian Referendum May Permanently Criminalize Same-Sex ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/512px-Same-sex_marriage_map_Europe_detailed.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://github.com/hamaxx/leakspin-sauce/blob/master/zemanta/07SOFIA1271.txt",
+                "pageTitle": "leakspin-sauce/07SOFIA1271.txt at master \u00b7 hamaxx/leakspin-sauce ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/5/56/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "http://sciencereengineered.com/is-russia-part-of-nato/",
+                "pageTitle": "25 Best is Russia Part Of <b>Nato</b> \u2013 autopart",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://sciencereengineered.com/wp-content/uploads/2018/07/is-russia-part-of-nato-beautiful-nato-of-is-russia-part-of-nato.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://g.sina.re/index.php?q=oKipp7eAc2SWr3HmtNTZ4JzJqsRgwuHce-fP2bV-stqjqJKod726zqitrNaim5bktNTR1sDS39KGvr_ekZqTq6ia",
+                "pageTitle": "File:<b>NATO</b> affiliations in Europe.svg - Wikipedia",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://g.sina.re/index.php?q=oKipp351c6qhrbLQr5fn2aLOrsiWvNCju-LNncO419qnqLzDl5jO3rS0tdupYanYwNLFkpaYpqlwl47DcJTGnpic1s7bn53YpaPVrZKQjLW9u8-ee7TxmGR6bnS0qmaTdoeBpZWcrK6hoZWpoLO0t5Sar6K0wNvf4JyTtNmZgd_jsw"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reddit.com/r/pics/comments/51ccm7/south_dakota_missile_control_door/",
+                "pageTitle": "South Dakota Missile Control Door : pics - Reddit",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/NATO_affiliations_in_Europe.svg"
+                    }
+                ]
+            },
+            {
+                "url": "http://instinctmagazine.com/tag/lgbtrights?page=1",
+                "pageTitle": "#lgbtrights | Page 2 | Instinct",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Same-sex_marriage_map_Europe_detailed.svg/512px-Same-sex_marriage_map_Europe_detailed.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.timetoast.com/timelines/early-events-of-the-cold-war-539e1977-2f38-492f-9502-367efd72be37",
+                "pageTitle": "Early Events of the Cold War timeline | Timetoast timelines",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9888894/imgres.png?1491786384"
+                    }
+                ]
+            },
+            {
+                "url": "http://clay.parvazearam.co/nato-essay.html",
+                "pageTitle": "<b>nato</b> essay <b>nato</b> essay coursework academic writing service against ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.wrath-bearingtree.com/wp-content/uploads/2016/10/Major_NATO_affiliations_in_Europe.svg_.png?fit=500%2C382"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.timetoast.com/timelines/cold-war-ffb7ae49-ba21-4f17-a246-c4a6a48c54f7",
+                "pageTitle": "Cold War timeline | Timetoast timelines",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/10048882/Major_NATO_affiliations_in_Europe.svg.png?1494251969"
+                    }
+                ]
+            },
+            {
+                "url": "http://cempaka-europa.blogspot.com/2016/08/bras-tanks-and-guns-norways-women-join.html",
+                "pageTitle": "Cempaka Europa: Bras, tanks and guns: Norway&#39;s women <b>join</b> the ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://4.bp.blogspot.com/-Ppi3dRuOBhw/UyYVbmXh0dI/AAAAAAABV80/WWJRtvMi_HM/s330/EU28-candidate_countries_map.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.timetoast.com/timelines/cold-war-and-civil-rights-movement-timeline-project",
+                "pageTitle": "Cold War and Civil Rights Movement Timeline Project | Timetoast ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9952076/Major_NATO_affiliations_in_Europe.svg.png?1492968595"
+                    }
+                ]
+            },
+            {
+                "url": "https://dralfoldman.com/2015/04/26/epp-eu-should-tell-russia-we-are-ready-to-go-to-war-euractivas/",
+                "pageTitle": "EPP: EU should tell Russia we are ready to go to war | EurActivAs ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/350px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://wikivividly.com/wiki/Caviar_diplomacy",
+                "pageTitle": "Caviar diplomacy - WikiVividly",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NATO_affiliations_in_Europe.svg/300px-NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://keywordsuggest.org/gallery/292680.html",
+                "pageTitle": "Image Gallery <b>nato</b> and russia - Keywordsuggest.org",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.motherjones.com/files/blog_nato_montenegro.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://dq.yam.com/post.php?id=7744",
+                "pageTitle": "\u8499\u7279\u5167\u54e5\u7f85\u52a0\u5165<b>NATO</b>_\u4fc4\u570b\u4e0d\u723d_\u6c11\u773e\u75db\u6279| DQ \u5730\u7403\u5716\u8f2f\u968a\u5e36\u4f60\u770b\u900f ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://fpscdn.yam.com/world/201706/8f/e2/593635a4a8fe2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.turkcewiki.org/wiki/NATO",
+                "pageTitle": "<b>NATO</b> - Turkcewiki.org",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.turkcewiki.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/500px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.sconfinare.net/intervista-a-luca-susic-equilibrio-e-minacce-nei-balcani/",
+                "pageTitle": "Intervista a Luca Susic: equilibrio e minacce nei Balcani - Sconfinare",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/www.sconfinare.net/wp-content/uploads/NATO_affiliations_in_Europe.svg_.png?resize=600%2C455"
+                    }
+                ]
+            },
+            {
+                "url": "http://pt.gowikipedia.org/wiki/Organiza%C3%A7%C3%A3o_do_Tratado_do_Atl%C3%A2ntico_Norte",
+                "pageTitle": "GoWikipedia - Organiza\u00e7\u00e3o do Tratado do Atl\u00e2ntico Norte ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Major_NATO_affiliations_in_Europe.svg/375px-Major_NATO_affiliations_in_Europe.svg.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://kureselmeydan.com/2015/12/19/nato-karadag-hamlesi-balkan-politikasi/",
+                "pageTitle": "<b>Nato</b>&#39;nun Karada\u011f Hamlesi ve Birli\u011fin Balkanlar Politikas\u0131",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i1.wp.com/www.kureselmeydan.com/wp-content/uploads/2015/12/blog_nato_montenegro.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdn.static-economist.com/sites/default/files/images/2015/12/articles/body/20151212_wom913_0.png"
+            },
+            {
+                "url": "http://www.dw.com/image/19072383_304.png"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/8547982/nato-and-the-warsaw-pact-48-728.jpg?1478580235"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/EU-523932.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/U57JpJaTZe8/maxresdefault.jpg"
+            },
+            {
+                "url": "https://www.dw.com/image/39009065_401.png"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/z/nato-finland-sweden-ukraine-serbia-montenegro-macedonia-georgia-bosnia-enlargement-as-yin-yang-military-partnership-71536261.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "montenegro joins nato",
+                "languageCode": "en"
+            }
+        ]
+    }
+}

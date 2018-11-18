@@ -1,0 +1,3133 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 572,
+                        "y": 141
+                    },
+                    {
+                        "x": 781,
+                        "y": 141
+                    },
+                    {
+                        "x": 781,
+                        "y": 384
+                    },
+                    {
+                        "x": 572,
+                        "y": 384
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 569,
+                        "y": 197
+                    },
+                    {
+                        "x": 728,
+                        "y": 197
+                    },
+                    {
+                        "x": 728,
+                        "y": 356
+                    },
+                    {
+                        "x": 569,
+                        "y": 356
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 614.80634,
+                        "y": 249.2091,
+                        "z": 0.0005541615
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 659.5886,
+                        "y": 247.91678,
+                        "z": -45.355755
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 603.9171,
+                        "y": 235.06108,
+                        "z": 20.191225
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 617.1972,
+                        "y": 233.49736,
+                        "z": -19.376497
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 638.8457,
+                        "y": 233.15353,
+                        "z": -41.337692
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 678.509,
+                        "y": 233.93921,
+                        "z": -55.41568
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 626.63104,
+                        "y": 247.16714,
+                        "z": -31.549484
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 612.4788,
+                        "y": 282.09344,
+                        "z": -46.094936
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 623.18243,
+                        "y": 305.78693,
+                        "z": -36.540176
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 626.0668,
+                        "y": 327.9399,
+                        "z": -34.139492
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 615.9377,
+                        "y": 315.48236,
+                        "z": -6.8495464
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 652.68787,
+                        "y": 315.36057,
+                        "z": -42.713623
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 626.7728,
+                        "y": 316.26285,
+                        "z": -33.573048
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 642.61194,
+                        "y": 287.74222,
+                        "z": -41.489037
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 618.501,
+                        "y": 289.27127,
+                        "z": -16.771286
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 622.498,
+                        "y": 292.38144,
+                        "z": -36.231026
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 611.3785,
+                        "y": 244.8725,
+                        "z": -2.478344
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 623.5567,
+                        "y": 249.7768,
+                        "z": -8.616685
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 614.036,
+                        "y": 253.56769,
+                        "z": -0.2505832
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 609.6765,
+                        "y": 250.05446,
+                        "z": 13.391922
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 612.48444,
+                        "y": 249.36946,
+                        "z": -0.055793453
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 655.82117,
+                        "y": 244.01564,
+                        "z": -47.697098
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 671.8103,
+                        "y": 248.86496,
+                        "z": -49.826485
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 658.9241,
+                        "y": 252.7163,
+                        "z": -45.490868
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 650.24457,
+                        "y": 249.31496,
+                        "z": -35.721016
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 658.0614,
+                        "y": 248.51071,
+                        "z": -46.50926
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 607.5225,
+                        "y": 226.37407,
+                        "z": -2.063729
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 655.7304,
+                        "y": 225.45511,
+                        "z": -51.136642
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 641.19824,
+                        "y": 284.43777,
+                        "z": 82.59789
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 742.0685,
+                        "y": 282.46484,
+                        "z": -20.12746
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 626.2403,
+                        "y": 232.41643,
+                        "z": -32.004086
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 631.7506,
+                        "y": 356.71014,
+                        "z": -29.006401
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 626.7521,
+                        "y": 323.81012,
+                        "z": 57.94111
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 717.94543,
+                        "y": 322.08807,
+                        "z": -34.876804
+                    }
+                }
+            ],
+            "rollAngle": 1.2265192,
+            "panAngle": -45.54271,
+            "tiltAngle": 2.305418,
+            "detectionConfidence": 0.54738975,
+            "landmarkingConfidence": 0.10271579,
+            "joyLikelihood": "UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0215n",
+            "description": "cartoon",
+            "score": 0.96460694,
+            "topicality": 0.96460694
+        },
+        {
+            "mid": "/m/02qd0r",
+            "description": "human behavior",
+            "score": 0.86555034,
+            "topicality": 0.86555034
+        },
+        {
+            "mid": "/m/07s6nbt",
+            "description": "text",
+            "score": 0.8551876,
+            "topicality": 0.8551876
+        },
+        {
+            "mid": "/m/05zppz",
+            "description": "male",
+            "score": 0.8149004,
+            "topicality": 0.8149004
+        },
+        {
+            "mid": "/m/01kr8f",
+            "description": "illustration",
+            "score": 0.6763043,
+            "topicality": 0.6763043
+        },
+        {
+            "mid": "/m/02h7lkt",
+            "description": "fictional character",
+            "score": 0.6089175,
+            "topicality": 0.6089175
+        },
+        {
+            "mid": "/m/01lhf",
+            "description": "communication",
+            "score": 0.59085137,
+            "topicality": 0.59085137
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "en",
+            "description": "ODAVE GRANLUND.conM\nNATO\nRUSSIA\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 34,
+                        "y": 11
+                    },
+                    {
+                        "x": 742,
+                        "y": 11
+                    },
+                    {
+                        "x": 742,
+                        "y": 204
+                    },
+                    {
+                        "x": 34,
+                        "y": 204
+                    }
+                ]
+            }
+        },
+        {
+            "description": "ODAVE",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 523,
+                        "y": 20
+                    },
+                    {
+                        "x": 584,
+                        "y": 17
+                    },
+                    {
+                        "x": 585,
+                        "y": 42
+                    },
+                    {
+                        "x": 524,
+                        "y": 45
+                    }
+                ]
+            }
+        },
+        {
+            "description": "GRANLUND.conM",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 594,
+                        "y": 17
+                    },
+                    {
+                        "x": 741,
+                        "y": 11
+                    },
+                    {
+                        "x": 742,
+                        "y": 36
+                    },
+                    {
+                        "x": 595,
+                        "y": 42
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 34,
+                        "y": 84
+                    },
+                    {
+                        "x": 113,
+                        "y": 72
+                    },
+                    {
+                        "x": 120,
+                        "y": 119
+                    },
+                    {
+                        "x": 41,
+                        "y": 130
+                    }
+                ]
+            }
+        },
+        {
+            "description": "RUSSIA",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 39,
+                        "y": 169
+                    },
+                    {
+                        "x": 135,
+                        "y": 154
+                    },
+                    {
+                        "x": 140,
+                        "y": 188
+                    },
+                    {
+                        "x": 44,
+                        "y": 204
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 250,
+                        "green": 249,
+                        "blue": 248
+                    },
+                    "score": 0.40224588,
+                    "pixelFraction": 0.6026521
+                },
+                {
+                    "color": {
+                        "red": 20,
+                        "green": 19,
+                        "blue": 24
+                    },
+                    "score": 0.078668125,
+                    "pixelFraction": 0.076527245
+                },
+                {
+                    "color": {
+                        "red": 194,
+                        "green": 8,
+                        "blue": 12
+                    },
+                    "score": 0.047941368,
+                    "pixelFraction": 0.0054756566
+                },
+                {
+                    "color": {
+                        "red": 153,
+                        "green": 19,
+                        "blue": 25
+                    },
+                    "score": 0.022924265,
+                    "pixelFraction": 0.0031666446
+                },
+                {
+                    "color": {
+                        "red": 102,
+                        "green": 25,
+                        "blue": 27
+                    },
+                    "score": 0.009267248,
+                    "pixelFraction": 0.0020451248
+                },
+                {
+                    "color": {
+                        "red": 195,
+                        "green": 195,
+                        "blue": 194
+                    },
+                    "score": 0.050978083,
+                    "pixelFraction": 0.059242643
+                },
+                {
+                    "color": {
+                        "red": 158,
+                        "green": 157,
+                        "blue": 157
+                    },
+                    "score": 0.04346596,
+                    "pixelFraction": 0.04565246
+                },
+                {
+                    "color": {
+                        "red": 50,
+                        "green": 49,
+                        "blue": 56
+                    },
+                    "score": 0.03897942,
+                    "pixelFraction": 0.03443726
+                },
+                {
+                    "color": {
+                        "red": 84,
+                        "green": 83,
+                        "blue": 88
+                    },
+                    "score": 0.03154186,
+                    "pixelFraction": 0.029291464
+                },
+                {
+                    "color": {
+                        "red": 244,
+                        "green": 234,
+                        "blue": 207
+                    },
+                    "score": 0.029683163,
+                    "pixelFraction": 0.022100542
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 799
+                        },
+                        {
+                            "x": 799,
+                            "y": 594
+                        },
+                        {
+                            "y": 594
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 1.17
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "en"
+                        }
+                    ]
+                },
+                "width": 800,
+                "height": 595,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "sr"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 523,
+                                    "y": 11
+                                },
+                                {
+                                    "x": 742,
+                                    "y": 11
+                                },
+                                {
+                                    "x": 742,
+                                    "y": 45
+                                },
+                                {
+                                    "x": 523,
+                                    "y": 45
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "sr"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 523,
+                                            "y": 11
+                                        },
+                                        {
+                                            "x": 742,
+                                            "y": 11
+                                        },
+                                        {
+                                            "x": 742,
+                                            "y": 45
+                                        },
+                                        {
+                                            "x": 523,
+                                            "y": 45
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "sr"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 523,
+                                                    "y": 20
+                                                },
+                                                {
+                                                    "x": 584,
+                                                    "y": 17
+                                                },
+                                                {
+                                                    "x": 585,
+                                                    "y": 42
+                                                },
+                                                {
+                                                    "x": 524,
+                                                    "y": 45
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 523,
+                                                            "y": 20
+                                                        },
+                                                        {
+                                                            "x": 536,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 537,
+                                                            "y": 44
+                                                        },
+                                                        {
+                                                            "x": 524,
+                                                            "y": 45
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 537,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 553,
+                                                            "y": 18
+                                                        },
+                                                        {
+                                                            "x": 554,
+                                                            "y": 43
+                                                        },
+                                                        {
+                                                            "x": 538,
+                                                            "y": 44
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "D"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 554,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 562,
+                                                            "y": 19
+                                                        },
+                                                        {
+                                                            "x": 563,
+                                                            "y": 44
+                                                        },
+                                                        {
+                                                            "x": 555,
+                                                            "y": 44
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 563,
+                                                            "y": 18
+                                                        },
+                                                        {
+                                                            "x": 575,
+                                                            "y": 17
+                                                        },
+                                                        {
+                                                            "x": 576,
+                                                            "y": 42
+                                                        },
+                                                        {
+                                                            "x": 564,
+                                                            "y": 43
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "V"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 576,
+                                                            "y": 18
+                                                        },
+                                                        {
+                                                            "x": 584,
+                                                            "y": 18
+                                                        },
+                                                        {
+                                                            "x": 585,
+                                                            "y": 43
+                                                        },
+                                                        {
+                                                            "x": 577,
+                                                            "y": 43
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 594,
+                                                    "y": 17
+                                                },
+                                                {
+                                                    "x": 741,
+                                                    "y": 11
+                                                },
+                                                {
+                                                    "x": 742,
+                                                    "y": 36
+                                                },
+                                                {
+                                                    "x": 595,
+                                                    "y": 42
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 594,
+                                                            "y": 17
+                                                        },
+                                                        {
+                                                            "x": 610,
+                                                            "y": 16
+                                                        },
+                                                        {
+                                                            "x": 611,
+                                                            "y": 41
+                                                        },
+                                                        {
+                                                            "x": 595,
+                                                            "y": 42
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "G"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 611,
+                                                            "y": 16
+                                                        },
+                                                        {
+                                                            "x": 627,
+                                                            "y": 15
+                                                        },
+                                                        {
+                                                            "x": 628,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 612,
+                                                            "y": 41
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 628,
+                                                            "y": 15
+                                                        },
+                                                        {
+                                                            "x": 636,
+                                                            "y": 15
+                                                        },
+                                                        {
+                                                            "x": 637,
+                                                            "y": 40
+                                                        },
+                                                        {
+                                                            "x": 629,
+                                                            "y": 40
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 637,
+                                                            "y": 15
+                                                        },
+                                                        {
+                                                            "x": 650,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 651,
+                                                            "y": 39
+                                                        },
+                                                        {
+                                                            "x": 638,
+                                                            "y": 40
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 651,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 658,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 659,
+                                                            "y": 39
+                                                        },
+                                                        {
+                                                            "x": 652,
+                                                            "y": 39
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "L"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 659,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 667,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 668,
+                                                            "y": 39
+                                                        },
+                                                        {
+                                                            "x": 660,
+                                                            "y": 39
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 668,
+                                                            "y": 14
+                                                        },
+                                                        {
+                                                            "x": 680,
+                                                            "y": 13
+                                                        },
+                                                        {
+                                                            "x": 681,
+                                                            "y": 38
+                                                        },
+                                                        {
+                                                            "x": 669,
+                                                            "y": 39
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 681,
+                                                            "y": 13
+                                                        },
+                                                        {
+                                                            "x": 693,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 694,
+                                                            "y": 37
+                                                        },
+                                                        {
+                                                            "x": 682,
+                                                            "y": 38
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "D"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 694,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 702,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 703,
+                                                            "y": 37
+                                                        },
+                                                        {
+                                                            "x": 695,
+                                                            "y": 37
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "."
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 703,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 711,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 712,
+                                                            "y": 37
+                                                        },
+                                                        {
+                                                            "x": 704,
+                                                            "y": 37
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "c"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 712,
+                                                            "y": 12
+                                                        },
+                                                        {
+                                                            "x": 724,
+                                                            "y": 11
+                                                        },
+                                                        {
+                                                            "x": 725,
+                                                            "y": 36
+                                                        },
+                                                        {
+                                                            "x": 713,
+                                                            "y": 37
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "o"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 725,
+                                                            "y": 11
+                                                        },
+                                                        {
+                                                            "x": 737,
+                                                            "y": 10
+                                                        },
+                                                        {
+                                                            "x": 738,
+                                                            "y": 35
+                                                        },
+                                                        {
+                                                            "x": 726,
+                                                            "y": 36
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "n"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 738,
+                                                            "y": 10
+                                                        },
+                                                        {
+                                                            "x": 741,
+                                                            "y": 10
+                                                        },
+                                                        {
+                                                            "x": 742,
+                                                            "y": 35
+                                                        },
+                                                        {
+                                                            "x": 739,
+                                                            "y": 35
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "M"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 34,
+                                    "y": 72
+                                },
+                                {
+                                    "x": 120,
+                                    "y": 72
+                                },
+                                {
+                                    "x": 120,
+                                    "y": 130
+                                },
+                                {
+                                    "x": 34,
+                                    "y": 130
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 34,
+                                            "y": 72
+                                        },
+                                        {
+                                            "x": 120,
+                                            "y": 72
+                                        },
+                                        {
+                                            "x": 120,
+                                            "y": 130
+                                        },
+                                        {
+                                            "x": 34,
+                                            "y": 130
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 34,
+                                                    "y": 84
+                                                },
+                                                {
+                                                    "x": 113,
+                                                    "y": 72
+                                                },
+                                                {
+                                                    "x": 120,
+                                                    "y": 119
+                                                },
+                                                {
+                                                    "x": 41,
+                                                    "y": 130
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 34,
+                                                            "y": 84
+                                                        },
+                                                        {
+                                                            "x": 57,
+                                                            "y": 81
+                                                        },
+                                                        {
+                                                            "x": 64,
+                                                            "y": 127
+                                                        },
+                                                        {
+                                                            "x": 41,
+                                                            "y": 130
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 58,
+                                                            "y": 80
+                                                        },
+                                                        {
+                                                            "x": 81,
+                                                            "y": 77
+                                                        },
+                                                        {
+                                                            "x": 88,
+                                                            "y": 123
+                                                        },
+                                                        {
+                                                            "x": 65,
+                                                            "y": 126
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 81,
+                                                            "y": 76
+                                                        },
+                                                        {
+                                                            "x": 96,
+                                                            "y": 74
+                                                        },
+                                                        {
+                                                            "x": 103,
+                                                            "y": 120
+                                                        },
+                                                        {
+                                                            "x": 88,
+                                                            "y": 122
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 97,
+                                                            "y": 74
+                                                        },
+                                                        {
+                                                            "x": 113,
+                                                            "y": 72
+                                                        },
+                                                        {
+                                                            "x": 120,
+                                                            "y": 118
+                                                        },
+                                                        {
+                                                            "x": 104,
+                                                            "y": 120
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 39,
+                                    "y": 154
+                                },
+                                {
+                                    "x": 140,
+                                    "y": 154
+                                },
+                                {
+                                    "x": 140,
+                                    "y": 204
+                                },
+                                {
+                                    "x": 39,
+                                    "y": 204
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 39,
+                                            "y": 154
+                                        },
+                                        {
+                                            "x": 140,
+                                            "y": 154
+                                        },
+                                        {
+                                            "x": 140,
+                                            "y": 204
+                                        },
+                                        {
+                                            "x": 39,
+                                            "y": 204
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 39,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 135,
+                                                    "y": 154
+                                                },
+                                                {
+                                                    "x": 140,
+                                                    "y": 188
+                                                },
+                                                {
+                                                    "x": 44,
+                                                    "y": 204
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 40,
+                                                            "y": 175
+                                                        },
+                                                        {
+                                                            "x": 60,
+                                                            "y": 172
+                                                        },
+                                                        {
+                                                            "x": 64,
+                                                            "y": 201
+                                                        },
+                                                        {
+                                                            "x": 45,
+                                                            "y": 204
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 62,
+                                                            "y": 173
+                                                        },
+                                                        {
+                                                            "x": 81,
+                                                            "y": 170
+                                                        },
+                                                        {
+                                                            "x": 85,
+                                                            "y": 196
+                                                        },
+                                                        {
+                                                            "x": 66,
+                                                            "y": 199
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "U"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 81,
+                                                            "y": 165
+                                                        },
+                                                        {
+                                                            "x": 95,
+                                                            "y": 163
+                                                        },
+                                                        {
+                                                            "x": 100,
+                                                            "y": 193
+                                                        },
+                                                        {
+                                                            "x": 86,
+                                                            "y": 196
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 95,
+                                                            "y": 161
+                                                        },
+                                                        {
+                                                            "x": 106,
+                                                            "y": 159
+                                                        },
+                                                        {
+                                                            "x": 111,
+                                                            "y": 190
+                                                        },
+                                                        {
+                                                            "x": 100,
+                                                            "y": 192
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 107,
+                                                            "y": 158
+                                                        },
+                                                        {
+                                                            "x": 118,
+                                                            "y": 156
+                                                        },
+                                                        {
+                                                            "x": 123,
+                                                            "y": 187
+                                                        },
+                                                        {
+                                                            "x": 112,
+                                                            "y": 189
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "I"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "en"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 117,
+                                                            "y": 157
+                                                        },
+                                                        {
+                                                            "x": 135,
+                                                            "y": 154
+                                                        },
+                                                        {
+                                                            "x": 139,
+                                                            "y": 181
+                                                        },
+                                                        {
+                                                            "x": 121,
+                                                            "y": 184
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "ODAVE GRANLUND.conM\nNATO\nRUSSIA\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0cqt90",
+                "score": 10.978499,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/m/06bnz",
+                "score": 0.79050004,
+                "description": "Russia"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.75029993,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/01d4jd",
+                "score": 0.7195,
+                "description": "Editorial cartoon"
+            },
+            {
+                "entityId": "/m/0215n",
+                "score": 0.7156,
+                "description": "Cartoon"
+            },
+            {
+                "entityId": "/g/11f6mcnp8v",
+                "score": 0.68055,
+                "description": "2018 Russia\u2013United States summit"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.5822
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5226
+            },
+            {
+                "entityId": "/m/01d4hq",
+                "score": 0.4549,
+                "description": "Editorial cartoonist"
+            },
+            {
+                "entityId": "/m/01kr8f",
+                "score": 0.4545,
+                "description": "Illustration"
+            },
+            {
+                "entityId": "/m/06nbt",
+                "score": 0.4426,
+                "description": "Satire"
+            },
+            {
+                "entityId": "/m/09kqc",
+                "score": 0.4348,
+                "description": "Humour"
+            },
+            {
+                "entityId": "/m/05mrx8",
+                "score": 0.4237,
+                "description": "Political satire"
+            },
+            {
+                "entityId": "/m/08193",
+                "score": 0.10782,
+                "description": "Vladimir Putin"
+            },
+            {
+                "entityId": "/m/0dd9j6s",
+                "score": 0.070785,
+                "description": "Joe Heller"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg"
+            },
+            {
+                "url": "https://www.recordnet.com/storyimage/SR/20180712/OPINION/180719939/AR/0/AR-180719939.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Dh7otBDUcAA1R6_.jpg:large"
+            },
+            {
+                "url": "https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/12731168_web1_180713_EDH_0716-trumputin-granlund_M.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Dh7otBDUcAA1R6_.jpg"
+            },
+            {
+                "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C-1200x675.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DiQY95fW4AQ8xTG.jpg"
+            },
+            {
+                "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C-1024x761.jpg"
+            },
+            {
+                "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/f8/af802560-5214-570b-9331-4f34bd449517/5b47e04aa1015.image.jpg"
+            },
+            {
+                "url": "https://image.cagle.com/212923/750/212923.png"
+            },
+            {
+                "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/eb/6ebaeb63-bd58-570a-b707-ece2d2dba306/5b47e04ab13ac.preview.jpg?crop=800%2C450%2C0%2C72&resize=800%2C450&order=crop%2Cresize"
+            },
+            {
+                "url": "https://3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/12745484_web1_180716-BIR-trump77-HEROS34.jpg"
+            },
+            {
+                "url": "http://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+            },
+            {
+                "url": "http://npic7.fangtoo.com/cn/zixun/zh-chs/2018-07/17/7029109242af4df39c51ecb50bd4184a.jpg"
+            },
+            {
+                "url": "https://78.media.tumblr.com/afe7e68fcc88c5d4945ac2e013bbe042/tumblr_pbt4hcxwCC1r55d2io1_640.jpg"
+            },
+            {
+                "url": "http://p0.ifengimg.com/pmop/2018/0810/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+            },
+            {
+                "url": "http://rdn.paibanxia.com/remote/?s=aHR0cHM6Ly9tbWJpei5xbG9nby5jbi9tbWJpel9wbmcvc1VGUjg5dzZZWm8wN2dVc2Q4TXU5b2liaWFDdndhT0NrQVA0OVJQQW51M2ZiemR0bzBjWEZiYzg2dVJ2ZWMyc0dBYXkxazFNREpqUmhIWGdIVWM4WTVvQS82NDA/d3hfZm10PXBuZyZhbXA7dHA9d2VicCZhbXA7d3hmcm9tPTUmYW1wO3d4X2xhenk9MQ=="
+            },
+            {
+                "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+            },
+            {
+                "url": "http://himg2.huanqiu.com/attachment2010/2018/0810/20180810081247691.jpg"
+            },
+            {
+                "url": "http://www.52hrttpic.com/image/infoImage/201807/17/G1530696878530.jpeg?600x465"
+            },
+            {
+                "url": "https://i.pinimg.com/736x/e8/6a/2a/e86a2ac709c92c775225b26ceae377f1.jpg"
+            },
+            {
+                "url": "https://www.mediapool.bg/gal/73/orig_233b2a5f9bd5c84bc404575bcb2cd1db.jpg"
+            },
+            {
+                "url": "https://www.caglecartoons.com/media/cartoons/95/2018/07/12/212923_600.jpg"
+            },
+            {
+                "url": "https://4.bp.blogspot.com/-r8giwFNbPqw/W1FXIal8WjI/AAAAAAACagc/AF_pIvMtblsL4XKu7u2msGeDZRpdqsoPQCLcBGAs/s1600/1dnp%2B1.jpg"
+            },
+            {
+                "url": "https://image.politicalcartoons.com/212923/600/600_212923.png"
+            },
+            {
+                "url": "https://i.pinimg.com/originals/ea/de/63/eade632458b26e00068198d732cc0bb8.png"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-2f90c9ea9e6a7c24d4f2233924a1f02a"
+            },
+            {
+                "url": "http://p6.qhimg.com/t01381973052c6895ac.webp"
+            },
+            {
+                "url": "http://n.sinaimg.cn/news/crawl/176/w550h426/20180810/VUXa-hhnunsq4485307.jpg"
+            },
+            {
+                "url": "https://ic.pics.livejournal.com/vbulahtin/9232037/6264705/6264705_600.jpg"
+            },
+            {
+                "url": "https://inews.gtimg.com/newsapp_bt/0/4456013175/641"
+            },
+            {
+                "url": "http://www.feixinqi.com/img/aHR0cDovL2ltZzMuaW1ndG4uYmRpbWcuY29tL2l0L3U9ODk5NDM5NTk0LDI2NDEzNzU3MSZmbT0xMSZncD0wLmpwZw==.jpg"
+            },
+            {
+                "url": "http://upload.m4.cn/2018/0717/1531822459524.jpeg"
+            },
+            {
+                "url": "https://image.cagle.com/212923/500/212923.png"
+            },
+            {
+                "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+            },
+            {
+                "url": "https://i.pinimg.com/474x/ea/de/63/eade632458b26e00068198d732cc0bb8.jpg"
+            },
+            {
+                "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C-480x300.jpg"
+            },
+            {
+                "url": "http://hbimg.b0.upaiyun.com/74bd1567a30febac56ea3d54c253320bc02ba5e5e9da-S059SA_fw236"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/55/4f/89/554f8926bc0588339a1baceaa20e8c53.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/d6/34/0f/d6340f9cb128c3272ff3e70b5d6164cd.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/170x/ea/de/63/eade632458b26e00068198d732cc0bb8.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.timesrecord.com/wp-content/uploads/images/2018-07-13/17p1.jpg"
+            },
+            {
+                "url": "https://p0.storage.canalblog.com/08/07/1233879/120763995_o.jpg"
+            },
+            {
+                "url": "https://www.timesrecord.com/wp-content/uploads/images/2018-07-13/17p1-1024x761.jpg"
+            },
+            {
+                "url": "http://dnes-bg.org/language/bg/uploads/img_big/news__1/news__ada1105d7ea9109429be13b817b926bd.jpg"
+            },
+            {
+                "url": "http://basirat.ir/files/fa/news/1397/4/27/45687_540.jpg"
+            },
+            {
+                "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg"
+            },
+            {
+                "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg?w=600&h=314&crop=1"
+            },
+            {
+                "url": "http://demset.org/f/attachment.php?attachmentid=23899&d=1532363713"
+            },
+            {
+                "url": "https://i0.wp.com/ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg?resize=350%2C200&ssl=1"
+            },
+            {
+                "url": "http://img.mastvnet.com/material/news/img/230x130/2018/08/b55c0ee926ea350b6961fdda0b6c5a1a.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.bainbridgereview.com/opinion/trumps-77th-week-in-office-in-cartoons/",
+                "pageTitle": "<b>Trump&#39;s</b> 77th week in office | In <b>cartoons</b> | Bainbridge Island Review",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://3ci6gd82qqe3lh3ugujrds6j-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/12745484_web1_180716-BIR-trump77-HEROS34.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.quora.com/Are-there-any-good-political-cartoons-depicting-Trump-weighing-Putins-word-above-all-the-American-intelligence-officials-journalists-Congress-etc",
+                "pageTitle": "Are there any good political <b>cartoons</b> depicting <b>Trump</b> weighing ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://qph.fs.quoracdn.net/main-qimg-2f90c9ea9e6a7c24d4f2233924a1f02a"
+                    }
+                ]
+            },
+            {
+                "url": "https://politicalcartoons.com/cartoon/dave_granlund/212923/trump_prefers_putin/",
+                "pageTitle": "<b>Trump</b> prefers <b>Putin</b> #212923 by Dave Granlund",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.politicalcartoons.com/212923/600/600_212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipolitics.ca/2018/07/17/trumps-demands-cartoon/",
+                "pageTitle": "<b>Trump&#39;s</b> Demands (<b>cartoon</b>) - iPolitics",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cagle.com/topics/world/russia/page/21/",
+                "pageTitle": "<b>Russia</b> - The Cagle Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.cagle.com/212923/750/212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipolitics.ca/2018/07/17/putin-on-the-pole-cartoon/",
+                "pageTitle": "<b>Putin</b> on the pole (<b>cartoon</b>) - iPolitics",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipolitics.ca/2018/07/14/putins-marvellous-little-toy-cartoon/",
+                "pageTitle": "<b>Putin&#39;s</b> marvellous little toy <b>cartoon</b> - iPolitics",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg"
+                    },
+                    {
+                        "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C-1024x761.jpg"
+                    },
+                    {
+                        "url": "https://ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C-1200x675.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.recordnet.com/opinion/20180712/granlund-cartoon-controlling-trump",
+                "pageTitle": "Granlund <b>cartoon</b>: Controlling <b>Trump</b> - Opinion - recordnet.com ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.recordnet.com/storyimage/SR/20180712/OPINION/180719939/AR/0/AR-180719939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.davegranlund.com/cartoons/2018/07/12/trump-prefers-putin/",
+                "pageTitle": "Dave Granlund \u2013 Editorial <b>Cartoons</b> and Illustrations \u00bb <b>Trump</b> ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stltoday.com/opinion/editorial/nato-russia-and-trump-editorial-cartoonists-have-the-last-laugh/collection_6ebaeb63-bd58-570a-b707-ece2d2dba306.html",
+                "pageTitle": "NATO, <b>Russia</b> and <b>Trump</b>: Editorial cartoonists have the last laugh ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/f8/af802560-5214-570b-9331-4f34bd449517/5b47e04aa1015.image.jpg"
+                    },
+                    {
+                        "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/eb/6ebaeb63-bd58-570a-b707-ece2d2dba306/5b47e04ab13ac.preview.jpg?crop=800%2C450%2C0%2C72&resize=800%2C450&order=crop%2Cresize"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cagle.com/tag/vlad/",
+                "pageTitle": "vlad - The Cagle Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.cagle.com/212923/750/212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cagle.com/dave-granlund/2018/07/trump-prefers-putin",
+                "pageTitle": "<b>Trump</b> prefers <b>Putin</b> - The Cagle Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.cagle.com/212923/750/212923.png"
+                    },
+                    {
+                        "url": "https://image.cagle.com/212923/500/212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.poconorecord.com/opinion/20180712/granlund-cartoon-controlling-trump",
+                "pageTitle": "Granlund <b>cartoon</b>: Controlling <b>Trump</b> - Opinion - poconorecord.com ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.poconorecord.com/storyimage/PR/20180712/OPINION/180719897/AR/0/AR-180719897.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ipolitics.ca/2018/09/18/deny-deny-cartoon/",
+                "pageTitle": "Deny Deny (<b>cartoon</b>) - iPolitics",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/ipolitics.ca/wp-content/uploads/2018/07/1503EB5E-3B65-49BC-B8CA-D9C9302F863C.jpg?resize=350%2C200&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cagle.com/tag/control/",
+                "pageTitle": "control - The Cagle Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.cagle.com/212923/750/212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.justplainpolitics.com/showthread.php?99618-Post-your-favorite-Trump-Political-cartoon-here",
+                "pageTitle": "Post your favorite <b>Trump</b> Political <b>cartoon</b> here.",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/736x/e8/6a/2a/e86a2ac709c92c775225b26ceae377f1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.heraldnet.com/opinion/editorial-cartoons-for-monday-july-16/",
+                "pageTitle": "Editorial <b>cartoons</b> for Monday, July 16 | HeraldNet.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/12731168_web1_180713_EDH_0716-trumputin-granlund_M.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/nydailynews/status/1018994921796194304?lang=en",
+                "pageTitle": "New York Daily News on Twitter: &quot;.@realdonaldtrump derides ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DiRHXJuVAAMhRTc.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/goerie/status/1017506429517697024?lang=en",
+                "pageTitle": "GoErie on Twitter: &quot;Granlund <b>cartoon</b>: Controlling <b>Trump</b> https://t.co ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Dh7otBDUcAA1R6_.jpg"
+                    },
+                    {
+                        "url": "https://pbs.twimg.com/media/Dh7otBDUcAA1R6_.jpg:large"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.timesrecord.com/articles/opinion/political-cartoon-1940/",
+                "pageTitle": "Political <b>Cartoon</b> | The Times Record",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.timesrecord.com/wp-content/uploads/images/2018-07-13/17p1-1024x761.jpg"
+                    },
+                    {
+                        "url": "https://www.timesrecord.com/wp-content/uploads/images/2018-07-13/17p1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cartoonpolitics.tumblr.com/post/175851912950/cartoon-by-dave-granlund",
+                "pageTitle": "<b>Cartoon</b> Politics \u2014 (<b>cartoon</b> by Dave Granlund)",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://78.media.tumblr.com/afe7e68fcc88c5d4945ac2e013bbe042/tumblr_pbt4hcxwCC1r55d2io1_640.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.co.uk/johnlewallen/political-cartoons/",
+                "pageTitle": "Political <b>cartoons</b>, <b>Trump cartoons</b> and Political satire - Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/170x/ea/de/63/eade632458b26e00068198d732cc0bb8.jpg"
+                    },
+                    {
+                        "url": "https://i.pinimg.com/474x/ea/de/63/eade632458b26e00068198d732cc0bb8.jpg"
+                    },
+                    {
+                        "url": "https://i.pinimg.com/originals/ea/de/63/eade632458b26e00068198d732cc0bb8.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://hwgadget.info/trump-putin-cartoon_34ccb28e3005954326e4e91b1dd994a5/",
+                "pageTitle": "<b>Trump Putin Cartoon</b> - HWgadget",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://grovepicax.pw/NateBeeler-cartoon-on-Trump39s-SpaceForce-Download-https.html",
+                "pageTitle": "NateBeeler <b>cartoon</b> on Trump39s SpaceForce Download https",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/55/4f/89/554f8926bc0588339a1baceaa20e8c53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://stratadime.com/i/patricks-day-cartoon-dave-granlund",
+                "pageTitle": "Patricks Day <b>Cartoon</b> Dave Granlund | Stratadime",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://image.politicalcartoons.com/212923/600/600_212923.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.politicalforum.com/index.php?threads/funny-political-cartoons-x.517878/page-299",
+                "pageTitle": "Funny Political <b>Cartoons</b> X | Page 299 | PoliticalForum.com - Forum ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.caglecartoons.com/media/cartoons/95/2018/07/12/212923_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://homesecurity.press/quotes/political-cartoons-about-donald-trump.html",
+                "pageTitle": "Political <b>Cartoons</b> About Donald <b>Trump</b> - homesecurity.press",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i3.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse4.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/thehill/status/1019303584209530880",
+                "pageTitle": "The Hill on Twitter: &quot;Dem senator calls on translator to reveal to ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DiVOU6yVAAAutJe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://homesecurity.press/quotes/trump-racist-political-cartoon.html",
+                "pageTitle": "<b>Trump</b> Racist Political <b>Cartoon</b> - homesecurity.press",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://internationalsport.blog/2018/07/15/dear-mr-trump-business-is-important-for-the-whole-world-but-please-cut-your-dependence-from-russia-we-dont-event-speak-about-trumps-tower-of-secrets-but-let-the-people-create-the-kind-of-world/",
+                "pageTitle": "DEAR MR <b>TRUMP</b>, BUSINESS IS IMPORTANT FOR THE WHOLE ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg?w=600&h=314&crop=1"
+                    },
+                    {
+                        "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/ScottFrazier19/status/1020048034544185344",
+                "pageTitle": "Great Scott! on Twitter: &quot;The question is where will Melania sleep ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DifxCOsWsAQHTcd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bedroomfurniture.club/search/dave-political-cartoons-2017.html",
+                "pageTitle": "Dave Political <b>Cartoons</b> 2017 - Bedroom Furniture",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "http://yellowdoggrannie.blogspot.com/2018/07/what-everloving-fuck-friday.html",
+                "pageTitle": "YELLOWDOG GRANNY: what the everloving fuck Friday",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://4.bp.blogspot.com/-r8giwFNbPqw/W1FXIal8WjI/AAAAAAACagc/AF_pIvMtblsL4XKu7u2msGeDZRpdqsoPQCLcBGAs/s1600/1dnp%2B1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sgtalk.org/mybb/Thread-Documents-Expose-President-Donald-Trump-Border-Deployment-As-Political-Stunt",
+                "pageTitle": "Documents Expose President Donald <b>Trump</b> Border Deployment As ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://homesecurity.press/quotes/cartoons-crime-in-russia.html",
+                "pageTitle": "<b>Cartoons</b> Crime In <b>Russia</b> - Home Security",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://cartoonpolitics.tumblr.com/post/175776695690/cartoon-by-nate-beeler",
+                "pageTitle": "<b>Cartoon</b> Politics \u2014 (<b>cartoon</b> by Nate Beeler)",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://78.media.tumblr.com/afe7e68fcc88c5d4945ac2e013bbe042/tumblr_pbt4hcxwCC1r55d2io1_640.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reddit.com/user/FoolSilly",
+                "pageTitle": "FoolSilly (u/FoolSilly) - Reddit",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.redd.it/haqomo3smv911.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://airfreshener.club/quotes/political-cartoons-2013-2014-us.html",
+                "pageTitle": "Political <b>Cartoons</b> 2013 2014 Us - Air Freshener",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.usmessageboard.com/threads/political-cartoon.445219/page-509",
+                "pageTitle": "Political <b>Cartoon</b> | Page 509 | US Message Board - Political ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.usmessageboard.com/attachments/83598f85-90b4-4ae1-a8c8-25a5fc458e38-png.208513/"
+                    }
+                ]
+            },
+            {
+                "url": "https://scottiestoybox.com/2018/07/14/what-happened-to-civility-this-happened/",
+                "pageTitle": "what happened to civility, this happened. | Scotties Toy Box",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://78.media.tumblr.com/afe7e68fcc88c5d4945ac2e013bbe042/tumblr_pbt4hcxwCC1r55d2io1_640.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.sentinelcolorado.com/orecent-headlines/toon-in-friday-163/",
+                "pageTitle": "Toon in Friday - Sentinel Colorado",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn.sentinelcolorado.com/2018/07/13075659/212923_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.trendsmap.com/twitter/tweet/1018290065443868673",
+                "pageTitle": "Mia Farrow&#39;s tweet - &quot;Can anyone tell me 1) why <b>Trump</b> is meeting ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DiG0_ujWsAIgT5M.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.democraticunderground.org/100210863589",
+                "pageTitle": "Friday TOONS - Yeth, Mathter Edition (with bonus MASA ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.caglecartoons.com/media/cartoons/95/2018/07/12/212923_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://internationalsport.blog/category/uncategorized/",
+                "pageTitle": "Uncategorized | International Sport asbl registered charity",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg?w=600&h=314&crop=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reddit.com/r/PoliticalHumor/comments/8yrybe/listen_your_every_wish_is_my_command_all_you/",
+                "pageTitle": "Listen, your every wish is my command, All you gotta do is wiggle ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.redd.it/haqomo3smv911.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://homesecurity.press/quotes/editorial-cartoons-2015.html",
+                "pageTitle": "Editorial <b>Cartoons</b> 2015 - Home Security",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i3.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse4.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.trendsmap.com/twitter/tweet/1030523343701778439",
+                "pageTitle": "CNN&#39;s tweet - &quot;Nearly 6 in 10 Americans say President <b>Trump</b> has ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/Dk0nzn6U4AAXMsT.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://trynotlaughs.us/galleries/political-cartoon-of-china-and-russia.html",
+                "pageTitle": "Political <b>Cartoon</b> Of China And <b>Russia</b> - Try Not Laughs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://trynotlaughs.us/galleries/boys-will-be-boys-kavanaugh-cartoon.html",
+                "pageTitle": "Boys Will Be Boys Kavanaugh <b>Cartoon</b> - Try Not Laughs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://internationalsport.blog/",
+                "pageTitle": "International Sport asbl registered charity | registered R.C.S. ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://internationalsportblog.files.wordpress.com/2018/07/phray6ck.jpeg?w=600&h=314&crop=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://upload.democraticunderground.com/100210863589",
+                "pageTitle": "Friday TOONS - Yeth, Mathter Edition (with bonus MASA ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.caglecartoons.com/media/cartoons/95/2018/07/12/212923_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://airfreshener.club/quotes/cartoons-to-share-on-facebook.html",
+                "pageTitle": "<b>Cartoons</b> To Share On Facebook - Air Freshener",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.trendsmap.com/twitter/tweet/1018994921796194304",
+                "pageTitle": "&quot;.@realdonaldtrump \u2026&quot; - @NYDailyNews, New York Daily News&#39;s ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/DiRHXJuVAAMhRTc.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://in.pinterest.com/gmpromao/",
+                "pageTitle": "g.romao (gmpromao) on Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/d6/34/0f/d6340f9cb128c3272ff3e70b5d6164cd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.magicocean.top/cartoon-by-dave-granlund.html",
+                "pageTitle": "<b>Cartoon</b> By Dave Granlund | Magic Ocean",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://jobsanger.blogspot.com/2018/07/controlled.html",
+                "pageTitle": "jobsanger: Controlled",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://3.bp.blogspot.com/-HTCUPOkoUvA/W0ufYzr9dVI/AAAAAAAB0FM/NaQFvJrS-YYMqTAs82V4kOk97vDOWeGDQCLcBGAs/s640/2%2Bdave%2Bgranlund.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tumblrgallery.com/tumblrblog/gallery/938273.html",
+                "pageTitle": "Doggie Girl - Photos - TumblrGallery.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://78.media.tumblr.com/afe7e68fcc88c5d4945ac2e013bbe042/tumblr_pbt4hcxwCC1r55d2io1_1280.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://trynotlaughs.us/galleries/2014-memes-vs-2018-memes.html",
+                "pageTitle": "2014 Memes Vs 2018 Memes - Try Not Laughs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    },
+                    {
+                        "url": "https://tse1.mm.bing.net/th?id=OIP.fgR3icAcbXKozY-ik0RYVAHaFv"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/pin/54254370496484274/",
+                "pageTitle": "<b>Trump</b> prefers <b>Putin</b> | News <b>Cartoons</b> &amp; Opinions | Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/originals/e8/6a/2a/e86a2ac709c92c775225b26ceae377f1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/gmpromao/cartoons/",
+                "pageTitle": "As 2544 melhores imagens em <b>cartoons</b> no Pinterest de 2018 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/d6/34/0f/d6340f9cb128c3272ff3e70b5d6164cd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://konica.al/2018/09/epoka-trump-kercenim-per-ekzistencen-e-putinit/",
+                "pageTitle": "Epoka <b>Putin</b>, k\u00ebrc\u00ebnim p\u00ebr ekzistenc\u00ebn e <b>Trump</b>... - Konica.al",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://konica.al/wp-content/uploads/2018/09/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://zonadenoticias.com/actualidad/no-tengas-duda-que-con-trump-te-espera-lo-peor/",
+                "pageTitle": "No tengas duda que con <b>Trump</b> te espera lo peor - Zona de Noticias ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.davegranlund.com/cartoons/wp-content/uploads/Trump-Prefers-Putin.png"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mediapool.bg/izmennikat-tramp-pudel-na-putin-v-karikaturi-i-kolazhi-news281620.html",
+                "pageTitle": "&quot;\u0418\u0437\u043c\u0435\u043d\u043d\u0438\u043a\u044a\u0442&quot; \u0422\u0440\u044a\u043c\u043f, &quot;\u043f\u0443\u0434\u0435\u043b&quot; \u043d\u0430 \u041f\u0443\u0442\u0438\u043d \u0432 \u043a\u0430\u0440\u0438\u043a\u0430\u0442\u0443\u0440\u0438 \u0438 \u043a\u043e\u043b\u0430\u0436\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.mediapool.bg/gal/73/orig_233b2a5f9bd5c84bc404575bcb2cd1db.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://world.huanqiu.com/article/2018-08/12687053.html",
+                "pageTitle": "\u7ec8\u7a76\u8fd8\u662f\u95f9\u63b0\uff01\u666e\u4eac\u7684\u8003\u9a8c\u53c8\u6765\u4e86\uff01_\u56fd\u9645\u65b0\u95fb_\u73af\u7403\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://himg2.huanqiu.com/attachment2010/2018/0810/20180810081247691.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://dnes-bg.org/%2Bizmennikyt%2B+trymp%2B+%2Bpudel%2B+na+putin+v+karikaturi+-aktualno/1/MNeXctKzcVOPYpWrcFePYFeXcxK7YZOfMVKDMRePchevIJaLYZKfYVKDI9KbIpafMBejMReDI1eLIBeLIJKb",
+                "pageTitle": "\u0418\u0437\u043c\u0435\u043d\u043d\u0438\u043a\u044a\u0442 \u0422\u0440\u044a\u043c\u043f, \u043f\u0443\u0434\u0435\u043b \u043d\u0430 \u041f\u0443\u0442\u0438\u043d \u0432 \u043a\u0430\u0440\u0438\u043a\u0430\u0442\u0443\u0440\u0438 \u0438 \u043a\u043e\u043b\u0430\u0436\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://dnes-bg.org/language/bg/uploads/img_big/news__1/news__ada1105d7ea9109429be13b817b926bd.jpg"
+                    },
+                    {
+                        "url": "https://www.mediapool.bg/gal/73/orig_233b2a5f9bd5c84bc404575bcb2cd1db.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vbulahtin.livejournal.com/4197612.html",
+                "pageTitle": "\u0422\u0440\u0430\u043c\u043f\u0443\u0442\u0438\u043d: vbulahtin",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ic.pics.livejournal.com/vbulahtin/9232037/6264705/6264705_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kotsedoi.livejournal.com/3453377.html",
+                "pageTitle": "Sina: \u041f\u0440\u0438\u0448\u043b\u043e \u0432\u0440\u0435\u043c\u044f \u0438\u0441\u043f\u044b\u0442\u0430\u0442\u044c \u041f\u0443\u0442\u0438\u043d\u0430 - \u041a\u043e\u0442. \u0421\u0435\u0434\u043e\u0439 \u041a\u043e\u0442",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ic.pics.livejournal.com/kotsedoi/71845428/8173993/8173993_800.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.sina.com.cn/w/sy/2018-08-10/doc-ihhnunsq4488835.shtml",
+                "pageTitle": "\u6700\u7ec8\u8fd8\u662f\u8fd9\u6837\u95f9\u5d29\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86|\u7279\u6717\u666e|\u666e\u4eac|\u4fc4\u7f57\u65af_\u65b0\u6d6a ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://n.sinaimg.cn/news/crawl/176/w550h426/20180810/VUXa-hhnunsq4485307.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.ifeng.com/a/20180717/59225519_0.shtml",
+                "pageTitle": "\u7279\u6717\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\uff0c\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u51e4\u51f0\u8d44\u8baf",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://p0.ifengimg.com/pmop/2018/0717/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.sina.cn/global/szzx/2018-08-10/detail-ihhnunsq5239145.d.html?cre=tianyi&mod=wpage&loc=5&r=32&doct=0&rfunc=15&tj=none&tr=32",
+                "pageTitle": "\u8fd8\u662f\u8fd9\u6837\u95f9\u5d29\u4e86\uff01\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86_\u624b\u673a\u65b0\u6d6a\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://n.sinaimg.cn/front/265/w600h465/20180810/EPnu-hhnunsq5239433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.sina.cn/global/szzx/2018-08-10/detail-ihhnunsq5239145.d.html?cre=globalpagew&mod=f&loc=11&r=9&doct=0&rfunc=86&tj=none",
+                "pageTitle": "\u8fd8\u662f\u8fd9\u6837\u95f9\u5d29\u4e86\uff01\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86_\u624b\u673a\u65b0\u6d6a\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://n.sinaimg.cn/front/265/w600h465/20180810/EPnu-hhnunsq5239433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.sina.cn/global/szzx/2018-07-17/detail-ihfkffam0778555.d.html",
+                "pageTitle": "\u7279\u6717\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\uff0c\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898\u2026\u2026_\u624b\u673a\u65b0\u6d6a\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://n.sinaimg.cn/front/265/w600h465/20180717/boGQ-hfkffam0779311.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.sina.cn/global/szzx/2018-08-10/detail-ihhnunsq5239145.d.html?cre=globalpagew&mod=f&loc=10&r=9&doct=0&rfunc=86&tj=none",
+                "pageTitle": "\u8fd8\u662f\u8fd9\u6837\u95f9\u5d29\u4e86\uff01\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86_\u624b\u673a\u65b0\u6d6a\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://n.sinaimg.cn/front/265/w600h465/20180810/EPnu-hhnunsq5239433.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.ifeng.com/a/20180810/59733038_0.shtml",
+                "pageTitle": "\u7f8e\u56fd\u7a81\u7136\u5ba3\u5e03\u5bf9\u4fc4\u65b0\u5236\u88c1\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86_\u51e4\u51f0\u8d44\u8baf",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://p0.ifengimg.com/pmop/2018/0810/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://inews.ifeng.com/59733038/news.shtml",
+                "pageTitle": "\u7f8e\u56fd\u7a81\u7136\u5ba3\u5e03\u5bf9\u4fc4\u65b0\u5236\u88c1\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86_\u624b\u673a\u51e4\u51f0\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://p0.ifengimg.com/pmop/2018/0810/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://inews.ifeng.com/59225519/news.shtml",
+                "pageTitle": "\u7279\u6717\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\uff0c\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u624b\u673a\u51e4\u51f0\u7f51 - \u51e4\u51f0\u65b0\u95fb",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://p0.ifengimg.com/pmop/2018/0717/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dnes-bg.org/%2Bizmennikyt%2B+trymp%2B+%2Bpudel%2B+na+putin+v+karikaturi+-aktualno/1/MNeXctKzcVOPYpWrcFePYFeXcxK7YZOfMVKDMRePchevIJaLYZKfYVKDI9KbIpafMBejMReDI1eLIBeLIJKb?print=1",
+                "pageTitle": "\u0418\u0437\u043c\u0435\u043d\u043d\u0438\u043a\u044a\u0442 \u0422\u0440\u044a\u043c\u043f, \u043f\u0443\u0434\u0435\u043b \u043d\u0430 \u041f\u0443\u0442\u0438\u043d \u0432 \u043a\u0430\u0440\u0438\u043a\u0430\u0442\u0443\u0440\u0438 \u0438 \u043a\u043e\u043b\u0430\u0436\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.mediapool.bg/gal/73/orig_233b2a5f9bd5c84bc404575bcb2cd1db.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mastvnet.com/news/globe/2018-08-10/170164.html",
+                "pageTitle": "\u3010\u89e3\u5c40\u3011\u4e00\u5834\u7f8e\u570b\u5167\u90e8\u7684\u8cbf\u6613\u807d\u8b49\u6703\uff0c\u5f88\u6709\u610f\u601d_\u5168\u7403_\u6fb3\u4e9e\u7db2 - \u6fb3\u4e9e\u885b\u8996",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.mastvnet.com/material/news/img/230x130/2018/08/b55c0ee926ea350b6961fdda0b6c5a1a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mastvnet.com/news/globe/2018-08-10/170148.html",
+                "pageTitle": "\u7d42\u7a76\u9084\u662f\u9b27\u63b0\uff01\u666e\u4eac\u7684\u8003\u9a57\u53c8\u4f86\u4e86\uff01_\u5168\u7403_\u6fb3\u4e9e\u7db2 - \u6fb3\u4e9e\u885b\u8996",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://img.mastvnet.com/material/news/img/2018/08/b55c0ee926ea350b6961fdda0b6c5a1a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mastvnet.com/news/globe/2018-08-10/170156.html",
+                "pageTitle": "\u7f8e\u526f\u7e3d\u7d71\u516c\u5e03\u592a\u7a7a\u8ecd\u5efa\u8a2d\u8a08\u5283\uff1a\u6b32\u6295\u516580\u5104\u7f8e\u5143_\u5168\u7403_\u6fb3\u4e9e\u7db2 - \u6fb3\u4e9e\u885b\u8996",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.mastvnet.com/material/news/img/230x130/2018/08/b55c0ee926ea350b6961fdda0b6c5a1a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mastvnet.com/news/globe/2018-08-10/170160.html",
+                "pageTitle": "\u7f8e\u526f\u7e3d\u7d71\u5f6d\u65af\u7a31\u7f8e\u570b\u52302020\u5e74\u5c07\u5efa\u6210\u592a\u7a7a\u8ecd_\u5168\u7403_\u6fb3\u4e9e\u7db2 - \u6fb3\u4e9e\u885b\u8996",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://img.mastvnet.com/material/news/img/230x130/2018/08/b55c0ee926ea350b6961fdda0b6c5a1a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://demset.org/f/showthread.php?p=32216",
+                "pageTitle": "\u0418\u0433\u043e\u0440\u044c \u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e: \u041c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f - 7 - \u0424\u043e\u0440\u0443\u043c \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://demset.org/f/attachment.php?attachmentid=23899&d=1532363713"
+                    }
+                ]
+            },
+            {
+                "url": "http://hqtime.huanqiu.com/article/a-XDIGHSF11D5C960B4A82F5",
+                "pageTitle": "\u7ec8\u7a76\u8fd8\u662f\u95f9\u63b0\uff01\u666e\u4eac\u7684\u8003\u9a8c\u53c8\u6765\u4e86\uff01 - \u73af\u7403\u65f6\u62a5",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://t1.huanqiu.cn/37dae039b8ab9bb73d2c50a7d97de002.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://vbulahtin.livejournal.com/tag/%D0%BA%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0",
+                "pageTitle": "\u041a\u0430\u043f\u0438\u0442\u0430\u043d \u0422\u0421 - vbulahtin - LiveJournal",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ic.pics.livejournal.com/vbulahtin/9232037/6264705/6264705_600.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mil.news.sina.com.cn/china/2018-08-10/doc-ihhnunsq4623215.shtml",
+                "pageTitle": "\u7f8e\u4fc4\u7ec8\u7a76\u8fd8\u662f\u95f9\u63b0\u666e\u4eac\u8fd8\u662f\u4e22\u6389\u5e7b\u60f3\u5411\u4e2d\u56fd\u9760\u62e2\u5427|\u7f8e\u4fc4|\u7279\u6717\u666e|\u666e\u4eac_ ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://n.sinaimg.cn/mil/crawl/176/w550h426/20180810/wBBO-fzrwica0526130.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.huanqiu.com/r/MV8wXzEyNjg3MDUzXzEyNThfMTUzMzg1OTg2MA==",
+                "pageTitle": "\u7ec8\u7a76\u8fd8\u662f\u95f9\u63b0\uff01\u666e\u4eac\u7684\u8003\u9a8c\u53c8\u6765\u4e86\uff01 - \u73af\u7403\u65f6\u62a5",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://t1.huanqiu.cn/37dae039b8ab9bb73d2c50a7d97de002.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://demset.org/f/showthread.php?t=15193",
+                "pageTitle": "\u0418\u0433\u043e\u0440\u044c \u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e: \u041c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f - 7 - \u0424\u043e\u0440\u0443\u043c \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://demset.org/f/attachment.php?attachmentid=23899&d=1532363713"
+                    }
+                ]
+            },
+            {
+                "url": "http://demset.org/f/showthread.php?p=32036",
+                "pageTitle": "\u0418\u0433\u043e\u0440\u044c \u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e: \u041c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f - 7 - \u0424\u043e\u0440\u0443\u043c \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://demset.org/f/attachment.php?attachmentid=23899&d=1532363713"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.creaders.net/world/2018/08/09/1982207.html",
+                "pageTitle": "\u5ddd\u666e\u786e\u5b9e\u591f\u72e0\u53c8\u7ed9\u666e\u4eac\u6765\u4e86\u72e0\u72e0\u4e00\u5200- \u4e07\u7ef4\u8bfb\u8005\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://pub.creaders.net/upload_files/image/201808/20180809_15338739057218.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://news.creaders.net/world/2018/08/09/big5/1982207.html",
+                "pageTitle": "\u5ddd\u666e\u78ba\u5be6\u5920\u72e0\u53c8\u7d66\u666e\u4eac\u4f86\u4e86\u72e0\u72e0\u4e00\u5200- \u842c\u7dad\u8b80\u8005\u7db2",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://pub.creaders.net/upload_files/image/201808/20180809_15338739057218.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ukraine2014.canalblog.com/archives/2018/07/16/36565864.html",
+                "pageTitle": "Poutine doit \u00eatre content de son agent \u00e0 Washington - Ukraine2014",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://p0.storage.canalblog.com/08/07/1233879/120763995_o.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://news.toutiaoabc.com/newspark/view.php?app=news&act=view&nid=311955",
+                "pageTitle": "\u6700\u7ec8\u8fd8\u662f\u8fd9\u6837\u95f9\u5d29\u771f\u6b63\u8003\u9a8c\u666e\u4eac\u7684\u65f6\u5019\u5230\u4e86-6park.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://web.popo8.com/201808/09/6/dab003c16b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://demset.org/f/showthread.php?p=31942",
+                "pageTitle": "\u0418\u0433\u043e\u0440\u044c \u042f\u043a\u043e\u0432\u0435\u043d\u043a\u043e: \u041c\u0435\u0434\u0438\u0442\u0430\u0446\u0438\u044f - 7 - \u0424\u043e\u0440\u0443\u043c \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://demset.org/f/attachment.php?attachmentid=23899&d=1532363713"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.52hrtt.com/za/n/w/info/G1530696878588",
+                "pageTitle": "\u5ddd\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u5357\u975e_\u65b0\u95fb_\u534e\u4eba\u5934\u6761",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.52hrttpic.com/image/infoImage/201807/17/G1530696878530.jpeg?600x465"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.52hrtt.com/es/n/w/info/G1530696878588",
+                "pageTitle": "\u5ddd\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u897f\u73ed\u7259_\u65b0\u95fb_\u534e\u4eba\u5934\u6761",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.52hrttpic.com/image/infoImage/201807/17/G1530696878530.jpeg?600x465"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.52hrtt.com/df/n/w/info/G1530696878588",
+                "pageTitle": "\u5ddd\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u4e39\u4f5b_\u65b0\u95fb_\u534e\u4eba\u5934\u6761",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.52hrttpic.com/image/infoImage/201807/17/G1530696878530.jpeg?600x465"
+                    }
+                ]
+            },
+            {
+                "url": "https://3w.huanqiu.com/a/0d8d8c/7FfnNulEWJy?agt=0",
+                "pageTitle": "\u7ec8\u7a76\u8fd8\u662f\u95f9\u63b0\uff01\u666e\u4eac\u7684\u8003\u9a8c\u53c8\u6765\u4e86\uff01 - \u73af\u7403\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://t1.huanqiu.cn/37dae039b8ab9bb73d2c50a7d97de002.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.52hrtt.com/db/n/w/info/G1530696878588",
+                "pageTitle": "\u5ddd\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898_\u8fea\u62dc_\u65b0\u95fb_\u534e\u4eba\u5934\u6761",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.52hrttpic.com/image/infoImage/201807/17/G1530696878530.jpeg?600x465"
+                    }
+                ]
+            },
+            {
+                "url": "http://xwzx.qqzyw.com/show-195523.html",
+                "pageTitle": "\u5168\u7403\u5934\u6761\uff1a\u7f8e\u56fd\u7a81\u7136\u5ba3\u5e03\u5bf9\u4fc4\u65b0\u5236\u88c1-|-\u5168\u7403\u8d44\u6e90\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://qqzyw.oss-cn-beijing.aliyuncs.com/201808/10/18/182023261.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.fzsdzk.com/guoji/guoji/2018-07-17/36454.html",
+                "pageTitle": "\u7279\u6717\u666e\u548c\u666e\u4eac\u4e00\u89c1\u9762\uff0c\u5c31\u8bf4\u8981\u8ba8\u8bba\u4e2d\u56fd\u95ee\u9898- \u6cd5\u6cbb\u5c71\u4e1c\u7f51",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://p0.ifengimg.com/pmop/2018/0717/2CB8FF72A5E2352D0BFE8C19BAB537D5B1FC1AAC_size62_w600_h465.jpeg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://image.cagle.com/213099/1155/213099.png"
+            },
+            {
+                "url": "https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/web1_170517_EDH_0518-trump-putin-granlund_M.jpg"
+            },
+            {
+                "url": "https://www.davegranlund.com/cartoons/wp-content/uploads/Trump-and-Putin-meet.png"
+            },
+            {
+                "url": "https://www.ocregister.com/wp-content/uploads/2018/08/213301_600.jpg?w=600"
+            },
+            {
+                "url": "https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/web1_160727_EDH_0728-endorse-bagley_M.jpg"
+            },
+            {
+                "url": "https://www.mercurynews.com/wp-content/uploads/2017/05/russiatoon01.jpg?w=620"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-6LbFfxeoxuk/WtyTOlDzpTI/AAAAAAABpKA/VZtKguzRki8DNLUySWfSmhGwXghHQylbwCEwYBhgL/s400/209133%2BMargulies%2BJimmy.png"
+            },
+            {
+                "url": "http://trumplemonade.com/wp-content/grand-media/image/Trump-steals-Putins-Shirt.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "trump and putin cartoon",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7688793,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.12845564,
+                        "y": 0.08791616
+                    },
+                    {
+                        "x": 0.4898973,
+                        "y": 0.08791616
+                    },
+                    {
+                        "x": 0.4898973,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.12845564,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.67771286,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7034018,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9250689,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9250689,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.7034018,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5206452,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.12845564,
+                        "y": 0.08791616
+                    },
+                    {
+                        "x": 0.4898973,
+                        "y": 0.08791616
+                    },
+                    {
+                        "x": 0.4898973,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.12845564,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0n5v01m",
+            "name": "Bag",
+            "score": 0.51229507,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.60422504,
+                        "y": 0.66855216
+                    },
+                    {
+                        "x": 0.80506295,
+                        "y": 0.66855216
+                    },
+                    {
+                        "x": 0.80506295,
+                        "y": 0.78638285
+                    },
+                    {
+                        "x": 0.60422504,
+                        "y": 0.78638285
+                    }
+                ]
+            }
+        }
+    ]
+}

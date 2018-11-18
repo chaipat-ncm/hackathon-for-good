@@ -1,0 +1,1333 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 354,
+                        "y": 99
+                    },
+                    {
+                        "x": 429,
+                        "y": 99
+                    },
+                    {
+                        "x": 429,
+                        "y": 187
+                    },
+                    {
+                        "x": 354,
+                        "y": 187
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 361,
+                        "y": 125
+                    },
+                    {
+                        "x": 414,
+                        "y": 125
+                    },
+                    {
+                        "x": 414,
+                        "y": 179
+                    },
+                    {
+                        "x": 361,
+                        "y": 179
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 372.86438,
+                        "y": 142.71004,
+                        "z": -4.6535668e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 393.67242,
+                        "y": 140.63107,
+                        "z": -8.258298
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 365.66013,
+                        "y": 137.68347,
+                        "z": 4.2918015
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 376.01202,
+                        "y": 137.14868,
+                        "z": -6.8426976
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 386.3998,
+                        "y": 136.07755,
+                        "z": -10.9559355
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 401.50162,
+                        "y": 134.14362,
+                        "z": -9.769812
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 382.70154,
+                        "y": 141.17514,
+                        "z": -8.735635
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 381.33804,
+                        "y": 155.2779,
+                        "z": -13.880798
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 384.75876,
+                        "y": 162.0792,
+                        "z": -8.167731
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 386.01822,
+                        "y": 171.70648,
+                        "z": -5.7143297
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 378.5049,
+                        "y": 166.49628,
+                        "z": 1.2714475
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 394.90967,
+                        "y": 164.72356,
+                        "z": -5.4063015
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 385.4979,
+                        "y": 166.97072,
+                        "z": -6.1369524
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 389.82907,
+                        "y": 154.96184,
+                        "z": -7.851751
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 378.71692,
+                        "y": 156.69785,
+                        "z": -3.2113042
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 383.6209,
+                        "y": 158.58597,
+                        "z": -8.625337
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 372.0702,
+                        "y": 141.27788,
+                        "z": -1.5732895
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 377.19257,
+                        "y": 142.36455,
+                        "z": -1.5969093
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 372.99106,
+                        "y": 144.21117,
+                        "z": -0.03912486
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 369.3374,
+                        "y": 142.88504,
+                        "z": 3.6460433
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 372.2951,
+                        "y": 142.74995,
+                        "z": -0.3635308
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 393.50925,
+                        "y": 139.05183,
+                        "z": -10.025257
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 399.25443,
+                        "y": 139.78006,
+                        "z": -8.142564
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 394.14987,
+                        "y": 142.14108,
+                        "z": -8.458436
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 389.96863,
+                        "y": 141.30074,
+                        "z": -6.623884
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 394.2984,
+                        "y": 140.47531,
+                        "z": -9.071087
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 369.83862,
+                        "y": 134.83847,
+                        "z": -2.8790832
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 393.0964,
+                        "y": 132.43155,
+                        "z": -12.058834
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 370.86517,
+                        "y": 151.57433,
+                        "z": 32.68092
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 418.10214,
+                        "y": 146.44922,
+                        "z": 13.099808
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 380.9097,
+                        "y": 136.43933,
+                        "z": -9.711441
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 388.55624,
+                        "y": 180.66266,
+                        "z": -1.83612
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 371.90472,
+                        "y": 167.32086,
+                        "z": 24.329756
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 415.78394,
+                        "y": 162.64664,
+                        "z": 7.066363
+                    }
+                }
+            ],
+            "rollAngle": -7.93293,
+            "panAngle": -21.472492,
+            "tiltAngle": -5.0470243,
+            "detectionConfidence": 0.7040713,
+            "landmarkingConfidence": 0.32338455,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 639,
+                        "y": 135
+                    },
+                    {
+                        "x": 708,
+                        "y": 135
+                    },
+                    {
+                        "x": 708,
+                        "y": 215
+                    },
+                    {
+                        "x": 639,
+                        "y": 215
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 644,
+                        "y": 161
+                    },
+                    {
+                        "x": 698,
+                        "y": 161
+                    },
+                    {
+                        "x": 698,
+                        "y": 214
+                    },
+                    {
+                        "x": 644,
+                        "y": 214
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 657.34357,
+                        "y": 173.71025,
+                        "z": 2.6866917e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 674.4565,
+                        "y": 180.28049,
+                        "z": -9.000248
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 652.8047,
+                        "y": 166.38423,
+                        "z": 3.0739892
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 660.2686,
+                        "y": 171.46602,
+                        "z": -7.485397
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 668.93414,
+                        "y": 174.55424,
+                        "z": -12.030731
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 682.54596,
+                        "y": 176.99092,
+                        "z": -12.534717
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 663.9303,
+                        "y": 176.90314,
+                        "z": -8.510531
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 659.7654,
+                        "y": 188.8665,
+                        "z": -9.309441
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 660.35266,
+                        "y": 196.24121,
+                        "z": -2.4349945
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 660.00946,
+                        "y": 202.3151,
+                        "z": 1.331159
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 655.7519,
+                        "y": 194.97125,
+                        "z": 6.9093003
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 669.04913,
+                        "y": 199.81451,
+                        "z": -0.42946497
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 660.6315,
+                        "y": 198.81018,
+                        "z": 0.012294301
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 667.51294,
+                        "y": 190.75299,
+                        "z": -4.6763616
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 657.8918,
+                        "y": 187.79034,
+                        "z": 0.4999557
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 660.8314,
+                        "y": 191.97081,
+                        "z": -4.106165
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 656.53174,
+                        "y": 172.58897,
+                        "z": -1.5684879
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 660.6758,
+                        "y": 175.0031,
+                        "z": -1.6452817
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 656.84656,
+                        "y": 175.02016,
+                        "z": 0.45658714
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 654.4923,
+                        "y": 171.96829,
+                        "z": 3.5852773
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 656.5038,
+                        "y": 173.60905,
+                        "z": -0.15048966
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 674.3932,
+                        "y": 178.95279,
+                        "z": -10.927968
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 679.3999,
+                        "y": 180.8517,
+                        "z": -9.468472
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 674.5494,
+                        "y": 181.44984,
+                        "z": -8.857136
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 671.13385,
+                        "y": 179.17084,
+                        "z": -7.1599045
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 674.82477,
+                        "y": 180.15158,
+                        "z": -9.775049
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 656.13367,
+                        "y": 166.82155,
+                        "z": -4.204909
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 675.5134,
+                        "y": 173.7178,
+                        "z": -14.360262
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 657.6127,
+                        "y": 173.15582,
+                        "z": 31.176943
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 697.7227,
+                        "y": 187.14775,
+                        "z": 9.724115
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 664.2431,
+                        "y": 172.94212,
+                        "z": -10.493871
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 660.18475,
+                        "y": 210.36514,
+                        "z": 7.163713
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 653.1456,
+                        "y": 188.4495,
+                        "z": 27.818861
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 689.7923,
+                        "y": 201.40213,
+                        "z": 8.619501
+                    }
+                }
+            ],
+            "rollAngle": 8.937258,
+            "panAngle": -28.190275,
+            "tiltAngle": -20.489784,
+            "detectionConfidence": 0.8336061,
+            "landmarkingConfidence": 0.34336546,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9720237,
+            "topicality": 0.9720237
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.95954895,
+            "topicality": 0.95954895
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.92813987,
+            "topicality": 0.92813987
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.85061496,
+            "topicality": 0.85061496
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.6415741,
+            "topicality": 0.6415741
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.63303274,
+            "topicality": 0.63303274
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.6171103,
+            "topicality": 0.6171103
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.60398585,
+            "topicality": 0.60398585
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.60130113,
+            "topicality": 0.60130113
+        },
+        {
+            "mid": "/m/03w1r4",
+            "description": "military uniform",
+            "score": 0.5261466,
+            "topicality": 0.5261466
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.50200903,
+            "topicality": 0.50200903
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 23,
+                        "green": 19,
+                        "blue": 17
+                    },
+                    "score": 0.18341444,
+                    "pixelFraction": 0.24248251
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 50,
+                        "blue": 46
+                    },
+                    "score": 0.17289999,
+                    "pixelFraction": 0.17937063
+                },
+                {
+                    "color": {
+                        "red": 85,
+                        "green": 81,
+                        "blue": 76
+                    },
+                    "score": 0.08089227,
+                    "pixelFraction": 0.0888986
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 118,
+                        "blue": 111
+                    },
+                    "score": 0.0652905,
+                    "pixelFraction": 0.0687063
+                },
+                {
+                    "color": {
+                        "red": 160,
+                        "green": 154,
+                        "blue": 146
+                    },
+                    "score": 0.052599233,
+                    "pixelFraction": 0.053234264
+                },
+                {
+                    "color": {
+                        "red": 201,
+                        "green": 196,
+                        "blue": 186
+                    },
+                    "score": 0.050506786,
+                    "pixelFraction": 0.050437063
+                },
+                {
+                    "color": {
+                        "red": 202,
+                        "green": 190,
+                        "blue": 170
+                    },
+                    "score": 0.04848004,
+                    "pixelFraction": 0.034702796
+                },
+                {
+                    "color": {
+                        "red": 60,
+                        "green": 48,
+                        "blue": 35
+                    },
+                    "score": 0.038769152,
+                    "pixelFraction": 0.029458042
+                },
+                {
+                    "color": {
+                        "red": 167,
+                        "green": 156,
+                        "blue": 137
+                    },
+                    "score": 0.033066437,
+                    "pixelFraction": 0.023339162
+                },
+                {
+                    "color": {
+                        "red": 75,
+                        "green": 41,
+                        "blue": 34
+                    },
+                    "score": 0.03216899,
+                    "pixelFraction": 0.025524475
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 799
+                        },
+                        {
+                            "x": 799,
+                            "y": 449
+                        },
+                        {
+                            "y": 449
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.44
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0bxzvzl",
+                "score": 8.719501,
+                "description": "Gavin Williamson"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 1.3074265,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 1.0917001,
+                "description": "Afghanistan"
+            },
+            {
+                "entityId": "/m/012hd89g",
+                "score": 1.07325,
+                "description": "Resolute Support Mission"
+            },
+            {
+                "entityId": "/m/07ssc",
+                "score": 1.0569,
+                "description": "United Kingdom"
+            },
+            {
+                "entityId": "/t/2559cfx2jwyf6",
+                "score": 0.7116
+            },
+            {
+                "entityId": "/m/01xp_h",
+                "score": 0.711,
+                "description": "Defence minister"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7016,
+                "description": "Military"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6624
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.6355656,
+                "description": "Army"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.6099,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/2gc_h8s7kt94h",
+                "score": 0.5688
+            },
+            {
+                "entityId": "/m/01s18m",
+                "score": 0.5661,
+                "description": "Secretary of State for Defence of the United Kingdom"
+            },
+            {
+                "entityId": "/g/121y9vh0",
+                "score": 0.5279,
+                "description": "Angkatan bersenjata"
+            },
+            {
+                "entityId": "/m/07sx7",
+                "score": 0.523,
+                "description": "British Armed Forces"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.tolonews.com/sites/default/files/styles/principal_article_image/public/uk-defense-minister.jpg?itok=lj4CvIku"
+            },
+            {
+                "url": "http://www.tolonews.com/sites/default/files/uk-defense-minister.jpg"
+            },
+            {
+                "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/uk-defense-minister.jpg?itok=Sp-Ntsoo"
+            },
+            {
+                "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/78864/s300_imgonline-com-ua-resize-V9Bb9wT3XzWbJ.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.army-technology.com/news/uk-troops-support-nato-mission-afghanistan/",
+                "pageTitle": "<b>UK troops to support Nato mission in Afghanistan</b> - Army Technology",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.gov.uk/government/news/uk-bolsters-support-to-nato-mission-in-afghanistan",
+                "pageTitle": "<b>UK</b> bolsters <b>support</b> to <b>NATO mission in Afghanistan</b> - GOV.<b>UK</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/78864/s300_imgonline-com-ua-resize-V9Bb9wT3XzWbJ.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/uk-bolsters-support-nato-mission-afghanistan",
+                "pageTitle": "<b>UK</b> Bolsters <b>Support</b> To <b>NATO Mission in Afghanistan</b> | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.tolonews.com/sites/default/files/uk-defense-minister.jpg"
+                    },
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/principal_article_image/public/uk-defense-minister.jpg?itok=lj4CvIku"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rafa.org.uk/leicester/blog/uk-bolsters-support-to-nato-mission-in-afghanistan",
+                "pageTitle": "<b>UK</b> bolsters <b>support</b> to <b>NATO mission in Afghanistan</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/78864/s300_imgonline-com-ua-resize-V9Bb9wT3XzWbJ.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.army-technology.com/security/",
+                "pageTitle": "Security - Army Technology",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/president-ghani-meets-british-defense-minister",
+                "pageTitle": "President Ghani Meets <b>British</b> Defense Minister | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/uk-defense-minister.jpg?itok=Sp-Ntsoo"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/uk%E2%80%99s-defense-secretary-says-daesh-afghanistan-poses-threat-uk",
+                "pageTitle": "<b>UK&#39;s</b> Defense Secretary Says Daesh <b>Afghanistan</b> Poses Threat To ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/uk-defense-minister.jpg?itok=Sp-Ntsoo"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/index.php/afghanistan/president-ghani-meets-british-defense-minister",
+                "pageTitle": "President Ghani Meets <b>British</b> Defense Minister | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/uk-defense-minister.jpg?itok=Sp-Ntsoo"
+                    }
+                ]
+            },
+            {
+                "url": "https://uspolitics.10ztalk.com/2018/09/06/uk-welsh-guards-to-assist-nato-mission-in-afghanistan/",
+                "pageTitle": "<b>UK</b> Welsh Guards to <b>assist Nato mission in Afghanistan</b> \u22c6 10z US ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://uspolitics.10ztalk.com/wp-content/uploads/2018/09/UK-Welsh-Guards-to-support-Nato-mission-in-Afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.govwire.co.uk/news/defence-and-armed-forces",
+                "pageTitle": "Defence And Armed <b>Forces</b> News &amp; Announcements | GovWire",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.govwire.co.uk/images/news/s300_imgonline-com-ua-resize-V9Bb9wT3XzWbJ.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/nato-led-mission-security-mission",
+                "pageTitle": "<b>Nato</b> Led <b>Mission</b> Security <b>Mission</b> - DBSecurity",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://subarucoffee.info/info/afghan-forces-nato-defence-ministers",
+                "pageTitle": "<b>Afghan Forces Nato</b> Defence Ministers \u2014 Subaru Coffee",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/principal_article_image/public/uk-defense-minister.jpg?itok=lj4CvIku"
+                    },
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.n1cekino.info/afganistan-and-support.php",
+                "pageTitle": "Afganistan And <b>Support</b> \u2014 N1Cekino",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/principal_article_image/public/uk-defense-minister.jpg?itok=lj4CvIku"
+                    }
+                ]
+            },
+            {
+                "url": "http://itravelpages.com/army-says-uk-troops.aspx",
+                "pageTitle": "Army Says <b>Uk Troops</b> - Itravelpages",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/armys-technological-improvement",
+                "pageTitle": "Armys Technological Improvement - DBSecurity",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.imagenesmy.com/imagenes/new-kabul-compound-afghanistan-b2.html",
+                "pageTitle": "New Kabul Compound <b>Afghanistan</b> | www.imagenesmy.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/78864/s300_imgonline-com-ua-resize-V9Bb9wT3XzWbJ.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.army-technology.com/wp-content/uploads/sites/3/2018/09/Wels-Guards_Afghan-UK_Army-1_edit.jpg"
+            },
+            {
+                "url": "https://img.youtube.com/vi/nC0hGEgXNek/0.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/originals/61/b6/75/61b675e16f7c7e5652a8f9dbc74c2ee9.jpg"
+            },
+            {
+                "url": "https://cdn4.img.sputniknews.com/images/105747/33/1057473385.jpg"
+            },
+            {
+                "url": "https://www.telegraph.co.uk/content/dam/news/2017/04/30/TELEMMGLPICT000127294857_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0go9KzD8cVu9iguqnaKUswZA.jpeg?imwidth=480"
+            },
+            {
+                "url": "http://ir-ia.com/news/wp-content/uploads/2016/05/nato-afghanistan-mission2016.jpg"
+            },
+            {
+                "url": "http://icrindia.co.in/wp-content/uploads/2018/07/nato.jpg"
+            },
+            {
+                "url": "https://www.telegraph.co.uk/content/dam/news/2017/04/24/TELEMMGLPICT000126783669_trans_NvBQzQNjv4BqPNWJS5wlzk6YSEyfLIxTdR0JrNitHqNZ-rCssRRnJQ0.jpeg?imwidth=480"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "uk troops to support nato mission in afghanistan",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.8504435,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.39433804,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.6014267,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.6014267,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.39433804,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8089442,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.39433804,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.6014267,
+                        "y": 0.25026914
+                    },
+                    {
+                        "x": 0.6014267,
+                        "y": 1
+                    },
+                    {
+                        "x": 0.39433804,
+                        "y": 1
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.783052,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "y": 0.01353525
+                    },
+                    {
+                        "x": 0.29398078,
+                        "y": 0.01353525
+                    },
+                    {
+                        "x": 0.29398078,
+                        "y": 0.9742294
+                    },
+                    {
+                        "y": 0.9742294
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7688793,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7542253,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9551865,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9551865,
+                        "y": 0.93735003
+                    },
+                    {
+                        "x": 0.7542253,
+                        "y": 0.93735003
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.75743574,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.19987237,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.37024528,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.37024528,
+                        "y": 0.9434678
+                    },
+                    {
+                        "x": 0.19987237,
+                        "y": 0.9434678
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7159467,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5321077,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.6808336,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.6808336,
+                        "y": 0.9698207
+                    },
+                    {
+                        "x": 0.5321077,
+                        "y": 0.9698207
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.588935,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.19987237,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.37024528,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.37024528,
+                        "y": 0.9434678
+                    },
+                    {
+                        "x": 0.19987237,
+                        "y": 0.9434678
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.5347566,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7542253,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9551865,
+                        "y": 0.33017942
+                    },
+                    {
+                        "x": 0.9551865,
+                        "y": 0.93735003
+                    },
+                    {
+                        "x": 0.7542253,
+                        "y": 0.93735003
+                    }
+                ]
+            }
+        }
+    ]
+}

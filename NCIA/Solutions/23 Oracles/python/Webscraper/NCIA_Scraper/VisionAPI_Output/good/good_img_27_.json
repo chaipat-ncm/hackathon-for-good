@@ -1,0 +1,1018 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1385,
+                        "y": 507
+                    },
+                    {
+                        "x": 1429,
+                        "y": 507
+                    },
+                    {
+                        "x": 1429,
+                        "y": 558
+                    },
+                    {
+                        "x": 1385,
+                        "y": 558
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1384,
+                        "y": 512
+                    },
+                    {
+                        "x": 1434,
+                        "y": 512
+                    },
+                    {
+                        "x": 1434,
+                        "y": 562
+                    },
+                    {
+                        "x": 1384,
+                        "y": 562
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 1404.3987,
+                        "y": 529.65485,
+                        "z": -0.00024284083
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 1417.1736,
+                        "y": 529.53705,
+                        "z": 3.56338
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1399.621,
+                        "y": 526.9551,
+                        "z": 0.35761237
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 1408.3878,
+                        "y": 526.2625,
+                        "z": -1.2291839
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1414.5056,
+                        "y": 526.2236,
+                        "z": 0.47967428
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 1420.9767,
+                        "y": 526.5785,
+                        "z": 6.2157636
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 1411.6843,
+                        "y": 528.8847,
+                        "z": -0.80714
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 1413.404,
+                        "y": 536.0137,
+                        "z": -5.2031927
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 1412.4067,
+                        "y": 541.2599,
+                        "z": -2.6621547
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 1412.1332,
+                        "y": 545.4478,
+                        "z": -2.1402705
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 1405.7004,
+                        "y": 543.2389,
+                        "z": -0.69340754
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 1416.3541,
+                        "y": 543.36475,
+                        "z": 1.9685937
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 1412.084,
+                        "y": 543.096,
+                        "z": -1.8995796
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 1415.155,
+                        "y": 537.51263,
+                        "z": 0.6187021
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 1408.2888,
+                        "y": 537.4624,
+                        "z": -1.3714825
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 1412.6631,
+                        "y": 538.55927,
+                        "z": -2.4796119
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1404.7594,
+                        "y": 528.67004,
+                        "z": -0.7320508
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1407.1404,
+                        "y": 529.6886,
+                        "z": 0.787858
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1404.3892,
+                        "y": 530.48505,
+                        "z": -0.1553262
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1401.4063,
+                        "y": 529.8623,
+                        "z": 0.5247204
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 1404.4493,
+                        "y": 529.6097,
+                        "z": -0.33432293
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 1417.3643,
+                        "y": 528.56696,
+                        "z": 2.7929485
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 1419.3582,
+                        "y": 529.6873,
+                        "z": 5.4259043
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 1417.2123,
+                        "y": 530.4002,
+                        "z": 3.3722951
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 1414.684,
+                        "y": 529.65643,
+                        "z": 2.905676
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 1417.3765,
+                        "y": 529.50916,
+                        "z": 3.2615266
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1404.2745,
+                        "y": 524.8321,
+                        "z": -1.1735535
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 1417.9562,
+                        "y": 524.724,
+                        "z": 2.6367579
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 1390.9841,
+                        "y": 537.6452,
+                        "z": 13.441722
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 1421.128,
+                        "y": 537.3406,
+                        "z": 20.938942
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 1411.5828,
+                        "y": 526.0308,
+                        "z": -0.83980465
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 1411.8022,
+                        "y": 551.65295,
+                        "z": -0.9146165
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 1395.3933,
+                        "y": 545.47156,
+                        "z": 7.3864646
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 1421.4099,
+                        "y": 545.132,
+                        "z": 14.720942
+                    }
+                }
+            ],
+            "rollAngle": -1.9399521,
+            "panAngle": 15.711982,
+            "tiltAngle": 5.1845946,
+            "detectionConfidence": 0.523864,
+            "landmarkingConfidence": 0.34081915,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.9703701,
+            "topicality": 0.9703701
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.95258725,
+            "topicality": 0.95258725
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.90063995,
+            "topicality": 0.90063995
+        },
+        {
+            "mid": "/m/013m1",
+            "description": "air force",
+            "score": 0.87673426,
+            "topicality": 0.87673426
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.8220897,
+            "topicality": 0.8220897
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.7945352,
+            "topicality": 0.7945352
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.75306237,
+            "topicality": 0.75306237
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6678038,
+            "topicality": 0.6678038
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.6563113,
+            "topicality": 0.6563113
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.59867334,
+            "topicality": 0.59867334
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.56223726,
+            "topicality": 0.56223726
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.5360358,
+            "topicality": 0.5360358
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.50048804,
+            "topicality": 0.50048804
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 142,
+                        "green": 159,
+                        "blue": 177
+                    },
+                    "score": 0.20052737,
+                    "pixelFraction": 0.1721534
+                },
+                {
+                    "color": {
+                        "red": 93,
+                        "green": 81,
+                        "blue": 64
+                    },
+                    "score": 0.11447016,
+                    "pixelFraction": 0.044129793
+                },
+                {
+                    "color": {
+                        "red": 88,
+                        "green": 82,
+                        "blue": 75
+                    },
+                    "score": 0.088761754,
+                    "pixelFraction": 0.053628318
+                },
+                {
+                    "color": {
+                        "red": 63,
+                        "green": 51,
+                        "blue": 36
+                    },
+                    "score": 0.08746128,
+                    "pixelFraction": 0.030029498
+                },
+                {
+                    "color": {
+                        "red": 58,
+                        "green": 52,
+                        "blue": 46
+                    },
+                    "score": 0.08583909,
+                    "pixelFraction": 0.041592922
+                },
+                {
+                    "color": {
+                        "red": 152,
+                        "green": 156,
+                        "blue": 160
+                    },
+                    "score": 0.07618499,
+                    "pixelFraction": 0.07421829
+                },
+                {
+                    "color": {
+                        "red": 129,
+                        "green": 114,
+                        "blue": 97
+                    },
+                    "score": 0.05540353,
+                    "pixelFraction": 0.028731564
+                },
+                {
+                    "color": {
+                        "red": 122,
+                        "green": 117,
+                        "blue": 112
+                    },
+                    "score": 0.053792853,
+                    "pixelFraction": 0.037286136
+                },
+                {
+                    "color": {
+                        "red": 200,
+                        "green": 193,
+                        "blue": 186
+                    },
+                    "score": 0.05366433,
+                    "pixelFraction": 0.25852507
+                },
+                {
+                    "color": {
+                        "red": 31,
+                        "green": 24,
+                        "blue": 19
+                    },
+                    "score": 0.03819539,
+                    "pixelFraction": 0.017463127
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1599
+                        },
+                        {
+                            "x": 1599,
+                            "y": 1199
+                        },
+                        {
+                            "y": 1199
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.35
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/015qh",
+                "score": 1.0569,
+                "description": "Bulgaria"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.8783597,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0d05q4",
+                "score": 0.8568,
+                "description": "Iraq"
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.7502465,
+                "description": "Army"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7149589,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/0170v",
+                "score": 0.7124,
+                "description": "Bulgarian Armed Forces"
+            },
+            {
+                "entityId": "/m/04211cz",
+                "score": 0.7075,
+                "description": "NATO Training Mission \u2013 Iraq"
+            },
+            {
+                "entityId": "/t/22shwhbnc54kf",
+                "score": 0.7046
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6152
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.5653,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.52771705,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/043q69",
+                "score": 0.5215,
+                "description": "Common Security and Defence Policy"
+            },
+            {
+                "entityId": "/m/03slm",
+                "score": 0.506,
+                "description": "Iraqi Army"
+            },
+            {
+                "entityId": "/m/02q76gk",
+                "score": 0.4501,
+                "description": "Bulgarian Land Forces"
+            },
+            {
+                "entityId": "/m/0_97f3n",
+                "score": 0.074295,
+                "description": "Ekaterina Zakharieva"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+            },
+            {
+                "url": "https://www.novinite.com/media/images/2018-10/photo_verybig_192660.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI-1000x600.jpg"
+            },
+            {
+                "url": "https://img.thebaghdadpost.com/Content/Upload/small/1020181812333433903383.jpg"
+            },
+            {
+                "url": "https://www.novinite.com/media/images/2018-10/photo_small_192660.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.novinite.com/articles/category/21/Defense",
+                "pageTitle": "Defense - Novinite.com - Sofia News Agency",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.novinite.com/media/images/2018-10/photo_small_192660.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://senonas.searchtitans.xyz/senonas/bulgarian-army-wallpaper.shtml",
+                "pageTitle": "best Bulgarian <b>Army</b> Wallpaper image collection",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/bulgarian-soldiers-iraq-30.html",
+                "pageTitle": "Bulgarian Soldiers Iraq | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thebaghdadpost.com/en/Story/t/5903/NATO",
+                "pageTitle": "NATO - Iraq News - Local News - Baghdadpost",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.thebaghdadpost.com/Content/Upload/small/1020181812333433903383.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novinite.com/articles/192660/Bulgaria+Set+to+Participate+in+NATO+Mission+Iraq",
+                "pageTitle": "Bulgaria Set to Participate in NATO Mission Iraq - Novinite.com ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novinite.com/media/images/2018-10/photo_verybig_192660.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/nato-mission-92.html",
+                "pageTitle": "Nato Mission | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.novinite.com/media/images/2018-10/photo_verybig_192660.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/2018/10/17/bulgarian-servicemen-to-participate-in-the-nato-mission-iraq-nmi/",
+                "pageTitle": "Bulgarian Servicemen to Participate in the NATO Mission Iraq (NMI)",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI-1000x600.jpg"
+                    },
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novinite.com/archives/2018-10-18",
+                "pageTitle": "Bulgaria News - 18 October 2018 - Novinite.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.novinite.com/media/images/2018-10/photo_small_192660.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.novinite.com/articles/192056/Paris+Knife+Attack%3A+Seven+Injured%2C+Four+Seriously",
+                "pageTitle": "Paris Knife Attack: Seven Injured, Four Seriously - Novinite.com ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.novinite.com/media/images/2018-10/photo_small_192660.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bulgarianmilitary.com/2018/10/17/bulgarian-servicemen-to-participate-in-the-nato-mission-iraq-nmi/bulgarian-servicemen-to-participate-in-the-nato-mission-iraq-nmi/",
+                "pageTitle": "Bulgarian Servicemen to Participate in the NATO Mission Iraq (NMI)",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thebaghdadpost.com/en/Story/29327/Sharp-differences-among-Sunni-leaders-over-Parliament-Speaker-post-source",
+                "pageTitle": "Sharp differences among Sunni leaders over Parliament Speaker ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.thebaghdadpost.com/Content/Upload/small/1020181812333433903383.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thebaghdadpost.com/en/Story/29484/Casualties-reported-after-protesters-pro-Iran-militia-clashes-in-Najaf",
+                "pageTitle": "Casualties reported after protesters-pro-Iran militia clashes in Najaf ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.thebaghdadpost.com/Content/Upload/small/1020181812333433903383.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thebaghdadpost.com/en/Story/22394/Leaked-docs-reveal-components-of-Abadi-s-Victory-Coalition",
+                "pageTitle": "Leaked docs reveal components of Abadi&#39;s Victory Coalition - Iraq ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.thebaghdadpost.com/Content/Upload/small/1020181812333433903383.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://itravelpages.com/bulgarian-defense-ministry-said.aspx",
+                "pageTitle": "Bulgarian Defense Ministry Said - Itravelpages",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://europe.easybranches.com/bulgaria/745787",
+                "pageTitle": "Bulgaria Set to Participate in NATO Mission Iraq",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://europe.easybranches.com/uploads/news/2018/10/745787.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fakti.bg/world/252612-nato-i-eufor-v-bosna-i-hercegovina-posreshtnaha-zaharieva-s-voenni-pochesti",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u0438 EUFOR \u0432 \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u043f\u043e\u0441\u0440\u0435\u0449\u043d\u0430\u0445\u0430 \u0417\u0430\u0445\u0430\u0440\u0438\u0435\u0432\u0430 \u0441 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://fakti.bg/img/news/12/252612/37a30d4dd9cf20ac9da01bf3d931f5c6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.fakti.bg/print/world/252612-nato-i-eufor-v-bosna-i-hercegovina-posreshtnaha-zaharieva-s-voenni-pochesti",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u0438 EUFOR \u0432 \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u043f\u043e\u0441\u0440\u0435\u0449\u043d\u0430\u0445\u0430 \u0417\u0430\u0445\u0430\u0440\u0438\u0435\u0432\u0430 \u0441 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://fakti.bg/img/news/12/252612/37a30d4dd9cf20ac9da01bf3d931f5c6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://fakti.bg/news/print/252612-nato-i-eufor-v-bosna-i-hercegovina-posreshtnaha-zaharieva-s-voenni-pochesti",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u0438 EUFOR \u0432 \u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430 \u043f\u043e\u0441\u0440\u0435\u0449\u043d\u0430\u0445\u0430 \u0417\u0430\u0445\u0430\u0440\u0438\u0435\u0432\u0430 \u0441 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://fakti.bg/img/news/12/252612/37a30d4dd9cf20ac9da01bf3d931f5c6.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://novini247.com/novini/zamestnik-ministar-predsedatelyat-po-pravosadnata-reforma-i-ministar-na-vanshnite-raboti_99961.html",
+                "pageTitle": "\u0417\u0430\u043c\u0435\u0441\u0442\u043d\u0438\u043a \u043c\u0438\u043d\u0438\u0441\u0442\u044a\u0440-\u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f\u0442 \u043f\u043e \u043f\u0440\u0430\u0432\u043e\u0441\u044a\u0434\u043d\u0430\u0442\u0430 \u0440\u0435\u0444\u043e\u0440\u043c\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://fakti.bg/img/news/12/252612/37a30d4dd9cf20ac9da01bf3d931f5c6.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://bulgarianmilitary.com/wp-content/uploads/2018/10/Bulgarian-Servicemen-to-Participate-in-the-NATO-Mission-Iraq-NMI.jpg"
+            },
+            {
+                "url": "https://c.tribune.com.pk/2015/04/867394-image-1428612357-562-640x480.jpg"
+            },
+            {
+                "url": "http://www.hqafsa.org/uploads/3/8/9/1/38911523/30052115-1652502631501183-5918913942720266455-o.jpg"
+            },
+            {
+                "url": "https://asc.army.mil/web/wp-content/uploads/2016/06/25421481974_8dcc5a40db_k.jpg"
+            },
+            {
+                "url": "http://img.dunyanews.tv/images/userfiles/army%20chief%20visit(1).jpg"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/-L5OJXCkcL2Y/UNNrwsuzoII/AAAAAAAAH8w/vJDl9hk_Oa8/s1600/Pakistan+Army+Cadets+Wallpapers+(7).jpg"
+            },
+            {
+                "url": "http://www.aero-news.net/images/content/military/2013/Walker-EtAl-Shaw-AFB-0613a.jpg"
+            },
+            {
+                "url": "https://i.dailymail.co.uk/i/pix/2015/03/30/article-urn:publicid:ap.org:9cd0228f6dd0453b9757bc8e1c0a4a69-6XQ4CpnYJ-HSK1-250_634x377.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "army"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9216551,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.36626124,
+                        "y": 0.42099994
+                    },
+                    {
+                        "x": 0.45285946,
+                        "y": 0.42099994
+                    },
+                    {
+                        "x": 0.45285946,
+                        "y": 0.77634996
+                    },
+                    {
+                        "x": 0.36626124,
+                        "y": 0.77634996
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.84678596,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.12010767,
+                        "y": 0.39370885
+                    },
+                    {
+                        "x": 0.24012764,
+                        "y": 0.39370885
+                    },
+                    {
+                        "x": 0.24012764,
+                        "y": 0.8907618
+                    },
+                    {
+                        "x": 0.12010767,
+                        "y": 0.8907618
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.79246485,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.5749052,
+                        "y": 0.4158978
+                    },
+                    {
+                        "x": 0.64738584,
+                        "y": 0.4158978
+                    },
+                    {
+                        "x": 0.64738584,
+                        "y": 0.70301247
+                    },
+                    {
+                        "x": 0.5749052,
+                        "y": 0.70301247
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.7694307,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.680639,
+                        "y": 0.4036625
+                    },
+                    {
+                        "x": 0.7639431,
+                        "y": 0.4036625
+                    },
+                    {
+                        "x": 0.7639431,
+                        "y": 0.70818895
+                    },
+                    {
+                        "x": 0.680639,
+                        "y": 0.70818895
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.6098734,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.03917767,
+                        "y": 0.41354486
+                    },
+                    {
+                        "x": 0.10318766,
+                        "y": 0.41354486
+                    },
+                    {
+                        "x": 0.10318766,
+                        "y": 0.6696007
+                    },
+                    {
+                        "x": 0.03917767,
+                        "y": 0.6696007
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.583846,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.46917146,
+                        "y": 0.4177802
+                    },
+                    {
+                        "x": 0.541652,
+                        "y": 0.4177802
+                    },
+                    {
+                        "x": 0.541652,
+                        "y": 0.6907772
+                    },
+                    {
+                        "x": 0.46917146,
+                        "y": 0.6907772
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.562035,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.12010767,
+                        "y": 0.39370885
+                    },
+                    {
+                        "x": 0.24012764,
+                        "y": 0.39370885
+                    },
+                    {
+                        "x": 0.24012764,
+                        "y": 0.8907618
+                    },
+                    {
+                        "x": 0.12010767,
+                        "y": 0.8907618
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,2168 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 824,
+                        "y": 635
+                    },
+                    {
+                        "x": 928,
+                        "y": 635
+                    },
+                    {
+                        "x": 928,
+                        "y": 757
+                    },
+                    {
+                        "x": 824,
+                        "y": 757
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 841,
+                        "y": 660
+                    },
+                    {
+                        "x": 930,
+                        "y": 660
+                    },
+                    {
+                        "x": 930,
+                        "y": 748
+                    },
+                    {
+                        "x": 841,
+                        "y": 748
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 879.1029,
+                        "y": 690.4022,
+                        "z": 2.8721262e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 904.5716,
+                        "y": 687.6236,
+                        "z": 18.533606
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 867.96857,
+                        "y": 683.9679,
+                        "z": -3.8092601
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 888.3847,
+                        "y": 681.5965,
+                        "z": -0.20008872
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 900.7902,
+                        "y": 680.28265,
+                        "z": 8.818449
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 910.61847,
+                        "y": 679.43604,
+                        "z": 27.193796
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 895.5922,
+                        "y": 687.59906,
+                        "z": 3.89933
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 903.16077,
+                        "y": 704.83813,
+                        "z": -3.7901728
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 899.9396,
+                        "y": 716.9855,
+                        "z": 2.1647625
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 899.86755,
+                        "y": 728.2969,
+                        "z": 3.9920914
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 885.268,
+                        "y": 723.12006,
+                        "z": 1.7627963
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 905.57745,
+                        "y": 721.041,
+                        "z": 16.365015
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 899.00146,
+                        "y": 722.4122,
+                        "z": 4.079556
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 903.1623,
+                        "y": 707.3939,
+                        "z": 11.167758
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 889.41693,
+                        "y": 708.211,
+                        "z": 1.0539677
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 899.25287,
+                        "y": 710.3446,
+                        "z": 2.1142707
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 880.0559,
+                        "y": 687.9755,
+                        "z": -1.7273172
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 884.1469,
+                        "y": 690.04205,
+                        "z": 3.8112748
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 879.45386,
+                        "y": 692.6023,
+                        "z": -0.2378859
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 872.3004,
+                        "y": 691.13934,
+                        "z": -1.3420174
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 879.09705,
+                        "y": 690.2715,
+                        "z": -0.9305648
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 905.5937,
+                        "y": 685.27466,
+                        "z": 16.846207
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 907.9812,
+                        "y": 687.3577,
+                        "z": 24.601511
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 904.97327,
+                        "y": 689.6983,
+                        "z": 18.316563
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 899.4245,
+                        "y": 688.38293,
+                        "z": 14.92809
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 905.32886,
+                        "y": 687.5016,
+                        "z": 18.097933
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 878.8779,
+                        "y": 678.78906,
+                        "z": -3.7386837
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 906.5869,
+                        "y": 675.8659,
+                        "z": 16.41014
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 841.76666,
+                        "y": 710.22363,
+                        "z": 19.779198
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 899.7702,
+                        "y": 704.0429,
+                        "z": 61.950302
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 895.23773,
+                        "y": 680.4619,
+                        "z": 3.3485012
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 898.7874,
+                        "y": 742.5218,
+                        "z": 7.5269074
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 854.3283,
+                        "y": 729.23016,
+                        "z": 11.200911
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 906.74994,
+                        "y": 723.6506,
+                        "z": 49.32813
+                    }
+                }
+            ],
+            "rollAngle": -6.346563,
+            "panAngle": 35.877617,
+            "tiltAngle": 0.42042205,
+            "detectionConfidence": 0.89244825,
+            "landmarkingConfidence": 0.2371672,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "LIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 1996,
+                        "y": 178
+                    },
+                    {
+                        "x": 2298,
+                        "y": 178
+                    },
+                    {
+                        "x": 2298,
+                        "y": 528
+                    },
+                    {
+                        "x": 1996,
+                        "y": 528
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 2107,
+                        "y": 304
+                    },
+                    {
+                        "x": 2291,
+                        "y": 304
+                    },
+                    {
+                        "x": 2291,
+                        "y": 488
+                    },
+                    {
+                        "x": 2107,
+                        "y": 488
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 2204.931,
+                        "y": 345.26782,
+                        "z": 0.00029706716
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 2242.5828,
+                        "y": 336.66803,
+                        "z": 82.806465
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 2184.7346,
+                        "y": 326.0227,
+                        "z": -26.775337
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 2231.0693,
+                        "y": 321.902,
+                        "z": 11.523898
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2249.3938,
+                        "y": 317.60938,
+                        "z": 51.80623
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 2247.7349,
+                        "y": 311.29538,
+                        "z": 111.66342
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 2241.3853,
+                        "y": 339.2015,
+                        "z": 33.26893
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 2263.7302,
+                        "y": 388.90973,
+                        "z": 28.12633
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 2245.2576,
+                        "y": 424.7785,
+                        "z": 40.529205
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 2238.7976,
+                        "y": 455.86935,
+                        "z": 46.783062
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 2209.685,
+                        "y": 440.6125,
+                        "z": 20.010525
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 2237.4968,
+                        "y": 433.1643,
+                        "z": 84.612854
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 2238.9697,
+                        "y": 439.3595,
+                        "z": 44.98647
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 2243.2986,
+                        "y": 395.30093,
+                        "z": 65.89779
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 2222.4363,
+                        "y": 401.28992,
+                        "z": 20.546421
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 2245.8252,
+                        "y": 405.7467,
+                        "z": 38.276222
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 2210.5176,
+                        "y": 339.14685,
+                        "z": -3.3081398
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2212.0967,
+                        "y": 344.03934,
+                        "z": 16.778776
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 2205.5056,
+                        "y": 351.3382,
+                        "z": 0.32389462
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 2189.685,
+                        "y": 346.663,
+                        "z": -13.081329
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 2206.2441,
+                        "y": 345.29498,
+                        "z": -2.3098342
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 2248.2727,
+                        "y": 330.3429,
+                        "z": 79.6817
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 2242.4058,
+                        "y": 334.34897,
+                        "z": 102.8038
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 2243.3713,
+                        "y": 342.4748,
+                        "z": 83.22464
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 2234.7036,
+                        "y": 338.7616,
+                        "z": 66.46734
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 2245.0867,
+                        "y": 336.28003,
+                        "z": 82.820595
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 2213.356,
+                        "y": 313.18823,
+                        "z": -11.635675
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 2254.303,
+                        "y": 303.62952,
+                        "z": 78.38784
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 2077.2397,
+                        "y": 389.9319,
+                        "z": -1.6072361
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 2163.1746,
+                        "y": 369.05145,
+                        "z": 186.71246
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 2243.363,
+                        "y": 318.80835,
+                        "z": 30.137178
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 2224.2146,
+                        "y": 496.19574,
+                        "z": 57.12798
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 2115.4636,
+                        "y": 448.0703,
+                        "z": -1.2278243
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 2192.6262,
+                        "y": 430.42648,
+                        "z": 168.64453
+                    }
+                }
+            ],
+            "rollAngle": 0.58627474,
+            "panAngle": 65.72612,
+            "tiltAngle": -6.3316607,
+            "detectionConfidence": 0.5853463,
+            "landmarkingConfidence": 0.18331394,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.984385,
+            "topicality": 0.984385
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.9676975,
+            "topicality": 0.9676975
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9519507,
+            "topicality": 0.9519507
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.9119169,
+            "topicality": 0.9119169
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.8607674,
+            "topicality": 0.8607674
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.8386386,
+            "topicality": 0.8386386
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6829949,
+            "topicality": 0.6829949
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.65243137,
+            "topicality": 0.65243137
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.5708308,
+            "topicality": 0.5708308
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.563554,
+            "topicality": 0.563554
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.5498626,
+            "topicality": 0.5498626
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 200,
+                        "green": 193,
+                        "blue": 162
+                    },
+                    "score": 0.48233914,
+                    "pixelFraction": 0.2798
+                },
+                {
+                    "color": {
+                        "red": 23,
+                        "green": 22,
+                        "blue": 18
+                    },
+                    "score": 0.07255286,
+                    "pixelFraction": 0.11546667
+                },
+                {
+                    "color": {
+                        "red": 171,
+                        "green": 162,
+                        "blue": 132
+                    },
+                    "score": 0.16824605,
+                    "pixelFraction": 0.25086668
+                },
+                {
+                    "color": {
+                        "red": 52,
+                        "green": 51,
+                        "blue": 44
+                    },
+                    "score": 0.06271546,
+                    "pixelFraction": 0.057866666
+                },
+                {
+                    "color": {
+                        "red": 129,
+                        "green": 120,
+                        "blue": 96
+                    },
+                    "score": 0.033306677,
+                    "pixelFraction": 0.0792
+                },
+                {
+                    "color": {
+                        "red": 58,
+                        "green": 51,
+                        "blue": 33
+                    },
+                    "score": 0.02903499,
+                    "pixelFraction": 0.0332
+                },
+                {
+                    "color": {
+                        "red": 81,
+                        "green": 82,
+                        "blue": 75
+                    },
+                    "score": 0.026215902,
+                    "pixelFraction": 0.024
+                },
+                {
+                    "color": {
+                        "red": 230,
+                        "green": 225,
+                        "blue": 197
+                    },
+                    "score": 0.025288269,
+                    "pixelFraction": 0.019666666
+                },
+                {
+                    "color": {
+                        "red": 93,
+                        "green": 85,
+                        "blue": 64
+                    },
+                    "score": 0.02305771,
+                    "pixelFraction": 0.035266668
+                },
+                {
+                    "color": {
+                        "red": 154,
+                        "green": 157,
+                        "blue": 147
+                    },
+                    "score": 0.017492674,
+                    "pixelFraction": 0.024066666
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 2999
+                        },
+                        {
+                            "x": 2999,
+                            "y": 2007
+                        },
+                        {
+                            "y": 2007
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.42999998
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0jdd",
+                "score": 1.07415,
+                "description": "Afghanistan"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 1.0531499,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/0m0gxzz",
+                "score": 0.7251,
+                "description": "Withdrawal of U.S. troops from Afghanistan"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.7224,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/07xg1",
+                "score": 0.7046,
+                "description": "United States Armed Forces"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.7041
+            },
+            {
+                "entityId": "/m/07wh1",
+                "score": 0.6821,
+                "description": "United States Army"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.6771,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.5918
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.5517,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/031407",
+                "score": 0.5332,
+                "description": "Military operation"
+            },
+            {
+                "entityId": "/m/0fb3gt",
+                "score": 0.5246,
+                "description": "Military reserve force"
+            },
+            {
+                "entityId": "/m/011btfzx",
+                "score": 0.5233,
+                "description": "Afghan Armed Forces"
+            },
+            {
+                "entityId": "/m/01bq8v",
+                "score": 0.4897,
+                "description": "Troop"
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.4788,
+                "description": "Army"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://formiche.net/files/2018/04/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg"
+            },
+            {
+                "url": "https://3ax89fn04ri34ttxy19m3rcv-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1.jpg"
+            },
+            {
+                "url": "http://1.bp.blogspot.com/_IWQ9l70aIyQ/TN8mr3So8HI/AAAAAAAAATw/A3O8OfDejAk/s1600/AFG%2Barmy.mil-51900-2009-09-30-070939.jpg"
+            },
+            {
+                "url": "https://cck-law.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-e1538589804940.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/1024px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+            },
+            {
+                "url": "http://www.mika-pl.pl/wp-content/uploads/2018/03/3882309620_c599cf66a6_b_PEO-Soldier.jpg"
+            },
+            {
+                "url": "https://farm3.staticflickr.com/2559/3882309620_c599cf66a6_b.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/640px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/proxy/xnfUwxzWf_g2LAhLW6N_0dMi5NRjh5V9TVE8bpXPVSyMaAv9TvOMRzRuvBBO1aPiB0gFcelQakqYhUV1TXbrHMHae9ukZb4J6ccbOHMiBTlu=w1200-h630-p-k-no-nu"
+            },
+            {
+                "url": "http://1.bp.blogspot.com/_IWQ9l70aIyQ/TN8mr3So8HI/AAAAAAAAATw/A3O8OfDejAk/s400/AFG%2Barmy.mil-51900-2009-09-30-070939.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/320px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+            },
+            {
+                "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/facebook/ImageHandler.jpg"
+            },
+            {
+                "url": "https://ae01.alicdn.com/kf/UT8QAiIXg0aXXagOFbXq/202590335/UT8QAiIXg0aXXagOFbXq.jpg"
+            },
+            {
+                "url": "https://formiche.net/timthumb.php?src=https%3A%2F%2Fformiche.net%2Ffiles%2F2018%2F04%2FUS_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg&h=580&w=950&a=c&bid=10051&zc=1"
+            },
+            {
+                "url": "https://img01.militaryblog.jp/usr/r/o/o/rookiepon/081104.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160825/09265413_xl.jpg"
+            },
+            {
+                "url": "https://www.onemagazine.es/fotos/1/otan-soldiers.jpg"
+            },
+            {
+                "url": "http://dating-fraud.de/albums/userpics/10006/david_williams1i.jpg"
+            },
+            {
+                "url": "http://ru-an.info/Photo/QNews/n52931/7.jpeg"
+            },
+            {
+                "url": "https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+            },
+            {
+                "url": "http://ru-an.info/Photo/QNews/n66000/3.jpg"
+            },
+            {
+                "url": "https://www.army.mil/e2/-images/2008/11/20/25903/size0-army.mil-2008-11-20-1227183041.jpg"
+            },
+            {
+                "url": "https://www.focus.it/site_stored/imgs/0002/027/pattuglia_soldati_209021.630x360.jpg"
+            },
+            {
+                "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/main/ImageHandler.jpg"
+            },
+            {
+                "url": "https://cs9.pikabu.ru/post_img/2018/03/14/5/1521009830175456246.jpg"
+            },
+            {
+                "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-553x360.jpg"
+            },
+            {
+                "url": "http://www.cronista.com/__export/1431950483423/sites/diarioelcronista/img/2015/01/07/cc070115t014f08.jpg"
+            },
+            {
+                "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-386x258.jpg"
+            },
+            {
+                "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+            },
+            {
+                "url": "https://formiche.net/files/2018/04/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-300x201.jpg"
+            },
+            {
+                "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+            },
+            {
+                "url": "https://3ax89fn04ri34ttxy19m3rcv-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-300x200.jpg"
+            },
+            {
+                "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/snapshot/ImageHandler.jpg"
+            },
+            {
+                "url": "https://les-yeux-du-monde.fr/wp-content/uploads/2017/01/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-310x165.jpg"
+            },
+            {
+                "url": "https://g6.forsal.pl/p/_wspolne/pliki/657000/657040-.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/93/63/9d/93639ddbb5d4905b32a07e242d140e97.jpg"
+            },
+            {
+                "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-170x110.jpg"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-a4pRdZmiiG8/VSA7hCEInVI/AAAAAAAAKbM/2wOxGhnS5Uc/s1600/1-915-b4202.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://commons.wikimedia.org/wiki/File:US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg",
+                "pageTitle": "File:<b>US Army</b> 51900 Obama calls <b>Afghanistan</b> NATO&#39;s most ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/320px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/640px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/1024px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    },
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.army.mil/article/28044/obama_calls_afghanistan_natos_most_important_mission",
+                "pageTitle": "Obama calls <b>Afghanistan</b> NATO&#39;s most important mission ... - <b>Army</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army.mil/e2/-images/2009/09/30/51900/army.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.army.mil/article/14376/col_john_spiszer_commander_3rd_brigade_combat_team_1st_infantry_division",
+                "pageTitle": "Col. John Spiszer, commander, 3rd Brigade Combat Team ... - <b>Army</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.army.mil/e2/-images/2008/11/20/25903/size0-army.mil-2008-11-20-1227183041.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.strategic-culture.org/news/2018/08/12/afghan-quagmire-gets-deeper-denser-and-bloodier.html",
+                "pageTitle": "The <b>Afghan</b> Quagmire Gets Deeper, Denser and Bloodier",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alternet.org/world/american-war-crimes-afghanistan-10-bodies-abducted-villagers-found-outside-us-base",
+                "pageTitle": "<b>American</b> War Crimes in <b>Afghanistan</b>? 10 Bodies of Abducted ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+                    }
+                ]
+            },
+            {
+                "url": "https://thediplomat.com/2015/02/how-powerful-is-the-us-military/",
+                "pageTitle": "How Powerful Is the <b>US Military</b>? | The Diplomat",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-553x360.jpg"
+                    },
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-386x258.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thediplomat.com/2014/09/nato-on-afghanistan-no-post-2014-troop-numbers-plans-without-security-agreement/",
+                "pageTitle": "NATO on <b>Afghanistan</b>: No Post-2014 <b>Troop</b> Numbers Plans Without ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-553x360.jpg"
+                    },
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-386x258.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alternet.org/world/americas-future-afghanistan-and-immunity-soldiers",
+                "pageTitle": "America&#39;s Future in <b>Afghanistan</b> Hinges On One Key Question: Can ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alternet.org/world/failure-americas-drug-war-afghanistan",
+                "pageTitle": "The Miserable Failure of America&#39;s Drug War In <b>Afghanistan</b> | Alternet",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.alternet.org/world/wasted-blood-and-treasure-afghanistan?paging=off&current_page=1",
+                "pageTitle": "Wasted Blood and Treasure: The Futility of Invading <b>Afghanistan</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+                    }
+                ]
+            },
+            {
+                "url": "https://offthebase.wordpress.com/tag/deployed-military-service-members/",
+                "pageTitle": "deployed <b>military</b> service members | Off The Base",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offthebase.files.wordpress.com/2011/05/army-mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thediplomat.com/2013/12/nato-begins-negotiations-with-afghanistan-for-post-2014-security-agreement/",
+                "pageTitle": "NATO Begins Negotiations With <b>Afghanistan</b> For Post-2014 Security ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-553x360.jpg"
+                    },
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-386x258.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thediplomat.com/tag/us-military/",
+                "pageTitle": "<b>US Military</b> | The Diplomat",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-170x110.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://offthebase.wordpress.com/tag/operation-iraqi-freedom/",
+                "pageTitle": "Operation Iraqi Freedom | Off The Base",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offthebase.files.wordpress.com/2011/05/army-mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://winstonclose.me/2018/08/14/the-afghan-quagmire-gets-deeper-denser-and-bloodier-by-brian-cloughley-strategic-culture-foundation/",
+                "pageTitle": "The <b>Afghan</b> Quagmire Gets Deeper, Denser and Bloodier \u2013 By Brian ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://offthebase.wordpress.com/tag/navy/",
+                "pageTitle": "Navy | Off The Base",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offthebase.files.wordpress.com/2011/05/army-mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://seeseeeye.csu.edu.au/nrn/us-major-general-killed-in-afghanistan/",
+                "pageTitle": "<b>US</b> Major General killed in <b>Afghanistan</b> \u2013 NRN - See See Eye",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://seeseeeye.csu.edu.au/nrn/wp-content/uploads/sites/12/2015/06/Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://offthebase.wordpress.com/2011/05/21/florida-military-receives-additional-property-tax-break/",
+                "pageTitle": "Florida <b>Military</b> Receives Additional Property Tax Break | Off The Base",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://offthebase.files.wordpress.com/2011/05/army-mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.gloucestercitynews.net/clearysnotebook/2010/week33/",
+                "pageTitle": "CNBNEWS.NET/Gloucester City: August 15, 2010 - August 21, 2010",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cck-law.com/news/global-war-on-terror-veterans-benefits",
+                "pageTitle": "Veterans of the Global War on Terror and Benefits Available | CCK ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://3ax89fn04ri34ttxy19m3rcv-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1.jpg"
+                    },
+                    {
+                        "url": "https://cck-law.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-e1538589804940.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://satish-sharma.blogspot.com/2018/08/the-afghan-quagmire-gets-deeper-denser.html",
+                "pageTitle": "satish sharma&#39;s blog. more than Rotigraphy.: The <b>Afghan</b> Quagmire ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://libertychaplains.org/about/",
+                "pageTitle": "About | Liberty Chaplains",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://libertychaplains.org/wp-content/uploads/2017/11/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://winstonclose.me/tag/russia-protects-the-world-against-the-evil-usa-empire/",
+                "pageTitle": "RUSSIA PROTECTS THE WORLD AGAINST THE EVIL <b>USA</b> EMPIRE",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/AuthorKateMcGuinness/sexual-harassment/",
+                "pageTitle": "19 best Sexual Harassment images on Pinterest | Hostile work ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/93/63/9d/93639ddbb5d4905b32a07e242d140e97.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://winstonclose.me/category/sinister-satanic-usa-government-agencies/",
+                "pageTitle": "SINISTER &amp; SATANIC <b>USA</b> GOVERNMENT AGENCIES ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://winstonclose.me/category/west-nations-wars/",
+                "pageTitle": "WEST NATIONS WARS \u2013 winstonclose",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.strategic-culture.org/images/news/2018/08/12/or-41220.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://seeseeeye.csu.edu.au/nrn/us-soldier-killed-in-raid-on-islamic-state-compound/",
+                "pageTitle": "<b>US soldier</b> killed in raid on Islamic State compound \u2013 NRN",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://seeseeeye.csu.edu.au/nrn/wp-content/uploads/sites/12/2015/06/Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-afghanistan-2016",
+                "pageTitle": "Nato <b>Afghanistan</b> 2016 \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cck-law.com/blog/page/5/",
+                "pageTitle": "Blog | Page 5 of 65 | CCK Law | Page: 5",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cck-law.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-e1538589804940.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picsunday.com/p/The-Importance-of-the-U-S-Military.html",
+                "pageTitle": "Pin The Importance of the <b>U S Military</b> Images to Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO's_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://opitslinkfest.blogspot.com/2010/09/28-september-rss-snapshot.html",
+                "pageTitle": "Opit&#39;s LinkFest!: 28 September - RSS SnapShot!",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.aliexpress.com/item/ARMY-FANS-Own-brand-china-leading-military-kit-supplier600D-Digital-Camo-Backpack-3-Day-Assault-Pack/1357484818.html",
+                "pageTitle": "<b>ARMY</b> FANS Own brand china leading <b>military</b> kit supplier600D ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ae01.alicdn.com/kf/UT8QAiIXg0aXXagOFbXq/202590335/UT8QAiIXg0aXXagOFbXq.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picsunday.com/p/U.S.-Army-101st-Airborne.html",
+                "pageTitle": "Pin <b>U.S. Army</b> 101st Airborne Images to Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cck-law.com/news/cck-partners-staff-present-at-2018-veteran-advocate-conference/",
+                "pageTitle": "CCK Partners, Staff Present at 2018 Veteran Advocate Conference ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3ax89fn04ri34ttxy19m3rcv-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zakopianskie.info/rif-mission-us-army/",
+                "pageTitle": "Rif Mission <b>Us Army</b> - Zakopianskie",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO's_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kidskunst.info/linked/us-army-standto!-multi-domain-operations-7573.htm",
+                "pageTitle": "All about <b>Us Army</b> Standto! Multi Domain Operations - kidskunst.info",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.focus.it/site_stored/imgs/0002/027/pattuglia_soldati_209021.630x360.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/pin/149815125076039661/",
+                "pageTitle": "Women in combat? You say that like it&#39;s a new thing... | History ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/93/63/9d/93639ddbb5d4905b32a07e242d140e97.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dbsecurity.net/post/ba-dyncorps-usa-marijuana",
+                "pageTitle": "Ba Dyncorps <b>Usa</b> Marijuana - DBSecurity",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://anti-scam.de/cgi-bin/yabb2/YaBB.pl?num=1388692541",
+                "pageTitle": "David &lt;david.williams1@hotmail.com&gt; &lt;ernest.a ... - Anti-Scam.de",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://dating-fraud.de/albums/userpics/10006/david_williams1i.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cck-law.com/news/news-news-court-finds-examiner-failed-opine-aggravation/",
+                "pageTitle": "BVA errs in denial, Court finds examiner failed to opine on aggravation",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://3ax89fn04ri34ttxy19m3rcv-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thecreativescientist.com/nato-sofa-afghanistan/",
+                "pageTitle": "Nato Sofa <b>Afghanistan</b> | Thecreativescientist.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thediplomat.com/wp-content/uploads/2013/12/thediplomat_2013-12-24_13-38-49-386x258.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://myscribbledthoughts.info/page/a/afghanistan-missionaries.html",
+                "pageTitle": "Keywords <b>Afghanistan</b> Missionaries and Tags",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army.mil/e2/-images/2009/09/30/51900/army.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.flickr.com/photos/peosoldier/3882309620",
+                "pageTitle": "Patrol | <b>Soldiers</b> with the 101st Airborne Division patrol a \u2026 | Flickr",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://c1.staticflickr.com/3/2559/3882309620_c599cf66a6_b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picsnaper.com/p/Is-NATO-necessary?-Russia-Now",
+                "pageTitle": "Snap Is NATO necessary photos on Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO's_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://seeseeeye.csu.edu.au/nrn/afghan-nato-airstrike-kills-11-children/",
+                "pageTitle": "<b>Afghan</b> NATO airstrike kills 11 children \u2013 NRN - See See Eye",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://seeseeeye.csu.edu.au/nrn/wp-content/uploads/sites/12/2015/06/Afghanistan_NATOs_most_important_mission1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/desert-shield-storm-registry-25.html",
+                "pageTitle": "Desert Shield Storm Registry | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cck-law.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-e1538589804940.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://address-db.info/natos-mission",
+                "pageTitle": "Natos Mission - Address DB",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cck-law.com/wp-content/uploads/2018/09/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-1-e1538589804940.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://lifpicwz.pw/Pin-by-khan-on-mix-dps-t-Army-Pakistan-and-Pakistan.html",
+                "pageTitle": "Pin by khan on mix dps t <b>Army</b> Pakistan and Pakistan",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://picssr.com/photos/peosoldier/interesting/page34?nsid=40633065@N07",
+                "pageTitle": "Program Executive Office <b>Soldier&#39;s</b> most interesting Flickr photos ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://farm3.staticflickr.com/2559/3882309620_c599cf66a6_b.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.iron-age.info/army-airborne-jump.html",
+                "pageTitle": "<b>Army</b> Airborne Jump - Iron Age",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://angrybirdsriogame.info/?d=Soldier++Wikipedia",
+                "pageTitle": "<b>Soldier</b> Wikipedia 2158953 - angrybirdsriogame.info",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://seeseeeye.csu.edu.au/nrn/wp-content/uploads/sites/12/2015/06/Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://coolpicxe.pw/Yingli-Green-to-showcase-niche-solar-modules-at-SPI-as-sales-slide.html",
+                "pageTitle": "Yingli Green to showcase niche solar modules at SPI as sales slide",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg/300px-US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://visualbrains.info/?k=American+Sniper++Wikipedia",
+                "pageTitle": "<b>American</b> Sniper Wikipedia - visualbrains.info",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO's_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.timehd.net/american-war-crimes.html",
+                "pageTitle": "<b>American</b> War Crimes 74207 | TIMEHD",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.alternet.org/sites/default/files/styles/story_image/public/story_images/800px-us_army_51900_obama_calls_afghanistan_natos_most_important_mission.jpg?itok=Kn00JAHe"
+                    }
+                ]
+            },
+            {
+                "url": "https://rookiepon.militaryblog.jp/e932741.html",
+                "pageTitle": "\u30dd\u30f3\u9162:101\u7a7a\u633a\u5e2b\u56e3\u7de8\u6210\uff0808-14\u5e74\u9803\u7248\uff09",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img01.militaryblog.jp/usr/r/o/o/rookiepon/081104.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-troops-in-afghanistan-2016",
+                "pageTitle": "Nato <b>Troops In Afghanistan</b> 2016 \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.army.mil/e2/-images/2009/09/30/51900/army.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://les-yeux-du-monde.fr/tag/afghanistan",
+                "pageTitle": "<b>Afghanistan</b> Archives - Les Yeux du Monde",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://les-yeux-du-monde.fr/wp-content/uploads/2017/01/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://forsal.pl/artykuly/439452,wojny-w-iraku-i-afganistanie-okazja-do-wyprowadzania-pieniedzy-z-amerykanskiego-budzetu.html",
+                "pageTitle": "Wojny w Iraku i Afganistanie okazj\u0105 do wyprowadzania pieni\u0119dzy z ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://g6.forsal.pl/p/_wspolne/pliki/657000/657040-.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://formiche.net/2018/04/russi-armi-talebani-bbc/",
+                "pageTitle": "Nuovo fronte con la Russia. L&#39;accusa di passare le armi ai talebani ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://formiche.net/timthumb.php?src=https%3A%2F%2Fformiche.net%2Ffiles%2F2018%2F04%2FUS_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg&h=580&w=950&a=c&bid=10051&zc=1"
+                    },
+                    {
+                        "url": "https://formiche.net/files/2018/04/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.focus.it/scienza/scienze/i-soldati-del-futuro-saranno-telecomandati-col-gps",
+                "pageTitle": "Guerra 2.0 \u2013 Cinture GPS per comandare i battaglioni - Focus.it",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.focus.it/site_stored/imgs/0002/027/pattuglia_soldati_209021.630x360.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://les-yeux-du-monde.fr/tag/talibans",
+                "pageTitle": "talibans Archives - Les Yeux du Monde",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://les-yeux-du-monde.fr/wp-content/uploads/2017/01/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-afghanistan-mission",
+                "pageTitle": "Nato <b>Afghanistan</b> Mission \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/US_Army_51900_Obama_calls_Afghanistan_NATO%27s_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hispantv.com/noticias/afganistan/285929/convertir-invasion-afgana-peor-guerra-eeuu",
+                "pageTitle": "Talib\u00e1n: Convertiremos Afganist\u00e1n en la peor pesadilla de EEUU ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160825/09265413_xl.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://les-yeux-du-monde.fr/category/actualite/asie-oceanie/asie-centrale/page/3",
+                "pageTitle": "Asie centrale Archives - Page 3 sur 3 - Les Yeux du Monde",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://les-yeux-du-monde.fr/wp-content/uploads/2017/01/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://les-yeux-du-monde.fr/tag/counterinsurgency",
+                "pageTitle": "counterinsurgency Archives - Les Yeux du Monde",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://les-yeux-du-monde.fr/wp-content/uploads/2017/01/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://formiche.net/2018/04/skripal-audio-tv-russa/",
+                "pageTitle": "Spie, veleni ed intercettazioni. Nel caso Skripal spunta un audio ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://formiche.net/files/2018/04/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission-300x201.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hispantv.com/noticias/rusia/336686/considera-mentiras-ascusaciones-eeuu-apoyo-taliban",
+                "pageTitle": "EEUU busca &#39;justificar&#39; derrotas ante Talib\u00e1n acusando a Rusia ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160825/09265413_xl.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://rusvesna.su/news/1526490800",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cronista.com/financialtimes/Occidente-pierde-confianza-en-los-tres-pilares-que-marcaron-al-mundo-posterior-a-la-guerra-fria-20150107-0005.html",
+                "pageTitle": "Occidente pierde confianza en los tres pilares que marcaron al ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.cronista.com/__export/1431950483423/sites/diarioelcronista/img/2015/01/07/cc070115t014f08.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hispantv.com/noticias/rusia/336686/considera-mentiras-ascusaciones-eeuu-apoyo-taliban?fb_comment_id=1313014732120643_1313134492108667",
+                "pageTitle": "EEUU busca &#39;justificar&#39; derrotas ante Talib\u00e1n acusando a Rusia ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160825/09265413_xl.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.hispantv.com/noticias/rusia/336686/considera-mentiras-ascusaciones-eeuu-apoyo-taliban?fb_comment_id=1313014732120643_1313345885420861",
+                "pageTitle": "EEUU busca &#39;justificar&#39; derrotas ante Talib\u00e1n acusando a Rusia ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20160825/09265413_xl.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pikabu.ru/tag/%D0%9C%D0%B8%D0%B4%20%D0%A0%D0%A4/hot",
+                "pageTitle": "\u041c\u0438\u0434 \u0420\u0424 - Pikabu",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cs9.pikabu.ru/post_img/2018/03/14/5/1521009830175456246.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://forsal.pl/artykuly/345730,polacy-biora-udzial-w-najdrozszej-wojnie-swiata.html",
+                "pageTitle": "Polacy bior\u0105 udzia\u0142 w najdro\u017cszej wojnie \u015bwiata - - Forsal.pl ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://g6.forsal.pl/p/_wspolne/pliki/657000/657040-.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pikabu.ru/story/v_mid_rf_rasskazali_o_tselyakh_ssha_v_afganistane_5774572",
+                "pageTitle": "\u0412 \u041c\u0418\u0414 \u0420\u0424 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u0446\u0435\u043b\u044f\u0445 \u0421\u0428\u0410 \u0432 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0435 - Pikabu",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cs9.pikabu.ru/post_img/2018/03/14/5/1521009830175456246.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsbomb.gr/tags/tag/21589/afganistan?start=125",
+                "pageTitle": "\u0391\u03a6\u0393\u0391\u039d\u0399\u03a3\u03a4\u0391\u039d (\u03a3\u03b5\u03bb\u03af\u03b4\u03b1 6 \u03b1\u03c0\u03cc 57) | Newsbomb",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/snapshot/ImageHandler.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pikabu.ru/tag/%D0%BC%D0%B8%D0%B4%20%D1%80%D1%84/hot",
+                "pageTitle": "\u043c\u0438\u0434 \u0440\u0444 - Pikabu",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cs9.pikabu.ru/post_img/2018/03/14/5/1521009830175456246.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://regnum.ru/news/2415975.html",
+                "pageTitle": "\u041d\u0438\u043a\u0438\u0442\u0430 \u041c\u0435\u043d\u0434\u043a\u043e\u0432\u0438\u0447 - \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d \u2014 \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsbomb.gr/kosmos?pt=3&start=16025",
+                "pageTitle": "\u039a\u039f\u03a3\u039c\u039f\u03a3 | Newsbomb",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/snapshot/ImageHandler.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsbomb.gr/kosmos?pt=9&start=16025",
+                "pageTitle": "\u039a\u039f\u03a3\u039c\u039f\u03a3 | Newsbomb",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/snapshot/ImageHandler.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsbomb.gr/kosmos/story/800414/afganistan-amerikanoi-stratiotes-traymatistikan-se-stratiotiki-vasi",
+                "pageTitle": "\u0391\u03c6\u03b3\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd: \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03af \u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/facebook/ImageHandler.jpg"
+                    },
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/snapshot/ImageHandler.jpg"
+                    },
+                    {
+                        "url": "https://cdn1.bbend.net/media/com_news/story/2017/06/17/800414/main/ImageHandler.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zona-airsoft.blogspot.com/2010/11/",
+                "pageTitle": "Zona Airsoft: noviembre 2010",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://1.bp.blogspot.com/_IWQ9l70aIyQ/TN8mr3So8HI/AAAAAAAAATw/A3O8OfDejAk/s400/AFG%2Barmy.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://xn----8sbeybxdibygm.ru-an.info/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%B0%D1%84%D0%B3%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%B8%D0%B3%D0%B8%D0%BB-%D0%B8-%D1%82%D0%B0%D0%BB%D0%B8%D0%B1%D1%8B-%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%8E%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D1%8F-%D0%B1%D0%B5%D0%B6%D0%B8%D1%82-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F/",
+                "pageTitle": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d: \u0418\u0413\u0418\u041b \u0438 \u0422\u0430\u043b\u0438\u0431\u044b \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ru-an.info/Photo/QNews/n66000/3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pikabu.ru/tag/%D1%81%D0%BE%D1%86%D0%B8%D1%83%D0%BC/hot",
+                "pageTitle": "\u0441\u043e\u0446\u0438\u0443\u043c - Pikabu",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cs9.pikabu.ru/post_img/2018/03/14/5/1521009830175456246.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://xn----ctbsbaa3aibxhck.ru-an.info/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D1%81%D1%88%D0%B0-%D0%B2-%D1%81%D0%B8%D1%80%D0%B8%D0%B8-%D0%B4%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8-%D0%B2-%D0%BF%D0%B5%D1%81%D0%BE%D0%BA-%D0%BA%D0%B0%D0%BA-%D1%88%D1%82%D0%B0%D1%82%D1%8B-%D0%B1%D0%B5%D0%B7%D0%B6%D0%B0%D0%BB%D0%BE%D1%81%D1%82%D0%BD%D0%BE-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%B4%D1%83%D0%BC%D0%BD%D0%BE-%D1%82%D1%80%D0%B0%D1%82%D1%8F%D1%82-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B1%D1%8E%D0%B4%D0%B6%D0%B5%D1%82/",
+                "pageTitle": "\u0421\u0428\u0410 \u0432 \u0421\u0438\u0440\u0438\u0438. \u0414\u0435\u043d\u044c\u0433\u0438 \u0432 \u043f\u0435\u0441\u043e\u043a: \u043a\u0430\u043a \u0428\u0442\u0430\u0442\u044b \u0431\u0435\u0437\u0436\u0430\u043b\u043e\u0441\u0442\u043d\u043e \u0438 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ru-an.info/Photo/QNews/n52931/7.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newsar.ro/nato-fortata-sa-trimita-trupe-permanente-estul-europei/armata-nato/",
+                "pageTitle": "armata NATO - NewsAr.ro",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://newsar.ro/wp-content/uploads/2014/05/armata-NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dnevno.hr/geopolitika/rusija-zabranila-opskrbu-nato-snaga-u-afganistanu-preko-svog-teritorija-802390/",
+                "pageTitle": "Rusija zabranila opskrbu NATO snaga u Afganistanu preko svog ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.dnevno.hr/wp-content/uploads/2015/05/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.arab-army.com/t48179-topic",
+                "pageTitle": "\u0635\u0648\u0631 \u0627\u0644\u062d\u0631\u0628 \u0641\u0649 \u0623\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 - \u0645\u0646\u062a\u062f\u0649 \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0639\u0631\u0628\u064a | Arab <b>Army</b> Forum",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.army.mil/-images/2009/09/30/51900/army.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.onemagazine.es/noticia/23676/internacional/espana-se-pondra-al-frente-de-la-fuerza-de-muy-alta-disponibilidad-de-la-otan-en-2016.html",
+                "pageTitle": "Espa\u00f1a se pondr\u00e1 al frente de la Fuerza de Muy Alta Disponibilidad ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.onemagazine.es/fotos/1/otan-soldiers.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.fssb.su/strany-mira/sredniy-vostok/4074-koshmar-afganistana-boeviki-nastupayut-armiya-bezhit-policeyskie-uvolnyayutsya.html",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dnevno.hr/vijesti/komentari/hrvatska-je-ulaskom-u-nato-uvucena-u-americki-prljavi-rat-822396/",
+                "pageTitle": "Hrvatska je ulaskom u NATO uvu\u010dena u ameri\u010dki prljavi rat | Dnevno ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.dnevno.hr/wp-content/uploads/2015/05/US_Army_51900_Obama_calls_Afghanistan_NATOs_most_important_mission.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://m.rusvesna.su/news/1526490800",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ereportaz.gr/afganistan-amerikanoi-stratiotes-traymatistikan-se-stratiotiki-vasi/",
+                "pageTitle": "\u0391\u03c6\u03b3\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03bd: \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03bf\u03af \u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c4\u03c1\u03b1\u03c5\u03bc\u03b1\u03c4\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03c3\u03c4\u03c1\u03b1\u03c4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.ereportaz.gr/wp-content/uploads/2017/06/800414-ImageHandler.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.taringa.net/+imagenes/guerra-en-afghanistan-en-hd-3ra-parte-megapost_tye9t",
+                "pageTitle": "Guerra en <b>Afghanistan</b> en HD, 3ra Parte [MegaPost] | Taringa!",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.army.mil/-images/2009/09/30/51900/army.mil-51900-2009-09-30-070939.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://novosti333.ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/%D0%B0%D1%84%D0%B3%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD-%D0%B8%D0%B3%D0%B8%D0%BB-%D0%B8-%D1%82%D0%B0%D0%BB%D0%B8%D0%B1%D1%8B-%D0%BD%D0%B0%D1%81%D1%82%D1%83%D0%BF%D0%B0%D1%8E%D1%82-%D0%B0%D1%80%D0%BC%D0%B8%D1%8F-%D0%B1%D0%B5%D0%B6%D0%B8%D1%82-%D0%BF%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D1%83%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F%D1%8E%D1%82%D1%81%D1%8F/",
+                "pageTitle": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d: \u0418\u0413\u0418\u041b \u0438 \u0422\u0430\u043b\u0438\u0431\u044b \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://ru-an.info/Photo/QNews/n66000/3.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nemenhazim.com/p/ejercitos-secretos-de-la-otan-ii.html",
+                "pageTitle": "Ej\u00e9rcitos Secretos de la OTAN - II: Tribuna de Nemen Hazim",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://2.bp.blogspot.com/-a4pRdZmiiG8/VSA7hCEInVI/AAAAAAAAKbM/2wOxGhnS5Uc/s1600/1-915-b4202.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.nemenhazim.com/p/tomado-de-la-red-voltaire-del-libro-les.html",
+                "pageTitle": "Tribuna de Nemen Hazim: Los ej\u00e9rcitos secretos de la OTAN ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://2.bp.blogspot.com/-a4pRdZmiiG8/VSA7hCEInVI/AAAAAAAAKbM/2wOxGhnS5Uc/s1600/1-915-b4202.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.politicsglobal.ru/koshmar-afganistana-boeviki-nastupaju/",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.politicsglobal.ru/wp-content/uploads/2018/05/1-57.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tecnologamilitar.blogspot.com/2015/06/espana-se-pondra-al-frente-de-la-fuerza.html",
+                "pageTitle": "Espa\u00f1a se pondr\u00e1 al frente de la Fuerza de Muy Alta Disponibilidad ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://lh3.googleusercontent.com/proxy/xnfUwxzWf_g2LAhLW6N_0dMi5NRjh5V9TVE8bpXPVSyMaAv9TvOMRzRuvBBO1aPiB0gFcelQakqYhUV1TXbrHMHae9ukZb4J6ccbOHMiBTlu=w1200-h630-p-k-no-nu"
+                    }
+                ]
+            },
+            {
+                "url": "http://russianpulse.ru/rusvesna/2018/05/18/1714176-koshmar-afganistana-boeviki-nastupayut-armiya-bezhit-politseyskie-nbsp-uvolnyayutsya",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://russianpulse.ru/img/https://regnum.ru/uploads/pictures/news/2018/05/16/regnum_picture_15264868794183258_big.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://c-in.ru/smi/218735-koshmar-afganistana-boeviki-nastupayut-armiya-bezhit-policejskie-uvolnyayutsya.html",
+                "pageTitle": "\u041a\u043e\u0448\u043c\u0430\u0440 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d\u0430: \u0431\u043e\u0435\u0432\u0438\u043a\u0438 \u043d\u0430\u0441\u0442\u0443\u043f\u0430\u044e\u0442, \u0430\u0440\u043c\u0438\u044f \u0431\u0435\u0436\u0438\u0442 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://c-in.ru/uploads/p/2018-05-18/koshmar_afganistana_boeviki_nastupayut-_armiya_bezhit-_policejskie_uvolnyayutsya_2.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cryptome.org/info/af-war-arch-1009/pict117.jpg"
+            },
+            {
+                "url": "https://www.armywtfmoments.com/wp-content/uploads/2018/04/1524317206988-534x462.jpg"
+            },
+            {
+                "url": "https://s3.amazonaws.com/idme-wordpress-military/wp-content/uploads/2016/01/05121031/special-forces-us-1024x683.jpg"
+            },
+            {
+                "url": "https://history.army.mil/art/Peters/Helo%20Watch.jpg"
+            },
+            {
+                "url": "https://www.stripes.com/polopoly_fs/1.358950.1437439750!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+            },
+            {
+                "url": "http://freebeacon.com/wp-content/uploads/2015/07/Afghanistan-training.jpg"
+            },
+            {
+                "url": "https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2017/8/31/161276f800c64071ac3c73a6c6441fa2_18.jpg"
+            },
+            {
+                "url": "http://www.khaama.com/wp-content/uploads/2016/06/Afghan-and-US-forces.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "us army soldier in afghanistan",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.99226105,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.51527923,
+                        "y": 0.089327924
+                    },
+                    {
+                        "x": 0.8164856,
+                        "y": 0.089327924
+                    },
+                    {
+                        "x": 0.8164856,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.51527923,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.94413143,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22722812,
+                        "y": 0.29104444
+                    },
+                    {
+                        "x": 0.39606604,
+                        "y": 0.29104444
+                    },
+                    {
+                        "x": 0.39606604,
+                        "y": 0.72095555
+                    },
+                    {
+                        "x": 0.22722812,
+                        "y": 0.72095555
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0zvk5",
+            "name": "Helmet",
+            "score": 0.79461086,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6258793,
+                        "y": 0.05775542
+                    },
+                    {
+                        "x": 0.7659969,
+                        "y": 0.05775542
+                    },
+                    {
+                        "x": 0.7659969,
+                        "y": 0.22375542
+                    },
+                    {
+                        "x": 0.6258793,
+                        "y": 0.22375542
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01940j",
+            "name": "Backpack",
+            "score": 0.67413807,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.49262664,
+                        "y": 0.23682654
+                    },
+                    {
+                        "x": 0.63663656,
+                        "y": 0.23682654
+                    },
+                    {
+                        "x": 0.63663656,
+                        "y": 0.5526471
+                    },
+                    {
+                        "x": 0.49262664,
+                        "y": 0.5526471
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.588935,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.51527923,
+                        "y": 0.089327924
+                    },
+                    {
+                        "x": 0.8164856,
+                        "y": 0.089327924
+                    },
+                    {
+                        "x": 0.8164856,
+                        "y": 0.94973093
+                    },
+                    {
+                        "x": 0.51527923,
+                        "y": 0.94973093
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0hf58v5",
+            "name": "Luggage & bags",
+            "score": 0.5428662,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.49262664,
+                        "y": 0.23682654
+                    },
+                    {
+                        "x": 0.63663656,
+                        "y": 0.23682654
+                    },
+                    {
+                        "x": 0.63663656,
+                        "y": 0.5526471
+                    },
+                    {
+                        "x": 0.49262664,
+                        "y": 0.5526471
+                    }
+                ]
+            }
+        }
+    ]
+}

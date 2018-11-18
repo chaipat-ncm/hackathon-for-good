@@ -1,0 +1,2871 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 387,
+                        "y": 60
+                    },
+                    {
+                        "x": 506,
+                        "y": 60
+                    },
+                    {
+                        "x": 506,
+                        "y": 199
+                    },
+                    {
+                        "x": 387,
+                        "y": 199
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 403,
+                        "y": 91
+                    },
+                    {
+                        "x": 484,
+                        "y": 91
+                    },
+                    {
+                        "x": 484,
+                        "y": 172
+                    },
+                    {
+                        "x": 403,
+                        "y": 172
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 424.61185,
+                        "y": 120.72241,
+                        "z": 0.00013685931
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 457.01154,
+                        "y": 114.90042,
+                        "z": -3.3954668
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 410.0134,
+                        "y": 115.08055,
+                        "z": 6.50322
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 429.7034,
+                        "y": 109.34955,
+                        "z": -5.7727766
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 447.03738,
+                        "y": 106.35826,
+                        "z": -7.558899
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 468.6715,
+                        "y": 104.53608,
+                        "z": 0.15762655
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 439.47742,
+                        "y": 115.20929,
+                        "z": -8.763279
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 441.082,
+                        "y": 132.9947,
+                        "z": -23.481503
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 444.25894,
+                        "y": 148.13712,
+                        "z": -17.98171
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 446.35687,
+                        "y": 160.61545,
+                        "z": -17.978556
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 433.2293,
+                        "y": 156.83203,
+                        "z": -8.41276
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 460.18588,
+                        "y": 152.41289,
+                        "z": -11.016989
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 445.3313,
+                        "y": 153.9614,
+                        "z": -16.496737
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 452.01956,
+                        "y": 136.62267,
+                        "z": -11.598555
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 434.8236,
+                        "y": 139.66585,
+                        "z": -9.775695
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 442.65054,
+                        "y": 139.52869,
+                        "z": -16.448757
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 422.09473,
+                        "y": 117.90993,
+                        "z": -1.5835932
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 430.90094,
+                        "y": 120.62561,
+                        "z": -0.5603967
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 424.26147,
+                        "y": 123.09749,
+                        "z": -0.6278181
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 416.21432,
+                        "y": 122.75644,
+                        "z": 4.177737
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 422.10074,
+                        "y": 120.7605,
+                        "z": -0.48019597
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 457.7191,
+                        "y": 111.73152,
+                        "z": -5.265711
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 465.4342,
+                        "y": 114.11427,
+                        "z": -1.0317652
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 457.8627,
+                        "y": 116.98085,
+                        "z": -4.2198844
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 451.05124,
+                        "y": 116.69652,
+                        "z": -2.6681998
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 458.68945,
+                        "y": 114.41272,
+                        "z": -4.3043914
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 418.7329,
+                        "y": 107.541916,
+                        "z": -0.9677504
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 457.44382,
+                        "y": 100.83866,
+                        "z": -4.9697957
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 408.69476,
+                        "y": 150.40291,
+                        "z": 42.506283
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 489.09888,
+                        "y": 136.26828,
+                        "z": 33.81216
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 438.114,
+                        "y": 107.18347,
+                        "z": -7.877096
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 449.18027,
+                        "y": 178.59097,
+                        "z": -16.315228
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 414.0275,
+                        "y": 169.58691,
+                        "z": 22.72337
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 487.2086,
+                        "y": 156.8972,
+                        "z": 15.171827
+                    }
+                }
+            ],
+            "rollAngle": -8.60202,
+            "panAngle": -5.9422526,
+            "tiltAngle": 12.030444,
+            "detectionConfidence": 0.7926415,
+            "landmarkingConfidence": 0.52131695,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/068k4",
+            "description": "public speaking",
+            "score": 0.9665128,
+            "topicality": 0.9665128
+        },
+        {
+            "mid": "/m/09x0r",
+            "description": "speech",
+            "score": 0.9483118,
+            "topicality": 0.9483118
+        },
+        {
+            "mid": "/m/0hpjt",
+            "description": "orator",
+            "score": 0.8648774,
+            "topicality": 0.8648774
+        },
+        {
+            "mid": "/m/01xr66",
+            "description": "spokesperson",
+            "score": 0.86176777,
+            "topicality": 0.86176777
+        },
+        {
+            "mid": "/m/035y33",
+            "description": "official",
+            "score": 0.7284826,
+            "topicality": 0.7284826
+        },
+        {
+            "mid": "/m/012t_z",
+            "description": "businessperson",
+            "score": 0.6614666,
+            "topicality": 0.6614666
+        },
+        {
+            "mid": "/m/02079p",
+            "description": "speaker",
+            "score": 0.5196579,
+            "topicality": 0.5196579
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "ca",
+            "description": "ARE\nNATO\nELS\nLES\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 127,
+                        "y": 166
+                    },
+                    {
+                        "x": 300,
+                        "y": 166
+                    },
+                    {
+                        "x": 300,
+                        "y": 346
+                    },
+                    {
+                        "x": 127,
+                        "y": 346
+                    }
+                ]
+            }
+        },
+        {
+            "description": "ARE",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 128,
+                        "y": 166
+                    },
+                    {
+                        "x": 198,
+                        "y": 169
+                    },
+                    {
+                        "x": 196,
+                        "y": 203
+                    },
+                    {
+                        "x": 127,
+                        "y": 200
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 198,
+                        "y": 169
+                    },
+                    {
+                        "x": 300,
+                        "y": 169
+                    },
+                    {
+                        "x": 300,
+                        "y": 198
+                    },
+                    {
+                        "x": 198,
+                        "y": 198
+                    }
+                ]
+            }
+        },
+        {
+            "description": "ELS",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 151,
+                        "y": 322
+                    },
+                    {
+                        "x": 174,
+                        "y": 324
+                    },
+                    {
+                        "x": 173,
+                        "y": 334
+                    },
+                    {
+                        "x": 150,
+                        "y": 332
+                    }
+                ]
+            }
+        },
+        {
+            "description": "LES",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 159,
+                        "y": 337
+                    },
+                    {
+                        "x": 180,
+                        "y": 337
+                    },
+                    {
+                        "x": 180,
+                        "y": 346
+                    },
+                    {
+                        "x": 159,
+                        "y": 346
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 101,
+                        "green": 113,
+                        "blue": 249
+                    },
+                    "score": 0.4729416,
+                    "pixelFraction": 0.3080043
+                },
+                {
+                    "color": {
+                        "red": 127,
+                        "green": 144,
+                        "blue": 248
+                    },
+                    "score": 0.10494793,
+                    "pixelFraction": 0.08279768
+                },
+                {
+                    "color": {
+                        "red": 25,
+                        "green": 10,
+                        "blue": 47
+                    },
+                    "score": 0.07197366,
+                    "pixelFraction": 0.09205693
+                },
+                {
+                    "color": {
+                        "red": 68,
+                        "green": 73,
+                        "blue": 172
+                    },
+                    "score": 0.02790827,
+                    "pixelFraction": 0.021120293
+                },
+                {
+                    "color": {
+                        "red": 40,
+                        "green": 41,
+                        "blue": 61
+                    },
+                    "score": 0.022160854,
+                    "pixelFraction": 0.048515458
+                },
+                {
+                    "color": {
+                        "red": 76,
+                        "green": 76,
+                        "blue": 83
+                    },
+                    "score": 0.012422381,
+                    "pixelFraction": 0.057774715
+                },
+                {
+                    "color": {
+                        "red": 158,
+                        "green": 154,
+                        "blue": 153
+                    },
+                    "score": 0.003056913,
+                    "pixelFraction": 0.015687175
+                },
+                {
+                    "color": {
+                        "red": 87,
+                        "green": 96,
+                        "blue": 251
+                    },
+                    "score": 0.00086485094,
+                    "pixelFraction": 0.0005356596
+                },
+                {
+                    "color": {
+                        "red": 92,
+                        "green": 15,
+                        "blue": 23
+                    },
+                    "score": 0.00082543376,
+                    "pixelFraction": 0.00091827364
+                },
+                {
+                    "color": {
+                        "red": 211,
+                        "green": 44,
+                        "blue": 65
+                    },
+                    "score": 0.0005998208,
+                    "pixelFraction": 0.0006121824
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 533
+                        },
+                        {
+                            "x": 533,
+                            "y": 400
+                        },
+                        {
+                            "y": 400
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.78
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "ca"
+                        }
+                    ]
+                },
+                "width": 534,
+                "height": 401,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 127,
+                                    "y": 166
+                                },
+                                {
+                                    "x": 198,
+                                    "y": 166
+                                },
+                                {
+                                    "x": 198,
+                                    "y": 203
+                                },
+                                {
+                                    "x": 127,
+                                    "y": 203
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 127,
+                                            "y": 166
+                                        },
+                                        {
+                                            "x": 198,
+                                            "y": 166
+                                        },
+                                        {
+                                            "x": 198,
+                                            "y": 203
+                                        },
+                                        {
+                                            "x": 127,
+                                            "y": 203
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 128,
+                                                    "y": 166
+                                                },
+                                                {
+                                                    "x": 198,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 196,
+                                                    "y": 203
+                                                },
+                                                {
+                                                    "x": 127,
+                                                    "y": 200
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 128,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 152,
+                                                            "y": 170
+                                                        },
+                                                        {
+                                                            "x": 151,
+                                                            "y": 201
+                                                        },
+                                                        {
+                                                            "x": 127,
+                                                            "y": 200
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 154,
+                                                            "y": 168
+                                                        },
+                                                        {
+                                                            "x": 176,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 175,
+                                                            "y": 196
+                                                        },
+                                                        {
+                                                            "x": 153,
+                                                            "y": 195
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "R"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 179,
+                                                            "y": 168
+                                                        },
+                                                        {
+                                                            "x": 198,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 197,
+                                                            "y": 197
+                                                        },
+                                                        {
+                                                            "x": 178,
+                                                            "y": 196
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "en"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 198,
+                                    "y": 169
+                                },
+                                {
+                                    "x": 300,
+                                    "y": 169
+                                },
+                                {
+                                    "x": 300,
+                                    "y": 198
+                                },
+                                {
+                                    "x": 198,
+                                    "y": 198
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "en"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 198,
+                                            "y": 169
+                                        },
+                                        {
+                                            "x": 300,
+                                            "y": 169
+                                        },
+                                        {
+                                            "x": 300,
+                                            "y": 198
+                                        },
+                                        {
+                                            "x": 198,
+                                            "y": 198
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 198,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 300,
+                                                    "y": 169
+                                                },
+                                                {
+                                                    "x": 300,
+                                                    "y": 198
+                                                },
+                                                {
+                                                    "x": 198,
+                                                    "y": 198
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 198,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 224,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 224,
+                                                            "y": 197
+                                                        },
+                                                        {
+                                                            "x": 198,
+                                                            "y": 197
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 227,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 197
+                                                        },
+                                                        {
+                                                            "x": 227,
+                                                            "y": 197
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 255,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 272,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 272,
+                                                            "y": 197
+                                                        },
+                                                        {
+                                                            "x": 255,
+                                                            "y": 197
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 273,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 300,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 300,
+                                                            "y": 198
+                                                        },
+                                                        {
+                                                            "x": 273,
+                                                            "y": 198
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "ca"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 150,
+                                    "y": 322
+                                },
+                                {
+                                    "x": 174,
+                                    "y": 322
+                                },
+                                {
+                                    "x": 174,
+                                    "y": 334
+                                },
+                                {
+                                    "x": 150,
+                                    "y": 334
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "ca"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 150,
+                                            "y": 322
+                                        },
+                                        {
+                                            "x": 174,
+                                            "y": 322
+                                        },
+                                        {
+                                            "x": 174,
+                                            "y": 334
+                                        },
+                                        {
+                                            "x": 150,
+                                            "y": 334
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "ca"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 151,
+                                                    "y": 322
+                                                },
+                                                {
+                                                    "x": 174,
+                                                    "y": 324
+                                                },
+                                                {
+                                                    "x": 173,
+                                                    "y": 334
+                                                },
+                                                {
+                                                    "x": 150,
+                                                    "y": 332
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 151,
+                                                            "y": 322
+                                                        },
+                                                        {
+                                                            "x": 159,
+                                                            "y": 323
+                                                        },
+                                                        {
+                                                            "x": 158,
+                                                            "y": 333
+                                                        },
+                                                        {
+                                                            "x": 150,
+                                                            "y": 332
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 160,
+                                                            "y": 323
+                                                        },
+                                                        {
+                                                            "x": 165,
+                                                            "y": 323
+                                                        },
+                                                        {
+                                                            "x": 164,
+                                                            "y": 333
+                                                        },
+                                                        {
+                                                            "x": 159,
+                                                            "y": 333
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "L"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 166,
+                                                            "y": 322
+                                                        },
+                                                        {
+                                                            "x": 174,
+                                                            "y": 323
+                                                        },
+                                                        {
+                                                            "x": 173,
+                                                            "y": 333
+                                                        },
+                                                        {
+                                                            "x": 165,
+                                                            "y": 332
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    },
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "fr"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 159,
+                                    "y": 337
+                                },
+                                {
+                                    "x": 180,
+                                    "y": 337
+                                },
+                                {
+                                    "x": 180,
+                                    "y": 346
+                                },
+                                {
+                                    "x": 159,
+                                    "y": 346
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "fr"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 159,
+                                            "y": 337
+                                        },
+                                        {
+                                            "x": 180,
+                                            "y": 337
+                                        },
+                                        {
+                                            "x": 180,
+                                            "y": 346
+                                        },
+                                        {
+                                            "x": 159,
+                                            "y": 346
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "fr"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 159,
+                                                    "y": 337
+                                                },
+                                                {
+                                                    "x": 180,
+                                                    "y": 337
+                                                },
+                                                {
+                                                    "x": 180,
+                                                    "y": 346
+                                                },
+                                                {
+                                                    "x": 159,
+                                                    "y": 346
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 159,
+                                                            "y": 338
+                                                        },
+                                                        {
+                                                            "x": 163,
+                                                            "y": 338
+                                                        },
+                                                        {
+                                                            "x": 163,
+                                                            "y": 346
+                                                        },
+                                                        {
+                                                            "x": 159,
+                                                            "y": 346
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "L"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 165,
+                                                            "y": 337
+                                                        },
+                                                        {
+                                                            "x": 172,
+                                                            "y": 337
+                                                        },
+                                                        {
+                                                            "x": 172,
+                                                            "y": 346
+                                                        },
+                                                        {
+                                                            "x": 165,
+                                                            "y": 346
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "ca"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 173,
+                                                            "y": 337
+                                                        },
+                                                        {
+                                                            "x": 180,
+                                                            "y": 337
+                                                        },
+                                                        {
+                                                            "x": 180,
+                                                            "y": 346
+                                                        },
+                                                        {
+                                                            "x": 173,
+                                                            "y": 346
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "ARE\nNATO\nELS\nLES\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/0cqt90",
+                "score": 11.140499,
+                "description": "Donald Trump"
+            },
+            {
+                "entityId": "/m/02r330x",
+                "score": 1.0654501,
+                "description": "NATO summit"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.92625,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7203
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7203,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/060d2",
+                "score": 0.6817,
+                "description": "President of the United States"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.6392
+            },
+            {
+                "entityId": "/g/11b5t_qyd0",
+                "score": 0.5868,
+                "description": "NATO Headquarters"
+            },
+            {
+                "entityId": "/m/0gsgr",
+                "score": 0.5542,
+                "description": "CNN"
+            },
+            {
+                "entityId": "/m/05qbbhd",
+                "score": 0.4608,
+                "description": "Secretary General of NATO"
+            },
+            {
+                "entityId": "/m/011brg_r",
+                "score": 0.4601,
+                "description": "Member states of NATO"
+            },
+            {
+                "entityId": "/m/04c6s3",
+                "score": 0.4521,
+                "description": "Military budget"
+            },
+            {
+                "entityId": "/g/11hbnw9x68",
+                "score": 0.3992,
+                "description": "Stable Genius Act"
+            },
+            {
+                "entityId": "/m/07t58",
+                "score": 0.3731,
+                "description": "United States Senate"
+            },
+            {
+                "entityId": "/m/01b8g6",
+                "score": 0.062385,
+                "description": "Jens Stoltenberg"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/facc416b79ba1bba605a259de4f65e7c4c81925f/c=0-0-4787-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=534&height=401&fit=crop"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://media.spokesman.com/photos/2018/07/12/Belgium_NATO_Summit.JPG.jpg"
+            },
+            {
+                "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg"
+            },
+            {
+                "url": "https://static-40.sinclairstoryline.com/resources/media/8c287a5d-a0f0-444e-a1c2-e590d88ddfa8-AP18193381625126.jpg"
+            },
+            {
+                "url": "https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+            },
+            {
+                "url": "https://twt-media.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126.jpg"
+            },
+            {
+                "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/f95227b4842c75becd00d7bde25208a0c4317a51/c=0-276-5392-3322/local/-/media/2018/07/24/DetroitNews/DetroitNews/636680517001772231-AP-18193381625126.jpg?width=3200&height=1680&fit=crop"
+            },
+            {
+                "url": "https://media1.s-nbcnews.com/i/newscms/2018_28/2495136/180712-trump-nato-mc-1205_36ecf5162a6585515cdda19617d53a77.JPG"
+            },
+            {
+                "url": "https://img.projektn.sk/wp-static/2018/07/Belgium-NATO-Summit612757.jpg"
+            },
+            {
+                "url": "https://www.tagesspiegel.de/images/nato-gipfel/22794490/1-format43.jpg"
+            },
+            {
+                "url": "https://img.joj.sk/rx/dc78c8174d824865b78dc2ed935d4b9f.jpg"
+            },
+            {
+                "url": "https://twt-thumbs.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219"
+            },
+            {
+                "url": "https://www.washingtonpost.com/resizer/lteTpQbSvWsLDq0_-oAYgejENnQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ERLB3OZBWQ36BMNV3H6LZFQLL4.jpg"
+            },
+            {
+                "url": "https://bilder2.n-tv.de/img/incoming/origs20611401/0902532820-w1280-h960/AP-18193381625126.jpg"
+            },
+            {
+                "url": "https://images.nrc.nl/20eNkzir2-xkY0DZS7YNDF57rrk=/1280x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/07/b29b3d77-a6ec-4b97-972e-5a6d17cd87b9.jpg"
+            },
+            {
+                "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+            },
+            {
+                "url": "https://s.yimg.com/ny/api/res/1.2/KQ_fGeIHCtsIkhhIm.B_PQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+            },
+            {
+                "url": "https://evcnoticias.files.wordpress.com/2018/07/donald-trump-discurso-cnn.jpg?w=1200"
+            },
+            {
+                "url": "https://static.mk.ru/upload/entities/2018/07/12/articles/facebookPicture/58/0b/78/48/6b5c59f543a445016e6a1c135dbaad5a.jpg"
+            },
+            {
+                "url": "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/4/78/478f7a4e-f894-5a4d-bb98-f5f44938513f/5b7ac9b799993.image.jpg?resize=1200%2C800"
+            },
+            {
+                "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+            },
+            {
+                "url": "http://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/ZzoXZpra-IU/maxresdefault.jpg"
+            },
+            {
+                "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+            },
+            {
+                "url": "https://cdn.newsday.com/polopoly_fs/1.19786634.1531418753!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_w1200_r1_s.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_cx0_cy6_cw0_w1200_r1_s.jpg"
+            },
+            {
+                "url": "https://media.spokesman.com/photos/2018/07/12/Belgium_NATO_Summit.JPG_D8mfvOC_t1200.jpg?298603a24e8d51915fce203907ff2746e482a5a6"
+            },
+            {
+                "url": "https://static.politico.com/dims4/default/46c020b/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F59%2Fa9%2Fe0fbedeb41e9a0126f6a4c6f4223%2F180712-donald-trump-ap-1160.jpg"
+            },
+            {
+                "url": "https://media1.s-nbcnews.com/j/newscms/2018_28/2495136/180712-trump-nato-mc-1205_36ecf5162a6585515cdda19617d53a77.1024;768;7;70;3.JPG"
+            },
+            {
+                "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=1024&h=683"
+            },
+            {
+                "url": "https://img.nzz.ch/S=W1000/O=75/https://nzz-img.s3.amazonaws.com/2018/7/12/cd419d9c-27c2-4c0b-a199-c064a9ecfca6.jpeg"
+            },
+            {
+                "url": "https://rs.n1info.com/Picture/226566/jpeg/Tramp-NATO-FOTO-Tanjug-AP-Olivier-Matthys-1-.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Dh7hHd_X0AINgjd.jpg"
+            },
+            {
+                "url": "https://ee.usembassy.gov/wp-content/uploads/sites/207/summit1000.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_cx0_cy6_cw0_w1080_h608.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_cx0_cy5_cw0_w1080_h608.jpg"
+            },
+            {
+                "url": "https://america.cgtn.com/wp-content/uploads/2018/07/AP_18193381625126-960x641.jpg"
+            },
+            {
+                "url": "http://www.china50plus.com/wp-content/uploads/2018/09/4ffce04d92a4d6cb21c1494cdfcd6dc1915.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_cx0_cy6_cw0_w1023_r1_s.jpg"
+            },
+            {
+                "url": "http://5b0988e595225.cdn.sohucs.com/images/20180924/f1ce9b232467462992f430fb308907c1.jpeg"
+            },
+            {
+                "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_w1023_r1_s.jpg"
+            },
+            {
+                "url": "https://www.news247.gr/img/911/6632530/434000/tw1024/1024/trump120718.jpg"
+            },
+            {
+                "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=KuU3jNUK"
+            },
+            {
+                "url": "http://www.thestandard.com.hk/images/instant_news//20180712/20180712201327frontPhoto.jpeg"
+            },
+            {
+                "url": "https://img.nzz.ch/S=W750/O=75/https://nzz-img.s3.amazonaws.com/2018/7/12/cd419d9c-27c2-4c0b-a199-c064a9ecfca6.jpeg"
+            },
+            {
+                "url": "https://assets.realclear.com/images/45/454631_5_.jpg"
+            },
+            {
+                "url": "https://www.vnews.com/getattachment/79a6176b-e61d-4114-86c6-eee8db52dc9f/TrumpUKNATO-jd-vn-071318-ph03"
+            },
+            {
+                "url": "http://bbchausa.com.ng/wp-content/uploads/2018/07/220317AE-3BF5-40D0-9986-C9850357DF8D_w800_h450.jpg"
+            },
+            {
+                "url": "https://ee.usembassy.gov/wp-content/uploads/sites/207/summit1000-750x450.jpg"
+            },
+            {
+                "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64052624-434d-4b84-b824-89527c5e2c87&SiteName=Newsmax"
+            },
+            {
+                "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=640"
+            },
+            {
+                "url": "https://evcnoticias.files.wordpress.com/2018/07/donald-trump-discurso-cnn.jpg?w=640"
+            },
+            {
+                "url": "http://www.al-fikra.com/wp-content/uploads/2018/08/nato-trump-620x420.jpg"
+            },
+            {
+                "url": "https://dynamicmedia.zuza.com/zz/m/original_/9/8/98ce9403-fe11-4997-ba1c-79e270315660/B88284597Z.1_20180718142554_000_G4K8Q2US.3-0_Super_Portrait.jpg"
+            },
+            {
+                "url": "https://img.ksl.com/slc/2675/267564/26756422.jpg?filter=ksl/img614"
+            },
+            {
+                "url": "https://m.wsj.net/video/20180712/071218trumpnato/071218trumpnato_640x360.jpg"
+            },
+            {
+                "url": "https://cmgfeeds.cmgdigital.com/photo/2018/07/13/APTOPIX_Belgium_NATO_Summit_25126_12298103_ver1.0_640_360.jpg"
+            },
+            {
+                "url": "http://1y4yclbm79aqghpm1xoezrdw.wpengine.netdna-cdn.com/wp-content/uploads/2018/07/Donald-620-620x370.png"
+            },
+            {
+                "url": "http://mynorthwest.com/wp-content/uploads/2018/07/Donald-620.png"
+            },
+            {
+                "url": "https://img.projektn.sk/wp-static/2018/07/Belgium-NATO-Summit612757.jpg?w=586&h=0&fit=crop"
+            },
+            {
+                "url": "https://static.mk.ru/upload/entities/2018/07/12/articles/detailPicture/b3/15/5b/1e/9d7835739192535cd8511ead27b2f2b8.jpg"
+            },
+            {
+                "url": "https://media.townhall.com/townhall/reu/ha/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/03cf42f13222877ec678755d198f1282a35de9dd/c=605-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=534&height=401&fit=crop"
+            },
+            {
+                "url": "https://ekstrabladet.dk/incoming/o3im9k/7235391/IMAGE_ALTERNATES/relationBig/aptopix-belgium-nato-summit"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/f95227b4842c75becd00d7bde25208a0c4317a51/c=0-276-5392-3322/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=580&height=326&fit=crop"
+            },
+            {
+                "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=525"
+            },
+            {
+                "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=vXOtVJUu"
+            },
+            {
+                "url": "http://www.tampabay.com/storyimage/HI/20180713/AP/307139894/EP/1/3/EP-307139894.jpg"
+            },
+            {
+                "url": "http://www.msnbc.com/sites/msnbc/files/styles/large/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=-z5bOCXg"
+            },
+            {
+                "url": "https://www.tagesschau.de/multimedia/bilder/trump-1785~_v-videowebm.jpg"
+            },
+            {
+                "url": "https://da4pli3l5vc0d.cloudfront.net/73/73/737318fa5b3b626bc5c7bc901fab0ca2f247bee4/h=300/?app=portal&sig=51bb5d0af651d7aec4a10085af72a45b1861319cd3f8649845ba7095250d4d73"
+            },
+            {
+                "url": "https://m.wsj.net/video/20180712/071218trumpnato/071218trumpnato_16x9still.jpg"
+            },
+            {
+                "url": "https://static-19.sinclairstoryline.com/resources/media/8c287a5d-a0f0-444e-a1c2-e590d88ddfa8-smallScale_AP18193381625126.jpg?1531479250567"
+            },
+            {
+                "url": "https://evcnoticias.files.wordpress.com/2018/07/donald-trump-discurso-cnn.jpg?w=320&h=350&crop=1"
+            },
+            {
+                "url": "https://gdb.voanews.com/220317AE-3BF5-40D0-9986-C9850357DF8D_w408_r1_s.jpg"
+            },
+            {
+                "url": "http://www.al-fikra.com/wp-content/uploads/2018/08/nato-trump-360x248.jpg"
+            },
+            {
+                "url": "https://www.mydaytondailynews.com/rf/image_inline/Wires/w2/AP_Top_News_International_Stories/2018/07/12/Images/877a71852f804ec6a2b337ef7a72a37d.jpg"
+            },
+            {
+                "url": "https://img.projektn.sk/wp-static/2018/07/Belgium-NATO-Summit612757.jpg?w=360&h=200&fit=crop"
+            },
+            {
+                "url": "https://images.nrc.nl/8pLbTBCmRMGLq78JNF41dGqf8xM=/320x/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2018/07/b29b3d77-a6ec-4b97-972e-5a6d17cd87b9.jpg"
+            },
+            {
+                "url": "https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://i.ytimg.com/vi/X0xQMC-QeDo/mqdefault.jpg"
+            },
+            {
+                "url": "https://www.tagesspiegel.de/images/nato-gipfel/22794490/1-format3010.jpg"
+            },
+            {
+                "url": "http://www.witf.org/news/assets_c/2018/07/president_donald_trump_NATO-thumb-280xauto-39326.jpg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=210&height=230&fit=crop"
+            },
+            {
+                "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--250x168/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=G69KKiXg"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=200&height=200&fit=crop"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/24/DetroitNews/DetroitNews/636680517001772231-AP-18193381625126.jpg?width=200&height=200&fit=crop"
+            },
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/3522dea4359ecfdf67fd9124a32879fbb6953924/c=1620-0-5219-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=200&height=200&fit=crop"
+            },
+            {
+                "url": "https://img.nzz.ch/S=W240/O=75/https://nzz-img.s3.amazonaws.com/2018/7/12/cd419d9c-27c2-4c0b-a199-c064a9ecfca6.jpeg"
+            },
+            {
+                "url": "https://reportersbd.com/wp-content/uploads/2018/07/i-201807130917-218x150.jpg"
+            },
+            {
+                "url": "https://www.tagesspiegel.de/images/nato-gipfel/22794490/1-format2.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.cnn.com/videos/politics/2018/07/13/trump-nato-press-conference-claims-fact-check-orig.cnn",
+                "pageTitle": "Fact-checking <b>Trump&#39;s NATO</b> claims - CNN Video - CNN.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.washingtonpost.com/blogs/plum-line/wp/2018/07/12/trumps-latest-lie-at-nato-blows-up-his-idea-of-winning/",
+                "pageTitle": "<b>Trump&#39;s</b> latest lie at <b>NATO</b> blows up his idea of &#39;winning&#39; - The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.washingtonpost.com/resizer/lteTpQbSvWsLDq0_-oAYgejENnQ=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ERLB3OZBWQ36BMNV3H6LZFQLL4.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.usatoday.com/story/news/politics/2018/07/12/nato-holds-emergency-session-trump-makes-threats/778015002/",
+                "pageTitle": "Donald <b>Trump</b> claims victory at tumultuous <b>NATO</b> summit - USA Today",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/facc416b79ba1bba605a259de4f65e7c4c81925f/c=0-0-4787-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=534&height=401&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=200&height=200&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.nbcnews.com/politics/donald-trump/pentagon-goes-damage-control-mode-reassure-nato-allies-n891096",
+                "pageTitle": "Pentagon goes into &#39;damage control&#39; mode to reassure <b>NATO</b> allies",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media1.s-nbcnews.com/j/newscms/2018_28/2495136/180712-trump-nato-mc-1205_36ecf5162a6585515cdda19617d53a77.1024;768;7;70;3.JPG"
+                    },
+                    {
+                        "url": "https://media1.s-nbcnews.com/i/newscms/2018_28/2495136/180712-trump-nato-mc-1205_36ecf5162a6585515cdda19617d53a77.JPG"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.news.com.au/finance/work/leaders/this-photo-perfectly-sums-up-the-nato-summit/news-story/1a1196896128ca163811b1b0cd4ca356",
+                "pageTitle": "Donald <b>Trump</b>: <b>NATO</b> summit captured in one photo - News.com.au",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cnn.com/videos/politics/2018/07/12/trump-speaks-after-nato-summit-stable-genius-newday-vpx.cnn",
+                "pageTitle": "<b>Trump</b> to reporter: I&#39;m a very stable genius - CNN Video - CNN.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.msnbc.com/rachel-maddow-show/trump-boasts-about-nato-commitments-dont-appear-exist",
+                "pageTitle": "<b>Trump</b> boasts about <b>NATO</b> commitments that don&#39;t appear to exist ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=KuU3jNUK"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/large/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=-z5bOCXg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.msnbc.com/rachel-maddow-show/trumps-new-criticisms-nato-dont-make-any-sense",
+                "pageTitle": "<b>Trump&#39;s</b> new criticisms of <b>NATO</b> don&#39;t make any sense | MSNBC",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=KuU3jNUK"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=vXOtVJUu"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/large/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=-z5bOCXg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ee.usembassy.gov/remarks-by-president-nato-summit/",
+                "pageTitle": "Remarks by President <b>Trump</b> at Press Conference After <b>NATO</b> Summit",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ee.usembassy.gov/wp-content/uploads/sites/207/summit1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.voanews.com/a/trump-s-claim-that-nato-will-boost-defense-spending-disputed/4479603.html",
+                "pageTitle": "<b>Trump&#39;s</b> Claim That <b>NATO</b> Will Boost Defense Spending Disputed",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_cx0_cy5_cw0_w1080_h608.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.spokesman.com/stories/2018/jul/12/trumps-claim-that-nato-will-boost-defense-spending/",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed | The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.spokesman.com/photos/2018/07/12/Belgium_NATO_Summit.JPG_D8mfvOC_t1200.jpg?298603a24e8d51915fce203907ff2746e482a5a6"
+                    },
+                    {
+                        "url": "https://media.spokesman.com/photos/2018/07/12/Belgium_NATO_Summit.JPG.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.rgj.com/story/opinion/columnists/2018/07/18/president-trump-right-nato-wrong-putin-sam-kumar/798597002/",
+                "pageTitle": "President <b>Trump</b> is right on <b>NATO</b>, wrong on Putin: Sam Kumar",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/03cf42f13222877ec678755d198f1282a35de9dd/c=605-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=534&height=401&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/3522dea4359ecfdf67fd9124a32879fbb6953924/c=1620-0-5219-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=200&height=200&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.clarionledger.com/story/opinion/columnists/2018/07/12/donald-trump-right-question-nato/779661002/",
+                "pageTitle": "Donald <b>Trump</b> is right to question <b>NATO</b> - The Clarion-Ledger",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/facc416b79ba1bba605a259de4f65e7c4c81925f/c=0-0-4787-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=534&height=401&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=200&height=200&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://townhall.com/tipsheet/leahbarkoukis/2018/07/12/trump-nato-n2499652",
+                "pageTitle": "<b>Trump</b> Tells Reporters He&#39;s a &#39;Very Stable Genius,&#39; Declares <b>NATO</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.townhall.com/townhall/reu/ha/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.msnbc.com/rachel-maddow-show/trump-questions-value-the-nato-alliances-core-principle",
+                "pageTitle": "<b>Trump</b> questions value of the <b>NATO</b> alliance&#39;s core principle | MSNBC",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=KuU3jNUK"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=vXOtVJUu"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/large/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=-z5bOCXg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.concordmonitor.com/After-NATO-chaos-Trump-met-by-protest-pomp-in-Britain-18801841",
+                "pageTitle": "<b>Trump</b> met by protest, pomp in Britain after <b>NATO</b> meetings",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.concordmonitor.com/getattachment/670d78de-68c1-428a-8605-fee96a0d8a7a/TrumpNATO-ph03"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.theaustralian.com.au/news/world/nato-fends-off-trump-demands-on-defence-spending/news-story/92cc6ef1a0c2a96bac7b9594de2344b8",
+                "pageTitle": "<b>Trump&#39;s</b> defence spending demand shocks <b>NATO</b> - The Australian",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    },
+                    {
+                        "url": "http://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tampabay.com/rattling-nato-trump-attacks-another-nations-ties-to-russia-ap_national191883cbd468439499c495b0410ac3a2",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.tampabay.com/storyimage/HI/20180712/AP/307129930/EP/1/1/EP-307129930.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.wsj.com/video/trump-says-us-commitment-to-nato-is-very-strong/8B397A01-0AEC-4269-B5E3-0C6ABFA4D5A7.html",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39;",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://m.wsj.net/video/20180712/071218trumpnato/071218trumpnato_640x360.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.msnbc.com/rachel-maddow-show/trump-blasts-nato-senators-both-parties-do-damage-control",
+                "pageTitle": "As <b>Trump</b> blasts <b>NATO</b>, senators from both parties do damage ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--830x553/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=KuU3jNUK"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/ratio--3-2--512x342/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=vXOtVJUu"
+                    },
+                    {
+                        "url": "http://www.msnbc.com/sites/msnbc/files/styles/large/public/aptopix_belgium_nato_summit_25126.jpg-2a37d.jpg?itok=-z5bOCXg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsday.com/opinion/commentary/trump-putin-nato-1.19786635",
+                "pageTitle": "<b>Trump</b> does Putin&#39;s dirty work at <b>NATO</b> summit | Newsday",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsday.com/polopoly_fs/1.19786634.1531418753!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.witf.org/news/2018/07/president-trump-back-at-nato-after-rattling-allies-condemning-germany.php",
+                "pageTitle": "President <b>Trump</b> back at <b>NATO</b> after rattling allies, condemning ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.witf.org/news/assets_c/2018/07/president_donald_trump_NATO-thumb-280xauto-39326.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tampabay.com/trumps-claims-progress-at-nato-but-specifics-scant-ap_world191883cbd468439499c495b0410ac3a2",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.tampabay.com/storyimage/HI/20180712/AP/307129926/EP/1/1/EP-307129926.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.theaustralian.com.au/news/world/why-the-nato-summit-was-donald-trumps-worst-international-performance-as-president/news-story/a94830f5fdb3c8293c70166954bed6fc",
+                "pageTitle": "Why the <b>NATO</b> summit was Donald <b>Trump&#39;s</b> worst international ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "http://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tampabay.com/trumps-claim-that-nato-will-boost-defense-spending-disputed-ap_world191883cbd468439499c495b0410ac3a2",
+                "pageTitle": "Rattling <b>NATO</b>, <b>Trump</b> attacks another nation&#39;s ties to Russia",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.tampabay.com/storyimage/HI/20180712/AP/307129926/EP/1/1/EP-307129926.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.tampabay.com/trump-dishes-up-fresh-dose-of-chaos-aimed-at-may-londoners-ap_national191883cbd468439499c495b0410ac3a2",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.tampabay.com/storyimage/HI/20180712/AP/307129930/EP/1/1/EP-307129930.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.washingtontimes.com/news/2018/jul/12/trumps-claims-progress-at-nato-but-specifics-scant/",
+                "pageTitle": "<b>Trump&#39;s</b> claims progress at <b>NATO</b> but specifics scant - Washington ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://twt-media.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126.jpg"
+                    },
+                    {
+                        "url": "https://twt-thumbs.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.yahoo.com/news/rattling-nato-trump-attacks-another-042811916.html",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    },
+                    {
+                        "url": "https://s.yimg.com/ny/api/res/1.2/KQ_fGeIHCtsIkhhIm.B_PQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.washingtontimes.com/news/2018/jul/13/pentagon-doing-damage-control-after-nato-summit-re/",
+                "pageTitle": "Pentagon doing &#39;damage control&#39; after <b>NATO</b> summit: Report ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://twt-media.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126.jpg"
+                    },
+                    {
+                        "url": "https://twt-thumbs.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126_s2048x1366.jpg?c33dbafc5dce9b4912eaa4af7b06a97f0e06f219"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.usatoday.com/story/news/politics/onpolitics/2018/07/12/donald-trumps-defense-spending-exaggerations-fact-check/779303002/",
+                "pageTitle": "Donald <b>Trump&#39;s</b> defense spending exaggerations: Fact check",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/f95227b4842c75becd00d7bde25208a0c4317a51/c=0-276-5392-3322/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=580&height=326&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/f78a628af31b17e9a4ee432fd5e451db794ed040/c=1793-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=200&height=200&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://jameslongrealestate.com/videos/world/2018/07/12/trump-putin-remarks-after-nato-summit-vpx.cnn/video/playlists/trump-and-nato/",
+                "pageTitle": "<b>Trump</b> explains what he thinks of Putin - CNN Video",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsmax.com/politics/donald-trump-nato-defense-spending-russia/2018/07/12/id/871316/",
+                "pageTitle": "<b>Trump&#39;s</b> Claim That <b>NATO</b> Will Boost Defense Spending Disputed ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64052624-434d-4b84-b824-89527c5e2c87&SiteName=Newsmax"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.springfieldnewssun.com/news/world/trump-claim-that-nato-will-boost-defense-spending-disputed/lrWqHyvgOOjIUiIhT5zI9I/",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.springfieldnewssun.com/rf/image_inline/Wires/w2/AP_Top_News_International_Stories/2018/07/12/Images/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.washingtontimes.com/news/2018/jul/12/trumps-claims-progress-at-nato-but-specifics-scant/",
+                "pageTitle": "<b>Trump&#39;s</b> claims progress at <b>NATO</b> but specifics scant - Washington ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://twt-media.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.allsides.com/news/2018-07-12-0739/trump-reaffirms-commitment-nato-after-strained-emergency-meeting",
+                "pageTitle": "<b>Trump</b> Reaffirms Commitment to <b>NATO</b> After Strained Emergency ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://m.wsj.net/video/20180712/071218trumpnato/071218trumpnato_16x9still.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://wben.radio.com/articles/ap-news/trumps-claim-nato-will-boost-defense-spending-disputed-0",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3.amazonaws.com/s3.wben.com/ap/jpg/2018/201807/12/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dailytelegraph.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsmax.com/politics/iran-nuclear-deal-donald-trump-nato/2018/07/12/id/871361/",
+                "pageTitle": "<b>Trump</b> Says There &#39;Might Be an Escalation&#39; Between US, Iran ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=ca3f962f-4a80-4f68-b590-9c23d0757bd8&SiteName=Newsmax"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.heraldsun.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | Herald Sun",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cnn.com/videos/politics/2018/07/20/dnc-server-email-hack-trump-fact-check-orig.cnn",
+                "pageTitle": "Fact-checking <b>Trump&#39;s</b> DNC server claims - CNN Video - CNN.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.recorder.com/Trump-dishes-up-fresh-dose-of-chaos-aimed-at-May-Londoners-18804676",
+                "pageTitle": "The Recorder - <b>Trump</b> dishes up dose of chaos aimed at May, London",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.recorder.com/getattachment/7641387a-222c-4b63-a2ab-496ecbf8703a/APPeter-london-chump-ph03"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.cnn.com/videos/politics/2017/02/28/donald-trump-congress-address-nato-my-job-bts.cnn/video/playlists/trump-and-nato/",
+                "pageTitle": "<b>Trump</b>: My job is not to represent the world - CNN Video - CNN.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.cnn.com/cnnnext/dam/assets/180712115550-08-nato-0712-trump-presser.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.themercury.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | The Mercury",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.voahausa.com/a/shugaban-amurka-yayi-barazanar-fitarda-amurka-daga-rudunar-tsaron-turai-nato/4479913.html",
+                "pageTitle": "<b>Trump</b> Ya Yi Nasara a Taron <b>NATO</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.voanews.com/220317AE-3BF5-40D0-9986-C9850357DF8D_w408_r1_s.jpg"
+                    },
+                    {
+                        "url": "https://gdb.voanews.com/220317AE-3BF5-40D0-9986-C9850357DF8D_w1200_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.themercury.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.spokesman.com/stories/2018/jul/12/trumps-claim-that-nato-will-boost-defense-spending/comments/",
+                "pageTitle": "<b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.spokesman.com/photos/2018/07/12/Belgium_NATO_Summit.JPG_D8mfvOC_t1200.jpg?298603a24e8d51915fce203907ff2746e482a5a6"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ocregister.com/2018/07/19/it-is-time-to-rethink-the-nato-alliance/",
+                "pageTitle": "It is time to rethink the <b>NATO</b> alliance \u2013 Orange County Register",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg"
+                    },
+                    {
+                        "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=1024&h=683"
+                    },
+                    {
+                        "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=525"
+                    },
+                    {
+                        "url": "https://www.ocregister.com/wp-content/uploads/2018/07/AP_18193381625126-1.jpg?w=640"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vnews.com/After-NATO-chaos-Trump-met-by-protest-pomp-in-Britain-18803063",
+                "pageTitle": "Valley News - <b>Trump</b> Arrives in UK Amid Protests",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vnews.com/getattachment/79a6176b-e61d-4114-86c6-eee8db52dc9f/TrumpUKNATO-jd-vn-071318-ph03"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ksl.com/?sid=46359103&nid=757",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ksl.com/slc/2675/267551/26755183.jpg?filter=ksl/img614"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.heraldsun.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dailytelegraph.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | Daily ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thereporteronline.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_180ecbe0-4879-59f6-8ca3-322c9ff5596c.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/thereporteronline.com/content/tncms/assets/v3/editorial/4/78/478f7a4e-f894-5a4d-bb98-f5f44938513f/5b7ac9b799993.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ntnews.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.timesherald.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_70e35546-faeb-5c52-a534-45226cf2068f.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/timesherald.com/content/tncms/assets/v3/editorial/e/5b/e5b27b26-552a-5196-8bfc-09c911959aa0/5b7acd7f1b04e.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.goldcoastbulletin.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | Gold Coast ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.khilafah.com/qa-trump-and-the-north-atlantic-treaty-organization-nato-summit/",
+                "pageTitle": "Q&amp;A: <b>Trump</b> and the <b>NATO</b> Summit | Khilafah.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.khilafah.com/wp-content/uploads/2018/07/nato-trump.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.trentonian.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_f96d2080-8af1-5b25-905d-95c89e4e1b04.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/trentonian.com/content/tncms/assets/v3/editorial/6/13/6133e68b-fecc-511a-894c-f224b177e936/5b7c62d0064d7.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.ntnews.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | NT News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.townsvillebulletin.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | Townsville ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.witf.org/news/2018/07/president-trump-brings-his-chaotic-road-show-to-britain.php",
+                "pageTitle": "President <b>Trump</b> brings his chaotic road show to Britain | News | witf ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.witf.org/news/assets_c/2018/07/president_donald_trump_NATO-thumb-280xauto-39326.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.townsvillebulletin.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.adelaidenow.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | The Advertiser",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.dailylocal.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_29685d03-2b8f-5730-855d-ade88befd91a.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/1/c6/1c6cfea7-ec45-5e8d-85c7-cf2fcc7903b8/5b7c927d472f0.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.geelongadvertiser.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://asiancampustribune.com/2018/07/ap-trumps-claim-that-nato-will-boost-defense-spending-disputed/",
+                "pageTitle": "AP: <b>Trump&#39;s</b> claim that <b>NATO</b> will boost defense spending disputed ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://asiancampustribune.com/wp-content/uploads/2018/07/800fghjt.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.delcotimes.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_4fc65958-ed8b-5512-b7c1-d6ddf9c31f91.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/delcotimes.com/content/tncms/assets/v3/editorial/f/98/f9893fd5-ff9e-52e6-9846-4934739f5594/5b7c565587bfe.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.sentinelcolorado.com/1gridcontlworld/after-nato-chaos-trump-met-by-protest-pomp-in-britain/",
+                "pageTitle": "After <b>NATO</b> chaos, <b>Trump</b> met by protest, pomp in Britain - Sentinel ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.sentinelcolorado.com/2018/07/12154258/AP181933816251262.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cairnspost.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | The Cairns ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.cairnspost.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.adelaidenow.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://drakeinthemorning.com/president-trump-claims-victory-at-tumultuous-nato-summit-shifts-tone-after-lashing-out-at-allies/",
+                "pageTitle": "President <b>Trump</b> claims victory at tumultuous <b>NATO</b> summit, shifts ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://drakeinthemorning.com/wp-content/uploads/2018/07/Nato-summit.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.couriermail.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | The Courier ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thedailyjournal.com/story/opinion/readers/2018/07/19/nato-nations-need-contribute-more-money/800672002/",
+                "pageTitle": "<b>NATO</b> nations need to contribute more money - The Daily Journal",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/03cf42f13222877ec678755d198f1282a35de9dd/c=605-0-5392-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=534&height=401&fit=crop"
+                    },
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/3522dea4359ecfdf67fd9124a32879fbb6953924/c=1620-0-5219-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636670323861715922-677.jpg?width=200&height=200&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://m.washingtontimes.com/news/2018/jul/13/pentagon-doing-damage-control-after-nato-summit-re/",
+                "pageTitle": "Pentagon doing &#39;damage control&#39; after <b>NATO</b> summit: Report ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://twt-media.washtimes.com/media/image/2018/07/12/aptopix_belgium_nato_summit_25126.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pottsmerc.com/news/trump-pulls-diplomatic-backflip-praising-may-after-barbs/article_b1cf3da0-387f-595f-b6b7-199b8881a123.html",
+                "pageTitle": "<b>Trump</b> pulls diplomatic backflip, praising May after barbs | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.chicago2.vip.townnews.com/pottsmerc.com/content/tncms/assets/v3/editorial/7/8c/78cf0bd1-266a-503e-8978-b117c3309040/5b7d79ed82626.image.jpg?resize=1200%2C800"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.news.com.au/video/id-5348771529001-5808487994001/Trump-Says-U-S--Commitment-to-NATO-Is--Very-Strong-",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; - News.com.au",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://nws-vimg-prod.akamaized.net/5348771529001/201807/5348771529001_5808465238001_5808487994001-vs.jpg?pubId=5348771529001"
+                    },
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.news.com.au/video/id-5348771529001-5808593713001/Trump-claims-personal-victory-on-defence-spending-at-NATO-summit",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.weeklytimesnow.com.au/news/world/trump-says-us-commitment-to-nato-is-very-strong/video/a3fe4403e76034e337dfdd893c3ac936",
+                "pageTitle": "<b>Trump</b> Says U.S. Commitment to <b>NATO</b> Is &#39;Very Strong&#39; | The Weekly ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/86e3991b1fb42d30c4507f517c0e68cd"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newzcliq.com/donald-trump-claims-victory-at-tumultuous-nato-summit/",
+                "pageTitle": "Donald <b>Trump</b> claims victory at tumultuous <b>NATO</b> summit - NewzCliq ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.gannett-cdn.com/-mm-/facc416b79ba1bba605a259de4f65e7c4c81925f/c=0-0-4787-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=534&height=401&fit=crop"
+                    }
+                ]
+            },
+            {
+                "url": "https://ee.usembassy.gov/remarks-by-president-nato-summit/aptopix-belgium-nato-summit/",
+                "pageTitle": "APTOPIX Belgium <b>NATO</b> Summit | U.S. Embassy in Estonia",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ee.usembassy.gov/wp-content/uploads/sites/207/summit1000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.politico.com/story/2018/07/12/donald-trump-kim-jong-un-letter-715383",
+                "pageTitle": "<b>Trump</b> releases flattering letter from Kim amid signs of North Korea ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://static.politico.com/dims4/default/46c020b/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F59%2Fa9%2Fe0fbedeb41e9a0126f6a4c6f4223%2F180712-donald-trump-ap-1160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.couriermail.com.au/news/world/us-president-donald-trump-has-claimed-a-personal-victory-at-the-nato-summit-after-telling-european-allies-they-must-spend-more-on-defence/video/3e804708ccfd864ae81bce76c3dbab1e",
+                "pageTitle": "<b>Trump</b> claims personal victory on defence spending at <b>NATO</b> summit ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.newsapi.com.au/image/v1/912b299688d228c715c0f7267880e11a"
+                    }
+                ]
+            },
+            {
+                "url": "https://989theanswer.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ksl.com/?sid=46359103&nid=757&title=trump-dishes-up-fresh-dose-of-chaos-aimed-at-may-londoners",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ksl.com/slc/2675/267551/26755183.jpg?filter=ksl/img614"
+                    }
+                ]
+            },
+            {
+                "url": "https://uk.news.yahoo.com/rattling-nato-trump-attacks-another-042811916.html",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sg.news.yahoo.com/rattling-nato-trump-attacks-another-042811916.html",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.yimg.com/ny/api/res/1.2/KQ_fGeIHCtsIkhhIm.B_PQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTQuNA--/https://s.yimg.com/uu/api/res/1.2/Z060SON4ZVzPP_Y9.PuWYA--~B/aD0zNTk5O3c9NTM5NDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.voanews.com/a/montenegro-says-it-embraces-peace-and-stability/4489262.html",
+                "pageTitle": "Montenegro Says it Embraces Peace and Stability - VOA News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_w1023_r1_s.jpg"
+                    },
+                    {
+                        "url": "https://gdb.voanews.com/C603894E-0BA8-49CD-A26C-85F1AC148BE7_w1200_r1_s.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://kdow.biz/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.witf.org/mt/mt-search.cgi?IncludeBlogs=76&tag=europe%20theresa%20may&limit=20",
+                "pageTitle": "Search Results | witf.org",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.witf.org/news/assets_c/2018/07/president_donald_trump_NATO-thumb-280xauto-39326.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mydaytondailynews.com/news/world/after-nato-chaos-trump-met-protest-pomp-britain/lrWqHyvgOOjIUiIhT5zI9I/",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.mydaytondailynews.com/rf/image_inline/Wires/w2/AP_Top_News_International_Stories/2018/07/12/Images/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://cincinnatibell.net/news/read/category/political/article/the_associated_press-rattling_nato_trump_attacks_another_nations_ties_t-ap",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://da4pli3l5vc0d.cloudfront.net/73/73/737318fa5b3b626bc5c7bc901fab0ca2f247bee4/h=300/?app=portal&sig=51bb5d0af651d7aec4a10085af72a45b1861319cd3f8649845ba7095250d4d73"
+                    }
+                ]
+            },
+            {
+                "url": "https://710knus.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners | 710 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twincitiesbusinessradio.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners | AM ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ksl.com/?sid=46359949&nid=757",
+                "pageTitle": "Protests, diplomatic backflips mark <b>Trump&#39;s</b> visit to England | KSL.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://img.ksl.com/slc/2675/267562/26756266.jpg?filter=ksl/img614"
+                    }
+                ]
+            },
+            {
+                "url": "http://am1380theanswer.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners - Ktkz",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.springfieldnewssun.com/news/national-govt--politics/trump-dishes-fresh-dose-chaos-aimed-may-londoners/pbNMCFAruWA7uD8k3f0jYI/",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.springfieldnewssun.com/rf/image_inline/Wires/w2/AP_Top_News_Politics_Stories/2018/07/12/Images/877a71852f804ec6a2b337ef7a72a37d.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.thespec.com/opinion-story/8749370-donald-trump-is-russia-s-man/",
+                "pageTitle": "Opinion | Donald <b>Trump</b> is Russia&#39;s man | TheSpec.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://dynamicmedia.zuza.com/zz/m/original_/9/8/98ce9403-fe11-4997-ba1c-79e270315660/B88284597Z.1_20180718142554_000_G4K8Q2US.3-0_Super_Portrait.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://945theanswer.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners | The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://theanswersandiego.com/news/world/rattling-nato-trump-attacks-another-nations-ties-to-russia",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners | The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn.saleminteractivemedia.com/associated-press/data/photos/2018/193/75939d88-f8f9-4512-ac40-aa7e8f7377b9.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mylonglines.com/news/read/category/Europe%20News/article/the_associated_press-rattling_nato_trump_attacks_another_nations_ties_t-ap",
+                "pageTitle": "<b>Trump</b> dishes up fresh dose of chaos aimed at May, Londoners ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://da4pli3l5vc0d.cloudfront.net/73/73/737318fa5b3b626bc5c7bc901fab0ca2f247bee4/h=300/?app=portal&sig=51bb5d0af651d7aec4a10085af72a45b1861319cd3f8649845ba7095250d4d73"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.gannett-cdn.com/-mm-/facc416b79ba1bba605a259de4f65e7c4c81925f/c=0-0-4787-3599/local/-/media/2018/07/12/USATODAY/USATODAY/636669793823964740-AP-Belgium-NATO-Summit-101421353.JPG?width=534&height=401&fit=crop"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/139/590x/donald-trump-nato-summit-988964.jpg?r=1532511948432"
+            },
+            {
+                "url": "http://blackchristiannews.com/wp-content/uploads/2018/07/trump-clear-impact-nato.jpg"
+            },
+            {
+                "url": "https://www.ncronline.org/sites/default/files/styles/article_full_width/public/20180712T1620-0600-CNS-BELGIUM-NATO%20crop2.jpg?itok=3uy3FMCL"
+            },
+            {
+                "url": "https://theconservativetreehouse.files.wordpress.com/2018/07/trump-nato-speech-1.jpg"
+            },
+            {
+                "url": "https://media4.s-nbcnews.com/i/MSNBC/Components/Video/201807/nbc_spec_trump_nato_presser_180712_1920x1080.jpg"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/donald-trump-nato-summit-defence-spending-target-988231.jpg?r=1532536066455"
+            },
+            {
+                "url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/trump-nato-summit-2018-live-today-latest-news-nato-countries-defence-budget-merkel-may-987687.jpg?r=1532586596595"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "trump nato",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.96969664,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.99770075,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.99770075,
+                        "y": 0.984264
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.984264
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.84120935,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.99770075,
+                        "y": 0.1357359
+                    },
+                    {
+                        "x": 0.99770075,
+                        "y": 0.984264
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.984264
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01rkbr",
+            "name": "Tie",
+            "score": 0.83616686,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8093573,
+                        "y": 0.47652936
+                    },
+                    {
+                        "x": 0.9020731,
+                        "y": 0.47652936
+                    },
+                    {
+                        "x": 0.9020731,
+                        "y": 0.76129115
+                    },
+                    {
+                        "x": 0.8093573,
+                        "y": 0.76129115
+                    }
+                ]
+            }
+        }
+    ]
+}

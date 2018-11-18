@@ -1,0 +1,1662 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 130
+                    },
+                    {
+                        "x": 299
+                    },
+                    {
+                        "x": 299,
+                        "y": 193
+                    },
+                    {
+                        "x": 130,
+                        "y": 193
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 146,
+                        "y": 9
+                    },
+                    {
+                        "x": 291,
+                        "y": 9
+                    },
+                    {
+                        "x": 291,
+                        "y": 153
+                    },
+                    {
+                        "x": 146,
+                        "y": 153
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 187.01328,
+                        "y": 50.593117,
+                        "z": -0.0007829236
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 246.54472,
+                        "y": 49.832867,
+                        "z": -25.932926
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 170.00229,
+                        "y": 35.883083,
+                        "z": 15.961372
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 197.60184,
+                        "y": 33.886307,
+                        "z": -16.261389
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 226.31946,
+                        "y": 34.315887,
+                        "z": -28.922846
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 269.61395,
+                        "y": 38.723694,
+                        "z": -27.421486
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 210.73337,
+                        "y": 47.59581,
+                        "z": -24.90699
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 201.53178,
+                        "y": 81.148445,
+                        "z": -45.944405
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 205.62361,
+                        "y": 108.05846,
+                        "z": -34.87326
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 206.34645,
+                        "y": 130.2672,
+                        "z": -32.90195
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 189.27556,
+                        "y": 119.473015,
+                        "z": -10.207873
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 234.25949,
+                        "y": 120.43758,
+                        "z": -30.405571
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 206.68257,
+                        "y": 118.27776,
+                        "z": -31.539589
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 224.299,
+                        "y": 89.67585,
+                        "z": -31.094707
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 194.17436,
+                        "y": 90.5993,
+                        "z": -16.924847
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 205.68259,
+                        "y": 92.480156,
+                        "z": -33.63083
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 185.02023,
+                        "y": 45.65116,
+                        "z": -3.2333508
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 198.86179,
+                        "y": 51.875977,
+                        "z": -4.927152
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 186.0767,
+                        "y": 55.02225,
+                        "z": -0.73898095
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 177.09491,
+                        "y": 51.369526,
+                        "z": 10.762265
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 184.89644,
+                        "y": 50.46987,
+                        "z": -0.724707
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 244.18663,
+                        "y": 46.53866,
+                        "z": -29.25539
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 258.6435,
+                        "y": 51.82372,
+                        "z": -25.582144
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 245.83267,
+                        "y": 55.87937,
+                        "z": -26.76388
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 234.03596,
+                        "y": 51.96496,
+                        "z": -20.409508
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 245.57726,
+                        "y": 51.362045,
+                        "z": -27.519566
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 182.35353,
+                        "y": 26.60899,
+                        "z": -3.0532618
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 246.53098,
+                        "y": 27.610352,
+                        "z": -31.300123
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 178.68541,
+                        "y": 91.389656,
+                        "z": 85.7286
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 312.82327,
+                        "y": 93.3434,
+                        "z": 26.68967
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 211.01566,
+                        "y": 33.073803,
+                        "z": -24.69969
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 207.90236,
+                        "y": 159.88353,
+                        "z": -27.585455
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 172.11539,
+                        "y": 129.05417,
+                        "z": 53.628345
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 291.77783,
+                        "y": 129.06529,
+                        "z": 1.0194819
+                    }
+                }
+            ],
+            "rollAngle": 3.5778253,
+            "panAngle": -23.888012,
+            "tiltAngle": 6.1515512,
+            "detectionConfidence": 0.956617,
+            "landmarkingConfidence": 0.45829543,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        },
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 33,
+                        "y": 39
+                    },
+                    {
+                        "x": 180,
+                        "y": 39
+                    },
+                    {
+                        "x": 180,
+                        "y": 193
+                    },
+                    {
+                        "x": 33,
+                        "y": 193
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 43,
+                        "y": 60
+                    },
+                    {
+                        "x": 173,
+                        "y": 60
+                    },
+                    {
+                        "x": 173,
+                        "y": 190
+                    },
+                    {
+                        "x": 43,
+                        "y": 190
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 105.52729,
+                        "y": 105.209854,
+                        "z": -1.1581821e-5
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 146.10211,
+                        "y": 105.51633,
+                        "z": 27.308788
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 93.759315,
+                        "y": 95.657745,
+                        "z": -0.5998457
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 121.99094,
+                        "y": 92.63632,
+                        "z": 4.400229
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 139.4452,
+                        "y": 93.31913,
+                        "z": 16.509007
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 153.72403,
+                        "y": 98.09061,
+                        "z": 41.127605
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 132.66771,
+                        "y": 101.75068,
+                        "z": 7.506989
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 144.56308,
+                        "y": 121.44156,
+                        "z": -9.248107
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 139.97638,
+                        "y": 140.09938,
+                        "z": -5.2716513
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 140.04124,
+                        "y": 155.24255,
+                        "z": -6.673891
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 120.16028,
+                        "y": 148.982,
+                        "z": -7.4993277
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 147.88712,
+                        "y": 149.66357,
+                        "z": 12.195762
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 138.91713,
+                        "y": 147.4489,
+                        "z": -4.4767447
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 146.41396,
+                        "y": 129.42969,
+                        "z": 10.992822
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 125.706635,
+                        "y": 128.88052,
+                        "z": -3.36837
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 139.26465,
+                        "y": 130.20569,
+                        "z": -2.9106913
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 110.64079,
+                        "y": 101.03627,
+                        "z": 0.37491512
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 115.96037,
+                        "y": 105.05385,
+                        "z": 6.86824
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 106.98754,
+                        "y": 108.800354,
+                        "z": 0.34951618
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 99.1071,
+                        "y": 105.85594,
+                        "z": -0.042395256
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 109.62704,
+                        "y": 104.40876,
+                        "z": 0.6468331
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 146.65662,
+                        "y": 102.47464,
+                        "z": 25.329344
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 150.3877,
+                        "y": 107.86066,
+                        "z": 35.009277
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 147.42662,
+                        "y": 109.15664,
+                        "z": 25.95348
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 139.25064,
+                        "y": 106.50377,
+                        "z": 22.14202
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 146.51756,
+                        "y": 105.89578,
+                        "z": 26.206942
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 108.69237,
+                        "y": 88.17078,
+                        "z": 0.94496655
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 147.60274,
+                        "y": 89.75478,
+                        "z": 28.018366
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 57.257664,
+                        "y": 140.8648,
+                        "z": 22.992298
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 141.46834,
+                        "y": 143.59918,
+                        "z": 79.52484
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 131.65147,
+                        "y": 91.93443,
+                        "z": 9.314547
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 139.63144,
+                        "y": 175.6604,
+                        "z": -6.996648
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 77.51872,
+                        "y": 161.92894,
+                        "z": 4.192121
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 151.28006,
+                        "y": 164.72498,
+                        "z": 55.613293
+                    }
+                }
+            ],
+            "rollAngle": -8.605822,
+            "panAngle": 36.248306,
+            "tiltAngle": 15.225105,
+            "detectionConfidence": 0.59580046,
+            "landmarkingConfidence": 0.5139316,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_LIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "description": "person",
+            "score": 0.9357439,
+            "topicality": 0.9357439
+        },
+        {
+            "mid": "/m/0k0pj",
+            "description": "nose",
+            "score": 0.8889635,
+            "topicality": 0.8889635
+        },
+        {
+            "mid": "/m/037p5b",
+            "description": "cheek",
+            "score": 0.8652568,
+            "topicality": 0.8652568
+        },
+        {
+            "mid": "/m/0ytgt",
+            "description": "child",
+            "score": 0.8168705,
+            "topicality": 0.8168705
+        },
+        {
+            "mid": "/m/025kyy",
+            "description": "forehead",
+            "score": 0.79467326,
+            "topicality": 0.79467326
+        },
+        {
+            "mid": "/m/0dgw9r",
+            "description": "human",
+            "score": 0.691235,
+            "topicality": 0.691235
+        },
+        {
+            "mid": "/m/06pj2k",
+            "description": "lip",
+            "score": 0.63191843,
+            "topicality": 0.63191843
+        },
+        {
+            "mid": "/m/01jwgf",
+            "description": "product",
+            "score": 0.58080417,
+            "topicality": 0.58080417
+        },
+        {
+            "mid": "/m/0sgh53y",
+            "description": "selfie",
+            "score": 0.54256755,
+            "topicality": 0.54256755
+        },
+        {
+            "mid": "/m/0lbxg",
+            "description": "father",
+            "score": 0.5253637,
+            "topicality": 0.5253637
+        },
+        {
+            "mid": "/m/029wnx",
+            "description": "daughter",
+            "score": 0.500187,
+            "topicality": 0.500187
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 19,
+                        "green": 16,
+                        "blue": 26
+                    },
+                    "score": 0.14373827,
+                    "pixelFraction": 0.121609196
+                },
+                {
+                    "color": {
+                        "red": 237,
+                        "green": 229,
+                        "blue": 211
+                    },
+                    "score": 0.08103239,
+                    "pixelFraction": 0.061724138
+                },
+                {
+                    "color": {
+                        "red": 231,
+                        "green": 26,
+                        "blue": 44
+                    },
+                    "score": 0.08018489,
+                    "pixelFraction": 0.049655173
+                },
+                {
+                    "color": {
+                        "red": 101,
+                        "green": 24,
+                        "blue": 32
+                    },
+                    "score": 0.020291587,
+                    "pixelFraction": 0.011839081
+                },
+                {
+                    "color": {
+                        "red": 164,
+                        "green": 24,
+                        "blue": 34
+                    },
+                    "score": 0.013867004,
+                    "pixelFraction": 0.006551724
+                },
+                {
+                    "color": {
+                        "red": 21,
+                        "green": 21,
+                        "blue": 36
+                    },
+                    "score": 0.085249156,
+                    "pixelFraction": 0.05034483
+                },
+                {
+                    "color": {
+                        "red": 241,
+                        "green": 236,
+                        "blue": 227
+                    },
+                    "score": 0.07842153,
+                    "pixelFraction": 0.088505745
+                },
+                {
+                    "color": {
+                        "red": 40,
+                        "green": 17,
+                        "blue": 28
+                    },
+                    "score": 0.07694146,
+                    "pixelFraction": 0.040229887
+                },
+                {
+                    "color": {
+                        "red": 72,
+                        "green": 42,
+                        "blue": 51
+                    },
+                    "score": 0.071298234,
+                    "pixelFraction": 0.03988506
+                },
+                {
+                    "color": {
+                        "red": 45,
+                        "green": 50,
+                        "blue": 55
+                    },
+                    "score": 0.04478295,
+                    "pixelFraction": 0.038390804
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 299
+                        },
+                        {
+                            "x": 299,
+                            "y": 193
+                        },
+                        {
+                            "y": 193
+                        }
+                    ]
+                },
+                "confidence": 0.29999998,
+                "importanceFraction": 1.15
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/01vpl9",
+                "score": 1.4571,
+                "description": "NATO bombing of Yugoslavia"
+            },
+            {
+                "entityId": "/m/048jd",
+                "score": 0.94245005,
+                "description": "Kosovo War"
+            },
+            {
+                "entityId": "/m/077qn",
+                "score": 0.87780005,
+                "description": "Serbia"
+            },
+            {
+                "entityId": "/m/04fh3",
+                "score": 0.83175,
+                "description": "Kosovo"
+            },
+            {
+                "entityId": "/t/2fxgty247grjc",
+                "score": 0.6831
+            },
+            {
+                "entityId": "/t/2gx80lp2qdlst",
+                "score": 0.6279
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6087
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.5335
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.5226,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.4499
+            },
+            {
+                "entityId": "/m/082cb",
+                "score": 0.4355,
+                "description": "War"
+            },
+            {
+                "entityId": "/g/11fyy2s774",
+                "score": 0.4307
+            },
+            {
+                "entityId": "/m/02w11t",
+                "score": 0.4058,
+                "description": "War of aggression"
+            },
+            {
+                "entityId": "/t/21pqy9gy2tkm4",
+                "score": 0.3939
+            },
+            {
+                "entityId": "/m/087vz",
+                "score": 0.21120001,
+                "description": "Yugoslavia"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01375/injured-children_1375853i.jpg"
+            },
+            {
+                "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01375/injured-children_1375853a.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/B7pZy26CUAAvPv0.jpg"
+            },
+            {
+                "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+            },
+            {
+                "url": "http://firstsocial.info/wp-content/uploads/2016/03/kosovo2.jpg?x81903"
+            },
+            {
+                "url": "http://www.alb-net.com/pics/bebe.jpg"
+            },
+            {
+                "url": "http://www.empireofchaos.net/EoC%20graphics/serbia.jpeg"
+            },
+            {
+                "url": "http://pravoslavie.ru/sas/image/101656/165678.x.jpg"
+            },
+            {
+                "url": "https://im4.kommersant.ru/Issues.photo/CORP/2014/03/24/KMO_120232_08015_1_t223_133417.jpg"
+            },
+            {
+                "url": "https://video-images.vice.com/_uncategorized/1528378144587-Bol2.jpeg?resize=320:*"
+            },
+            {
+                "url": "x-raw-image:///f9e2af719f886273b14d19cd5400f3b451f766aed52c9b1c6e8da46ebf4b058b"
+            },
+            {
+                "url": "http://armsovereignty.com/wp-content/uploads/2016/08/69633_html_183dff30-300x194.gif"
+            },
+            {
+                "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p-300x194.jpg"
+            },
+            {
+                "url": "http://cont.ws/uploads/pic/2015/9/%D1%81%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B4%D0%B5%D1%82%D0%B8%20%282%29.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/c4/b3/89/c4b389aef3d1289540c5cf83809d6bc7.jpg"
+            },
+            {
+                "url": "http://www.e-news.su/uploads/posts/2015-03/thumbs/1427632641_kosovo14.jpg"
+            },
+            {
+                "url": "http://www.us666.ru/pics/kosovo14_tn.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://ds03.infourok.ru/uploads/ex/01c7/00033616-0b077d2e/img23.jpg"
+            },
+            {
+                "url": "https://sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg"
+            },
+            {
+                "url": "http://www.viprutv.com/screenshots/202/946/202946_15.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=800%2C510&ssl=1"
+            },
+            {
+                "url": "https://arhivurokov.ru/videouroki/html/2016/04/23/98734970/img1.jpg"
+            },
+            {
+                "url": "https://ds03.infourok.ru/uploads/ex/0814/00007d43-0c4b9159/640/img1.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=590%2C443&ssl=1"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-LLHaeMuuMTM/Vsn18WrOD4I/AAAAAAAARH4/jMne3E3ORAI/s640/fotoalbom-deti-voyny.png"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DZD9KiyWAAAaCMb.jpg"
+            },
+            {
+                "url": "http://www.pashtriku.org/fckeditor/image/2014/krime/femijet-e-masakruar-shqiptar-1998-1999.jpg"
+            },
+            {
+                "url": "https://cdn2.arhivurokov.ru/multiurok/html/2017/10/07/s_59d8fc365964c/705455_11.jpeg"
+            },
+            {
+                "url": "http://rusnod.ru/netcat_files/34/18/6J_ZDl2J5iM.jpg"
+            },
+            {
+                "url": "https://im4.kommersant.ru/Issues.photo/CORP/2014/03/24/KMO_120232_08015_1_t221_133417.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.telegraph.co.uk/news/worldnews/europe/kosovo/5084374/Kosovo-War-Thousands-killed-as-Serb-forces-tried-to-keep-control-of-province.html",
+                "pageTitle": "Kosovo War: Thousands killed as Serb forces tried to keep control of ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01375/injured-children_1375853a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://orientalreview.org/2016/04/23/how-long-will-belgrade-seesaw-between-nato-and-russia/",
+                "pageTitle": "How long will Belgrade seesaw between NATO and Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mondialisation.ca/how-long-will-belgrade-seesaw-between-nato-and-russia/5521450",
+                "pageTitle": "How Long Will Belgrade Seesaw Between NATO and Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.globalresearch.ca/how-long-will-belgrade-seesaw-between-nato-and-russia/5521450",
+                "pageTitle": "How Long Will Belgrade Seesaw Between NATO and Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/urosh69/kosovo-war/",
+                "pageTitle": "74 best Kosovo war images on Pinterest in 2018 | Bosnia, Serbian ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/c4/b3/89/c4b389aef3d1289540c5cf83809d6bc7.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/pin/448882287832490817/",
+                "pageTitle": "A relative weeps as 46 coffins, draped with Albanian flags ... - Pinterest",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/236x/c4/b3/89/c4b389aef3d1289540c5cf83809d6bc7.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.telegraph.co.uk/news/picturegalleries/worldnews/5083978/Dren-Caka-sole-survivor-of-a-Kosovo-war-massacre.html?image=2",
+                "pageTitle": "Dren Caka, sole survivor of a Kosovo war massacre - Telegraph",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01375/injured-children_1375853i.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/ourfreedomtoday/status/712765457359572992",
+                "pageTitle": "Our Freedom on Twitter: &quot;#Serbia 1999. from March 24, to June 10 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B7pZy26CUAAvPv0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.empireofchaos.net/Suffer%20The%20Children.html",
+                "pageTitle": "SUFFER THE CHILDREN - EMPIRE OF CHAOS, SANCTIONS, IMF ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.empireofchaos.net/EoC%20graphics/serbia.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mondialisation.ca/page/156?p=0Our",
+                "pageTitle": "Marcelo Bielsa y la selecci\u00f3n argentina: otra mirada - Mondialisation ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p-300x194.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.mondialisation.ca/page/158?p=0",
+                "pageTitle": "An error occurred. - Mondialisation - Centre de Recherche sur la ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p-300x194.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/marcelsardo/status/555825873799372803?lang=en",
+                "pageTitle": "Marcel Sardo on Twitter: &quot;Vanya Voronov has been air lifted to ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B7pZy26CUAAvPv0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pravoslavie.ru/69440.html",
+                "pageTitle": "\u0418\u0441\u043f\u043e\u043b\u043d\u0438\u043b\u043e\u0441\u044c 15 \u043b\u0435\u0442 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043e\u043a \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438 \u0441\u0438\u043b\u0430\u043c\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.pravoslavie.ru/sas/image/101656/165678.p.jpg?rnd=913918"
+                    },
+                    {
+                        "url": "http://pravoslavie.ru/sas/image/101656/165678.x.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.pravoslavie.ru/69440.html?hc_location=ufi",
+                "pageTitle": "\u0418\u0441\u043f\u043e\u043b\u043d\u0438\u043b\u043e\u0441\u044c 15 \u043b\u0435\u0442 \u0441 \u043d\u0430\u0447\u0430\u043b\u0430 \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043e\u043a \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438 \u0441\u0438\u043b\u0430\u043c\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.pravoslavie.ru/sas/image/101656/165678.p.jpg?rnd=913918"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vice.com/rs/article/8xevx4/kraj-rata-na-kosovu-tri-meseca-patnji-bola-i-suza-pod-nato-bombama",
+                "pageTitle": "Kraj rata na Kosovu: Tri meseca patnji, bola i suza pod NATO - Vice",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://video-images.vice.com/_uncategorized/1528378144587-Bol2.jpeg?resize=320:*"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.kommersant.ru/gallery/2436942",
+                "pageTitle": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u044f \u00ab\u0421\u043e\u044e\u0437\u043d\u0430\u044f \u0441\u0438\u043b\u0430\u00bb \u2013 \u0424\u043e\u0442\u043e \u2013 \u041a\u043e\u043c\u043c\u0435\u0440\u0441\u0430\u043d\u0442\u044a",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://im4.kommersant.ru/Issues.photo/CORP/2014/03/24/KMO_120232_08015_1_t221_133417.jpg"
+                    },
+                    {
+                        "url": "https://im4.kommersant.ru/Issues.photo/CORP/2014/03/24/KMO_120232_08015_1_t223_133417.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://censor.net.ua/news/111872/iz_poltavy_v_kiev_vyehala_kolonna_avtobusov_neizvestno_s_chimi_storonnikami",
+                "pageTitle": "\u0418\u0437 \u041f\u043e\u043b\u0442\u0430\u0432\u044b \u0432 \u041a\u0438\u0435\u0432 \u0432\u044b\u0435\u0445\u0430\u043b\u0430 \u043a\u043e\u043b\u043e\u043d\u043d\u0430 \u0430\u0432\u0442\u043e\u0431\u0443\u0441\u043e\u0432 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e \u0441 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://storage5.censor.net.ua/proxy/U2FsdGVkX18x3ULJ5Vj6geAf36Jrz6GnQakG-DlMYlJ4ZRfSiuy7VN-vZ3sAoHxm"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.lajm.net/12-femije-te-lindur-ne-lufte-u-bene-veterane-te-uck-se/",
+                "pageTitle": "12 f\u00ebmij\u00eb t\u00eb lindur n\u00eb luft\u00eb, u b\u00ebn\u00eb veteran\u00eb t\u00eb U\u00c7K-s\u00eb - Gazeta Lajm",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://secure.i.telegraph.co.uk/multimedia/archive/01375/injured-children_1375853a.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://newsland.com/community/politic/content/nato-priznal-agressiiu-bombardirovki-serbii-byli-nezakonnymi/2670944",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u043f\u0440\u0438\u0437\u043d\u0430\u043b \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044e: \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043a\u0438 \u0421\u0435\u0440\u0431\u0438\u0438 \u0431\u044b\u043b\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://warweb1.chat.ru/kosovo2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cont.ws/post/120563",
+                "pageTitle": "\u0421\u041c\u0418 \u0427\u0435\u0445\u0438\u0438 \u0443\u0442\u0432\u0435\u0440\u0436\u0434\u0430\u044e\u0442: \u0440\u043e\u0441\u0441\u0438\u044f\u043d\u0435 \u0441\u043e\u0432\u0441\u0435\u043c \u00ab\u043e\u0442\u0443\u043f\u0435\u043b\u0438\u00bb \u043e\u0442 ... - \u041a\u043e\u043d\u0442",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://cont.ws/uploads/pic/2015/9/%D1%81%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B4%D0%B5%D1%82%D0%B8%20%282%29.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://armsovereignty.com/page/7",
+                "pageTitle": "\u0540\u0531\u0546\u0548\u0552\u0546 \u053b\u0546\u0554\u0546\u053b\u0547\u053d\u0531\u0546\u0548\u0552\u0539\u0545\u0531\u0546 \u054e\u0535\u0550\u0531\u053f\u0531\u0546\u0533\u0546\u0544\u0531\u0546 - Page 7 of 11 -",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://armsovereignty.com/wp-content/uploads/2016/08/69633_html_183dff30-300x194.gif"
+                    }
+                ]
+            },
+            {
+                "url": "http://armsovereignty.com/ru/page/5",
+                "pageTitle": "\u0417\u0410 \u0412\u041e\u0421\u0421\u0422\u0410\u041d\u041e\u0412\u041b\u0415\u041d\u0418\u0415 \u0421\u0423\u0412\u0415\u0420\u0415\u041d\u0418\u0422\u0415\u0422\u0410 - \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 5 \u0438\u0437 7 -",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://armsovereignty.com/wp-content/uploads/2016/08/69633_html_183dff30-300x194.gif"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.udur1991-99kv.com/NATO_AGRESIJA.pdf",
+                "pageTitle": "\u0430\u0441\u043f\u0438\u0434\u0435",
+                "fullMatchingImages": [
+                    {
+                        "url": "x-raw-image:///f9e2af719f886273b14d19cd5400f3b451f766aed52c9b1c6e8da46ebf4b058b"
+                    }
+                ]
+            },
+            {
+                "url": "https://armsovereignty.com/ru/archives/category/new/page/5",
+                "pageTitle": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 Archives - \u0421\u0442\u0440\u0430\u043d\u0438\u0446\u0430 5 \u0438\u0437 6 - \u0417\u0410 \u0412\u041e\u0421\u0421\u0422\u0410\u041d\u041e\u0412\u041b\u0415\u041d\u0418\u0415 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://armsovereignty.com/wp-content/uploads/2016/08/69633_html_183dff30-300x194.gif"
+                    }
+                ]
+            },
+            {
+                "url": "https://pravoslavnoe-hristianstvo.mirtesen.ru/blog?from=mail&l=bnq_bl&bp_id_click=43446834087&page=45",
+                "pageTitle": "\u0411\u043b\u043e\u0433 \u0441\u0430\u0439\u0442\u0430 \u00ab\u041f\u0420\u0410\u0412\u041e\u0421\u041b\u0410\u0412\u041d\u041e\u0415 \u0425\u0420\u0418\u0421\u0422\u0418\u0410\u041d\u0421\u0422\u0412\u041e\u00bb - \u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043d",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u17/photo5508/20360238070-0/original.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.e-news.su/mnenie-i-analitika/165876-esli-nenavidyaschie-tebya-tma.html",
+                "pageTitle": "\u0415\u0441\u043b\u0438 \u043d\u0435\u043d\u0430\u0432\u0438\u0434\u044f\u0449\u0438\u0435 \u0442\u0435\u0431\u044f - \u0422\u044c\u043c\u0430... \u00bb E-news.su",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.e-news.su/uploads/posts/2015-03/thumbs/1427632641_kosovo14.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pravoslavnoe-hristianstvo.mirtesen.ru/blog?from=mail&l=bnq_bn&bp_id_click=43999082876&bpid=43999082876&desktop=1&page=47",
+                "pageTitle": "\u0411\u043b\u043e\u0433 \u0441\u0430\u0439\u0442\u0430 \u00ab\u041f\u0420\u0410\u0412\u041e\u0421\u041b\u0410\u0412\u041d\u041e\u0415 \u0425\u0420\u0418\u0421\u0422\u0418\u0410\u041d\u0421\u0422\u0412\u041e\u00bb - \u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043d",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u17/photo5508/20360238070-0/original.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pravoslavnoe-hristianstvo.mirtesen.ru/blog?t=%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE&desktop=1&page=20",
+                "pageTitle": "\u0411\u043b\u043e\u0433 \u0441\u0430\u0439\u0442\u0430 \u00ab\u041f\u0420\u0410\u0412\u041e\u0421\u041b\u0410\u0412\u041d\u041e\u0415 \u0425\u0420\u0418\u0421\u0422\u0418\u0410\u041d\u0421\u0422\u0412\u041e\u00bb - \u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043d",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://mtdata.ru/u17/photo5508/20360238070-0/original.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://pravoslavnoe-hristianstvo.mirtesen.ru/blog?from=mail&l=bnq_bn&bp_id_click=43386446533&bpid=43386446533&page=45",
+                "pageTitle": "\u0411\u043b\u043e\u0433 \u0441\u0430\u0439\u0442\u0430 \u00ab\u041f\u0420\u0410\u0412\u041e\u0421\u041b\u0410\u0412\u041d\u041e\u0415 \u0425\u0420\u0418\u0421\u0422\u0418\u0410\u041d\u0421\u0422\u0412\u041e\u00bb - \u041c\u0438\u0440\u0422\u0435\u0441\u0435\u043d",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://mtdata.ru/u17/photo5508/20360238070-0/original.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://forum.rusbeseda.org/index.php?topic=117.315",
+                "pageTitle": "\u00ab\u041d\u0410\u0422\u041e \u2013 \u043d\u0430\u0448 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0433\u0435\u043e\u043f\u043e\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0442\u0438\u0432\u043d\u0438\u043a\u00bb",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.pravoslavie.ru/sas/image/101656/165678.p.jpg?rnd=913918"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.e-news.su/history/132874-batka-minay-i-chetvero-ego-rasstrelyannyh-detey.html",
+                "pageTitle": "\u0411\u0430\u0442\u044c\u043a\u0430 \u041c\u0438\u043d\u0430\u0439 \u0438 \u0447\u0435\u0442\u0432\u0435\u0440\u043e \u0435\u0433\u043e \u0440\u0430\u0441\u0441\u0442\u0440\u0435\u043b\u044f\u043d\u043d\u044b\u0445 \u0434\u0435\u0442\u0435\u0439 \u00bb E-news.su",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.e-news.su/uploads/posts/2015-03/thumbs/1427632641_kosovo14.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://infourok.ru/prezentaciya-k-zanyatiyu-po-medicine-atastrof-na-temu-medicinskaya-sortirovka-i-evakuaciya-postradavshih-pri-chs-1210726.html",
+                "pageTitle": "\u041f\u0440\u0435\u0437\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043a \u0437\u0430\u043d\u044f\u0442\u0438\u044e \u043f\u043e \u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0435 \u0430\u0442\u0430\u0441\u0442\u0440\u043e\u0444 \u043d\u0430 \u0442\u0435\u043c\u0443 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ds03.infourok.ru/uploads/ex/01c7/00033616-0b077d2e/img23.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.e-news.su/news/203462-pozorische-materi-devyateryh-vyigravshey-konkurs-semya-goda-vruchili-termos.html",
+                "pageTitle": "\u041f\u043e\u0437\u043e\u0440\u0438\u0449\u0435: \u043c\u0430\u0442\u0435\u0440\u0438 \u0434\u0435\u0432\u044f\u0442\u0435\u0440\u044b\u0445, \u0432\u044b\u0438\u0433\u0440\u0430\u0432\u0448\u0435\u0439 \u043a\u043e\u043d\u043a\u0443\u0440\u0441 &quot;\u0421\u0435\u043c\u044c\u044f \u0433\u043e\u0434\u0430 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.e-news.su/uploads/posts/2015-03/thumbs/1427632641_kosovo14.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://maxpark.com/community/politic/content/2670944",
+                "pageTitle": "\u041d\u0410\u0422\u041e \u043f\u0440\u0438\u0437\u043d\u0430\u043b \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044e: \u0431\u043e\u043c\u0431\u0430\u0440\u0434\u0438\u0440\u043e\u0432\u043a\u0438 \u0421\u0435\u0440\u0431\u0438\u0438 \u0431\u044b\u043b\u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://warweb1.chat.ru/kosovo2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://firstsocial.info/analiz/ot-belgrada-do-kieva",
+                "pageTitle": "\u041e\u0442 \u0411\u0435\u043b\u0433\u0440\u0430\u0434\u0430 \u0434\u043e \u041a\u0438\u0435\u0432\u0430 | \u041f\u0435\u0440\u0448\u0438\u0439 \u0421\u043e\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://firstsocial.info/wp-content/uploads/2016/03/kosovo2.jpg?x81903"
+                    }
+                ]
+            },
+            {
+                "url": "https://kozarac.ba/2007/01/21/1686-495-banjalucka-stanica/",
+                "pageTitle": "BANJALUCKA STANICA - Kozarac.ba",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://kozarac.ba/wp-content/uploads/2007/01/BOL2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://multiurok.ru/files/illiustrirovannyi-matierial-dieti-i-voina.html",
+                "pageTitle": "\u0418\u043b\u043b\u044e\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b &quot;\u0414\u0435\u0442\u0438 \u0438 \u0432\u043e\u0439\u043d\u0430&quot; - \u041c\u0443\u043b\u044c\u0442\u0438\u0443\u0440\u043e\u043a",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://cdn2.arhivurokov.ru/multiurok/html/2017/10/07/s_59d8fc365964c/705455_11.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputnik.bg/tragediyata-na-24-mart-razpanatata-yugoslaviya-nato-izbi-400-detsa/",
+                "pageTitle": "\u0422\u0420\u0410\u0413\u0415\u0414\u0418\u042f\u0422\u0410 \u041d\u0410 24 \u041c\u0410\u0420\u0422 - \u0420\u0410\u0417\u041f\u042a\u041d\u0410\u0422\u0410\u0422\u0410 \u042e\u0413\u041e\u0421\u041b\u0410\u0412\u0418\u042f: \u041d\u0410\u0422\u041e ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=800%2C510&ssl=1"
+                    },
+                    {
+                        "url": "https://sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg"
+                    },
+                    {
+                        "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=590%2C443&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://hellishamerica.ru/jugoslavijagallery.html",
+                "pageTitle": "\u0412\u043e\u0439\u043d\u0430 \u0432 \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438. \u0424\u043e\u0442\u043e\u0433\u0430\u043b\u0435\u0440\u0435\u044f (\u043d\u0435 \u0434\u043b\u044f \u0441\u043b\u0430\u0431\u043e\u043d\u0435\u0440\u0432\u043d\u044b\u0445!) \u0427\u0430\u0441\u0442\u044c ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://hellishamerica.ru/uploads/posts/2017-04/1493042906_kosovo14.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.us666.ru/jugoslavijagallery.htm",
+                "pageTitle": "\u0422\u0451\u043c\u043d\u0430\u044f \u0441\u0442\u043e\u0440\u043e\u043d\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0438. \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.us666.ru/pics/kosovo14_tn.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pashtriku.org/?kat=63&shkrimi=2469",
+                "pageTitle": "pashtriku - krimet - shqiptar oseku: n\u00cb vend t\u00cb lutjes",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.pashtriku.org/fckeditor/image/2014/krime/femijet-e-masakruar-shqiptar-1998-1999.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://bascresenia.blogspot.com/2014/03/",
+                "pageTitle": "PERIODISTA.blogspot.com: marzo 2014",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://lh5.googleusercontent.com/proxy/uTb4yQa7kgyIQUZL5BnPG2XN-N9PHt0JmPq6MQejtdaXrtSDoo_kmYG-fD2oWjrixi8AZxhBPPXsOhZpUjrA8AD1cIZ8Re4dni_WY5i-SpmIqq_RXPk=s0-d"
+                    }
+                ]
+            },
+            {
+                "url": "http://warweb1.chat.ru/kosovonow.html",
+                "pageTitle": "\u0412\u043e\u0439\u043d\u0430 \u0432 \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0438. \u0413\u043e\u0434 \u043f\u043e\u0441\u043b\u0435 \u043c\u0438\u0440\u0430. \u0412\u0437\u0433\u043b\u044f\u0434 \u043d\u0430\u0437\u0430\u0434.",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://warweb1.chat.ru/kosovo2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/olga_vorobyova_",
+                "pageTitle": "Olga Vorobyova (@Olga_Vorobyova_) | Twitter",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B7pZy26CUAAvPv0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://forum-chita.com/viewtopic.php?f=62&t=200940&start=45",
+                "pageTitle": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430 -\u0440\u043e\u0434\u0438\u043d\u0430 \u043d\u0435\u043b\u044e\u0434\u0435\u0439,\u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0435\u0434\u043b\u0438\u0432\u043e\u0441\u0442\u0438,\u0432\u043b\u0430\u0441\u0442\u0438 \u0434\u0435\u043d\u0435\u0433.",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://warweb1.chat.ru/kosovo2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rubrika.eu/item/44171-%D0%B1%D0%B5%D0%BB%D0%B3%D1%80%D0%B0%D0%B4-%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD-%D0%B4%D0%B0-%D0%B4%D0%BE%D0%BA%D0%B0%D0%B6%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D1%82%D0%B5-%D0%BE%D1%82-%D0%BD%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8-%D1%81-%D0%BE%D0%B1%D0%B5%D0%B4%D0%BD%D0%B5%D0%BD-%D1%83%D1%80%D0%B0%D0%BD.html",
+                "pageTitle": "\u0411\u0435\u043b\u0433\u0440\u0430\u0434 \u0435 \u0440\u0435\u0448\u0435\u043d \u0434\u0430 \u0434\u043e\u043a\u0430\u0436\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u0438\u0446\u0438\u0442\u0435 \u043e\u0442 \u043d\u0430\u0442\u043e\u0432\u0441\u043a\u0438\u0442\u0435 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=590%2C443&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://twitter.com/mrvladsolo/status/575777519875452928",
+                "pageTitle": "Vlad Solo on Twitter: &quot;\u0415\u0441\u043b\u0438 \u041f\u0443\u0442\u0438\u043d \u0443\u043c\u0435\u0440, \u0442\u043e \u043d\u0435 \u043f\u0440\u0438\u0448\u043b\u043e \u043b\u0438 \u0432\u0440\u0435\u043c\u044f \u0438 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pbs.twimg.com/media/B7pZy26CUAAvPv0.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://insan64.blogspot.com/2016/10/ortadoguda-savas-cocuklar-resim-albumu.html",
+                "pageTitle": "GAZETE \u0130NSAN: Ortado\u011fuda sava\u015f \u00e7ocuklar\u0131 resim alb\u00fcm\u00fc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://1.bp.blogspot.com/-LLHaeMuuMTM/Vsn18WrOD4I/AAAAAAAARH4/jMne3E3ORAI/s640/fotoalbom-deti-voyny.png"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rubrika.eu/itemlist/category/12-%D0%B5%D0%B2%D1%80%D0%BE%D0%BF%D0%B0/Page-7.html",
+                "pageTitle": "\u0415\u0432\u0440\u043e\u043f\u0430 - \u0420\u0443\u0431\u0440\u0438\u043a\u0430",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i1.wp.com/sputnik.bg/wp-content/uploads/2016/04/YUgoslaviya.jpg?resize=590%2C443&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "http://elenapyyhtia.blogspot.com/2016/09/blog-post_41.html",
+                "pageTitle": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u043e: \u0423\u0440\u043e\u043a\u0438 \u044e\u0433\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u043e\u0439 \u0432\u043e\u0439\u043d\u044b | \u0420\u0435\u0430\u043b\u044c\u043d\u044b\u0439 &quot;\u0443\u0442\u043e\u043f\u0438\u0437\u043c&quot;",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://warweb1.chat.ru/kosovo2.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://whitesimgq.pw/Photo-of-the-Day-Prou-Mon-coeur-et-Amrique-t.html",
+                "pageTitle": "Photo of the Day Prou Mon coeur et Amrique t",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://clearpictats.pw/Memes-THG-No-pasaba-nada-Hunger-games-Memes-and-Gaming.html",
+                "pageTitle": "Memes THG No pasaba nada Hunger games Memes and Gaming",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://opiniaopublica2.zip.net/arch2008-07-20_2008-07-26.html",
+                "pageTitle": "O discurso de Berlim - OPINI\u00c3O P\u00daBLICA - UOL Blog",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.alb-net.com/pics/bebe.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://picurams.pw/pingl-par-Morgane-sur-citation-t-Rendre-hommage-Le.html",
+                "pageTitle": "Pingl par Morgane sur citation t Rendre hommage Le",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://imgdealix.pw/22-ans-aprs-avoir-t-lance-une-bouteille-la-mer-revient-son.html",
+                "pageTitle": "22 ans aprs avoir t lance une bouteille la mer revient son",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://orientalreview.org/wp-content/uploads/2016/04/165678.p.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://friendsofkosovo.files.wordpress.com/2014/07/5615620-3x2-940x627.jpg"
+            },
+            {
+                "url": "https://alchetron.com/cdn/aleksandar-jovic-2393f5f7-903e-4a48-afd0-9b93ac4b858-resize-750.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/POdTkVoIBwE/hqdefault.jpg"
+            },
+            {
+                "url": "https://i.ytimg.com/vi/OTA7jc_0LVw/hqdefault.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/G931T7/soccer-world-cup-france-98-group-f-yugoslavia-v-iran-G931T7.jpg"
+            },
+            {
+                "url": "https://beyondthelastman.files.wordpress.com/2013/08/jim-orourke-hibernian-1967.jpg"
+            },
+            {
+                "url": "https://4.bp.blogspot.com/-Zi7jamq_Fuo/WDlw_WhTJLI/AAAAAAAAB30/9XXrVA_VyOQDBWE-lSULyG9Eo-CAofMnwCLcB/s1600/Fidel%2BCastro.jpg"
+            },
+            {
+                "url": "https://cpj.org/data/photos/kerem_lawton_yugoslavia_2001.jpg"
+            },
+            {
+                "url": "https://imgix.ranker.com/node_img/3164/63271781/original/milorad-kapor-people-in-film-photo-1?w=125&h=125&fit=crop&crop=faces&q=60&fm=jpg"
+            },
+            {
+                "url": "http://www.adnradio.cl/images/1510436_n_vir1.JPG"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Yugoslavia"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.8522546,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.56120133,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.9977007,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.9977007,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.56120133,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.75743574,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "y": 0.047735896
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.047735896
+                    },
+                    {
+                        "x": 0.43879873,
+                        "y": 0.9842641
+                    },
+                    {
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/02dl1y",
+            "name": "Hat",
+            "score": 0.6843264,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.015000019,
+                        "y": 0.042294137
+                    },
+                    {
+                        "x": 0.553,
+                        "y": 0.042294137
+                    },
+                    {
+                        "x": 0.553,
+                        "y": 0.585
+                    },
+                    {
+                        "x": 0.015000019,
+                        "y": 0.585
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/09j2d",
+            "name": "Clothing",
+            "score": 0.56732243,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "y": 0.7721033
+                    },
+                    {
+                        "x": 0.5509841,
+                        "y": 0.7721033
+                    },
+                    {
+                        "x": 0.5509841,
+                        "y": 0.99660254
+                    },
+                    {
+                        "y": 0.99660254
+                    }
+                ]
+            }
+        }
+    ]
+}

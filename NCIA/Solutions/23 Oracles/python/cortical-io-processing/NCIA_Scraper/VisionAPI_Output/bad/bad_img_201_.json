@@ -1,0 +1,856 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.6461139,
+            "topicality": 0.6461139
+        },
+        {
+            "mid": "/m/0jjw",
+            "description": "art",
+            "score": 0.6262253,
+            "topicality": 0.6262253
+        },
+        {
+            "mid": "/m/02qd0r",
+            "description": "human behavior",
+            "score": 0.6073945,
+            "topicality": 0.6073945
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "fi",
+            "description": "MEANSS\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 155,
+                        "y": 357
+                    },
+                    {
+                        "x": 307,
+                        "y": 357
+                    },
+                    {
+                        "x": 307,
+                        "y": 398
+                    },
+                    {
+                        "x": 155,
+                        "y": 398
+                    }
+                ]
+            }
+        },
+        {
+            "description": "MEANSS",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 156,
+                        "y": 357
+                    },
+                    {
+                        "x": 307,
+                        "y": 364
+                    },
+                    {
+                        "x": 305,
+                        "y": 398
+                    },
+                    {
+                        "x": 155,
+                        "y": 391
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 251,
+                        "green": 237,
+                        "blue": 163
+                    },
+                    "score": 0.39398676,
+                    "pixelFraction": 0.33775684
+                },
+                {
+                    "color": {
+                        "red": 143,
+                        "green": 102,
+                        "blue": 63
+                    },
+                    "score": 0.03877481,
+                    "pixelFraction": 0.08724315
+                },
+                {
+                    "color": {
+                        "red": 64,
+                        "green": 48,
+                        "blue": 24
+                    },
+                    "score": 0.021401059,
+                    "pixelFraction": 0.024914384
+                },
+                {
+                    "color": {
+                        "red": 23,
+                        "green": 14,
+                        "blue": 11
+                    },
+                    "score": 0.011108331,
+                    "pixelFraction": 0.016609589
+                },
+                {
+                    "color": {
+                        "red": 187,
+                        "green": 96,
+                        "blue": 38
+                    },
+                    "score": 0.004591847,
+                    "pixelFraction": 0.0069349315
+                },
+                {
+                    "color": {
+                        "red": 253,
+                        "green": 248,
+                        "blue": 168
+                    },
+                    "score": 0.21631946,
+                    "pixelFraction": 0.097945206
+                },
+                {
+                    "color": {
+                        "red": 217,
+                        "green": 196,
+                        "blue": 134
+                    },
+                    "score": 0.050838083,
+                    "pixelFraction": 0.050342467
+                },
+                {
+                    "color": {
+                        "red": 136,
+                        "green": 113,
+                        "blue": 65
+                    },
+                    "score": 0.037124667,
+                    "pixelFraction": 0.037585616
+                },
+                {
+                    "color": {
+                        "red": 174,
+                        "green": 155,
+                        "blue": 98
+                    },
+                    "score": 0.029830059,
+                    "pixelFraction": 0.03347603
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 75,
+                        "blue": 36
+                    },
+                    "score": 0.023822457,
+                    "pixelFraction": 0.027226027
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 896
+                        },
+                        {
+                            "x": 896,
+                            "y": 493
+                        },
+                        {
+                            "y": 493
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "fi"
+                        }
+                    ]
+                },
+                "width": 897,
+                "height": 494,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "fi"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 155,
+                                    "y": 357
+                                },
+                                {
+                                    "x": 307,
+                                    "y": 357
+                                },
+                                {
+                                    "x": 307,
+                                    "y": 398
+                                },
+                                {
+                                    "x": 155,
+                                    "y": 398
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "fi"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 155,
+                                            "y": 357
+                                        },
+                                        {
+                                            "x": 307,
+                                            "y": 357
+                                        },
+                                        {
+                                            "x": 307,
+                                            "y": 398
+                                        },
+                                        {
+                                            "x": 155,
+                                            "y": 398
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "fi"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 156,
+                                                    "y": 357
+                                                },
+                                                {
+                                                    "x": 307,
+                                                    "y": 364
+                                                },
+                                                {
+                                                    "x": 305,
+                                                    "y": 398
+                                                },
+                                                {
+                                                    "x": 155,
+                                                    "y": 391
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 156,
+                                                            "y": 357
+                                                        },
+                                                        {
+                                                            "x": 180,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 178,
+                                                            "y": 392
+                                                        },
+                                                        {
+                                                            "x": 155,
+                                                            "y": 391
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "M"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 181,
+                                                            "y": 358
+                                                        },
+                                                        {
+                                                            "x": 210,
+                                                            "y": 359
+                                                        },
+                                                        {
+                                                            "x": 208,
+                                                            "y": 393
+                                                        },
+                                                        {
+                                                            "x": 180,
+                                                            "y": 392
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 212,
+                                                            "y": 360
+                                                        },
+                                                        {
+                                                            "x": 241,
+                                                            "y": 361
+                                                        },
+                                                        {
+                                                            "x": 239,
+                                                            "y": 395
+                                                        },
+                                                        {
+                                                            "x": 211,
+                                                            "y": 394
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 241,
+                                                            "y": 361
+                                                        },
+                                                        {
+                                                            "x": 277,
+                                                            "y": 363
+                                                        },
+                                                        {
+                                                            "x": 275,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 240,
+                                                            "y": 395
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 278,
+                                                            "y": 362
+                                                        },
+                                                        {
+                                                            "x": 295,
+                                                            "y": 363
+                                                        },
+                                                        {
+                                                            "x": 294,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 277,
+                                                            "y": 396
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "fi"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 296,
+                                                            "y": 363
+                                                        },
+                                                        {
+                                                            "x": 307,
+                                                            "y": 363
+                                                        },
+                                                        {
+                                                            "x": 306,
+                                                            "y": 397
+                                                        },
+                                                        {
+                                                            "x": 295,
+                                                            "y": 397
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "MEANSS\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.80474997,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7105,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7105
+            },
+            {
+                "entityId": "/g/11cs051q_0",
+                "score": 0.6081,
+                "description": "The illegal wars of NATO"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5365
+            },
+            {
+                "entityId": "/t/29dcfy71_4rlx",
+                "score": 0.4821
+            },
+            {
+                "entityId": "/m/0kyk",
+                "score": 0.4678,
+                "description": "Author"
+            },
+            {
+                "entityId": "/g/11fgjd_7vj",
+                "score": 0.4513,
+                "description": "Paix"
+            },
+            {
+                "entityId": "/g/11gtcrn870",
+                "score": 0.446,
+                "description": "De la guerre"
+            },
+            {
+                "entityId": "/g/11f5r6xx71",
+                "score": 0.4372,
+                "description": "in Autumn - Eric Weiss, Weiss"
+            },
+            {
+                "entityId": "/m/05qt0",
+                "score": 0.4337,
+                "description": "Politics"
+            },
+            {
+                "entityId": "/m/0jjw",
+                "score": 0.3492775,
+                "description": "Art"
+            },
+            {
+                "entityId": "/t/24ymcsd_h05cj",
+                "score": 0.3472
+            },
+            {
+                "entityId": "/m/0pdcybn",
+                "score": 0.10669501,
+                "description": "Daniele Ganser"
+            },
+            {
+                "entityId": "/m/0cqt90",
+                "score": 0.060195006,
+                "description": "Donald Trump"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://www.frau-kapitaen.de/media/fotos/ThisStarMeansWar_NATO.jpg"
+            },
+            {
+                "url": "https://pvda.be/sites/default/files/styles/primary_image/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=L0YzJDui"
+            },
+            {
+                "url": "https://ptb.be/sites/default/files/styles/primary_image/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=_7b0zkWb"
+            },
+            {
+                "url": "https://solidaire.org/sites/default/files/styles/home_focus/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=g4RWUwmS"
+            },
+            {
+                "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-470x260.jpg"
+            },
+            {
+                "url": "https://pvda.be/sites/default/files/styles/overview-teaser/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=9NtUMYkS"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-440x281.jpg"
+            },
+            {
+                "url": "http://geopoliticsalert.com/wp-content/uploads/2016/07/6839729968_31ea17398f_z-300x200.jpg"
+            },
+            {
+                "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-300x199.jpg"
+            },
+            {
+                "url": "https://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-150x100.jpg"
+            },
+            {
+                "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-470x140.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.brownpoliticalreview.org/2015/11/comedy-as-social-commentary/",
+                "pageTitle": "Comedy as Social Commentary - Brown Political Review",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-150x100.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.brownpoliticalreview.org/author/srubinstein/",
+                "pageTitle": "Samuel Rubinstein, Author at Brown Political Review",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-150x100.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.brownpoliticalreview.org/2015/10/political-correctness-and-timing-advantages-for-carson-and-trump-in-2016/",
+                "pageTitle": "Political Correctness and Timing: Advantages for Carson and Trump ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-150x100.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.brownpoliticalreview.org/tag/kasich/",
+                "pageTitle": "Kasich Archives - Brown Political Review",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.brownpoliticalreview.org/wp-content/uploads/2016/03/6839729968_22be2d705c_o-150x100.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://krytyka.org/daniel-ganser-and-illegal-wars/",
+                "pageTitle": "Daniele Ganser and illegal wars | Krytyka.org - Nauka, Polityka ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-470x260.jpg"
+                    },
+                    {
+                        "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-300x199.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://geopoliticsalert.com/saudis-bombing-people-nobodys-talking",
+                "pageTitle": "The Saudis Are Bombing Their Own People And Nobody&#39;s Talking ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://geopoliticsalert.com/wp-content/uploads/2016/07/6839729968_31ea17398f_z-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://geopoliticsalert.com/former-netanyahu-aide-states-witness",
+                "pageTitle": "Former Netanyahu Aide Turns State&#39;s Witness in (Both) Corruption ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://geopoliticsalert.com/wp-content/uploads/2016/07/6839729968_31ea17398f_z-300x200.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://krytyka.org/author/barbara-rowinska-januszewska/",
+                "pageTitle": "Barbara Rowi\u0144ska-Januszewska - Krytyka.org",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-470x140.jpg"
+                    },
+                    {
+                        "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-300x199.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://pvda.be/artikels/de-navo-wat-dat-eigenlijk",
+                "pageTitle": "De NAVO, wat is dat eigenlijk? | PVDA",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pvda.be/sites/default/files/styles/primary_image/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=L0YzJDui"
+                    }
+                ]
+            },
+            {
+                "url": "https://pvda.be/taxonomy/term/8519",
+                "pageTitle": "Dossier Trump | PVDA",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pvda.be/sites/default/files/styles/overview-teaser/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=9NtUMYkS"
+                    }
+                ]
+            },
+            {
+                "url": "https://pvda.be/taxonomy/term/7869",
+                "pageTitle": "Isabelle Vanbrabant | PVDA",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pvda.be/sites/default/files/styles/overview-teaser/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=9NtUMYkS"
+                    }
+                ]
+            },
+            {
+                "url": "https://ptb.be/articles/l-otan-c-est-quoi",
+                "pageTitle": "L&#39;Otan, c&#39;est quoi ? | PTB",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ptb.be/sites/default/files/styles/primary_image/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=_7b0zkWb"
+                    }
+                ]
+            },
+            {
+                "url": "https://pvda.be/taxonomy/term/2586?page=2",
+                "pageTitle": "Verenigde Staten | Page 3 | PVDA",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pvda.be/sites/default/files/styles/overview-teaser/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=9NtUMYkS"
+                    }
+                ]
+            },
+            {
+                "url": "https://solidaire.org/taxonomy/term/6077",
+                "pageTitle": "Buitenland | Solidaire",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://solidaire.org/sites/default/files/styles/home_focus/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=g4RWUwmS"
+                    }
+                ]
+            },
+            {
+                "url": "https://solidaire.org/taxonomy/term/3644",
+                "pageTitle": "Paix/Guerre | Solidaire",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://solidaire.org/sites/default/files/styles/home_focus/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=g4RWUwmS"
+                    }
+                ]
+            },
+            {
+                "url": "https://solidaire.org/taxonomy/term/3439",
+                "pageTitle": "Etats-Unis | Solidaire",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://solidaire.org/sites/default/files/styles/home_focus/public/images/2017/05/04/webanttit.nissinenflickr_0.jpg?itok=g4RWUwmS"
+                    }
+                ]
+            },
+            {
+                "url": "http://krytyka.org/category/recenzje/",
+                "pageTitle": "Recenzje | Krytyka.org - Nauka, Polityka, Kultura, Spo\u0142ecze\u0144stwo",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://krytyka.org/wp-content/uploads/2017/04/6839729968_9c6b5129fe_k-470x140.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.frau-kapitaen.de/news/In%20diesem%20Netz%20der%20Luegen.php",
+                "pageTitle": "In diesem Netz der L\u00fcgen - Entstehung - Frau Kapit\u00e4n",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.frau-kapitaen.de/media/fotos/ThisStarMeansWar_NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.frau-kapitaen.de/news/2016-06-18_Petition.php",
+                "pageTitle": "2016-06-18: Petition f\u00fcr Frieden statt Eskalation - Frau Kapit\u00e4n",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.frau-kapitaen.de/media/fotos/ThisStarMeansWar_NATO.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://hargasecondhp.info/klein-de-navo-oorlog-tegen-libi%C3%AB",
+                "pageTitle": "Klein De Navo Oorlog Tegen Libi\u00eb \u2014 Hargasecondhp",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://pvda.be/sites/default/files/styles/primary_image/public/images/2017/05/04/webanttit.nissinenflickr.jpg?itok=L0YzJDui"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://i.vimeocdn.com/video/470947080.webp?mw=1400&mh=787&q=70"
+            },
+            {
+                "url": "https://payload130.cargocollective.com/1/9/315295/4914140/aiga.jpg"
+            },
+            {
+                "url": "http://pppl.blog.lemonde.fr/files/2013/03/Street-art-9.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/comp/AA9RG6/stencil-by-the-graffiti-artist-banksy-in-farringdon-london-AA9RG6.jpg"
+            },
+            {
+                "url": "https://i.etsystatic.com/7206507/d/il/f0b107/1360799831/il_340x270.1360799831_5kwd.jpg?version=0"
+            },
+            {
+                "url": "https://m.media-amazon.com/images/I/51BO8K1hXbL._SL320_.jpg"
+            },
+            {
+                "url": "https://i.ebayimg.com/images/i/222785266108-0-1/s-l1000.jpg"
+            },
+            {
+                "url": "http://yourmoviefriend.com/wp-content/uploads/2013/02/Bullet-to-the-Head-2013-Movie-Poster-550x309.jpg"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/z/wild-west-poster-v-23291.jpg"
+            },
+            {
+                "url": "https://punjab2000.com/wp-content/uploads/2016/01/Ki-And-Ka.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "art"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.80352455,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.7608136,
+                        "y": 0.15276764
+                    },
+                    {
+                        "x": 0.9631865,
+                        "y": 0.15276764
+                    },
+                    {
+                        "x": 0.9631865,
+                        "y": 0.731703
+                    },
+                    {
+                        "x": 0.7608136,
+                        "y": 0.731703
+                    }
+                ]
+            }
+        }
+    ]
+}

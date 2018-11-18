@@ -1,0 +1,359 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/03cny9",
+            "description": "badge",
+            "score": 0.6806852,
+            "topicality": 0.6806852
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.6285362,
+            "topicality": 0.6285362
+        },
+        {
+            "mid": "/m/09ddf",
+            "description": "symbol",
+            "score": 0.5376853,
+            "topicality": 0.5376853
+        },
+        {
+            "mid": "/m/01wk9c",
+            "description": "emblem",
+            "score": 0.52925605,
+            "topicality": 0.52925605
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 170,
+                        "green": 159,
+                        "blue": 102
+                    },
+                    "score": 0.27402124,
+                    "pixelFraction": 0.054485597
+                },
+                {
+                    "color": {
+                        "red": 97,
+                        "green": 88,
+                        "blue": 65
+                    },
+                    "score": 0.18058348,
+                    "pixelFraction": 0.0745679
+                },
+                {
+                    "color": {
+                        "red": 248,
+                        "green": 249,
+                        "blue": 247
+                    },
+                    "score": 0.0020369429,
+                    "pixelFraction": 0.5193964
+                },
+                {
+                    "color": {
+                        "red": 166,
+                        "green": 159,
+                        "blue": 122
+                    },
+                    "score": 0.15739936,
+                    "pixelFraction": 0.06458162
+                },
+                {
+                    "color": {
+                        "red": 124,
+                        "green": 114,
+                        "blue": 88
+                    },
+                    "score": 0.14820054,
+                    "pixelFraction": 0.051358026
+                },
+                {
+                    "color": {
+                        "red": 63,
+                        "green": 56,
+                        "blue": 34
+                    },
+                    "score": 0.076577924,
+                    "pixelFraction": 0.04323731
+                },
+                {
+                    "color": {
+                        "red": 60,
+                        "green": 56,
+                        "blue": 52
+                    },
+                    "score": 0.041326884,
+                    "pixelFraction": 0.0915775
+                },
+                {
+                    "color": {
+                        "red": 88,
+                        "green": 81,
+                        "blue": 75
+                    },
+                    "score": 0.032947462,
+                    "pixelFraction": 0.049931414
+                },
+                {
+                    "color": {
+                        "red": 191,
+                        "green": 183,
+                        "blue": 145
+                    },
+                    "score": 0.023062441,
+                    "pixelFraction": 0.009272977
+                },
+                {
+                    "color": {
+                        "red": 192,
+                        "green": 183,
+                        "blue": 127
+                    },
+                    "score": 0.020573946,
+                    "pixelFraction": 0.0053772293
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        {
+                            "x": 17
+                        },
+                        {
+                            "x": 575
+                        },
+                        {
+                            "x": 575,
+                            "y": 599
+                        },
+                        {
+                            "x": 17,
+                            "y": 599
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/g/11b5vhhrph",
+                "score": 0.7112,
+                "description": "NATO Training Mission-Afghanistan"
+            },
+            {
+                "entityId": "/m/010vr2rz",
+                "score": 0.7042,
+                "description": "Operational Camouflage Pattern"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.6235
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.5433,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/01wk9c",
+                "score": 0.50204915,
+                "description": "Emblem"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.4901,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/03cnjxh",
+                "score": 0.4702,
+                "description": "Embroidered patch"
+            },
+            {
+                "entityId": "/m/03cny9",
+                "score": 0.44950342,
+                "description": "Badge"
+            },
+            {
+                "entityId": "/m/07wh1",
+                "score": 0.4371,
+                "description": "United States Army"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 0.43559998,
+                "description": "Afghanistan"
+            },
+            {
+                "entityId": "/g/120x6jr0",
+                "score": 0.4034,
+                "description": "Insegna"
+            },
+            {
+                "entityId": "/m/0b_gkt",
+                "score": 0.3522,
+                "description": "MultiCam"
+            },
+            {
+                "entityId": "/m/04hn16",
+                "score": 0.2948,
+                "description": "Army Combat Uniform"
+            },
+            {
+                "entityId": "/m/06zrj1",
+                "score": 0.2752,
+                "description": "Special Operations Command Central"
+            },
+            {
+                "entityId": "/m/01xsrd",
+                "score": 0.2732,
+                "description": "United States Central Command"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://cdn.shopify.com/s/files/1/0642/7853/products/84525-nato-training-mission-afghanistan-multicam-patch_grande.jpg"
+            },
+            {
+                "url": "http://cdn.shopify.com/s/files/1/0823/1755/products/84525-nato-training-mission-afghanistan-multicam-patch_grande.jpeg?v=1453930530"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/17/b6/a2/17b6a23a04544f615a65aed95f871719--nato-afghanistan.jpg"
+            },
+            {
+                "url": "https://cdn.shopify.com/s/files/1/0823/1755/products/84525-nato-training-mission-afghanistan-multicam-patch_compact.jpeg?v=1453930530"
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://cdn.shopify.com/s/files/1/0023/2531/5682/products/84532-usa-element-headquarters-isaf-joint-command-multicam-patch_600x.jpg?v=1536479030"
+            },
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/I/41KnzwAeR5L.jpg"
+            },
+            {
+                "url": "https://www.eaglesofwar.com/images/product/medium/6138.jpg"
+            },
+            {
+                "url": "https://i.ebayimg.com/images/g/FSYAAOSwE99W6xNr/s-l300.jpg"
+            },
+            {
+                "url": "http://pics.patches.cc/1112/ISAF_big_NATO_OTAN_Bundeswehr_deutschland_aufnaeher.jpg"
+            },
+            {
+                "url": "https://www.armyonlinestore.com/images/product_images/info_images/NATO.jpg"
+            },
+            {
+                "url": "https://thumbs.dreamstime.com/x/isaf-nato-patch-13886252.jpg"
+            },
+            {
+                "url": "https://www.pxprato.it/spree/products/3440/original/ISAF_NATO-OTAN_Afghanistan_Patch_Toppa_Scudetto_Militare_Missione_Forze_Armate_Italiane_All'Estero_Desert_Velcro.jpg?1508494701"
+            },
+            {
+                "url": "https://www.uniformitems.com/store/pc/catalog/NATO-HEADQUARTERS-IJC-OCP-PATCH.jpg"
+            },
+            {
+                "url": "https://www.eaglesofwar.com/images/product/medium/8097.jpg"
+            },
+            {
+                "url": "https://i.pinimg.com/236x/cd/3b/8b/cd3b8b6ca0088e57a3e43971106484ef--france--nato.jpg"
+            },
+            {
+                "url": "https://cdn.globalauctionplatform.com/819a5131-b3eb-4f56-bbc8-a56f00d8e3bb/0eb65e24-3bf8-4cf5-bc9c-88919caaa425/540x360.jpg"
+            },
+            {
+                "url": "https://i.servimg.com/u/f40/17/20/07/34/isaf_n10.jpg"
+            },
+            {
+                "url": "https://i.skyrock.net/7368/80427368/pics/3105746649_1_3_13k5XbGy.jpg"
+            },
+            {
+                "url": "https://www.picclickimg.com/d/w1600/pict/300663103663_/Patch-ISAF-NATO-OTAN-cm-5x85-su-verde.jpg"
+            },
+            {
+                "url": "https://yt3.ggpht.com/a-/ACSszfFc7AxpjVvB6VqwiJiE5hyME_gs55URPvPQmQ=s900-mo-c-c0xffffffff-rj-k-no"
+            },
+            {
+                "url": "https://losparches.com/3952-large_default/patch-embroidery-isaf-nato-otan-5cm-x-85cm.jpg"
+            },
+            {
+                "url": "http://cheersmateclub.com/wp-content/uploads/2017/10/photo_2017-11-29_10-22-17-2.jpg"
+            },
+            {
+                "url": "http://www.worldmilitary.org/img/3715045621-alpha_units_patches_us_army.jpg"
+            },
+            {
+                "url": "https://alfashirt.de/media/image/81/2a/9b/25105_Patch-KFOR-Nato-Otan_Kosovo-Force-Truppe-Army-Soldaten-Militaer-Organisation-Abzeichen-Emblem-Logo-Klett-Aufnaeher_12-x-6-5-cm_600x600.jpg"
+            },
+            {
+                "url": "https://survivalsport.dk/media/cache/fb_image_thumb/product-images/19/78/636162Akfor.jpg?1510143094"
+            },
+            {
+                "url": "https://i.ebayimg.com/thumbs/images/g/jOcAAOSwSY9a6OVr/s-l225.jpg"
+            },
+            {
+                "url": "https://www.flyingtigerssurplus.com/product-images/std/P6877.jpg"
+            },
+            {
+                "url": "https://images-na.ssl-images-amazon.com/images/I/61QBQaHp9hL.jpg"
+            },
+            {
+                "url": "https://www.aviatorgear.com/images/Product/large/13094.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato patch",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/09j5n",
+            "name": "Footwear",
+            "score": 0.81612545,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.22786796,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.77213204,
+                        "y": 0.015735898
+                    },
+                    {
+                        "x": 0.77213204,
+                        "y": 0.9842641
+                    },
+                    {
+                        "x": 0.22786796,
+                        "y": 0.9842641
+                    }
+                ]
+            }
+        }
+    ]
+}

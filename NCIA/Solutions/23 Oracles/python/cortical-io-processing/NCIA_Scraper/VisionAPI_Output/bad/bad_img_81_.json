@@ -1,0 +1,1330 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g6gs",
+            "description": "black and white",
+            "score": 0.91132015,
+            "topicality": 0.91132015
+        },
+        {
+            "mid": "/m/05wkw",
+            "description": "photography",
+            "score": 0.80279225,
+            "topicality": 0.80279225
+        },
+        {
+            "mid": "/m/03d49p1",
+            "description": "monochrome photography",
+            "score": 0.78015554,
+            "topicality": 0.78015554
+        },
+        {
+            "mid": "/m/01mwkf",
+            "description": "monochrome",
+            "score": 0.71508825,
+            "topicality": 0.71508825
+        },
+        {
+            "mid": "/m/03120",
+            "description": "flag",
+            "score": 0.58656794,
+            "topicality": 0.58656794
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.55677915,
+            "topicality": 0.55677915
+        },
+        {
+            "mid": "/m/0mwc",
+            "description": "angle",
+            "score": 0.5471193,
+            "topicality": 0.5471193
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "pl",
+            "description": "STOP WOJNIE!\nSTOP NATO!\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 140,
+                        "y": 121
+                    },
+                    {
+                        "x": 214,
+                        "y": 121
+                    },
+                    {
+                        "x": 214,
+                        "y": 170
+                    },
+                    {
+                        "x": 140,
+                        "y": 170
+                    }
+                ]
+            }
+        },
+        {
+            "description": "STOP",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 140,
+                        "y": 143
+                    },
+                    {
+                        "x": 162,
+                        "y": 136
+                    },
+                    {
+                        "x": 166,
+                        "y": 149
+                    },
+                    {
+                        "x": 144,
+                        "y": 155
+                    }
+                ]
+            }
+        },
+        {
+            "description": "WOJNIE!",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 165,
+                        "y": 135
+                    },
+                    {
+                        "x": 210,
+                        "y": 121
+                    },
+                    {
+                        "x": 214,
+                        "y": 134
+                    },
+                    {
+                        "x": 169,
+                        "y": 147
+                    }
+                ]
+            }
+        },
+        {
+            "description": "STOP",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 147,
+                        "y": 157
+                    },
+                    {
+                        "x": 169,
+                        "y": 151
+                    },
+                    {
+                        "x": 173,
+                        "y": 164
+                    },
+                    {
+                        "x": 150,
+                        "y": 170
+                    }
+                ]
+            }
+        },
+        {
+            "description": "NATO!",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 173,
+                        "y": 150
+                    },
+                    {
+                        "x": 206,
+                        "y": 141
+                    },
+                    {
+                        "x": 209,
+                        "y": 153
+                    },
+                    {
+                        "x": 176,
+                        "y": 162
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 22,
+                        "green": 22,
+                        "blue": 22
+                    },
+                    "score": 0.43910903,
+                    "pixelFraction": 0.45219347
+                },
+                {
+                    "color": {
+                        "red": 46,
+                        "green": 46,
+                        "blue": 46
+                    },
+                    "score": 0.24783821,
+                    "pixelFraction": 0.14951256
+                },
+                {
+                    "color": {
+                        "red": 85,
+                        "green": 85,
+                        "blue": 85
+                    },
+                    "score": 0.08861298,
+                    "pixelFraction": 0.13132733
+                },
+                {
+                    "color": {
+                        "red": 119,
+                        "green": 119,
+                        "blue": 119
+                    },
+                    "score": 0.087263554,
+                    "pixelFraction": 0.12082864
+                },
+                {
+                    "color": {
+                        "red": 153,
+                        "green": 153,
+                        "blue": 153
+                    },
+                    "score": 0.06815066,
+                    "pixelFraction": 0.056992877
+                },
+                {
+                    "color": {
+                        "red": 190,
+                        "green": 190,
+                        "blue": 190
+                    },
+                    "score": 0.06055437,
+                    "pixelFraction": 0.045650546
+                },
+                {
+                    "color": {
+                        "red": 240,
+                        "green": 240,
+                        "blue": 240
+                    },
+                    "score": 0.00847119,
+                    "pixelFraction": 0.043494564
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 452
+                        },
+                        {
+                            "x": 452,
+                            "y": 300
+                        },
+                        {
+                            "y": 300
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "pl"
+                        }
+                    ]
+                },
+                "width": 453,
+                "height": 301,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "pl"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 140,
+                                    "y": 121
+                                },
+                                {
+                                    "x": 214,
+                                    "y": 121
+                                },
+                                {
+                                    "x": 214,
+                                    "y": 170
+                                },
+                                {
+                                    "x": 140,
+                                    "y": 170
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "pl"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 140,
+                                            "y": 121
+                                        },
+                                        {
+                                            "x": 214,
+                                            "y": 121
+                                        },
+                                        {
+                                            "x": 214,
+                                            "y": 170
+                                        },
+                                        {
+                                            "x": 140,
+                                            "y": 170
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 140,
+                                                    "y": 143
+                                                },
+                                                {
+                                                    "x": 162,
+                                                    "y": 136
+                                                },
+                                                {
+                                                    "x": 166,
+                                                    "y": 149
+                                                },
+                                                {
+                                                    "x": 144,
+                                                    "y": 155
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 140,
+                                                            "y": 144
+                                                        },
+                                                        {
+                                                            "x": 145,
+                                                            "y": 143
+                                                        },
+                                                        {
+                                                            "x": 148,
+                                                            "y": 154
+                                                        },
+                                                        {
+                                                            "x": 144,
+                                                            "y": 155
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 146,
+                                                            "y": 142
+                                                        },
+                                                        {
+                                                            "x": 151,
+                                                            "y": 141
+                                                        },
+                                                        {
+                                                            "x": 154,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 150,
+                                                            "y": 153
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 151,
+                                                            "y": 140
+                                                        },
+                                                        {
+                                                            "x": 157,
+                                                            "y": 138
+                                                        },
+                                                        {
+                                                            "x": 160,
+                                                            "y": 150
+                                                        },
+                                                        {
+                                                            "x": 155,
+                                                            "y": 151
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 157,
+                                                            "y": 138
+                                                        },
+                                                        {
+                                                            "x": 162,
+                                                            "y": 137
+                                                        },
+                                                        {
+                                                            "x": 165,
+                                                            "y": 148
+                                                        },
+                                                        {
+                                                            "x": 161,
+                                                            "y": 149
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "P"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "pl"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 165,
+                                                    "y": 135
+                                                },
+                                                {
+                                                    "x": 210,
+                                                    "y": 121
+                                                },
+                                                {
+                                                    "x": 214,
+                                                    "y": 134
+                                                },
+                                                {
+                                                    "x": 169,
+                                                    "y": 147
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 165,
+                                                            "y": 135
+                                                        },
+                                                        {
+                                                            "x": 174,
+                                                            "y": 132
+                                                        },
+                                                        {
+                                                            "x": 177,
+                                                            "y": 143
+                                                        },
+                                                        {
+                                                            "x": 168,
+                                                            "y": 146
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "W"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 174,
+                                                            "y": 132
+                                                        },
+                                                        {
+                                                            "x": 181,
+                                                            "y": 130
+                                                        },
+                                                        {
+                                                            "x": 184,
+                                                            "y": 141
+                                                        },
+                                                        {
+                                                            "x": 178,
+                                                            "y": 143
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 182,
+                                                            "y": 130
+                                                        },
+                                                        {
+                                                            "x": 188,
+                                                            "y": 128
+                                                        },
+                                                        {
+                                                            "x": 191,
+                                                            "y": 140
+                                                        },
+                                                        {
+                                                            "x": 186,
+                                                            "y": 141
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "J"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 189,
+                                                            "y": 128
+                                                        },
+                                                        {
+                                                            "x": 194,
+                                                            "y": 127
+                                                        },
+                                                        {
+                                                            "x": 197,
+                                                            "y": 138
+                                                        },
+                                                        {
+                                                            "x": 193,
+                                                            "y": 139
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 194,
+                                                            "y": 126
+                                                        },
+                                                        {
+                                                            "x": 198,
+                                                            "y": 125
+                                                        },
+                                                        {
+                                                            "x": 201,
+                                                            "y": 136
+                                                        },
+                                                        {
+                                                            "x": 198,
+                                                            "y": 137
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "I"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 199,
+                                                            "y": 125
+                                                        },
+                                                        {
+                                                            "x": 204,
+                                                            "y": 124
+                                                        },
+                                                        {
+                                                            "x": 208,
+                                                            "y": 136
+                                                        },
+                                                        {
+                                                            "x": 203,
+                                                            "y": 137
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "E"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 205,
+                                                            "y": 123
+                                                        },
+                                                        {
+                                                            "x": 210,
+                                                            "y": 122
+                                                        },
+                                                        {
+                                                            "x": 214,
+                                                            "y": 134
+                                                        },
+                                                        {
+                                                            "x": 209,
+                                                            "y": 135
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "!"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 147,
+                                                    "y": 157
+                                                },
+                                                {
+                                                    "x": 169,
+                                                    "y": 151
+                                                },
+                                                {
+                                                    "x": 173,
+                                                    "y": 164
+                                                },
+                                                {
+                                                    "x": 150,
+                                                    "y": 170
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 147,
+                                                            "y": 159
+                                                        },
+                                                        {
+                                                            "x": 152,
+                                                            "y": 158
+                                                        },
+                                                        {
+                                                            "x": 155,
+                                                            "y": 169
+                                                        },
+                                                        {
+                                                            "x": 150,
+                                                            "y": 171
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "S"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 153,
+                                                            "y": 156
+                                                        },
+                                                        {
+                                                            "x": 157,
+                                                            "y": 155
+                                                        },
+                                                        {
+                                                            "x": 160,
+                                                            "y": 167
+                                                        },
+                                                        {
+                                                            "x": 156,
+                                                            "y": 168
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 158,
+                                                            "y": 154
+                                                        },
+                                                        {
+                                                            "x": 164,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 167,
+                                                            "y": 165
+                                                        },
+                                                        {
+                                                            "x": 161,
+                                                            "y": 167
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 164,
+                                                            "y": 153
+                                                        },
+                                                        {
+                                                            "x": 169,
+                                                            "y": 152
+                                                        },
+                                                        {
+                                                            "x": 172,
+                                                            "y": 164
+                                                        },
+                                                        {
+                                                            "x": 167,
+                                                            "y": 166
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "P"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "en"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 173,
+                                                    "y": 150
+                                                },
+                                                {
+                                                    "x": 206,
+                                                    "y": 141
+                                                },
+                                                {
+                                                    "x": 209,
+                                                    "y": 153
+                                                },
+                                                {
+                                                    "x": 176,
+                                                    "y": 162
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 173,
+                                                            "y": 150
+                                                        },
+                                                        {
+                                                            "x": 180,
+                                                            "y": 148
+                                                        },
+                                                        {
+                                                            "x": 183,
+                                                            "y": 160
+                                                        },
+                                                        {
+                                                            "x": 176,
+                                                            "y": 162
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 181,
+                                                            "y": 148
+                                                        },
+                                                        {
+                                                            "x": 188,
+                                                            "y": 146
+                                                        },
+                                                        {
+                                                            "x": 191,
+                                                            "y": 158
+                                                        },
+                                                        {
+                                                            "x": 184,
+                                                            "y": 160
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 189,
+                                                            "y": 146
+                                                        },
+                                                        {
+                                                            "x": 196,
+                                                            "y": 144
+                                                        },
+                                                        {
+                                                            "x": 199,
+                                                            "y": 156
+                                                        },
+                                                        {
+                                                            "x": 192,
+                                                            "y": 158
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 196,
+                                                            "y": 144
+                                                        },
+                                                        {
+                                                            "x": 203,
+                                                            "y": 142
+                                                        },
+                                                        {
+                                                            "x": 206,
+                                                            "y": 154
+                                                        },
+                                                        {
+                                                            "x": 199,
+                                                            "y": 156
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "pl"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 204,
+                                                            "y": 142
+                                                        },
+                                                        {
+                                                            "x": 206,
+                                                            "y": 141
+                                                        },
+                                                        {
+                                                            "x": 209,
+                                                            "y": 153
+                                                        },
+                                                        {
+                                                            "x": 207,
+                                                            "y": 154
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "!"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "STOP WOJNIE!\nSTOP NATO!\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.6297,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.618
+            },
+            {
+                "entityId": "/m/0rp3jyj",
+                "score": 0.5805
+            },
+            {
+                "entityId": "/m/0fch0p",
+                "score": 0.49995,
+                "description": "Social media"
+            },
+            {
+                "entityId": "/m/0svml3_",
+                "score": 0.4091
+            },
+            {
+                "entityId": "/m/02y1vz",
+                "score": 0.3956,
+                "description": "Facebook"
+            },
+            {
+                "entityId": "/m/09jcvs",
+                "score": 0.3936,
+                "description": "YouTube"
+            },
+            {
+                "entityId": "/t/2hbxlv8x14xrr",
+                "score": 0.2796
+            },
+            {
+                "entityId": "/g/11g0h1gd99",
+                "score": 0.27,
+                "description": "2019 Cadillac XTS W30 Coachbuilder Stretch Livery"
+            },
+            {
+                "entityId": "/g/11g0h1g_8r",
+                "score": 0.27,
+                "description": "2019 Cadillac XTS W20 Livery Package"
+            },
+            {
+                "entityId": "/m/03rlt",
+                "score": 0.263,
+                "description": "Internet"
+            },
+            {
+                "entityId": "/t/24bjj59_jbj9f",
+                "score": 0.2161
+            },
+            {
+                "entityId": "/g/1213bp4w",
+                "score": 0.214,
+                "description": "Communicatiemiddel"
+            },
+            {
+                "entityId": "/m/086dny",
+                "score": 0.13341,
+                "description": "Mark Zuckerberg"
+            },
+            {
+                "entityId": "/m/01_6j_",
+                "score": 0.040214997,
+                "description": "Alex Jones"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "http://ronpaulinstitute.org/media/31166/No-Nato.jpg?width=453px&height=301px"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.ronpaulinstitute.org/archives/featured-articles/2018/august/28/social-media-giants-enter-nato-service/",
+                "pageTitle": "The Ron Paul Institute for Peace and Prosperity : Social Media ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.ronpaulinstitute.org/media/31166/No-Nato.jpg?width=453px&height=301px"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.softpanorama.org/Skeptics/Political_skeptic/Corporatism/National_security_state/Intelligence_services/index.shtml",
+                "pageTitle": "The problem of control of intelligence services in democratic societies",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ronpaulinstitute.org/media/31166/No-Nato.jpg?width=453px&height=301px"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.softpanorama.org/Skeptics/Political_skeptic/Corporatism/National_security_state/Intelligence_services/is_national_security_state_gone_rogue.shtml",
+                "pageTitle": "Is national security state in the USA gone rogue ? - Softpanorama",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ronpaulinstitute.org/media/31166/No-Nato.jpg?width=453px&height=301px"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zejournal.mobi/index.php/news/show_detail/16075",
+                "pageTitle": "ZEjournal.mobi - Incroyable : Youtube sabote les vid\u00e9os de ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zejournal.mobi/index.php/news/show_detail/15650",
+                "pageTitle": "ZEjournal.mobi - La grande purge commence sur Internet",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zejournal.mobi/index.php/news/show_detail/15727",
+                "pageTitle": "ZEjournal.mobi - Les g\u00e9ants des m\u00e9dias sociaux entrent au service ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zejournal.mobi/index.php/news/show_detail/15016",
+                "pageTitle": "ZEjournal.mobi - Le site internet des imp\u00f4ts offre \u00e0 Google des ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.zejournal.mobi/index.php/news/show_detail/15452",
+                "pageTitle": "ZEjournal.mobi - \u00abVictime d&#39;un nouvel ordre moral\u00bb : YouTube ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.zejournal.mobi//media/images/post/2018/09/1535946219.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "http://gotteamdesigns.com/post/giants-botched-2-plays-snapshot-20170924-154-eagles",
+                "pageTitle": "Giants Botched 2 Plays Snapshot 20170924 154 Eagles ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ronpaulinstitute.org/media/31166/No-Nato.jpg?width=453px&height=301px"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://static.timesofisrael.com/www/uploads/2018/02/sep3-e1518449972155-640x400.jpg"
+            },
+            {
+                "url": "https://lanoirimage.com/wp-content/uploads/2017/08/Chris-Gampat-La-Noir-Image-Studio-portrait-Fujifilm-GFX-50s-Lake-1-of-1ISO-16001-125-sec-at-f-4.0-450x337.jpg"
+            },
+            {
+                "url": "http://www.davidbordwell.net/essays/img/041_soendsjail.jpg"
+            },
+            {
+                "url": "https://media4.s-nbcnews.com/j/newscms/2017_35/2138956/170831-langston-hughes-blk_8ea449b69135c0181a0fc11abbd5680c.1200;630;7;70;5.jpg"
+            },
+            {
+                "url": "https://media.wired.com/photos/5b15d352d09a372e164ce891/master/pass/ideas_salmon_twitter_power_users-FINAL.jpg"
+            },
+            {
+                "url": "https://repository.duke.edu/iipsrv/iipsrv.fcgi?IIIF=/srv/perkins/repo_deriv/multires_image/44/24/9c/a2/44249ca2-8a27-4615-b43f-a953459c6623/pct:5,5,90,90/600,/0/default.jpg"
+            },
+            {
+                "url": "http://ajitmenon.com/wp-content/gallery/M-Monochrom-Sample-Images/-1/L1001401.jpg"
+            },
+            {
+                "url": "https://media2.ntslive.co.uk/resize/1600x1600/d3e9147f-0ca1-46ef-b5c9-c70a406b70b3_1504828800.jpeg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "monochrome photography"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.9581147,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.4762353,
+                        "y": 0.666353
+                    },
+                    {
+                        "x": 0.84117657,
+                        "y": 0.666353
+                    },
+                    {
+                        "x": 0.84117657,
+                        "y": 0.99458826
+                    },
+                    {
+                        "x": 0.4762353,
+                        "y": 0.99458826
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6484591,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.8767255,
+                        "y": 0.76447266
+                    },
+                    {
+                        "x": 0.9973797,
+                        "y": 0.76447266
+                    },
+                    {
+                        "x": 0.9973797,
+                        "y": 0.99636954
+                    },
+                    {
+                        "x": 0.8767255,
+                        "y": 0.99636954
+                    }
+                ]
+            }
+        }
+    ]
+}

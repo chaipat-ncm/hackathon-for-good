@@ -1,0 +1,2030 @@
+{
+    "faceAnnotations": [
+        {
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 768,
+                        "y": 54
+                    },
+                    {
+                        "x": 864,
+                        "y": 54
+                    },
+                    {
+                        "x": 864,
+                        "y": 165
+                    },
+                    {
+                        "x": 768,
+                        "y": 165
+                    }
+                ]
+            },
+            "fdBoundingPoly": {
+                "vertices": [
+                    {
+                        "x": 766,
+                        "y": 74
+                    },
+                    {
+                        "x": 847,
+                        "y": 74
+                    },
+                    {
+                        "x": 847,
+                        "y": 155
+                    },
+                    {
+                        "x": 766,
+                        "y": 155
+                    }
+                ]
+            },
+            "landmarks": [
+                {
+                    "type": "LEFT_EYE",
+                    "position": {
+                        "x": 786.81244,
+                        "y": 103.97845,
+                        "z": -0.0005316172
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE",
+                    "position": {
+                        "x": 803.57086,
+                        "y": 104.68557,
+                        "z": -23.544888
+                    }
+                },
+                {
+                    "type": "LEFT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 783.50037,
+                        "y": 96.88156,
+                        "z": 9.417128
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_LEFT_EYEBROW",
+                    "position": {
+                        "x": 786.68805,
+                        "y": 97.07538,
+                        "z": -9.434875
+                    }
+                },
+                {
+                    "type": "LEFT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 794.8806,
+                        "y": 97.454765,
+                        "z": -20.913664
+                    }
+                },
+                {
+                    "type": "RIGHT_OF_RIGHT_EYEBROW",
+                    "position": {
+                        "x": 811.6496,
+                        "y": 98.06108,
+                        "z": -30.063776
+                    }
+                },
+                {
+                    "type": "MIDPOINT_BETWEEN_EYES",
+                    "position": {
+                        "x": 790.3461,
+                        "y": 103.51192,
+                        "z": -15.332945
+                    }
+                },
+                {
+                    "type": "NOSE_TIP",
+                    "position": {
+                        "x": 782.9529,
+                        "y": 120.00007,
+                        "z": -20.104874
+                    }
+                },
+                {
+                    "type": "UPPER_LIP",
+                    "position": {
+                        "x": 788.2423,
+                        "y": 130.53624,
+                        "z": -16.027931
+                    }
+                },
+                {
+                    "type": "LOWER_LIP",
+                    "position": {
+                        "x": 789.7343,
+                        "y": 140.62927,
+                        "z": -14.666714
+                    }
+                },
+                {
+                    "type": "MOUTH_LEFT",
+                    "position": {
+                        "x": 787.8867,
+                        "y": 134.60281,
+                        "z": -2.1451607
+                    }
+                },
+                {
+                    "type": "MOUTH_RIGHT",
+                    "position": {
+                        "x": 801.1254,
+                        "y": 135.14449,
+                        "z": -20.713095
+                    }
+                },
+                {
+                    "type": "MOUTH_CENTER",
+                    "position": {
+                        "x": 789.90564,
+                        "y": 135.25992,
+                        "z": -14.70019
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_RIGHT",
+                    "position": {
+                        "x": 796.5861,
+                        "y": 122.44005,
+                        "z": -20.04231
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_LEFT",
+                    "position": {
+                        "x": 787.39075,
+                        "y": 122.03987,
+                        "z": -7.115443
+                    }
+                },
+                {
+                    "type": "NOSE_BOTTOM_CENTER",
+                    "position": {
+                        "x": 788.29407,
+                        "y": 124.54426,
+                        "z": -16.1613
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 785.2586,
+                        "y": 101.91697,
+                        "z": -1.1322738
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 790.2681,
+                        "y": 104.31144,
+                        "z": -4.6477666
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 786.56476,
+                        "y": 105.87586,
+                        "z": -0.10536476
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 785.62134,
+                        "y": 103.926926,
+                        "z": 6.2695837
+                    }
+                },
+                {
+                    "type": "LEFT_EYE_PUPIL",
+                    "position": {
+                        "x": 785.963,
+                        "y": 103.907394,
+                        "z": -0.008316265
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_TOP_BOUNDARY",
+                    "position": {
+                        "x": 802.12225,
+                        "y": 102.609245,
+                        "z": -24.777315
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_RIGHT_CORNER",
+                    "position": {
+                        "x": 809.106,
+                        "y": 104.814285,
+                        "z": -26.745752
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_BOTTOM_BOUNDARY",
+                    "position": {
+                        "x": 803.4681,
+                        "y": 106.523994,
+                        "z": -23.732693
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_LEFT_CORNER",
+                    "position": {
+                        "x": 800.3628,
+                        "y": 104.775085,
+                        "z": -18.80584
+                    }
+                },
+                {
+                    "type": "RIGHT_EYE_PUPIL",
+                    "position": {
+                        "x": 803.2416,
+                        "y": 104.62145,
+                        "z": -24.295248
+                    }
+                },
+                {
+                    "type": "LEFT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 783.5617,
+                        "y": 93.406006,
+                        "z": -1.0767659
+                    }
+                },
+                {
+                    "type": "RIGHT_EYEBROW_UPPER_MIDPOINT",
+                    "position": {
+                        "x": 801.8554,
+                        "y": 94.16091,
+                        "z": -26.729685
+                    }
+                },
+                {
+                    "type": "LEFT_EAR_TRAGION",
+                    "position": {
+                        "x": 804.9248,
+                        "y": 118.220116,
+                        "z": 36.04338
+                    }
+                },
+                {
+                    "type": "RIGHT_EAR_TRAGION",
+                    "position": {
+                        "x": 843.1989,
+                        "y": 119.7296,
+                        "z": -17.64916
+                    }
+                },
+                {
+                    "type": "FOREHEAD_GLABELLA",
+                    "position": {
+                        "x": 789.90845,
+                        "y": 96.870605,
+                        "z": -15.810174
+                    }
+                },
+                {
+                    "type": "CHIN_GNATHION",
+                    "position": {
+                        "x": 792.74915,
+                        "y": 153.7311,
+                        "z": -12.121525
+                    }
+                },
+                {
+                    "type": "CHIN_LEFT_GONION",
+                    "position": {
+                        "x": 796.68207,
+                        "y": 136.78253,
+                        "z": 26.813356
+                    }
+                },
+                {
+                    "type": "CHIN_RIGHT_GONION",
+                    "position": {
+                        "x": 831.28534,
+                        "y": 138.31657,
+                        "z": -21.715696
+                    }
+                }
+            ],
+            "rollAngle": 1.4076366,
+            "panAngle": -54.484226,
+            "tiltAngle": -0.66071576,
+            "detectionConfidence": 0.89449286,
+            "landmarkingConfidence": 0.114604495,
+            "joyLikelihood": "VERY_UNLIKELY",
+            "sorrowLikelihood": "VERY_UNLIKELY",
+            "angerLikelihood": "VERY_UNLIKELY",
+            "surpriseLikelihood": "VERY_UNLIKELY",
+            "underExposedLikelihood": "VERY_UNLIKELY",
+            "blurredLikelihood": "VERY_UNLIKELY",
+            "headwearLikelihood": "VERY_UNLIKELY"
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.98358566,
+            "topicality": 0.98358566
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.9525591,
+            "topicality": 0.9525591
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.94140506,
+            "topicality": 0.94140506
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.89649904,
+            "topicality": 0.89649904
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.8463804,
+            "topicality": 0.8463804
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.8334863,
+            "topicality": 0.8334863
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.80408525,
+            "topicality": 0.80408525
+        },
+        {
+            "mid": "/m/012f08",
+            "description": "motor vehicle",
+            "score": 0.7171346,
+            "topicality": 0.7171346
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6318908,
+            "topicality": 0.6318908
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.57504827,
+            "topicality": 0.57504827
+        },
+        {
+            "mid": "/m/02h66g5",
+            "description": "military person",
+            "score": 0.5664836,
+            "topicality": 0.5664836
+        },
+        {
+            "mid": "/m/012qdp",
+            "description": "military officer",
+            "score": 0.5640042,
+            "topicality": 0.5640042
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.546761,
+            "topicality": 0.546761
+        },
+        {
+            "mid": "/m/0gty6zf",
+            "description": "law enforcement",
+            "score": 0.54228115,
+            "topicality": 0.54228115
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 197,
+                        "green": 192,
+                        "blue": 183
+                    },
+                    "score": 0.2929242,
+                    "pixelFraction": 0.3239705
+                },
+                {
+                    "color": {
+                        "red": 164,
+                        "green": 159,
+                        "blue": 149
+                    },
+                    "score": 0.14079116,
+                    "pixelFraction": 0.1507167
+                },
+                {
+                    "color": {
+                        "red": 169,
+                        "green": 157,
+                        "blue": 139
+                    },
+                    "score": 0.12996651,
+                    "pixelFraction": 0.09313116
+                },
+                {
+                    "color": {
+                        "red": 199,
+                        "green": 190,
+                        "blue": 174
+                    },
+                    "score": 0.11080281,
+                    "pixelFraction": 0.08484547
+                },
+                {
+                    "color": {
+                        "red": 121,
+                        "green": 119,
+                        "blue": 111
+                    },
+                    "score": 0.08122595,
+                    "pixelFraction": 0.093876876
+                },
+                {
+                    "color": {
+                        "red": 87,
+                        "green": 85,
+                        "blue": 77
+                    },
+                    "score": 0.07206499,
+                    "pixelFraction": 0.08343691
+                },
+                {
+                    "color": {
+                        "red": 55,
+                        "green": 54,
+                        "blue": 48
+                    },
+                    "score": 0.04081106,
+                    "pixelFraction": 0.04681415
+                },
+                {
+                    "color": {
+                        "red": 22,
+                        "green": 21,
+                        "blue": 16
+                    },
+                    "score": 0.03313974,
+                    "pixelFraction": 0.041842736
+                },
+                {
+                    "color": {
+                        "red": 128,
+                        "green": 120,
+                        "blue": 102
+                    },
+                    "score": 0.03288562,
+                    "pixelFraction": 0.023697075
+                },
+                {
+                    "color": {
+                        "red": 229,
+                        "green": 223,
+                        "blue": 213
+                    },
+                    "score": 0.02303184,
+                    "pixelFraction": 0.023779932
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 999
+                        },
+                        {
+                            "x": 999,
+                            "y": 540
+                        },
+                        {
+                            "y": 540
+                        }
+                    ]
+                },
+                "confidence": 1,
+                "importanceFraction": 0.45999998
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/02bt3h",
+                "score": 1.0968046,
+                "description": "Logar Province"
+            },
+            {
+                "entityId": "/m/0c6cwg",
+                "score": 0.87689996,
+                "description": "Taliban insurgency"
+            },
+            {
+                "entityId": "/m/07jqh",
+                "score": 0.7145,
+                "description": "Taliban"
+            },
+            {
+                "entityId": "/m/0h546k4",
+                "score": 0.6688,
+                "description": "Afghan National Security Forces"
+            },
+            {
+                "entityId": "/m/09c7w0",
+                "score": 0.6378,
+                "description": "United States of America"
+            },
+            {
+                "entityId": "/m/011btfzx",
+                "score": 0.5782,
+                "description": "Afghan Armed Forces"
+            },
+            {
+                "entityId": "/m/02qvtty",
+                "score": 0.533,
+                "description": "National Directorate of Security"
+            },
+            {
+                "entityId": "/m/063zy3z",
+                "score": 0.53145,
+                "description": "Counterinsurgency in Northern Afghanistan"
+            },
+            {
+                "entityId": "/t/26tx7xy9_tgvr",
+                "score": 0.5001
+            },
+            {
+                "entityId": "/m/02070z",
+                "score": 0.4053,
+                "description": "Killed in action"
+            },
+            {
+                "entityId": "/m/012kb2",
+                "score": 0.3842,
+                "description": "Civilian"
+            },
+            {
+                "entityId": "/m/078f4",
+                "score": 0.3812,
+                "description": "Suicide attack"
+            },
+            {
+                "entityId": "/m/0j9m5nt",
+                "score": 0.3694,
+                "description": "TOLOnews"
+            },
+            {
+                "entityId": "/m/04n6mxr",
+                "score": 0.3586,
+                "description": "Pajhwok Afghan News"
+            },
+            {
+                "entityId": "/m/0jdd",
+                "score": 0.044112,
+                "description": "Afghanistan"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://i.ytimg.com/vi/_J-9isPQLnI/maxresdefault.jpg"
+            },
+            {
+                "url": "http://www.dagen.no/Nyheter/06/03/2016/314778-o29lv9-tae16521.jpg/ALTERNATES/WIDE_1140/tae16521.jpg"
+            },
+            {
+                "url": "https://baztab.news/images/2018/11/816911.jpg"
+            },
+            {
+                "url": "https://00.imgmini.eastday.com/mobile/20180514/9dc05801e9d288ed254ce9c41d5a1d49_wmk.jpeg"
+            },
+            {
+                "url": "https://didpress.com/en/wp-content/uploads/2018/06/photo_2018-06-24_14-25-37.jpg"
+            },
+            {
+                "url": "https://baztab.news/images/2018/09/739774.jpg"
+            },
+            {
+                "url": "http://www.wionews.com/sites/default/files/styles/story_page/public/2018/09/11/29601-619996-afghanistan-kabul-20170925022726.jpg?itok=mPvjZImW"
+            },
+            {
+                "url": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+            },
+            {
+                "url": "https://www.vihoknews.com/wp-content/uploads/2017/09/img_2041.jpg"
+            },
+            {
+                "url": "https://rahapress.af/wp-content/uploads/%D9%86%D8%A7%D8%A7%D9%85%D9%86%DB%8C-%D8%B1%D8%A7%D9%87-%D8%AF%D8%B1-%D9%81%D8%B1%D8%A7%D9%87.jpg"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-S66EF8fCw0A/Vu4Xbupf4vI/AAAAAAACM6I/8jDCd0gSRcUkfsvhgduASuGc84e3S9UpA/s1600/IMG_0737.JPG"
+            },
+            {
+                "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999.jpg"
+            },
+            {
+                "url": "http://media.ws.irib.ir/image/4bpu2639e3220919mjg_800C450.jpg"
+            },
+            {
+                "url": "https://baztab.news/images/2018/06/629189.jpg"
+            },
+            {
+                "url": "http://www.wionews.com/sites/default/files/2018/09/11/29601-619996-afghanistan-kabul-20170925022726.jpg"
+            },
+            {
+                "url": "https://cdn1.img.af.sputniknews.com/images/144/47/1444796.jpg"
+            },
+            {
+                "url": "http://ste.india.com/sites/default/files/2017/08/27/619996-afghanistan-kabul.jpg"
+            },
+            {
+                "url": "https://www.dynamitenews.com/images/2018/03/12/28-taliban-militants-killed-in-afghanistan/5aa663afd8c33.jpeg"
+            },
+            {
+                "url": "http://sana.af/wp-content/uploads/2018/06/sana-ghazni-4.jpg"
+            },
+            {
+                "url": "https://vid.alarabiya.net/images/2017/07/13/8a161b69-44d5-4732-893f-b7b8a60b543e/8a161b69-44d5-4732-893f-b7b8a60b543e_16x9_600x338.jpg"
+            },
+            {
+                "url": "https://post-phinf.pstatic.net/MjAxNzA2MjJfMTgw/MDAxNDk4MTExMjg2MDIw.W2--kJHyCJDYWDVgsMqFXWtBsYDEwfCV569_9C5f6lwg.ukzePEdYLsVm8v8ZcsRRwqumKgbIWBm7mLPEMn2mXegg.JPEG/10.jpg?type=w1200"
+            },
+            {
+                "url": "http://img.daily.co.kr/@files/www.daily.co.kr/content_watermark/life/2017/20170622/499c52abe714fb578d7f22c505ecd949.jpg"
+            },
+            {
+                "url": "https://www.conclusion.com.ar/wp-content/uploads/2016/09/Afganistan-450x270.jpg"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-S66EF8fCw0A/Vu4Xbupf4vI/AAAAAAACM6I/8jDCd0gSRcUkfsvhgduASuGc84e3S9UpA/s400/IMG_0737.JPG"
+            },
+            {
+                "url": "https://www.dagen.no/Nyheter/06/03/2016/314778-o29lv9-tae16521.jpg/ALTERNATES/WIDE_480/tae16521.jpg"
+            },
+            {
+                "url": "https://rta.org.af/wp-content/uploads/2018/06/ArmyAF-375x195.jpg"
+            },
+            {
+                "url": "https://www.mynewshub.tv/wp-content/uploads/2018/10/5aa663afd8c33-308x180.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/thefrontierpost.com/wp-content/uploads/2018/08/11-gunmen-killed-in-Nangarhar-operation.jpg?fit=275%2C183&ssl=1"
+            },
+            {
+                "url": "http://didpress.com/en/wp-content/uploads/2018/06/photo_2018-06-24_14-25-37-300x162.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/23/afghanistan.jpg"
+            },
+            {
+                "url": "https://images.financialexpress.com/2018/09/afghanistan-war-reu1.jpg"
+            },
+            {
+                "url": "http://static.t13.cl/images/sizes/1200x675/1456569597-afga.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/3DBD9B8D-F3D0-4513-B5F5-37B5756D2A92_cx0_cy4_cw0_w1200_r1_s.jpg"
+            },
+            {
+                "url": "https://d1u4oo4rb13yy8.cloudfront.net/article/50574-ircsshmymk-1525608245.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/3DBD9B8D-F3D0-4513-B5F5-37B5756D2A92_cx0_cy4_cw0_w1080_h608.jpg"
+            },
+            {
+                "url": "https://gdb.voanews.com/3DBD9B8D-F3D0-4513-B5F5-37B5756D2A92_cx0_cy4_cw0_w1023_r1_s.jpg"
+            },
+            {
+                "url": "http://www.aljazeera.com/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+            },
+            {
+                "url": "https://i1.prth.gr/images/963x541/files/2018-08-28/afghanistan.jpg"
+            },
+            {
+                "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2016/11/11/1113talibanface01.jpg"
+            },
+            {
+                "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119523951&r=LYNXNPEC1L1AP&w=940"
+            },
+            {
+                "url": "https://new-img.patrika.com/upload/2018/09/03/up_3353969_835x547-m.jpg"
+            },
+            {
+                "url": "https://cdn.hispantv.com/hispanmedia/files/images/thumbnail/20170830/12483788_xl.jpg"
+            },
+            {
+                "url": "http://hanoimoi.com.vn/Uploads/maichi/2017/2/18/download.jpg"
+            },
+            {
+                "url": "http://harekkhabar.com/wp-content/uploads/2018/05/nn.jpg"
+            },
+            {
+                "url": "http://www.darinews.com/wp-content/uploads/598919-748x541.jpg"
+            },
+            {
+                "url": "http://www.prensa-latina.cu/images/2018/septiembre/19/G.Afga.jpg"
+            },
+            {
+                "url": "http://media.ws.irib.ir/image/4bk5389357a0c86un4_800C450.jpg"
+            },
+            {
+                "url": "https://timesofislamabad.com/digital_images/large/2017-01-14/top-afghan-taliban-commander-killed-by-afghan-national-army-1513927708-9933.jpg"
+            },
+            {
+                "url": "http://opais.sapo.mz/upload1/files/2018/Agosto/Semana%202/ALQAIDALIDERMORTO.jpg"
+            },
+            {
+                "url": "https://c.tribune.com.pk/2018/04/1686605-afghanistanstory___-1523857892-466-640x480.jpg"
+            },
+            {
+                "url": "https://c.tribune.com.pk/2018/04/1689469-afghanistanstory___x-1524118855-268-640x480.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/pakobserver.net/wp-content/uploads/2018/04/1686253-afghanistanstory___-1523785926-135-640x480.jpg?fit=640%2C480&ssl=1"
+            },
+            {
+                "url": "https://i0.wp.com/pakobserver.net/wp-content/uploads/2018/04/1686253-afghanistanstory___-1523785926-135-640x480.jpg?fit=640%2C480&ssl=1&w=640"
+            },
+            {
+                "url": "https://www.xuehua.us/wp-content/uploads/2018/04/f4efa4d1.jpg"
+            },
+            {
+                "url": "https://images.financialexpress.com/2018/09/afghanistan-war-reu.jpg"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/572e28de91058422008c1685-750-375.jpg"
+            },
+            {
+                "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates.jpg"
+            },
+            {
+                "url": "https://c.tribune.com.pk/2018/04/1686253-afghanistanstory___-1523785926-135-160x120.jpg"
+            },
+            {
+                "url": "http://www.stanradar.com/upload/image/pic_9def7ced37282e2d5912165672fe665d.jpg"
+            },
+            {
+                "url": "https://scontent-lax3-1.cdninstagram.com/vp/9551441133618c60dcd9cdea9f0815df/5C2C449F/t51.2885-15/e35/s480x480/39232789_1937401649897115_7109226371682926592_n.jpg"
+            },
+            {
+                "url": "https://i1.prth.gr/images/640x360share/files/2018-08-28/afghanistan.jpg"
+            },
+            {
+                "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates-660x330.jpg"
+            },
+            {
+                "url": "https://baztab.news/images/2018/08/727564.jpg"
+            },
+            {
+                "url": "https://jang.com.pk/assets/front/tiny_mce/source/2017/September/24-09-2017/Afghan-Logar-222.jpg"
+            },
+            {
+                "url": "https://d1u4oo4rb13yy8.cloudfront.net/book/50574-ircsshmymk-1525608245.jpg"
+            },
+            {
+                "url": "https://img.europapress.es/fotoweb/fotonoticia_20160422023411_500.jpg"
+            },
+            {
+                "url": "http://harekkhabar.com/wp-content/uploads/2018/05/nn-440x300.jpg"
+            },
+            {
+                "url": "http://opais.sapo.mz/upload1/files/2018/Agosto/Semana%202/ALQAIDALIDERMORTOFB.jpg"
+            },
+            {
+                "url": "https://www.mynewshub.tv/wp-content/uploads/2018/10/5aa663afd8c33-434x259.jpg"
+            },
+            {
+                "url": "http://media.ws.irib.ir/image/4bmx9b83299e2cqk2c_440C247.jpg"
+            },
+            {
+                "url": "https://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+            },
+            {
+                "url": "https://timesofislamabad.com/digital_images/medium/2017-01-14/top-afghan-taliban-commander-killed-by-afghan-national-army-1513927708-9933.jpg"
+            },
+            {
+                "url": "https://amp.businessinsider.com/images/572e28d291058425008c1742-320-240.jpg"
+            },
+            {
+                "url": "https://i1.wp.com/www.cnewsbd.com/wp-content/uploads/2018/01/asedfsf.jpg?resize=322%2C230&ssl=1"
+            },
+            {
+                "url": "https://i0.wp.com/opais.co.ao/wp-content/uploads/2018/08/talisba.png?fit=700%2C453&ssl=1&resize=350%2C200"
+            },
+            {
+                "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/operation_4.jpg?itok=VLbMMaS8"
+            },
+            {
+                "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/10/43-militants-killed-in-clashes-with-afghan-forces-ministry-f622e2715ad29f3a90035eb2ab8f46f7-310x165.jpg"
+            },
+            {
+                "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/12/164319_9513361_updates-310x165.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2018/09/Military-operations-underway-in-Khak-Jabar-district-of-Kabul.jpg?fit=308%2C164&ssl=1"
+            },
+            {
+                "url": "https://i0.wp.com/thefrontierpost.com/wp-content/uploads/2018/09/Military-operations-underway-in-Khak-Jabar-district-of-Kabul.jpg?fit=300%2C160&ssl=1"
+            },
+            {
+                "url": "http://tkg.af/english/wp-content/uploads/sites/2/2018/08/%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D9%85%D9%84%DB%8C-1-300x160.jpg"
+            },
+            {
+                "url": "http://www.newsonair.nic.in/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+            },
+            {
+                "url": "https://media.mehrnews.com/d/2018/05/29/2/2794029.jpg"
+            },
+            {
+                "url": "http://canal7slp.com/wp-content/uploads/2018/10/1728-150x150.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/www.akhandindia.com/wp-content/uploads/2018/05/e5c4cd5a2e37ea4680a64c074d2eee95.jpg?resize=150%2C150"
+            },
+            {
+                "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/1035479011-150x150.jpg"
+            },
+            {
+                "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999-150x150.jpg"
+            },
+            {
+                "url": "https://new-img.patrika.com/upload/2018/09/03/up_3353969_176x115-m.jpg"
+            },
+            {
+                "url": "https://c.tribune.com.pk/2016/03/1061423-USTALIBAN-1457416465-972-160x120.jpg"
+            },
+            {
+                "url": "https://www.mynewshub.tv/wp-content/uploads/2018/10/5aa663afd8c33-150x108.jpg"
+            },
+            {
+                "url": "http://mediamall.am/timthumb.php?src=upload/187162.png&w=150&h=100&mt=1523106192"
+            },
+            {
+                "url": "https://gdb.voanews.com/3DBD9B8D-F3D0-4513-B5F5-37B5756D2A92_cx0_cy4_cw0_w144_r1.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.newsonair.com/Main-News-Details.aspx?id=352962",
+                "pageTitle": "<b>Afghanistan</b>: At least 27 members of security forces <b>killed</b> in Taliban ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.com/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.newsonair.com/Main-News-Details.aspx?id=355224",
+                "pageTitle": "16 <b>killed</b> in Taliban attack on army base in <b>Afghanistan</b> - AIR News",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.com/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.newsonair.com/Main-News-Details.aspx?id=351570",
+                "pageTitle": "<b>Afghanistan</b>: At least 88 civilians and security personnel <b>killed</b> in two ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.com/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsonair.com/Main-News-Details.aspx?id=355418",
+                "pageTitle": "<b>Afghanistan</b>: At least 35 security personnel <b>killed</b> in clashes with ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://newsonair.com/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ariananews.af/74-terrorists-killed-in-afghanistan-over-past-24-hours-mod/",
+                "pageTitle": "74 Terrorists <b>Killed</b> in <b>Afghanistan</b> Over Past 24 Hours: MoD | Ariana ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates.jpg"
+                    },
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates-660x330.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.businessinsider.com/r-shooters-in-afghan-uniform-kill-two-nato-soldiers-2016-5",
+                "pageTitle": "Shooters in <b>Afghan</b> uniform <b>kill</b> two NATO soldiers - Business Insider",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://amp.businessinsider.com/images/572e28de91058422008c1685-750-375.jpg"
+                    },
+                    {
+                        "url": "https://amp.businessinsider.com/images/572e28d291058425008c1742-320-240.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.newsonair.nic.in/Main-News-Details.aspx?id=352411",
+                "pageTitle": "Helicopter crashes in <b>Afghanistan</b>;3 <b>killed</b> - AIR News",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.nic.in/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/28-insurgents-killed-afghan-operations",
+                "pageTitle": "28 Insurgents <b>Killed</b> in <b>Afghan</b> Operations | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/operation_4.jpg?itok=VLbMMaS8"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsonair.nic.in/Main-News-Details.aspx?id=355224",
+                "pageTitle": "16 <b>killed</b> in Taliban attack on army base in <b>Afghanistan</b> - AIR News",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://newsonair.nic.in/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.newsonair.nic.in/Main-News-Details.aspx?id=351117",
+                "pageTitle": "<b>Afghanistan</b>: Suicide bomber <b>killed</b> three foreign soldiers in Charikar",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.nic.in/writereaddata/News_Pictures/INT/2018/Jun/NPIC-201863021923.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.financialexpress.com/world-news/afghan-journalists-dying-in-record-numbers-to-report-the-war/1321237/",
+                "pageTitle": "<b>Afghanistan</b>: Journalists dying in record numbers to report the war ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.financialexpress.com/2018/09/afghanistan-war-reu1.jpg"
+                    },
+                    {
+                        "url": "https://images.financialexpress.com/2018/09/afghanistan-war-reu.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/53-insurgents-including-20-daesh-militants-killed",
+                "pageTitle": "53 Insurgents, Including 20 Daesh Militants, <b>Killed</b> | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/operation_4.jpg?itok=VLbMMaS8"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/eight-taliban-killed-chamtal-district-balkh",
+                "pageTitle": "Eight Taliban <b>Killed</b> in Chamtal District of Balkh | TOLOnews",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/operation_4.jpg?itok=VLbMMaS8"
+                    }
+                ]
+            },
+            {
+                "url": "https://tribune.com.pk/story/1687394/1-afghanistan-returns-captured-pakistani-soldier-5-bodies/",
+                "pageTitle": "<b>Afghanistan</b> returns captured Pakistani soldier, five bodies | The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686253-afghanistanstory___-1523785926-135-160x120.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.tolonews.com/afghanistan/57-insurgents-incl-daesh-killed-afghan-forces-operations",
+                "pageTitle": "57 Insurgents Incl Daesh <b>Killed</b> in <b>Afghan</b> Forces Operations ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.tolonews.com/sites/default/files/styles/also_in_the_news_image/public/operation_4.jpg?itok=VLbMMaS8"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.youtube.com/watch?v=_J-9isPQLnI",
+                "pageTitle": "Army airstrikes <b>kill</b> 11 Taliban insurgents in <b>Afghanistan</b> - YouTube",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/_J-9isPQLnI/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.aljazeera.com/indepth/features/2016/02/taliban-obstacles-afghanistan-peace-talks-160225095920107.html",
+                "pageTitle": "The Taliban and obstacles to <b>Afghanistan</b> peace talks | War ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.aljazeera.com/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/asia/201708301056920347-afghanistan-logar-us-airstrike/",
+                "pageTitle": "At Least 28 Civilians <b>Killed</b> in US Airstrike in <b>Afghanistan</b> - Reports ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn4.img.sputniknews.com/images/103547/90/1035479000.jpg"
+                    },
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/103547/88/1035478891.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/middleeast/201606061040828644-photojournalist-interpreter-killed-afghanistan/",
+                "pageTitle": "US Photojournalist, Interpreter <b>Killed</b> in <b>Afghanistan</b> - Sputnik ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn4.img.sputniknews.com/images/103547/90/1035479000.jpg"
+                    },
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/103547/88/1035478891.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tribune.com.pk/story/1686253/1-two-fc-soldiers-martyred-five-injured-afghan-cross-border-attack/",
+                "pageTitle": "Two FC soldiers martyred in <b>Afghan</b> cross-border attack | The ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686253-afghanistanstory___-1523785926-135-160x120.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ariananews.af/tag/daesh/",
+                "pageTitle": "Daesh | Ariana News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/12/164319_9513361_updates-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tribune.com.pk/story/1686605/6-afghanistan-next-caliphate/",
+                "pageTitle": "Is <b>Afghanistan</b> the next caliphate? | The Express Tribune",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686605-afghanistanstory___-1523857892-466-640x480.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ariananews.af/tag/afghan-forces/page/2/",
+                "pageTitle": "<b>Afghan</b> Forces | Ariana News - Part 2",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/10/43-militants-killed-in-clashes-with-afghan-forces-ministry-f622e2715ad29f3a90035eb2ab8f46f7-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/asia/201602281035478930-afghan-forces-taliban-militants/",
+                "pageTitle": "<b>Afghan</b> Forces <b>Kill</b>, Wound Nearly 100 Taliban Militants - Sputnik ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn4.img.sputniknews.com/images/103547/90/1035479000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.islamedianalysis.info/afghanistan-security-forces-killed-50-talibans-in-southern-kandahar/",
+                "pageTitle": "<b>Afghanistan</b>: security forces <b>killed</b> 50 Talibans in southern Kandahar",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.islamedianalysis.info/wp-content/uploads/2018/02/619996-afghanistan-kabul.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://ariananews.af/tag/logar/",
+                "pageTitle": "Logar | Ariana News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/10/43-militants-killed-in-clashes-with-afghan-forces-ministry-f622e2715ad29f3a90035eb2ab8f46f7-310x165.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.wionews.com/south-asia/fifteen-taliban-insurgents-killed-in-afghan-security-forces-operation-20645",
+                "pageTitle": "15 Taliban fighters <b>killed</b> in <b>Afghan</b> operation | wionews.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.wionews.com/sites/default/files/styles/story_page/public/2018/09/11/29601-619996-afghanistan-kabul-20170925022726.jpg?itok=mPvjZImW"
+                    },
+                    {
+                        "url": "http://www.wionews.com/sites/default/files/2018/09/11/29601-619996-afghanistan-kabul-20170925022726.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/11-gunmen-killed-in-nangarhar-operation/",
+                "pageTitle": "11 gunmen <b>killed</b> in Nangarhar operation - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/thefrontierpost.com/wp-content/uploads/2018/08/11-gunmen-killed-in-Nangarhar-operation.jpg?fit=275%2C183&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://pakobserver.net/2-fc-troops-martyred-5-hurt-in-attack-from-afghanistan/",
+                "pageTitle": "2 FC troops martyred, 5 hurt in attack from <b>Afghanistan</b> \u2013 Daily ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://i0.wp.com/pakobserver.net/wp-content/uploads/2018/04/1686253-afghanistanstory___-1523785926-135-640x480.jpg?fit=640%2C480&ssl=1&w=640"
+                    },
+                    {
+                        "url": "https://i0.wp.com/pakobserver.net/wp-content/uploads/2018/04/1686253-afghanistanstory___-1523785926-135-640x480.jpg?fit=640%2C480&ssl=1"
+                    },
+                    {
+                        "url": "https://pakobserver.net/wp-content/uploads/2018/04/1686253-afghanistanstory___-1523785926-135-640x480.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-afghanistan-army-idUSKCN0VV2J4",
+                "pageTitle": "NATO wants <b>Afghan</b> forces to do less defending, more attacking ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119523951&r=LYNXNPEC1L1AP&w=940"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/afghanistan/page/208/?page=3",
+                "pageTitle": "<b>Afghanistan</b> Archives - Page 208 of 237 - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2017/11/Afghan-gnfight-with-taliban.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tkg.af/english/",
+                "pageTitle": "The Killid Group - Tkg.af",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tkg.af/english/wp-content/uploads/sites/2/2018/08/%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D9%85%D9%84%DB%8C-1-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://sputniknews.com/middleeast/201605111039410984-afghan-army-anti-terrorist-operations/",
+                "pageTitle": "<b>Afghan</b> Army Kills 12 Militants During Anti-Terrorist Operations ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://cdn4.img.sputniknews.com/images/103547/90/1035479000.jpg"
+                    },
+                    {
+                        "url": "https://cdn5.img.sputniknews.com/images/103547/88/1035478891.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://tribune.com.pk/story/1697533/1-firing-incident-four-killed-south-waziristan/",
+                "pageTitle": "Firing incident: Four <b>killed</b> in South Waziristan | The Express Tribune",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686253-afghanistanstory___-1523785926-135-160x120.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.theworldweekly.com/newswire/view/1284/wave-of-taliban-bombings-kills-29-people-ahead-of-peace-talks",
+                "pageTitle": "Wave of Taliban bombings kills 29 people ahead of peace talks ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.aljazeera.com/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://zeenews.india.com/world/afghan-security-forces-kill-21-militants-in-helmand-province-2036904.html",
+                "pageTitle": "<b>Afghan</b> security forces <b>kill</b> 21 militants in Helmand province | World ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ste.india.com/sites/default/files/2017/08/27/619996-afghanistan-kabul.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://intelligencebriefs.com/senior-taliban-leader-killed-in-eastern-afgan-province-of-laghman/",
+                "pageTitle": "Senior Taliban Leader <b>Killed</b> in Eastern Afgan Province of Laghman ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/1035479011-150x150.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-afghanistan-army/nato-wants-afghan-forces-to-do-less-defending-more-attacking-idUSKCN0VV2J4",
+                "pageTitle": "NATO wants <b>Afghan</b> forces to do less defending, more attacking",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119523951&r=LYNXNPEC1L1AP&w=940"
+                    }
+                ]
+            },
+            {
+                "url": "https://timesofislamabad.com/14-Jan-2017/top-afghan-taliban-commander-killed-by-afghan-national-army",
+                "pageTitle": "Top <b>Afghan</b> Taliban Commander <b>killed</b> by <b>Afghan</b> National Army",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://timesofislamabad.com/digital_images/medium/2017-01-14/top-afghan-taliban-commander-killed-by-afghan-national-army-1513927708-9933.jpg"
+                    },
+                    {
+                        "url": "https://timesofislamabad.com/digital_images/large/2017-01-14/top-afghan-taliban-commander-killed-by-afghan-national-army-1513927708-9933.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.newsweek.com/nolan-peterson-face-face-taliban-fighter-520189",
+                "pageTitle": "Nolan Peterson: Face To Face With a Taliban Fighter - Newsweek",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2016/11/11/1113talibanface01.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.didpress.com/en/2018/06/24/taliban-red-unit-commander-along-16-members-killed-faryab-209-shaheen-corps/",
+                "pageTitle": "Taliban Red Unit Commander along with 16 Members <b>Killed</b> in ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://didpress.com/en/wp-content/uploads/2018/06/photo_2018-06-24_14-25-37.jpg"
+                    },
+                    {
+                        "url": "http://didpress.com/en/wp-content/uploads/2018/06/photo_2018-06-24_14-25-37-300x162.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/afghanistan/page/187/",
+                "pageTitle": "<b>Afghanistan</b> Archives - Page 187 of 215 - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2017/11/Afghan-gnfight-with-taliban.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thefrontierpost.com/category/28/Afghanistan&/page/189/",
+                "pageTitle": "<b>Afghanistan</b> Archives - Page 189 of 218 - The Frontier Post",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://thefrontierpost.com/wp-content/uploads/2017/11/Afghan-gnfight-with-taliban.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.dynamitenews.com/story/28-taliban-militants-killed-in-afghanistan",
+                "pageTitle": "28 Taliban militants <b>killed</b> in <b>Afghanistan</b> - Dynamite News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.dynamitenews.com/images/2018/03/12/28-taliban-militants-killed-in-afghanistan/5aa663afd8c33.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://en.news-front.info/2017/08/30/at-least-28-civilians-killed-in-us-airstrike-in-afghanistan/",
+                "pageTitle": "At Least 28 Civilians <b>Killed</b> in US Airstrike in <b>Afghanistan</b> - News Front",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://en.news-front.info/wp-content/uploads/2017/08/15-16-32-1035479000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://intelligencebriefs.com/189-isis-fighters-killed-in-nangarhar/",
+                "pageTitle": "189 ISIS Fighters <b>Killed</b> In Nangarhar \u2013 Strategic Intelligence Service",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999-150x150.jpg"
+                    },
+                    {
+                        "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://baztab.news/source/51",
+                "pageTitle": "The Killid Group Articles in Baztab News",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://baztab.news/images/2018/08/727564.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://iblagh.com/en/19-isis-terrorists-killed-afghanistans-army-operation-nangarhar/",
+                "pageTitle": "19 ISIS Terrorists <b>Killed</b> in <b>Afghanistan&#39;s</b> Army Operation in Nangarhar",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://iblagh.com/en/wp-content/uploads/2017/01/seventeen-deash.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.sinodefenceforum.com/afghanistan-military-news.t8050/page-12",
+                "pageTitle": "<b>Afghanistan</b> Military &amp; News | Page 12 | China Defence Forum",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.dynamitenews.com/images/2018/03/12/28-taliban-militants-killed-in-afghanistan/5aa663afd8c33.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ibtimes.com/isis-afghanistan-us-airstrikes-afghan-forces-target-islamic-state-group-eastern-2319176",
+                "pageTitle": "ISIS In <b>Afghanistan</b>: US Airstrikes, <b>Afghan</b> Forces Target Islamic ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/23/afghanistan.jpg"
+                    },
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.didpress.com/en/2018/06/24/taliban-red-unit-commander-along-16-members-killed-faryab-209-shaheen-corps/photo_2018-06-24_14-25-37/",
+                "pageTitle": "photo_2018-06-24_14-25-37 - DID PRESS AGENCYDID PRESS ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://didpress.com/en/wp-content/uploads/2018/06/photo_2018-06-24_14-25-37.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newztoday.net/terrorist-behind-attacks-on-pakistani-forces-killed-in-afghanistan/",
+                "pageTitle": "Terrorist behind attacks on Pakistani forces <b>killed</b> in <b>Afghanistan</b> ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://newztoday.net/wp-content/uploads/2017/10/164319_9513361_updates.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://warnewsupdates.blogspot.com/2017/04/afghanistan-war-news-updates-april-19.html",
+                "pageTitle": "<b>Afghanistan</b> War News Updates -- April 19, 2017",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://2.bp.blogspot.com/-S66EF8fCw0A/Vu4Xbupf4vI/AAAAAAACM6I/8jDCd0gSRcUkfsvhgduASuGc84e3S9UpA/s1600/IMG_0737.JPG"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/killing-taliban-39.html",
+                "pageTitle": "<b>Killing</b> Taliban | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/_J-9isPQLnI/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.reuters.com/article/us-afghanistan-army-idUSKCN0VV2J4?feedType=RSS&feedName=worldNews",
+                "pageTitle": "NATO wants <b>Afghan</b> forces to do less defending, more attacking",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20160222&t=2&i=1119523951&r=LYNXNPEC1L1AP&w=1680"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.aljazeera.com/indepth/opinion/profile/hashmat-moslih.html",
+                "pageTitle": "Hashmat Moslih | Al Jazeera",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.aljazeera.com/mritems/imagecache/mbdresplarge/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/terrorists-killed-e2.html",
+                "pageTitle": "Terrorists <b>Killed</b> | www.picswe.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://baztab.news/article/727564",
+                "pageTitle": "Security Forces Inflict Heavy Casualties to Taliban in Ghormach ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://baztab.news/images/2018/08/727564.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thecsspoint.com/is-afghanistan-the-next-caliphate-by-syed-sadam-hussain-shah/",
+                "pageTitle": "Is <b>Afghanistan</b> the next caliphate By Syed Sadam Hussain Shah ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thecsspoint.com/wp-content/uploads/2018/04/001-53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tkg.af/english/2018/08/27/security-forces-inflict-heavy-casualties-taliban-ghormach-qaisar-route/",
+                "pageTitle": "Security Forces Inflict Heavy Casualties to Taliban in Ghormach ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tkg.af/english/wp-content/uploads/sites/2/2018/08/%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D9%85%D9%84%DB%8C-1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://intelligencebriefs.com/author/shmuel-yosef-agnon/page/115/",
+                "pageTitle": "Shmuel Yosef Agnon \u2013 Page 115 \u2013 Strategic Intelligence Service",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://english.ratopati.com/author/3?page=131",
+                "pageTitle": "Agency | Ratopati | No.1 Nepali News Portal",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ratopati.prixa.net/media/albums/maxresdefault_1_mFfst0KPte.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://gulfnp.com/chinas-didi-apologises-for-safety-lapses-after-murder/international/.html",
+                "pageTitle": "China&#39;s Didi apologises for safety lapses after murder - Gulf Np",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://gulfnp.com/wp-content/uploads/2018/08/5aa663afd8c33.jpeg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.topsimages.com/images/airstrike-afghanistan-2012-31.html",
+                "pageTitle": "Airstrike <b>Afghanistan</b> 2012 | www.topsimages.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/_J-9isPQLnI/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.ibtimes.com/taliban-announces-start-spring-offensive-afghanistan-2352191",
+                "pageTitle": "Taliban Announces Start Of Spring Offensive In <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/23/afghanistan.jpg"
+                    },
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.islamedianalysis.info/number-of-daesh-militants-rapidly-rising-in-afghanistan/",
+                "pageTitle": "Number of Daesh militants rapidly rising in <b>Afghanistan</b>",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.islamedianalysis.info/wp-content/uploads/2016/04/1035479000.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://she.smotrim.online/nolan-peterson-face-face-taliban-fighter-520189",
+                "pageTitle": "Nolan Peterson: Face To Face With a Taliban Fighter",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2016/11/11/1113talibanface01.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://interframemedia.com/pics/security-afghan-security-forces",
+                "pageTitle": "Security <b>Afghan</b> Security Forces \u2013 Interframe Media",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ste.india.com/sites/default/files/2017/08/27/619996-afghanistan-kabul.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://0xc.info/gallery/terrorists-from-afghan",
+                "pageTitle": "Terrorists From <b>Afghan</b> - 0Xc",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://ariananewspullzone01-j7rguih.netdna-ssl.com/wp-content/uploads/2017/11/164319_9513361_updates.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.inp.net.pk/24-terrorists-killed-in-faryab/",
+                "pageTitle": "24 Terrorists <b>Killed</b> in Faryab | International News - INP",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.inp.net.pk/wp-content/uploads/2018/08/164319_9513361_updates.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newztoday.net/terrorist-behind-attacks-on-pakistani-forces-killed-in-afghanistan/164319_9513361_updates/",
+                "pageTitle": "164319_9513361_updates - NewzToday.net",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://newztoday.net/wp-content/uploads/2017/10/164319_9513361_updates.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/security-afghan-58.html",
+                "pageTitle": "Security <b>Afghan</b> | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ste.india.com/sites/default/files/2017/08/27/619996-afghanistan-kabul.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/afghan-security-8d.html",
+                "pageTitle": "<b>Afghan</b> Security | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ste.india.com/sites/default/files/2017/08/27/619996-afghanistan-kabul.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://mp3silver.ga/post/us-at-least-50-killed-in-strike-on-taliban-leaders.html",
+                "pageTitle": "Us At Least 50 <b>Killed</b> In Strike On Taliban Leaders | MP3SILVER.GA",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.ytimg.com/vi/_J-9isPQLnI/maxresdefault.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.english.ratopati.com/story/3260",
+                "pageTitle": "<b>Afghan</b> Army Kills 10 Insurgents In Western Province | Ratopati | No ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ratopati.prixa.net/media/albums/maxresdefault_1_mFfst0KPte.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://imguramx.pw/Afghanistan.html",
+                "pageTitle": "<b>Afghanistan</b>",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686605-afghanistanstory___-1523857892-466-640x480.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://livenewspapertv.com/afghanistan/english/radio-killid/",
+                "pageTitle": "Radio Killid : Radio / Tv Channel in english - livenewspapertv.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tkg.af/english/wp-content/uploads/sites/2/2018/08/%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D9%85%D9%84%DB%8C-1-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://opitslinkfest.blogspot.com/2016/03/19-march-blogs-im-following.html",
+                "pageTitle": "Opit&#39;s LinkFest!: 19 March - Blogs I&#39;m Following",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://2.bp.blogspot.com/-S66EF8fCw0A/Vu4Xbupf4vI/AAAAAAACM6I/8jDCd0gSRcUkfsvhgduASuGc84e3S9UpA/s400/IMG_0737.JPG"
+                    }
+                ]
+            },
+            {
+                "url": "https://intelligencebriefs.com/author/shmuel-yosef-agnon/page/67/",
+                "pageTitle": "Shmuel Yosef Agnon \u2013 Page 67 \u2013 Strategic Intelligence Service",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://intelligencebriefs.com/wp-content/uploads/2017/03/23-daesh-fighters-killed-in-nangarhar-latest-conflicts-1466689113-7999.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://angrybirdsriogame.info/?d=Afghanistan+Reported+US+air+and+drone+strikes+2016++The",
+                "pageTitle": "<b>Afghanistan</b> Reported US air and drone strikes 2016 The 3409278 ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ceonews.info/news/isis-troops-reportedly-targeted",
+                "pageTitle": "Isis Troops Reportedly Targeted - CEO News",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.picsnaper.com/p/Afghanistan:-Pity-the-children-War-Conflict-Al-Jazeera",
+                "pageTitle": "Snap <b>Afghanistan</b>: Pity the children War Conflict Al Jazeera photos ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.aljazeera.com/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/english/pakistan/26-08-2016/news22636.html",
+                "pageTitle": "Mubassir.com - Pak-<b>Afghan</b> border remains shut for seventh day",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/2fc.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://cdn.mangobaaz.com/wp-content/uploads/2015/07/i1.tribune.com1.pk",
+                "pageTitle": "The Express Tribune - Latest Breaking Pakistan News, Business ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://i1.tribune.com.pk/wp-content/uploads/2016/03/1061423-USTALIBAN-1457416465-972-160x120.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://pknewspapers.com/afghanistan/english/radio-killid.html",
+                "pageTitle": "Radio Killid News TV Website in English - Daily Newspapers",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://tkg.af/english/wp-content/uploads/sites/2/2018/08/%D8%A7%D8%B1%D8%AF%D9%88%DB%8C-%D9%85%D9%84%DB%8C-1-300x160.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://oldephartte.blogspot.com/2016/03/19-march-blogs-im-following.html",
+                "pageTitle": "oldephartte(in training): 19 March - Blogs I&#39;m Following",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://2.bp.blogspot.com/-S66EF8fCw0A/Vu4Xbupf4vI/AAAAAAACM6I/8jDCd0gSRcUkfsvhgduASuGc84e3S9UpA/s400/IMG_0737.JPG"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.mubassir.com/english/pakistan/16-04-2018/news37464.html",
+                "pageTitle": "Mubassir.com - Two FC soldiers martyred in <b>Afghan</b> cross-border ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.mubassir.com/ur/images/news/2fc.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://kidskunst.info/linked/us-airstrikes-in-afghanistan-take-aim-at-taliban-opium-7573.htm",
+                "pageTitle": "All about Us Airstrikes In <b>Afghanistan</b> Take Aim At Taliban Opium ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://rawal.tv/news.php?name=two-fc-soldiers-martyred-12-injured-in-afghan-cross-border-attack&id=11937",
+                "pageTitle": "Two FC soldiers martyred, 12 injured in <b>Afghan</b> cross-border attack ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://rawal.tv/media/content/11237_1523817684.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.rawal.tv/news.php?news=two-fc-soldiers-martyred-12-injured-in-afghan-cross-border-attack&id=11937",
+                "pageTitle": "Two FC soldiers martyred, 12 injured in <b>Afghan</b> cross-border attack ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.rawal.tv/media/content/11237_1523817684.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thecsspoint.com/blog-layout-two/page/45/",
+                "pageTitle": "Blog Layout Two - The CSS Point",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thecsspoint.com/wp-content/uploads/2018/04/001-53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://yousense.info/7573/us-airstrikes-in-afghanistan-take-aim-at-taliban-opium.html",
+                "pageTitle": "Summary -&gt; Us Airstrikes In <b>Afghanistan</b> Take Aim At Taliban Opium",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/lg/public/2016/02/23/afghanistan.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thecsspoint.com/author/abdullah-memon/page/11/",
+                "pageTitle": "Abdullah Memon, Author at The CSS Point - Page 11 of 19",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thecsspoint.com/wp-content/uploads/2018/04/001-53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://thecsspoint.com/category/world/page/39/",
+                "pageTitle": "World Archives - Page 39 of 68 - The CSS Point",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://thecsspoint.com/wp-content/uploads/2018/04/001-53.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://english.ratopati.com/latest/?page=405",
+                "pageTitle": "Latest News - \u092a\u091b\u093f\u0932\u094d\u0932\u093e \u0938\u092e\u093e\u091a\u093e\u0930 | Ratopati | No.1 Nepali News ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://ratopati.prixa.net/media/albums/maxresdefault_1_mFfst0KPte.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.india.gov.in/news_lists?a134374763",
+                "pageTitle": "News - National Portal of India",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.newsonair.nic.in/writereaddata/news_pictures/PICIN1202.jpg?0.301948"
+                    }
+                ]
+            },
+            {
+                "url": "https://foto-basa.com/imagetdata-taliban-execution.htm",
+                "pageTitle": "Taliban Execution - \u0424\u043e\u0442\u043e \u0431\u0430\u0437\u0430 - foto-basa.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://www.aljazeera.com/mritems/Images/2016/2/28/961b1510b43e49a6a376366e4379d330_18.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://newsblogchain.com/homepage-blog-layout/page/213/",
+                "pageTitle": "HomePage \u2013 Blog Layout \u2013 Page 213 \u2013 NEWS BLOG CHAIN",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://newsblogchain.com/wp-content/uploads/2018/06/noi2-73.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.financialexpress.com/economy/west-bengal-gears-up-for-global-business-summit-on-january-8-9/189385/",
+                "pageTitle": "West Bengal gears up for global business summit on January 8-9 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://images.financialexpress.com/2018/09/afghanistan-war-reu1.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://imgcop.com/img/How-Did-Islam-Spread-To-Afghanistan-65226261/",
+                "pageTitle": "how Did islam spread To <b>afghanistan</b> - ImgCop.com",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c.tribune.com.pk/2018/04/1686605-afghanistanstory___-1523857892-466-640x480.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://timesofislamabad.com/digital_images/medium/2018-07-14/over-100-militants-killed-in-afghanistan-operations-1531542121-9695.jpg"
+            },
+            {
+                "url": "https://cdn.inquisitr.com/wp-content/uploads/2012/07/US-Afghan-soldiers-killed-e1341812057733.jpg"
+            },
+            {
+                "url": "https://www.ctvnews.ca/polopoly_fs/1.58227.1337369514!/httpImage/image._gen/derivatives/landscape_620/image."
+            },
+            {
+                "url": "http://cloud.millenniumpost.in/19286CAiVQoQNNBcIDyXilwY71cXvmMM5S9jU7140191/three-us-soldiers-killed-in-afghanistanjpg.jpg"
+            },
+            {
+                "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201705/afghan-story_647_041017050939_052317031616_0.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/files/2018.08/article/5b66bf55fc7e9331508b461b.jpg"
+            },
+            {
+                "url": "https://www.wereportnews.com/wp-content/uploads/2017/01/us-service-member-killed-in-afghanistan-1475610149-9116.jpg"
+            },
+            {
+                "url": "https://www.tnn.com.pk/wp-content/uploads/2018/10/defense-large.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "afghanistan killed",
+                "languageCode": "en"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.96969664,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6787252,
+                        "y": 0.04035878
+                    },
+                    {
+                        "x": 0.9493533,
+                        "y": 0.04035878
+                    },
+                    {
+                        "x": 0.9493533,
+                        "y": 0.9939941
+                    },
+                    {
+                        "x": 0.6787252,
+                        "y": 0.9939941
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8640498,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.11204455,
+                        "y": 0.3096934
+                    },
+                    {
+                        "x": 0.16617218,
+                        "y": 0.3096934
+                    },
+                    {
+                        "x": 0.16617218,
+                        "y": 0.563867
+                    },
+                    {
+                        "x": 0.11204455,
+                        "y": 0.563867
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.84246886,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.032118846,
+                        "y": 0.33181104
+                    },
+                    {
+                        "x": 0.08812883,
+                        "y": 0.33181104
+                    },
+                    {
+                        "x": 0.08812883,
+                        "y": 0.56951404
+                    },
+                    {
+                        "x": 0.032118846,
+                        "y": 0.56951404
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.7388155,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.4809362,
+                        "y": 0.40178016
+                    },
+                    {
+                        "x": 0.5510638,
+                        "y": 0.40178016
+                    },
+                    {
+                        "x": 0.5510638,
+                        "y": 0.70442426
+                    },
+                    {
+                        "x": 0.4809362,
+                        "y": 0.70442426
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.7245155,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.6787252,
+                        "y": 0.04035878
+                    },
+                    {
+                        "x": 0.9493533,
+                        "y": 0.04035878
+                    },
+                    {
+                        "x": 0.9493533,
+                        "y": 0.9939941
+                    },
+                    {
+                        "x": 0.6787252,
+                        "y": 0.9939941
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.58811134,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.16279377,
+                        "y": 0.28717947
+                    },
+                    {
+                        "x": 0.20845081,
+                        "y": 0.28717947
+                    },
+                    {
+                        "x": 0.20845081,
+                        "y": 0.53194124
+                    },
+                    {
+                        "x": 0.16279377,
+                        "y": 0.53194124
+                    }
+                ]
+            }
+        }
+    ]
+}

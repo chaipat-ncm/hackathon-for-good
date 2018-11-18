@@ -1,0 +1,776 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.8991845,
+            "topicality": 0.8991845
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.8811185,
+            "topicality": 0.8811185
+        },
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.8798793,
+            "topicality": 0.8798793
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.82544863,
+            "topicality": 0.82544863
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6067823,
+            "topicality": 0.6067823
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.5529818,
+            "topicality": 0.5529818
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.5005101,
+            "topicality": 0.5005101
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 220,
+                        "green": 197,
+                        "blue": 173
+                    },
+                    "score": 0.18050013,
+                    "pixelFraction": 0.1449654
+                },
+                {
+                    "color": {
+                        "red": 134,
+                        "green": 111,
+                        "blue": 89
+                    },
+                    "score": 0.1274594,
+                    "pixelFraction": 0.07710775
+                },
+                {
+                    "color": {
+                        "red": 58,
+                        "green": 52,
+                        "blue": 47
+                    },
+                    "score": 0.074799106,
+                    "pixelFraction": 0.08219178
+                },
+                {
+                    "color": {
+                        "red": 106,
+                        "green": 84,
+                        "blue": 62
+                    },
+                    "score": 0.12204584,
+                    "pixelFraction": 0.103375226
+                },
+                {
+                    "color": {
+                        "red": 243,
+                        "green": 221,
+                        "blue": 197
+                    },
+                    "score": 0.10451196,
+                    "pixelFraction": 0.06891682
+                },
+                {
+                    "color": {
+                        "red": 89,
+                        "green": 81,
+                        "blue": 75
+                    },
+                    "score": 0.07151896,
+                    "pixelFraction": 0.087558255
+                },
+                {
+                    "color": {
+                        "red": 173,
+                        "green": 150,
+                        "blue": 131
+                    },
+                    "score": 0.059278518,
+                    "pixelFraction": 0.051475782
+                },
+                {
+                    "color": {
+                        "red": 127,
+                        "green": 117,
+                        "blue": 112
+                    },
+                    "score": 0.041563082,
+                    "pixelFraction": 0.06588052
+                },
+                {
+                    "color": {
+                        "red": 69,
+                        "green": 51,
+                        "blue": 34
+                    },
+                    "score": 0.034042947,
+                    "pixelFraction": 0.041307725
+                },
+                {
+                    "color": {
+                        "red": 28,
+                        "green": 22,
+                        "blue": 19
+                    },
+                    "score": 0.0322098,
+                    "pixelFraction": 0.04250812
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 899
+                        },
+                        {
+                            "x": 899,
+                            "y": 598
+                        },
+                        {
+                            "y": 598
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/012gvv",
+                "score": 0.8897,
+                "description": "Battalion"
+            },
+            {
+                "entityId": "/m/0167lb",
+                "score": 0.714,
+                "description": "Regiment"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.6315,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/0167ql",
+                "score": 0.6068,
+                "description": "Brigade"
+            },
+            {
+                "entityId": "/m/01ztn",
+                "score": 0.5729,
+                "description": "Cavalry"
+            },
+            {
+                "entityId": "/m/09bhfk",
+                "score": 0.5417,
+                "description": "9th Cavalry Regiment"
+            },
+            {
+                "entityId": "/m/01bq8v",
+                "score": 0.5388,
+                "description": "Troop"
+            },
+            {
+                "entityId": "/m/0cc7n4h",
+                "score": 0.5182,
+                "description": "Squadron"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.5025,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/012gw9",
+                "score": 0.5015,
+                "description": "Company"
+            },
+            {
+                "entityId": "/m/0gff0jc",
+                "score": 0.4833,
+                "description": "6th Field Artillery Regiment"
+            },
+            {
+                "entityId": "/m/07wh1",
+                "score": 0.4205,
+                "description": "United States Army"
+            },
+            {
+                "entityId": "/m/03dj11",
+                "score": 0.4107,
+                "description": "Group"
+            },
+            {
+                "entityId": "/m/0b_c60",
+                "score": 0.405,
+                "description": "82nd Field Artillery Regiment"
+            },
+            {
+                "entityId": "/m/012gvc",
+                "score": 0.3968,
+                "description": "Division"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+            },
+            {
+                "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://scontent-atl3-1.cdninstagram.com/vp/dbade09c68d6b7519a6b8095cda559a0/5C63023E/t51.2885-15/e35/42750800_359796991231089_3580651089093813485_n.jpg"
+            },
+            {
+                "url": "https://scontent-atl3-1.cdninstagram.com/vp/2f388cf4a4c26888b3af7e13ff3a4e3f/5C5C8B65/t51.2885-15/e35/43663622_269751370547691_2506845584503904221_n.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/compes/pw863c/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-pw863c.jpg"
+            },
+            {
+                "url": "https://c8.alamy.com/compes/mmc7ey/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-eeuu-foto-del-ejercito-por-el-capitan-scott-kuhn-mmc7ey.jpg"
+            },
+            {
+                "url": "https://scontent-atl3-1.cdninstagram.com/vp/b951dd6f4be3505f086ba0773edbcf6f/5C6E254D/t51.2885-15/e35/42539450_177900279789518_7591887902766956755_n.jpg"
+            },
+            {
+                "url": "https://bloximages.newyork1.vip.townnews.com/forthoodsentinel.com/content/tncms/assets/v3/editorial/0/0c/00c0e860-b43a-11e7-aad4-07155d5e2787/59e7aa7f2f00c.image.jpg?resize=1200%2C797"
+            },
+            {
+                "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=7Fd3%2Bv9QEpwirqeP6AntNSj1jZo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65wFUf11E25b2V4B7-5UpGX43SA3fiRXb1p8rWOSu8OtmfPOD9_R5OIXJWjlVlIK35AHW9UcaieNWyYpw02cu8Z8i9aAAvfRk7qGxL5dB0ak9848HxUr2_YX5PhepbNX3wZ7-7ZR9rWnU1sOreeoOVKg9E2gLcFIiySJRAEL1y9w"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.alamy.com/stock-photo/1st-battalion-6th-field-artillery-regiment.html",
+                "pageTitle": "1st Battalion 6th Field Artillery <b>Regiment</b> Stock Photos &amp; 1st ... - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/comp/MMC7EY/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-us-army-photo-by-capt-scott-kuhn-MMC7EY.jpg"
+                    },
+                    {
+                        "url": "https://c8.alamy.com/comp/PW863C/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-PW863C.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.com/stock-photo/1st-squadron-33rd-cavalry-regiment.html",
+                "pageTitle": "1st Squadron 33rd Cavalry <b>Regiment</b> Stock Photos &amp; 1st Squadron ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/comp/PW863C/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-PW863C.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.com/stock-photo/33rd-cavalry-regiment.html",
+                "pageTitle": "33rd Cavalry <b>Regiment</b> - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/comp/PW863C/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-PW863C.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.com/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-us-army-photo-by-capt-scott-kuhn-image184666131.html",
+                "pageTitle": "U.S. Soldiers from 6th Squadron, 9th Cavalry <b>Regiment</b>; 3rd Brigade ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/comp/MMC7EY/us-soldiers-from-6th-squadron-9th-cavalry-regiment-3rd-brigade-engineer-battalion-and-2nd-battalion-82nd-field-artillery-regiment-all-from-3rd-brigade-1st-cavalry-division-and-soldiers-from-the-33rd-combat-group-from-the-united-arab-emirates-receive-a-mission-brief-before-conducting-a-combined-arms-live-fire-event-at-iron-union-5-in-uae-on-sept-25-2017-iron-union-is-a-bilateral-training-event-between-the-us-and-uae-forces-focused-on-building-partner-capacity-and-interoperability-through-focused-and-realistic-training-us-army-photo-by-capt-scott-kuhn-MMC7EY.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.linkedin.com/in/benjamin-kim-abb40938",
+                "pageTitle": "Benjamin Kim - Executive Officer (XO) and Operations Officer (S3 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=7Fd3%2Bv9QEpwirqeP6AntNSj1jZo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65wFUf11E25b2V4B7-5UpGX43SA3fiRXb1p8rWOSu8OtmfPOD9_R5OIXJWjlVlIK35AHW9UcaieNWyYpw02cu8Z8i9aAAvfRk7qGxL5dB0ak9848HxUr2_YX5PhepbNX3wZ7-7ZR9rWnU1sOreeoOVKg9E2gLcFIiySJRAEL1y9w"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.forthoodsentinel.com/news/cavalry-troopers-partner-with-uae-at-iron-union/article_93c1f4b2-b415-11e7-a37f-8fdeada734c0.html",
+                "pageTitle": "Cavalry troopers partner with UAE at Iron Union 5 | News ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://bloximages.newyork1.vip.townnews.com/forthoodsentinel.com/content/tncms/assets/v3/editorial/0/0c/00c0e860-b43a-11e7-aad4-07155d5e2787/59e7aa7f2f00c.image.jpg?resize=1200%2C797"
+                    }
+                ]
+            },
+            {
+                "url": "http://geek-tattoos.info/info/33rd-territorial-battalion-group-participated",
+                "pageTitle": "33Rd Territorial Battalion Group Participated \u2013 Geek Tattoos",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.linkedin.com/in/wilson-mustian-07959227",
+                "pageTitle": "Wilson Mustian - Tax Policy Analyst - Virginia Department of ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=7Fd3%2Bv9QEpwirqeP6AntNSj1jZo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65wFUf11E25b2V4B7-5UpGX43SA3fiRXb1p8rWOSu8OtmfPOD9_R5OIXJWjlVlIK35AHW9UcaieNWyYpw02cu8Z8i9aAAvfRk7qGxL5dB0ak9848HxUr2_YX5PhepbNX3wZ7-7ZR9rWnU1sOreeoOVKg9E2gLcFIiySJRAEL1y9w"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.myownemail.info/pics/combined-live-fire-mission",
+                "pageTitle": "Combined Live Fire Mission - My Own Email",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stripes.com/news/europe/kabul-approves-uae-s-offer-of-troops-for-nato-mission-1.531349",
+                "pageTitle": "Kabul approves UAE&#39;s offer of troops for NATO mission - Europe ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+                    },
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.stripes.com/kabul-approves-uae-s-offer-of-troops-for-nato-mission-1.531349",
+                "pageTitle": "Kabul approves UAE&#39;s offer of troops for NATO mission - Stripes",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_490/image.jpg"
+                    },
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.linkedin.com/in/marcus-miller-a74005112",
+                "pageTitle": "Marcus Miller - Operations Plans Specialist - US Army | LinkedIn",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=7Fd3%2Bv9QEpwirqeP6AntNSj1jZo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65wFUf11E25b2V4B7-5UpGX43SA3fiRXb1p8rWOSu8OtmfPOD9_R5OIXJWjlVlIK35AHW9UcaieNWyYpw02cu8Z8i9aAAvfRk7qGxL5dB0ak9848HxUr2_YX5PhepbNX3wZ7-7ZR9rWnU1sOreeoOVKg9E2gLcFIiySJRAEL1y9w"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.chungcuso3luongyen.info/chadian-troops-participate-afghanistan.php",
+                "pageTitle": "Chadian Troops Participate Afghanistan - Chungcuso3luongyen",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.linkedin.com/in/konner-wiscombe-35374123",
+                "pageTitle": "Konner Wiscombe - Intelligence and Communications - US Army ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://media.licdn.com/media-proxy/ext?w=800&h=800&hash=7Fd3%2Bv9QEpwirqeP6AntNSj1jZo%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R65wFUf11E25b2V4B7-5UpGX43SA3fiRXb1p8rWOSu8OtmfPOD9_R5OIXJWjlVlIK35AHW9UcaieNWyYpw02cu8Z8i9aAAvfRk7qGxL5dB0ak9848HxUr2_YX5PhepbNX3wZ7-7ZR9rWnU1sOreeoOVKg9E2gLcFIiySJRAEL1y9w"
+                    }
+                ]
+            },
+            {
+                "url": "http://mediatown360.com/post/general-linders-special-operations-forces-stop",
+                "pageTitle": "General Linders Special Operations Forces Stop | MediaTown 360",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://dubaiforum.me/tag/uae-news/page/41/",
+                "pageTitle": "UAE News Archives - Page 41 of 887 - Dubai Forum",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/nato-mission-92.html",
+                "pageTitle": "Nato Mission | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://tipos-de-cancer.info/us-based-aid-nato-troops-join.php",
+                "pageTitle": "Us Based Aid Nato Troops Join \u2013 Tipos De Cancer",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://ceritapic.pw/proposal-engagement-arab-gulf-unitedarabemirates-t.html",
+                "pageTitle": "Proposal engagement arab gulf unitedarabemirates t",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.es/imagenes/1st-squadron-33rd-cavalry-regiment.html",
+                "pageTitle": "1st Squadron 33rd Cavalry <b>Regiment</b> Im\u00e1genes De Stock &amp; 1st ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compes/pw863c/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.es/imagenes/1st-battalion-6th-field-artillery-regiment.html",
+                "pageTitle": "1st Battalion 6th Field Artillery <b>Regiment</b> Im\u00e1genes De Stock &amp; 1st ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compes/mmc7ey/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-eeuu-foto-del-ejercito-por-el-capitan-scott-kuhn-mmc7ey.jpg"
+                    },
+                    {
+                        "url": "https://c8.alamy.com/compes/pw863c/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamyimages.fr/photos-images/1st-battalion-6th-field-artillery-regiment.html",
+                "pageTitle": "1st Battalion 6th Field Artillery <b>Regiment</b> Photos &amp; 1st Battalion 6th ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compfr/mmc7ey/les-soldats-du-6e-escadron-9e-regiment-de-cavalerie-3e-bataillon-du-genie-de-la-brigade-et-le-2e-bataillon-82e-regiment-dartillerie-de-lensemble-de-3e-brigade-1e-division-de-cavalerie-et-des-soldats-du-33e-groupe-de-combat-de-lemirats-arabes-unis-recevoir-une-mission-bref-avant-deffectuer-un-tir-reel-interarmes-a-levenement-de-lunion-europeenne-5-fer-a-uae-sur-septembre-25-2017-fer-a-repasser-union-europeenne-est-un-evenement-de-formation-bilaterale-entre-les-etats-unis-et-laccent-sur-les-forces-des-eau-renforcer-les-capacites-des-partenaires-et-linteroperabilite-par-la-formation-ciblee-et-realiste-us-photo-de-larmee-par-le-capitaine-scott-kuhn-mmc7ey.jpg"
+                    },
+                    {
+                        "url": "https://c8.alamy.com/compfr/pw863c/les-soldats-du-6e-escadron-9e-regiment-de-cavalerie-3e-bataillon-du-genie-de-la-brigade-et-le-2e-bataillon-82e-regiment-dartillerie-de-lensemble-de-3e-brigade-1e-division-de-cavalerie-et-des-soldats-du-33e-groupe-de-combat-de-lemirats-arabes-unis-recevoir-une-mission-bref-avant-deffectuer-un-tir-reel-interarmes-a-levenement-de-lunion-europeenne-5-fer-a-uae-sur-septembre-25-2017-fer-a-repasser-union-europeenne-est-un-evenement-de-formation-bilaterale-entre-les-etats-unis-et-laccent-sur-les-forces-des-eau-renforcer-les-capacites-des-partenaires-et-linteroperabilite-par-la-formation-ciblee-et-realiste-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamyimages.fr/photos-images/9th-u-s-cavalry-regiment.html",
+                "pageTitle": "9th US Cavalry <b>Regiment</b> - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compfr/pw863c/les-soldats-du-6e-escadron-9e-regiment-de-cavalerie-3e-bataillon-du-genie-de-la-brigade-et-le-2e-bataillon-82e-regiment-dartillerie-de-lensemble-de-3e-brigade-1e-division-de-cavalerie-et-des-soldats-du-33e-groupe-de-combat-de-lemirats-arabes-unis-recevoir-une-mission-bref-avant-deffectuer-un-tir-reel-interarmes-a-levenement-de-lunion-europeenne-5-fer-a-uae-sur-septembre-25-2017-fer-a-repasser-union-europeenne-est-un-evenement-de-formation-bilaterale-entre-les-etats-unis-et-laccent-sur-les-forces-des-eau-renforcer-les-capacites-des-partenaires-et-linteroperabilite-par-la-formation-ciblee-et-realiste-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.es/imagenes/33rd-engineer-regiment.html",
+                "pageTitle": "33rd Engineer <b>Regiment</b> Im\u00e1genes De Stock - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compes/mmc7ey/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-eeuu-foto-del-ejercito-por-el-capitan-scott-kuhn-mmc7ey.jpg"
+                    },
+                    {
+                        "url": "https://c8.alamy.com/compes/pw863c/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamyimages.fr/photos-images/combat-group.html",
+                "pageTitle": "Combat Group Photos &amp; Combat Group Images - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compfr/pw863c/les-soldats-du-6e-escadron-9e-regiment-de-cavalerie-3e-bataillon-du-genie-de-la-brigade-et-le-2e-bataillon-82e-regiment-dartillerie-de-lensemble-de-3e-brigade-1e-division-de-cavalerie-et-des-soldats-du-33e-groupe-de-combat-de-lemirats-arabes-unis-recevoir-une-mission-bref-avant-deffectuer-un-tir-reel-interarmes-a-levenement-de-lunion-europeenne-5-fer-a-uae-sur-septembre-25-2017-fer-a-repasser-union-europeenne-est-un-evenement-de-formation-bilaterale-entre-les-etats-unis-et-laccent-sur-les-forces-des-eau-renforcer-les-capacites-des-partenaires-et-linteroperabilite-par-la-formation-ciblee-et-realiste-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.es/imagenes/uae-soldiers.html",
+                "pageTitle": "Uae Soldiers Im\u00e1genes De Stock &amp; Uae Soldiers Fotos De Stock ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compes/mmc7ey/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-eeuu-foto-del-ejercito-por-el-capitan-scott-kuhn-mmc7ey.jpg"
+                    },
+                    {
+                        "url": "https://c8.alamy.com/compes/pw863c/soldados-del-6-escuadron-9-regimiento-de-caballeria-la-tercera-brigada-batallon-de-ingenieria-y-2-batallon-del-82-regimiento-de-artilleria-de-campo-todos-de-la-tercera-brigada-primera-division-de-caballeria-y-soldados-de-la-33-grupo-de-combate-desde-los-emiratos-arabes-unidos-recibe-una-mision-breve-antes-de-llevar-a-cabo-un-conjunto-de-armas-de-fuego-vivo-en-hierro-evento-union-5-en-los-emiratos-arabes-unidos-del-25-de-septiembre-2017-union-de-hierro-es-un-evento-de-formacion-bilateral-entre-los-estados-unidos-y-las-fuerzas-de-los-eau-se-centro-en-el-fomento-de-la-capacidad-del-partner-y-la-interoperabilidad-a-traves-de-formacion-centrada-y-realista-pw863c.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamyimages.fr/photos-images/united-arab-emirates-soldiers.html",
+                "pageTitle": "United Arab Emirates Soldiers - Alamy",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compfr/mmc7ey/les-soldats-du-6e-escadron-9e-regiment-de-cavalerie-3e-bataillon-du-genie-de-la-brigade-et-le-2e-bataillon-82e-regiment-dartillerie-de-lensemble-de-3e-brigade-1e-division-de-cavalerie-et-des-soldats-du-33e-groupe-de-combat-de-lemirats-arabes-unis-recevoir-une-mission-bref-avant-deffectuer-un-tir-reel-interarmes-a-levenement-de-lunion-europeenne-5-fer-a-uae-sur-septembre-25-2017-fer-a-repasser-union-europeenne-est-un-evenement-de-formation-bilaterale-entre-les-etats-unis-et-laccent-sur-les-forces-des-eau-renforcer-les-capacites-des-partenaires-et-linteroperabilite-par-la-formation-ciblee-et-realiste-us-photo-de-larmee-par-le-capitaine-scott-kuhn-mmc7ey.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.alamy.it/stati-uniti-soldati-dal-6-stormo-9-reggimento-di-cavalleria-3-brigata-battaglione-ingegnere-e-2-battaglione-ottantaduesima-campo-reggimento-di-artiglieria-tutti-dal-3-brigata-1a-divisione-di-cavalleria-e-soldati-dal-xxxiii-gruppo-di-combattimento-provenienti-dagli-emirati-arabi-uniti-ricevono-una-missione-breve-prima-di-condurre-un-combinato-di-bracci-live-incendio-all-unione-di-ferro-5-negli-emirati-arabi-uniti-il-7-settembre-25-2017-unione-di-ferro-e-un-accordo-bilaterale-per-levento-di-formazione-tra-gli-stati-uniti-e-le-forze-degli-emirati-arabi-uniti-focalizzata-sulla-creazione-di-capacita-del-partner-e-linteroperabilita-attraverso-mirati-e-di-addestramento-realistico-us-foto-dellesercito-da-capt-scott-kuhn-image184666131.html",
+                "pageTitle": "Stati Uniti Soldati dal 6\u00b0 Stormo, 9\u00b0 reggimento di cavalleria; 3 ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://c8.alamy.com/compit/mmc7ey/stati-uniti-soldati-dal-6-stormo-9-reggimento-di-cavalleria-3-brigata-battaglione-ingegnere-e-2-battaglione-ottantaduesima-campo-reggimento-di-artiglieria-tutti-dal-3-brigata-1a-divisione-di-cavalleria-e-soldati-dal-xxxiii-gruppo-di-combattimento-provenienti-dagli-emirati-arabi-uniti-ricevono-una-missione-breve-prima-di-condurre-un-combinato-di-bracci-live-incendio-all-unione-di-ferro-5-negli-emirati-arabi-uniti-il-7-settembre-25-2017-unione-di-ferro-e-un-accordo-bilaterale-per-levento-di-formazione-tra-gli-stati-uniti-e-le-forze-degli-emirati-arabi-uniti-focalizzata-sulla-creazione-di-capacita-del-partner-e-linteroperabilita-attraverso-mirati-e-di-addestramento-realistico-us-foto-dellesercito-da-capt-scott-kuhn-mmc7ey.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://deskgram.net/explore/tags/%D8%A7%D9%84%D9%84%D9%87%D9%85_%D8%A7%D8%AD%D9%81%D8%B8%D9%87%D9%85_%D8%A8%D8%AD%D9%81%D8%B8%D9%83",
+                "pageTitle": "#\u0627\u0644\u0644\u0647\u0645_\u0627\u062d\u0641\u0638\u0647\u0645_\u0628\u062d\u0641\u0638\u0643 - Hash Tags - Deskgram",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scontent-atl3-1.cdninstagram.com/vp/b951dd6f4be3505f086ba0773edbcf6f/5C6E254D/t51.2885-15/e35/42539450_177900279789518_7591887902766956755_n.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://dede14.com/nato-jobs-in-afghanistan",
+                "pageTitle": "Nato Jobs In Afghanistan \u2013 dede14",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://www.stripes.com/polopoly_fs/1.531351.1528298572!/image/image.jpg_gen/derivatives/landscape_900/image.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.twgram.me/tag/%D9%82%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AD%D8%A7%D9%84%D9%81/",
+                "pageTitle": "Instagram #\u0642\u0648\u0627\u062a_\u0627\u0644\u062a\u062d\u0627\u0644\u0641 \u5716\u7247\uff0c\u8996\u983b\u4e0b\u8f09 | TwGram",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scontent-atl3-1.cdninstagram.com/vp/dbade09c68d6b7519a6b8095cda559a0/5C63023E/t51.2885-15/e35/42750800_359796991231089_3580651089093813485_n.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.twgram.me/tag/%D9%82%D9%88%D8%A7%D8%AA%D9%86%D8%A7_%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9/",
+                "pageTitle": "Instagram #\u0642\u0648\u0627\u062a\u0646\u0627_\u0627\u0644\u0645\u0633\u0644\u062d\u0629 \u5716\u7247\uff0c\u8996\u983b\u4e0b\u8f09 | TwGram",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://scontent-atl3-1.cdninstagram.com/vp/2f388cf4a4c26888b3af7e13ff3a4e3f/5C5C8B65/t51.2885-15/e35/43663622_269751370547691_2506845584503904221_n.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "http://1.bp.blogspot.com/-znwYXj8-zPY/VnZjahDL7YI/AAAAAAAAIpc/ZBN2AAD5ivU/s1600/PoWs.jpg"
+            },
+            {
+                "url": "https://norfolktalesmyths.files.wordpress.com/2018/03/5th-norfolks-men_dereham.jpg?w=650"
+            },
+            {
+                "url": "https://somme1916.files.wordpress.com/2016/07/swb-38-div-1.jpg"
+            },
+            {
+                "url": "https://c1.staticflickr.com/4/3354/3584457036_3117c3e342_b.jpg"
+            },
+            {
+                "url": "https://img00.deviantart.net/f26a/i/2015/121/8/d/elisavetgrad_hussar_regiment_by_kraljaleksandar-d317buq.jpg"
+            },
+            {
+                "url": "https://www.heritage.nf.ca/first-world-war/assets/img/gallery/images/newfoundland-regiment-band-london-hospital.jpg"
+            },
+            {
+                "url": "https://www.militaryimages.net/media/gloucestershire-regiment-in-berlin.113600/full"
+            },
+            {
+                "url": "https://www.nam.ac.uk/sites/default/files/styles/slice_sm/public/2017-01/159917_slice.jpg?itok=cDn6HHLJ"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Regiment"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.8569973,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.2556371,
+                        "y": 0.24147353
+                    },
+                    {
+                        "x": 0.48953938,
+                        "y": 0.24147353
+                    },
+                    {
+                        "x": 0.48953938,
+                        "y": 0.86982065
+                    },
+                    {
+                        "x": 0.2556371,
+                        "y": 0.86982065
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.78682256,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.55043465,
+                        "y": 0.17666553
+                    },
+                    {
+                        "x": 0.63185644,
+                        "y": 0.17666553
+                    },
+                    {
+                        "x": 0.63185644,
+                        "y": 0.53201556
+                    },
+                    {
+                        "x": 0.55043465,
+                        "y": 0.53201556
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.7259665,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.11822532,
+                        "y": 0.3224147
+                    },
+                    {
+                        "x": 0.2655394,
+                        "y": 0.3224147
+                    },
+                    {
+                        "x": 0.2655394,
+                        "y": 0.81240886
+                    },
+                    {
+                        "x": 0.11822532,
+                        "y": 0.81240886
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0zvk5",
+            "name": "Helmet",
+            "score": 0.6913352,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.3040464,
+                        "y": 0.22647369
+                    },
+                    {
+                        "x": 0.41498765,
+                        "y": 0.22647369
+                    },
+                    {
+                        "x": 0.41498765,
+                        "y": 0.37929723
+                    },
+                    {
+                        "x": 0.3040464,
+                        "y": 0.37929723
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.6816362,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.61859566,
+                        "y": 0.1813714
+                    },
+                    {
+                        "x": 0.69484085,
+                        "y": 0.1813714
+                    },
+                    {
+                        "x": 0.69484085,
+                        "y": 0.53201556
+                    },
+                    {
+                        "x": 0.61859566,
+                        "y": 0.53201556
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/04yx4",
+            "name": "Man",
+            "score": 0.6257179,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.004106315,
+                        "y": 0.15689375
+                    },
+                    {
+                        "x": 0.074878216,
+                        "y": 0.15689375
+                    },
+                    {
+                        "x": 0.074878216,
+                        "y": 0.33796698
+                    },
+                    {
+                        "x": 0.004106315,
+                        "y": 0.33796698
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,955 @@
+{
+    "logoAnnotations": [
+        {
+            "mid": "/m/059dn",
+            "description": "North Atlantic Treaty Organization (NATO)",
+            "score": 0.7700951,
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 29,
+                        "y": 28
+                    },
+                    {
+                        "x": 1104,
+                        "y": 28
+                    },
+                    {
+                        "x": 1104,
+                        "y": 536
+                    },
+                    {
+                        "x": 29,
+                        "y": 536
+                    }
+                ]
+            }
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/07s6nbt",
+            "description": "text",
+            "score": 0.8671892,
+            "topicality": 0.8671892
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.8280035,
+            "topicality": 0.8280035
+        },
+        {
+            "mid": "/m/0dwx7",
+            "description": "logo",
+            "score": 0.79231066,
+            "topicality": 0.79231066
+        },
+        {
+            "mid": "/m/02n3pb",
+            "description": "product",
+            "score": 0.75568104,
+            "topicality": 0.75568104
+        },
+        {
+            "mid": "/m/03scnj",
+            "description": "line",
+            "score": 0.7341033,
+            "topicality": 0.7341033
+        },
+        {
+            "mid": "/m/03c31",
+            "description": "graphic design",
+            "score": 0.73407817,
+            "topicality": 0.73407817
+        },
+        {
+            "mid": "/m/02cwm",
+            "description": "design",
+            "score": 0.72510433,
+            "topicality": 0.72510433
+        },
+        {
+            "mid": "/m/01cd9",
+            "description": "brand",
+            "score": 0.6358525,
+            "topicality": 0.6358525
+        },
+        {
+            "mid": "/m/021sdg",
+            "description": "graphics",
+            "score": 0.62596655,
+            "topicality": 0.62596655
+        },
+        {
+            "mid": "/m/01g6gs",
+            "description": "black and white",
+            "score": 0.57839197,
+            "topicality": 0.57839197
+        },
+        {
+            "mid": "/m/0f28m",
+            "description": "symmetry",
+            "score": 0.5234798,
+            "topicality": 0.5234798
+        },
+        {
+            "mid": "/m/0dgsmq8",
+            "description": "artwork",
+            "score": 0.50652593,
+            "topicality": 0.50652593
+        }
+    ],
+    "textAnnotations": [
+        {
+            "locale": "oc",
+            "description": "OTAN\n",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 545,
+                        "y": 362
+                    },
+                    {
+                        "x": 1111,
+                        "y": 362
+                    },
+                    {
+                        "x": 1111,
+                        "y": 525
+                    },
+                    {
+                        "x": 545,
+                        "y": 525
+                    }
+                ]
+            }
+        },
+        {
+            "description": "OTAN",
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 546,
+                        "y": 362
+                    },
+                    {
+                        "x": 1111,
+                        "y": 367
+                    },
+                    {
+                        "x": 1110,
+                        "y": 525
+                    },
+                    {
+                        "x": 545,
+                        "y": 520
+                    }
+                ]
+            }
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 13,
+                        "green": 136,
+                        "blue": 197
+                    },
+                    "score": 0.39169362,
+                    "pixelFraction": 0.1923077
+                },
+                {
+                    "color": {
+                        "red": 1,
+                        "green": 68,
+                        "blue": 137
+                    },
+                    "score": 0.38974732,
+                    "pixelFraction": 0.15923077
+                },
+                {
+                    "color": {
+                        "red": 1,
+                        "green": 1,
+                        "blue": 1
+                    },
+                    "score": 0.07132252,
+                    "pixelFraction": 0.34837607
+                },
+                {
+                    "color": {
+                        "red": 149,
+                        "green": 205,
+                        "blue": 232
+                    },
+                    "score": 0.012626704,
+                    "pixelFraction": 0.005982906
+                },
+                {
+                    "color": {
+                        "red": 134,
+                        "green": 164,
+                        "blue": 197
+                    },
+                    "score": 0.012610998,
+                    "pixelFraction": 0.0055555557
+                },
+                {
+                    "color": {
+                        "red": 235,
+                        "green": 241,
+                        "blue": 246
+                    },
+                    "score": 0.012413887,
+                    "pixelFraction": 0.17529915
+                },
+                {
+                    "color": {
+                        "red": 75,
+                        "green": 167,
+                        "blue": 213
+                    },
+                    "score": 0.0111717675,
+                    "pixelFraction": 0.016239317
+                },
+                {
+                    "color": {
+                        "green": 57,
+                        "blue": 130
+                    },
+                    "score": 0.06288297,
+                    "pixelFraction": 0.023589743
+                },
+                {
+                    "color": {
+                        "red": 28,
+                        "green": 86,
+                        "blue": 148
+                    },
+                    "score": 0.012716511,
+                    "pixelFraction": 0.0035897435
+                },
+                {
+                    "color": {
+                        "red": 153,
+                        "green": 153,
+                        "blue": 153
+                    },
+                    "score": 0.0069358726,
+                    "pixelFraction": 0.016923077
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 1199
+                        },
+                        {
+                            "x": 1199,
+                            "y": 625
+                        },
+                        {
+                            "y": 625
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "fullTextAnnotation": {
+        "pages": [
+            {
+                "property": {
+                    "detectedLanguages": [
+                        {
+                            "languageCode": "oc"
+                        }
+                    ]
+                },
+                "width": 1200,
+                "height": 626,
+                "blocks": [
+                    {
+                        "property": {
+                            "detectedLanguages": [
+                                {
+                                    "languageCode": "oc"
+                                }
+                            ]
+                        },
+                        "boundingBox": {
+                            "vertices": [
+                                {
+                                    "x": 545,
+                                    "y": 362
+                                },
+                                {
+                                    "x": 1111,
+                                    "y": 362
+                                },
+                                {
+                                    "x": 1111,
+                                    "y": 525
+                                },
+                                {
+                                    "x": 545,
+                                    "y": 525
+                                }
+                            ]
+                        },
+                        "paragraphs": [
+                            {
+                                "property": {
+                                    "detectedLanguages": [
+                                        {
+                                            "languageCode": "oc"
+                                        }
+                                    ]
+                                },
+                                "boundingBox": {
+                                    "vertices": [
+                                        {
+                                            "x": 545,
+                                            "y": 362
+                                        },
+                                        {
+                                            "x": 1111,
+                                            "y": 362
+                                        },
+                                        {
+                                            "x": 1111,
+                                            "y": 525
+                                        },
+                                        {
+                                            "x": 545,
+                                            "y": 525
+                                        }
+                                    ]
+                                },
+                                "words": [
+                                    {
+                                        "property": {
+                                            "detectedLanguages": [
+                                                {
+                                                    "languageCode": "oc"
+                                                }
+                                            ]
+                                        },
+                                        "boundingBox": {
+                                            "vertices": [
+                                                {
+                                                    "x": 546,
+                                                    "y": 362
+                                                },
+                                                {
+                                                    "x": 1111,
+                                                    "y": 367
+                                                },
+                                                {
+                                                    "x": 1110,
+                                                    "y": 525
+                                                },
+                                                {
+                                                    "x": 545,
+                                                    "y": 520
+                                                }
+                                            ]
+                                        },
+                                        "symbols": [
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "oc"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 546,
+                                                            "y": 362
+                                                        },
+                                                        {
+                                                            "x": 740,
+                                                            "y": 364
+                                                        },
+                                                        {
+                                                            "x": 739,
+                                                            "y": 522
+                                                        },
+                                                        {
+                                                            "x": 545,
+                                                            "y": 520
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "O"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "oc"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 741,
+                                                            "y": 363
+                                                        },
+                                                        {
+                                                            "x": 872,
+                                                            "y": 364
+                                                        },
+                                                        {
+                                                            "x": 871,
+                                                            "y": 522
+                                                        },
+                                                        {
+                                                            "x": 740,
+                                                            "y": 521
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "T"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "oc"
+                                                        }
+                                                    ]
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 873,
+                                                            "y": 364
+                                                        },
+                                                        {
+                                                            "x": 951,
+                                                            "y": 365
+                                                        },
+                                                        {
+                                                            "x": 950,
+                                                            "y": 523
+                                                        },
+                                                        {
+                                                            "x": 872,
+                                                            "y": 522
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "A"
+                                            },
+                                            {
+                                                "property": {
+                                                    "detectedLanguages": [
+                                                        {
+                                                            "languageCode": "oc"
+                                                        }
+                                                    ],
+                                                    "detectedBreak": {
+                                                        "type": "EOL_SURE_SPACE"
+                                                    }
+                                                },
+                                                "boundingBox": {
+                                                    "vertices": [
+                                                        {
+                                                            "x": 952,
+                                                            "y": 365
+                                                        },
+                                                        {
+                                                            "x": 1111,
+                                                            "y": 366
+                                                        },
+                                                        {
+                                                            "x": 1110,
+                                                            "y": 524
+                                                        },
+                                                        {
+                                                            "x": 951,
+                                                            "y": 523
+                                                        }
+                                                    ]
+                                                },
+                                                "text": "N"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "blockType": "TEXT"
+                    }
+                ]
+            }
+        ],
+        "text": "OTAN\n"
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/059dn",
+                "score": 0.8895,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/0dwx7",
+                "score": 0.7697652,
+                "description": "Logo"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7302
+            },
+            {
+                "entityId": "/m/03cfqp",
+                "score": 0.6374,
+                "description": "Flag of NATO"
+            },
+            {
+                "entityId": "/m/03c31",
+                "score": 0.37998948,
+                "description": "Graphic design"
+            },
+            {
+                "entityId": "/m/06279",
+                "score": 0.3708,
+                "description": "Portable Network Graphics"
+            },
+            {
+                "entityId": "/m/02cwm",
+                "score": 0.3486804,
+                "description": "Design"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.2704
+            },
+            {
+                "entityId": "/m/01cd9",
+                "score": 0.2391343,
+                "description": "Brand"
+            },
+            {
+                "entityId": "/m/03gq5hm",
+                "score": 0.23444483,
+                "description": "Font"
+            },
+            {
+                "entityId": "/m/0jg24",
+                "score": 0.2267,
+                "description": "Image"
+            },
+            {
+                "entityId": "/m/0s9c9qb",
+                "score": 0.2243
+            },
+            {
+                "entityId": "/m/01jwgf",
+                "score": 0.1907,
+                "description": "Product"
+            },
+            {
+                "entityId": "/m/06xdp",
+                "score": 0.1863,
+                "description": "Scalable Vector Graphics"
+            },
+            {
+                "entityId": "/m/03y18t",
+                "score": 0.18161744,
+                "description": "Product design"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/2000px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://k60.kn3.net/taringa/2/2/0/0/6/2/Andy_L/FED.png"
+            },
+            {
+                "url": "http://vignette2.wikia.nocookie.net/future/images/d/d6/2000px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-pxaWAGjOWLU/WxP4KbtsVXI/AAAAAAAA9TU/Gpau7VOL3z0dhAua7KmUJqrgmyK4Y6RewCLcBGAs/s1600/2000px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://image-store.slidesharecdn.com/e3f9a81e-83f8-424a-a371-f7df18d01376-original.png"
+            },
+            {
+                "url": "https://cdn-images-1.medium.com/max/1600/1*leOXctoh_SEzzd75MNBBBA.png"
+            },
+            {
+                "url": "http://rhodesmrc.org/2017/wp-content/uploads/sites/2/2017/01/logo_nato-north-atlantic-council.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1280px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Deb-5HoW0AESonG.png"
+            },
+            {
+                "url": "https://4.bp.blogspot.com/-G-cGSdn9L6U/WlWmHj6ztcI/AAAAAAAAEUo/JhIpVMhNuxMzuvNvACsZi65-oi2J5CgmgCLcBGAs/s1600/1200px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://i.ylilauta.org/88/6b960f63.png"
+            },
+            {
+                "url": "https://i0.wp.com/howsciencefictionfailed.com/wp-content/uploads/2018/07/NATO.png?fit=1200%2C626"
+            },
+            {
+                "url": "https://1.bp.blogspot.com/-BIgvqKHAq2E/WT5WXbWJslI/AAAAAAAAGW4/sCU_X_thYSAntshOhqN9gRIauJndqR5MACLcB/s1600/1200px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://image-store.slidesharecdn.com/8e6a5e45-d4c8-4ada-8955-9333b8ec8fb8-original.png"
+            },
+            {
+                "url": "https://cdn-images-1.medium.com/max/1200/1*Rpf7qOgYb59W9ipRfFHUrA.png"
+            },
+            {
+                "url": "https://homepage-creator.telekom.de/-/CMTOI/cm4all/com/widgets/PhotoToi/17/54/33/79/15c1ae9004b/scale_1200_0%3Bdonotenlarge/15c1ae9004b"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DZ6wiF_WsAERwT3.jpg"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/DZY8kwfXUAIcYld.png"
+            },
+            {
+                "url": "https://brussels.carpe-diem.events/data/afisha/o/41/6b/416bc70c6c.jpg"
+            },
+            {
+                "url": "http://www.eclipseaa.com/uploads/2/9/1/2/29126933/nato_9.png"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/Dl1b-LAXsAA--Za.png"
+            },
+            {
+                "url": "http://www.dsu.mai.gov.ro/wp-content/uploads/2017/05/1200px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://www.glaspress.rs/wp-content/uploads/2018/07/%D0%9D%D0%90%D0%A2%D0%9E-%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F-2.png"
+            },
+            {
+                "url": "https://lubuskie.trade.gov.pl/pl/f/v/443800/NATO-OTAN-landscape-logo.svg.png"
+            },
+            {
+                "url": "https://i1.wp.com/www.ssgcp.com/wp-content/uploads/2017/04/Moving-on-the-route-to-Montenegro-NATO-membership.png?fit=1200%2C626"
+            },
+            {
+                "url": "http://stsnonlethal.com/uploads/1/1/9/2/119277849/1200px-nato-otan-landscape-logo-svg_1_orig.png"
+            },
+            {
+                "url": "https://i0.wp.com/ascfusa.org/wp-content/uploads/2017/10/1200px-NATO_OTAN_landscape_logo.svg_.png?fit=1200%2C626&ssl=1"
+            },
+            {
+                "url": "x-raw-image:///4bea2404f4c4e95a0d85a87ff4e493a8fa17ab0047bd03b3891923a04748180d"
+            },
+            {
+                "url": "x-raw-image:///06eb8344818bcf97eb545290c26167a2810780d1aef36314901ca7b93aa580db"
+            },
+            {
+                "url": "https://azertag.az/files/galleryphoto/2017/2/1000x669/14988570103127227253_1000x669.jpg"
+            },
+            {
+                "url": "http://www.iddportugal.pt/wp-content/uploads/2017/06/NATO-1024x643.jpg"
+            },
+            {
+                "url": "http://mbp.com.mk/wp-content/uploads/2017/04/NATO_OTAN_landscape_logo.png"
+            },
+            {
+                "url": "https://scontent-atl3-1.cdninstagram.com/vp/17818a2ca048bc1ea6f3430aa86d917e/5C668C09/t51.2885-15/e35/37167077_265987760658300_8067014871943741440_n.jpg"
+            },
+            {
+                "url": "https://vignette.wikia.nocookie.net/future/images/d/d6/2000px-NATO_OTAN_landscape_logo.svg.png/revision/latest/scale-to-width-down/1024?cb=20150103064101"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/NATO_OTAN_landscape_logo.svg"
+            },
+            {
+                "url": "https://cdn.timesofisrael.com/blogs/uploads/2017/07/1200px-NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "https://narod.hr/wp-content/uploads/2018/03/1024px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://regnum.ru/uploads/pictures/news/2017/04/05/regnum_picture_149139064253463_normal.png"
+            },
+            {
+                "url": "http://www.luiss.it/sites/www.luiss.it/files/images/notices/30/NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "http://a1capital.com.tr/wp-content/uploads/2017/11/63-1024x534.png"
+            },
+            {
+                "url": "https://vignette.wikia.nocookie.net/countryballs-la/images/d/d6/2000px-NATO_OTAN_landscape_logo.svg.png/revision/latest/scale-to-width-down/1024?cb=20170201202253&path-prefix=es"
+            },
+            {
+                "url": "https://pbs.twimg.com/media/CrRuX2sW8AAYfnJ.jpg"
+            },
+            {
+                "url": "https://zgodovinanadlani.si/wp-content/uploads/2018/04/1024px-NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1024px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "https://i0.wp.com/worldscholarshipforum.com/wp-content/uploads/2017/03/1200px-NATO_OTAN_landscape_logo.svg_-1024x534.png?fit=1024%2C534&ssl=1"
+            },
+            {
+                "url": "https://www.oqtec.space/wp-content/uploads/2018/03/2000px-NATO_OTAN_landscape_logo.svg-1024x534.png"
+            },
+            {
+                "url": "https://i2.wp.com/www.plebspraat.nl/wp-content/uploads/2017/05/1024px-NATO_OTAN_landscape_logo.png?fit=1024%2C534&ssl=1"
+            },
+            {
+                "url": "https://i2.wp.com/www.thatyoum.com/wp-content/uploads/2018/01/1024px-NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "https://nonews.co/wp-content/uploads/2015/08/logo-nato.png"
+            },
+            {
+                "url": "https://fosmedia.me/sites/default/files/slike/2017/04/nato%202.png"
+            },
+            {
+                "url": "https://ran24.ru/uploads/posts/2018-07/1531334233_1200px-nato_otan_landscape_logo.png"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1000px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "http://bgvestnik.co.uk/media/2017/06/NATO-981x512.png"
+            },
+            {
+                "url": "x-raw-image:///53dcc5b14a0c99806d8c1a77b9d8cbb4620a3feda037f273b3b97f459174db27"
+            },
+            {
+                "url": "https://library.kissclipart.com/20180915/yfe/kissclipart-nato-logo-clipart-flag-of-nato-north-atlantic-trea-f626ada9d64c0f33.png"
+            },
+            {
+                "url": "https://m.smedata.sk/api-media/media/image/quiz/0/29/2906510/2906510_900x.png?rev=2"
+            },
+            {
+                "url": "http://worldenergynews.gr/media/k2/items/cache/cb2d252a53b609cac44e78d8186c669e_XL.jpg"
+            },
+            {
+                "url": "https://i0.wp.com/ascfusa.org/wp-content/uploads/2017/10/1200px-NATO_OTAN_landscape_logo.svg_.png?fit=862%2C450&ssl=1"
+            },
+            {
+                "url": "https://i1.wp.com/ascfusa.org/wp-content/uploads/2017/10/1200px-NATO_OTAN_landscape_logo.svg_-1.png?fit=862%2C450&ssl=1"
+            },
+            {
+                "url": "https://i1.wp.com/spinnakermarcom.com/wp-content/uploads/2015/07/800px-NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "https://cdn.steemitimages.com/DQmbpHMDYyDjM5WTAGRb7hgQTD2fnJjUhHAqtVDFoE1dF3w/800px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "http://www.unitischimbam.ro/wp-content/uploads/2018/04/NATO.png"
+            },
+            {
+                "url": "http://images.la.lv/uploads/2013/11/NATO_4.jpg"
+            },
+            {
+                "url": "https://pitss.com/de/wp-content/uploads/sites/9/2013/10/NATO-Referenz.jpg"
+            },
+            {
+                "url": "https://paartoq.files.wordpress.com/2017/05/nato.png?w=772"
+            },
+            {
+                "url": "http://www.norip.fr/wp-content/uploads/2015/05/OTAN.png"
+            },
+            {
+                "url": "https://i2.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/1200px-NATO_OTAN_landscape_logo.svg.png?resize=734%2C383&ssl=1"
+            },
+            {
+                "url": "https://i0.wp.com/worldscholarshipforum.com/wp-content/uploads/2017/03/1200px-NATO_OTAN_landscape_logo.svg_-1024x534.png?fit=696%2C363&ssl=1"
+            },
+            {
+                "url": "https://i2.wp.com/cybersec.sk/wp-content/uploads/2015/04/NATO-logo.png?fit=689%2C359&ssl=1"
+            },
+            {
+                "url": "http://www.kpssguncelbilgi.com/wp-content/uploads/2015/07/NATO-kuzey-atlantik-%C3%B6rg%C3%BCt%C3%BC-kpss.png"
+            },
+            {
+                "url": "https://hm.highfive.nl/showimage.aspx?tbl=CcUzqeKIgxYdFfJo7u2dWw==&id=6YAhiugTAzashULUBMwCTw==&fldname=K12rQRsHpiareIVBlQL6Bw=="
+            },
+            {
+                "url": "https://ugc.kn3.net/i/760x/http://www.telespazio-vega.de/EN/aboutus/network/PublishingImages/NATO%20logo.png"
+            },
+            {
+                "url": "http://www.carmen-hentschel.de/wp-content/uploads/2015/04/NATO-logo.png"
+            },
+            {
+                "url": "https://www.scambieuropei.info/wp-content/uploads/2017/03/NATO-logo-e1490789636862.png"
+            },
+            {
+                "url": "x-raw-image:///26f390aee7394226a49424c66a1446cb5e9dcb078d8508d801f4a1f4f1273f70"
+            },
+            {
+                "url": "http://strategy-cy.com/ccss/media/k2/items/cache/b1d237aad44a95e3871fc116e6241517_XL.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/640px-NATO_OTAN_landscape_logo.svg.png"
+            },
+            {
+                "url": "http://www.systemfloortechnics.nl/wp-content/uploads/NATO-logo.png"
+            },
+            {
+                "url": "https://3.bp.blogspot.com/-R5heOeI2gM0/U-SI7a2MOOI/AAAAAAAABHs/t-tsdB1FW0g/s1600/NATO.png"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1852037065109793"
+            },
+            {
+                "url": "https://2.bp.blogspot.com/-4jKDa83G_oc/WTajQB9aTLI/AAAAAAAABME/bMOSLQ2XQOIlrSHpJtlcybrTjT9liJCfACLcB/s1600/Logo%252Bof%252BNATO.jpeg.png"
+            },
+            {
+                "url": "http://hammun.de/wp-content/uploads/2017/07/640px-NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "https://static1.squarespace.com/static/57875c16197aea2902e3820e/579f46f820099e276ae9951b/5851345f197aea94dcd5d407/1489410651941/Logo+of+NATO.jpeg?format=2500w"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12151119/ot.png?1527531714"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12139964/descarga.png?1527359495"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/11811394/otan.png?1523369711"
+            },
+            {
+                "url": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12171344/otan.png?1527778431"
+            },
+            {
+                "url": "http://geoclub.info/wp-content/uploads/2017/04/untitled-3.png"
+            },
+            {
+                "url": "https://polikos.it/wp-content/uploads/2018/07/nc-550x360.jpg"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-95ffb673d27a473c96d819f59e7163e2"
+            },
+            {
+                "url": "http://www.luiss.it/sites/www.luiss.it/files/imagecache/facebook_opengraph/images/notices/30/NATO_OTAN_landscape_logo.svg_.png"
+            },
+            {
+                "url": "http://www.rhodesmrc.org/2016/wp-content/uploads/2016/06/logo_nato_web.jpg"
+            },
+            {
+                "url": "https://www.issee.co.uk/sites/default/files/styles/width600/public/2018-04/NATO_OTAN.svg_.png?itok=ZOJWTD-D"
+            },
+            {
+                "url": "https://cdn1.defesaaereanaval.com.br/wp-content/uploads/2017/02/NATO_OTAN_landscape_logo.svg_-600x313.png"
+            },
+            {
+                "url": "https://pic2.zhimg.com/v2-a66c0bd6a4cb821103164e7bb6151281_b.jpg"
+            },
+            {
+                "url": "https://i2.wp.com/www.rhodesmrc.org/2016/wp-content/uploads/2016/06/logo_nato_web.jpg"
+            },
+            {
+                "url": "http://www.worldenergynews.gr/media/k2/items/cache/cb2d252a53b609cac44e78d8186c669e_L.jpg"
+            },
+            {
+                "url": "https://ih1.redbubble.net/image.388533845.6120/mp,550x550,matte,ffffff,t-c,22,2,0,352.u1.jpg"
+            },
+            {
+                "url": "x-raw-image:///87147e0c642f27e56b2af4b711072db28906c4a034c54adab684fe144589d0ba"
+            },
+            {
+                "url": "http://learnlearn.net/Historie,religion,kunst/res/Default/ESS_PasteBitmap01604.png"
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://gaminglight.com/forums/uploads/monthly_2018_07/1200px-NATO_OTAN_landscape_logo_svg.png.eefabfac23405fa1e55f3a857048014e.png"
+            },
+            {
+                "url": "https://www.4-secure.com/wp-content/uploads/2016/09/nato-logo-850x437.jpg"
+            },
+            {
+                "url": "http://abcinfonew.com/wp-content/uploads/2018/07/LOGO-OTAN.jpg"
+            },
+            {
+                "url": "https://www.eodcoe.org/images/en/flags/nato-logo-orez.jpg?v=1474366633"
+            },
+            {
+                "url": "https://www.crwflags.com/fotw/images/n/nat-namsa.gif"
+            },
+            {
+                "url": "https://i2.wp.com/static.mediapart.fr/files/imagecache/115_pixels/media_28693/logo_nato.jpg"
+            },
+            {
+                "url": "https://img5.custompublish.com/getfile.php/1304911.1075.fucsrevvxc/Namsa_460x345.png"
+            },
+            {
+                "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=290797027611677"
+            },
+            {
+                "url": "https://www.fercam.com/smartedit/images/content/_published/nato_cage-code_917-small2_2016_01_15.png"
+            },
+            {
+                "url": "https://www.pap.pl/sites/default/files/styles/main_image/public/201809/aaaaaan.jpg?itok=72ON9hlG"
+            },
+            {
+                "url": "https://www.ina.tv/wp-content/uploads/2017/05/111.jpg"
+            },
+            {
+                "url": "http://www.acitmimarlik.com/wp-content/uploads/2014/07/NATO-logo.jpg"
+            },
+            {
+                "url": "http://jump.eu.com/wp-content/uploads/2016/10/2000px-NATO_OTAN_landscape_logo.svg_-500x655.jpg"
+            },
+            {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NATO_OTAN_portrait_logo.svg/250px-NATO_OTAN_portrait_logo.svg.png"
+            },
+            {
+                "url": "https://bomaelevatorspeech.files.wordpress.com/2012/03/nato-jpg.jpg"
+            },
+            {
+                "url": "https://2001-2009.state.gov/cms_images/nato_logo160.jpg"
+            },
+            {
+                "url": "https://talos.eu/wp-content/uploads/2018/07/nato-logo.jpg"
+            },
+            {
+                "url": "https://images.springer.com/sgw/series/medium/7105.jpg"
+            },
+            {
+                "url": "http://sgwp.wp.mil.pl/plik/image/logo_mcc_2018_394x252.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "logo otan",
+                "languageCode": "en"
+            }
+        ]
+    }
+}

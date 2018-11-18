@@ -1,0 +1,577 @@
+{
+    "logoAnnotations": [
+        {
+            "description": "United Van Lines",
+            "score": 0.25454518,
+            "boundingPoly": {
+                "vertices": [
+                    {
+                        "x": 120,
+                        "y": 135
+                    },
+                    {
+                        "x": 348,
+                        "y": 135
+                    },
+                    {
+                        "x": 348,
+                        "y": 346
+                    },
+                    {
+                        "x": 120,
+                        "y": 346
+                    }
+                ]
+            }
+        }
+    ],
+    "labelAnnotations": [
+        {
+            "mid": "/m/01g5v",
+            "description": "blue",
+            "score": 0.9681473,
+            "topicality": 0.9681473
+        },
+        {
+            "mid": "/m/09t49",
+            "description": "leaf",
+            "score": 0.8071582,
+            "topicality": 0.8071582
+        },
+        {
+            "mid": "/m/03scnj",
+            "description": "line",
+            "score": 0.7454608,
+            "topicality": 0.7454608
+        },
+        {
+            "mid": "/m/03gq5hm",
+            "description": "font",
+            "score": 0.6761727,
+            "topicality": 0.6761727
+        },
+        {
+            "mid": "/m/02cwm",
+            "description": "design",
+            "score": 0.65796894,
+            "topicality": 0.65796894
+        },
+        {
+            "mid": "/m/09ddf",
+            "description": "symbol",
+            "score": 0.6572835,
+            "topicality": 0.6572835
+        },
+        {
+            "mid": "/m/0f28m",
+            "description": "symmetry",
+            "score": 0.62844825,
+            "topicality": 0.62844825
+        },
+        {
+            "mid": "/m/06ngk",
+            "description": "star",
+            "score": 0.6279129,
+            "topicality": 0.6279129
+        },
+        {
+            "mid": "/m/021sdg",
+            "description": "graphics",
+            "score": 0.62676805,
+            "topicality": 0.62676805
+        },
+        {
+            "mid": "/m/01vkl",
+            "description": "circle",
+            "score": 0.5660839,
+            "topicality": 0.5660839
+        },
+        {
+            "mid": "/m/03w43x",
+            "description": "computer wallpaper",
+            "score": 0.54464024,
+            "topicality": 0.54464024
+        },
+        {
+            "mid": "/m/03g09t",
+            "description": "clip art",
+            "score": 0.5261927,
+            "topicality": 0.5261927
+        },
+        {
+            "mid": "/m/0dwx7",
+            "description": "logo",
+            "score": 0.525557,
+            "topicality": 0.525557
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 30,
+                        "green": 137,
+                        "blue": 200
+                    },
+                    "score": 0.53797346,
+                    "pixelFraction": 0.10265262
+                },
+                {
+                    "color": {
+                        "red": 243,
+                        "green": 250,
+                        "blue": 250
+                    },
+                    "score": 0.046254735,
+                    "pixelFraction": 0.057170544
+                },
+                {
+                    "color": {
+                        "red": 250,
+                        "blue": 1
+                    },
+                    "score": 0.021885352,
+                    "pixelFraction": 0.72977227
+                },
+                {
+                    "color": {
+                        "red": 19,
+                        "green": 55,
+                        "blue": 83
+                    },
+                    "score": 0.014406488,
+                    "pixelFraction": 0.003936531
+                },
+                {
+                    "color": {
+                        "red": 2,
+                        "green": 3,
+                        "blue": 6
+                    },
+                    "score": 0.011166916,
+                    "pixelFraction": 0.012536338
+                },
+                {
+                    "color": {
+                        "red": 149,
+                        "green": 201,
+                        "blue": 222
+                    },
+                    "score": 0.008196941,
+                    "pixelFraction": 0.003452035
+                },
+                {
+                    "color": {
+                        "red": 213,
+                        "green": 72,
+                        "blue": 67
+                    },
+                    "score": 0.0047850255,
+                    "pixelFraction": 0.0018774224
+                },
+                {
+                    "color": {
+                        "red": 227,
+                        "green": 128,
+                        "blue": 126
+                    },
+                    "score": 0.0022800195,
+                    "pixelFraction": 0.0012718023
+                },
+                {
+                    "color": {
+                        "red": 195,
+                        "green": 22,
+                        "blue": 39
+                    },
+                    "score": 0.0016146195,
+                    "pixelFraction": 0.0006661822
+                },
+                {
+                    "color": {
+                        "red": 27,
+                        "green": 137,
+                        "blue": 206
+                    },
+                    "score": 0.12677224,
+                    "pixelFraction": 0.022771318
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 466
+                        },
+                        {
+                            "x": 466,
+                            "y": 468
+                        },
+                        {
+                            "y": 468
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/059z0",
+                "score": 0.83924997,
+                "description": "Nazi Germany"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.7172,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.7172
+            },
+            {
+                "entityId": "/m/05hyf",
+                "score": 0.7159,
+                "description": "Nazism"
+            },
+            {
+                "entityId": "/m/09ddf",
+                "score": 0.6583,
+                "description": "Symbol"
+            },
+            {
+                "entityId": "/m/0cg3x",
+                "score": 0.598,
+                "description": "Swastika"
+            },
+            {
+                "entityId": "/m/0118gzbq",
+                "score": 0.5954,
+                "description": "Nacisti\u010dka simbolika"
+            },
+            {
+                "entityId": "/t/262lrzncjs_mf",
+                "score": 0.5278
+            },
+            {
+                "entityId": "/m/0csz_c",
+                "score": 0.4749,
+                "description": "Nazi UFOs"
+            },
+            {
+                "entityId": "/m/05b4tm",
+                "score": 0.4686,
+                "description": "Wolfsangel"
+            },
+            {
+                "entityId": "/t/24cyf8rr8yb0w",
+                "score": 0.4201
+            },
+            {
+                "entityId": "/t/213kwpc2n5k6v",
+                "score": 0.4136
+            },
+            {
+                "entityId": "/g/11g8_0bl0y",
+                "score": 0.3933,
+                "description": "/pol/"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.382,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/07ymyx",
+                "score": 0.07107001,
+                "description": "Adolf Heusinger"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://i2.wp.com/www.pravda-tv.com/wp-content/uploads/2017/06/titel-ukrnaz290617.jpg?fit=640%2C400&ssl=1"
+            },
+            {
+                "url": "https://i2.wp.com/www.pravda-tv.com/wp-content/uploads/2017/06/titel-ukrnaz290617.jpg?ssl=1"
+            },
+            {
+                "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+            },
+            {
+                "url": "https://i.4pcdn.org/pol/1485914845565.jpg"
+            },
+            {
+                "url": "https://4.bp.blogspot.com/-pQJTPO20NFA/WtR_ghjwswI/AAAAAAAAAKs/bPCZhHBmoUIs-KNjxl2XF7kty5onos5pACLcBGAs/s1600/nato%2Bswastika.jpg"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "https://www.vox-dei.org/swastika.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "http://www.hogueprophecy.com/2014/09/ceasefire-in-ukraine-while-nato-rattles-spearhead-did-russia-really-invade-nostradamus-a-new-cold-war-russia-bashing-and-the-medias-nfl-referee-syndrome-comments-about-hogue-on-coast-to/",
+                "pageTitle": "Ceasefire in Ukraine while <b>NATO</b> rattles Spearhead. Did Russia ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.hogueprophecy.com/wp-content/uploads/2014/09/NATOswastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.4plebs.org/pol/thread/110825130/",
+                "pageTitle": "/pol/ - Politically Incorrect \u00bb Thread #110825130 - 4plebs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.4pcdn.org/pol/1485914845565.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.4plebs.org/pol/thread/124474428/",
+                "pageTitle": "/pol/ - Politically Incorrect \u00bb Thread #124474428 - 4plebs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.4pcdn.org/pol/1485914845565.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.4plebs.org/pol/thread/110346509/",
+                "pageTitle": "/pol/ - Politically Incorrect \u00bb Thread #110346509 - 4plebs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.4pcdn.org/pol/1485914845565.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.4plebs.org/pol/thread/124285102",
+                "pageTitle": "/pol/ - Politically Incorrect \u00bb Thread #124285102 - 4plebs",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.4pcdn.org/pol/1485914845565.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.vox-dei.org/the-fourth-reich",
+                "pageTitle": "VOX DEI THE ONLY WAY TO CONTROL THE ELITES. - THE ...",
+                "partialMatchingImages": [
+                    {
+                        "url": "https://www.vox-dei.org/swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://knowledgeofancients.blogspot.com/2018/04/nazi-ufos-and-hollow-earth.html",
+                "pageTitle": "<b>Nazi</b> UFOs and Hollow Earth - Hidden Truths",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://4.bp.blogspot.com/-pQJTPO20NFA/WtR_ghjwswI/AAAAAAAAAKs/bPCZhHBmoUIs-KNjxl2XF7kty5onos5pACLcBGAs/s1600/nato%2Bswastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.nyafuu.org/bant/thread/5565903/",
+                "pageTitle": "/bant/ - International/Random \u00bb Thread #5565903 - Nyafuu Archive",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://archive-media-0.nyafuu.org/bant/image/1494/21/1494215655139.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://archive.nyafuu.org/bant/thread/6596902/",
+                "pageTitle": "/bant/ - International/Random \u00bb Thread #6596902 - Nyafuu Archive",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://archive-media-0.nyafuu.org/bant/image/1494/21/1494215655139.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.progressivepress.com/blog-entry/dirty-war-ukraine",
+                "pageTitle": "The Dirty War on Ukraine | John-Paul Leonard - Progressive Press",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://yuki.la/pol/123941366",
+                "pageTitle": "/pol/ - <b>Nazi</b> influence after WW2, their Holdout in Antarctica, UFOs ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ii.yuki.la/d/7c/5add39022c58e32216e6455e49d461fa1ea6108453cc298f0bb27a5da34ca7cd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://happyloveimgwar.pw/NATO-is-a-terrorist-organizationtime-to-end-the-charade-NATO-N.html",
+                "pageTitle": "<b>NATO</b> is a terrorist organizationtime to end the charade <b>NATO</b> N",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://archive.is/pp0lu",
+                "pageTitle": "The Dirty War on Ukraine | Progressive Press",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://archive.is/pp0lu/d3d1163a07f550c248a2a66c696ba17f7fba5be5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://yuki.la/pol/111451416",
+                "pageTitle": "/pol/ - 3rd Reich is still fighting - Politically Incorrect - 4chan - Yuki.la",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://ii.yuki.la/d/7c/5add39022c58e32216e6455e49d461fa1ea6108453cc298f0bb27a5da34ca7cd.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://archive.is/VMDD6",
+                "pageTitle": "The Dirty War on Ukraine | Progressive Press",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://archive.is/VMDD6/d3d1163a07f550c248a2a66c696ba17f7fba5be5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://progressivepress.com/pix/?C=N;O=D",
+                "pageTitle": "Index of /pix - Progressive Press",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://archive.is/vh4Qq",
+                "pageTitle": "The Dirty War on Ukraine | Progressive Press",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://archive.is/vh4Qq/d3d1163a07f550c248a2a66c696ba17f7fba5be5.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://browpicz.pw/tree-of-savior-class-icons-Google-Search-ICON-REFERENCE.html",
+                "pageTitle": "Tree of savior class icons Google Search ICON REFERENCE",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://drefopicsl.pw/Oklahoma-Highway-Patrol-Badge-Bing-Images-OHP-t.html",
+                "pageTitle": "Oklahoma Highway Patrol Badge Bing Images OHP t",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://id.the-never-ending-story.co/international-u.n-un-united-nations-genuine-shoulder-patch-badge-blue---intl---intl/",
+                "pageTitle": "International Un Un United Nations Genuine Shoulder Patch Badge ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://progressivepress.com/pix/nato-swastika.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "http://www.zaronews.world/zaronews-presseberichte/nationalsozialismus-in-europa-und-der-ukraine-die-nato-sorgt-dafuer/",
+                "pageTitle": "Nationalsozialismus in Europa und der Ukraine- die <b>NATO</b> sorgt daf\u00fcr",
+                "fullMatchingImages": [
+                    {
+                        "url": "http://www.zaronews.world/wp-content/uploads/2017/07/titel-ukrnaz290617.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pravda-tv.com/2017/07/nationalsozialismus-in-europa-und-der-ukraine-die-nato-sorgt-dafuer/",
+                "pageTitle": "Nationalsozialismus in Europa und der Ukraine- die <b>NATO</b> sorgt daf\u00fcr",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i2.wp.com/www.pravda-tv.com/wp-content/uploads/2017/06/titel-ukrnaz290617.jpg?ssl=1"
+                    },
+                    {
+                        "url": "https://i2.wp.com/www.pravda-tv.com/wp-content/uploads/2017/06/titel-ukrnaz290617.jpg?fit=640%2C400&ssl=1"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.pinterest.com/pin/143974519320974395/",
+                "pageTitle": "Es sind klare Dinge: am Ende des zweiten Weltkrieges \u00fcbernahmen ...",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://i.pinimg.com/originals/78/a6/f6/78a6f61d27949452d555b60bced5e0bc.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://www.crwflags.com/fotw/images/n/naz!nato.gif"
+            },
+            {
+                "url": "http://tothewire.files.wordpress.com/2009/01/swastika-inverted.jpg"
+            },
+            {
+                "url": "https://cdni.rt.com/files/oldfiles/politics/poland-bans-communist-symbols/soviet-nazi.si.jpg"
+            },
+            {
+                "url": "https://iakal.files.wordpress.com/2015/07/10644996_10206316826732378_5836800384234910584_n.jpg"
+            },
+            {
+                "url": "http://1.bp.blogspot.com/-SIwEqe9Vd14/T8LUltPIs-I/AAAAAAAAAN8/PdcVFmRezyU/s1600/logo%20nato%20nazi.jpg"
+            },
+            {
+                "url": "http://www.jar2.com/1/Archive/2014/May/Maropol/NATO%20Swatstika.jpg"
+            },
+            {
+                "url": "https://i.imgur.com/vOJGnh1.png"
+            },
+            {
+                "url": "https://www.crwflags.com/fotw/images/n/naz!ps.gif"
+            },
+            {
+                "url": "https://pbs.twimg.com/profile_images/874304424994365441/Q-ojyxWU.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "nato nazi symbol",
+                "languageCode": "en"
+            }
+        ]
+    }
+}

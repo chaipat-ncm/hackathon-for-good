@@ -1,0 +1,414 @@
+{
+    "labelAnnotations": [
+        {
+            "mid": "/m/01h6rj",
+            "description": "military",
+            "score": 0.932897,
+            "topicality": 0.932897
+        },
+        {
+            "mid": "/m/0pd7",
+            "description": "army",
+            "score": 0.920701,
+            "topicality": 0.920701
+        },
+        {
+            "mid": "/m/01bq8v",
+            "description": "troop",
+            "score": 0.9015401,
+            "topicality": 0.9015401
+        },
+        {
+            "mid": "/m/07yv9",
+            "description": "vehicle",
+            "score": 0.9009624,
+            "topicality": 0.9009624
+        },
+        {
+            "mid": "/m/0gjwxv",
+            "description": "military organization",
+            "score": 0.83350664,
+            "topicality": 0.83350664
+        },
+        {
+            "mid": "/m/03wvy",
+            "description": "infantry",
+            "score": 0.80660063,
+            "topicality": 0.80660063
+        },
+        {
+            "mid": "/m/099md",
+            "description": "soldier",
+            "score": 0.80238765,
+            "topicality": 0.80238765
+        },
+        {
+            "mid": "/m/08dmm7",
+            "description": "marines",
+            "score": 0.6283835,
+            "topicality": 0.6283835
+        },
+        {
+            "mid": "/m/0qb7t",
+            "description": "organization",
+            "score": 0.5868029,
+            "topicality": 0.5868029
+        },
+        {
+            "mid": "/m/0phgr",
+            "description": "military engineer",
+            "score": 0.56194586,
+            "topicality": 0.56194586
+        }
+    ],
+    "safeSearchAnnotation": {
+        "adult": "VERY_UNLIKELY",
+        "spoof": "VERY_UNLIKELY",
+        "medical": "VERY_UNLIKELY",
+        "violence": "VERY_UNLIKELY",
+        "racy": "VERY_UNLIKELY"
+    },
+    "imagePropertiesAnnotation": {
+        "dominantColors": {
+            "colors": [
+                {
+                    "color": {
+                        "red": 94,
+                        "green": 82,
+                        "blue": 66
+                    },
+                    "score": 0.22790135,
+                    "pixelFraction": 0.11619263
+                },
+                {
+                    "color": {
+                        "red": 130,
+                        "green": 116,
+                        "blue": 97
+                    },
+                    "score": 0.17619367,
+                    "pixelFraction": 0.15279573
+                },
+                {
+                    "color": {
+                        "red": 62,
+                        "green": 53,
+                        "blue": 37
+                    },
+                    "score": 0.112724714,
+                    "pixelFraction": 0.042340014
+                },
+                {
+                    "color": {
+                        "red": 91,
+                        "green": 82,
+                        "blue": 73
+                    },
+                    "score": 0.10102914,
+                    "pixelFraction": 0.065126054
+                },
+                {
+                    "color": {
+                        "red": 61,
+                        "green": 53,
+                        "blue": 45
+                    },
+                    "score": 0.10097009,
+                    "pixelFraction": 0.037734326
+                },
+                {
+                    "color": {
+                        "red": 168,
+                        "green": 152,
+                        "blue": 128
+                    },
+                    "score": 0.094849594,
+                    "pixelFraction": 0.17008726
+                },
+                {
+                    "color": {
+                        "red": 125,
+                        "green": 115,
+                        "blue": 106
+                    },
+                    "score": 0.07156685,
+                    "pixelFraction": 0.09736587
+                },
+                {
+                    "color": {
+                        "red": 199,
+                        "green": 183,
+                        "blue": 165
+                    },
+                    "score": 0.025652459,
+                    "pixelFraction": 0.05882353
+                },
+                {
+                    "color": {
+                        "red": 168,
+                        "green": 155,
+                        "blue": 146
+                    },
+                    "score": 0.024671689,
+                    "pixelFraction": 0.15198772
+                },
+                {
+                    "color": {
+                        "red": 38,
+                        "green": 30,
+                        "blue": 15
+                    },
+                    "score": 0.01852447,
+                    "pixelFraction": 0.007837751
+                }
+            ]
+        }
+    },
+    "cropHintsAnnotation": {
+        "cropHints": [
+            {
+                "boundingPoly": {
+                    "vertices": [
+                        [],
+                        {
+                            "x": 620
+                        },
+                        {
+                            "x": 620,
+                            "y": 413
+                        },
+                        {
+                            "y": 413
+                        }
+                    ]
+                },
+                "confidence": 0.79999995,
+                "importanceFraction": 1
+            }
+        ]
+    },
+    "webDetection": {
+        "webEntities": [
+            {
+                "entityId": "/m/03wvy",
+                "score": 0.8527467,
+                "description": "Infantry"
+            },
+            {
+                "entityId": "/m/01h6rj",
+                "score": 0.78859216,
+                "description": "Military"
+            },
+            {
+                "entityId": "/m/01bq8v",
+                "score": 0.7477988,
+                "description": "Troop"
+            },
+            {
+                "entityId": "/m/07xg1",
+                "score": 0.7117,
+                "description": "United States Armed Forces"
+            },
+            {
+                "entityId": "/m/031407",
+                "score": 0.6581,
+                "description": "Military operation"
+            },
+            {
+                "entityId": "/m/012gw9",
+                "score": 0.6503,
+                "description": "Company"
+            },
+            {
+                "entityId": "/m/0pd7",
+                "score": 0.6490238,
+                "description": "Army"
+            },
+            {
+                "entityId": "/g/121y9vh0",
+                "score": 0.6351,
+                "description": "Angkatan bersenjata"
+            },
+            {
+                "entityId": "/m/01rvw",
+                "score": 0.5787,
+                "description": "Army of the Czech Republic"
+            },
+            {
+                "entityId": "/t/27cdxz_3bh16y",
+                "score": 0.572
+            },
+            {
+                "entityId": "/m/07wh1",
+                "score": 0.5583,
+                "description": "United States Army"
+            },
+            {
+                "entityId": "/m/099md",
+                "score": 0.5196,
+                "description": "Soldier"
+            },
+            {
+                "entityId": "/m/059dn",
+                "score": 0.518,
+                "description": "NATO"
+            },
+            {
+                "entityId": "/m/08lv8b",
+                "score": 0.5141,
+                "description": "Military.com"
+            },
+            {
+                "entityId": "/m/0mzj_",
+                "score": 0.4853,
+                "description": "Military branch"
+            }
+        ],
+        "fullMatchingImages": [
+            {
+                "url": "https://images02.military.com/sites/default/files/media/people/2016/11/slovak-shield-640.jpg"
+            },
+            {
+                "url": "https://images02.military.com/sites/default/files/styles/full/public/media/people/2016/11/slovak-shield-640.jpg?itok=F-GQ2grb"
+            }
+        ],
+        "partialMatchingImages": [
+            {
+                "url": "http://archiv.hhk.uni-nke.hu/uploads/media_items/shield-2016.680.440.s.jpg"
+            }
+        ],
+        "pagesWithMatchingImages": [
+            {
+                "url": "https://www.military.com/daily-news/2016/11/30/opinion-nato-in-search-of-a-21st-century-mission.html",
+                "pageTitle": "NATO: In Search of a 21st Century Mission | <b>Military</b>.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images02.military.com/sites/default/files/styles/full/public/media/people/2016/11/slovak-shield-640.jpg?itok=F-GQ2grb"
+                    },
+                    {
+                        "url": "https://images02.military.com/sites/default/files/media/people/2016/11/slovak-shield-640.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://www.picswe.com/pics/nato-mission-92.html",
+                "pageTitle": "Nato Mission | www.picswe.com",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images02.military.com/sites/default/files/styles/full/public/media/people/2016/11/slovak-shield-640.jpg"
+                    }
+                ]
+            },
+            {
+                "url": "https://byrdbarnhouse.com/the-u-s-army-and-the-founding-of-the-republic.html",
+                "pageTitle": "The U S Army And The Founding Of The Republic",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images02.military.com/sites/default/files/styles/full/public/media/people/2016/11/slovak-shield-640.jpg?itok=F-GQ2grb"
+                    }
+                ]
+            },
+            {
+                "url": "http://myscribbledthoughts.info/page/a/armed-forces-declaration-by-nato.html",
+                "pageTitle": "Keywords Armed Forces Declaration By Nato and Tags",
+                "fullMatchingImages": [
+                    {
+                        "url": "https://images02.military.com/sites/default/files/styles/full/public/media/people/2016/11/slovak-shield-640.jpg?itok=F-GQ2grb"
+                    }
+                ]
+            },
+            {
+                "url": "http://archiv.hhk.uni-nke.hu/hirek?page=11",
+                "pageTitle": "UNI-NKE | H\u00edrek - nemzeti k\u00f6zszolg\u00e1lati egyetem",
+                "partialMatchingImages": [
+                    {
+                        "url": "http://archiv.hhk.uni-nke.hu/uploads/media_items/shield-2016.680.440.s.jpg"
+                    }
+                ]
+            }
+        ],
+        "visuallySimilarImages": [
+            {
+                "url": "https://cdn.theatlantic.com/assets/media/img/mt/2018/09/GettyImages_1032700314/lead_720_405.jpg?mod=1536864840"
+            },
+            {
+                "url": "http://images1.naharnet.com/images/195256/w460.jpg?1484070598"
+            },
+            {
+                "url": "https://qph.fs.quoracdn.net/main-qimg-bffe2ad32708b05e2576ce56fdf0a94d-c"
+            },
+            {
+                "url": "http://2.bp.blogspot.com/-f03g8s1K2bw/U0fUUQSJfbI/AAAAAAAAB9k/VvgIlUHt21I/s1600/Shenyang+Military+59D+tanks+4.jpg"
+            },
+            {
+                "url": "https://www.thetrumpet.com/files/W1siZiIsIjIwMTgvMDQvMzAvNDV6ZmRzYXJmcl8xODA0MzBfUExBX1NvbGRpZXJzX0dldHR5SW1hZ2VzXzgyNDQyMjA3Mi5qcGciXV0/2776866c261ac5b9/180430-PLA%20Soldiers-GettyImages-824422072.jpg"
+            },
+            {
+                "url": "https://www.armyrecognition.com/images/stories/south_america/bolivia/ranks_uniforms/uniforms/pictures/Bolivian_army_Bolivia_soldiers_land_forces_combat-uniforms_006.jpg"
+            },
+            {
+                "url": "https://bsmedia.business-standard.com/_media/bs/img/photo-gallery/current-affairs/r-day-celebrations-india-showcases-military-might-cultural-diversity/thumb/r-day-celebrations-india-showcases-military-might-cultural-diversity-15169700285313.jpg"
+            },
+            {
+                "url": "https://c1.staticflickr.com/3/2879/33578689165_4648703ba7_b.jpg"
+            }
+        ],
+        "bestGuessLabels": [
+            {
+                "label": "Military"
+            }
+        ]
+    },
+    "localizedObjectAnnotations": [
+        {
+            "mid": "/m/07r04",
+            "name": "Truck",
+            "score": 0.67330396,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.39786798,
+                        "y": 0.07758104
+                    },
+                    {
+                        "x": 0.74966145,
+                        "y": 0.07758104
+                    },
+                    {
+                        "x": 0.74966145,
+                        "y": 0.24218367
+                    },
+                    {
+                        "x": 0.39786798,
+                        "y": 0.24218367
+                    }
+                ]
+            }
+        },
+        {
+            "mid": "/m/0k4j",
+            "name": "Car",
+            "score": 0.5384719,
+            "boundingPoly": {
+                "normalizedVertices": [
+                    {
+                        "x": 0.25510523,
+                        "y": 0.13062228
+                    },
+                    {
+                        "x": 0.4079288,
+                        "y": 0.13062228
+                    },
+                    {
+                        "x": 0.4079288,
+                        "y": 0.25097522
+                    },
+                    {
+                        "x": 0.25510523,
+                        "y": 0.25097522
+                    }
+                ]
+            }
+        }
+    ]
+}
